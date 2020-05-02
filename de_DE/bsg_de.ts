@@ -359,7 +359,7 @@
     <message>
         <location filename="../../ui/tour/adjudicationdlg.ui" line="62"/>
         <source>Syzygy Folders:</source>
-        <translation>Syzygy Verzeichnis:</translation>
+        <translation>Syzygy Verzeichnisse:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/adjudicationdlg.ui" line="72"/>
@@ -459,7 +459,7 @@
     <message>
         <location filename="../../ui/tour/adjudicationdlg.ui" line="491"/>
         <source>Side:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seite:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/adjudicationdlg.ui" line="500"/>
@@ -497,7 +497,7 @@
     <message>
         <location filename="../../ui/dlg/analysedlg.ui" line="38"/>
         <source>Sides:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seiten:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/analysedlg.ui" line="47"/>
@@ -517,7 +517,7 @@
     <message>
         <location filename="../../ui/dlg/analysedlg.ui" line="89"/>
         <source>all moves</source>
-        <translation type="unfinished"></translation>
+        <translation>alle Züge</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/analysedlg.ui" line="104"/>
@@ -545,12 +545,12 @@
     <message>
         <location filename="../../main/basewindow.cpp" line="426"/>
         <source>Layout %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout %1</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="428"/>
         <source>Theme %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Design %1</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="870"/>
@@ -814,7 +814,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tools/bookaddcurrentgamedialog.ui" line="153"/>
         <source>Side:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seite:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookaddcurrentgamedialog.cpp" line="115"/>
@@ -837,7 +837,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="463"/>
         <source>move</source>
-        <translation type="unfinished"></translation>
+        <translation>Zug</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="465"/>
@@ -863,7 +863,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="482"/>
         <source>active</source>
-        <translation type="unfinished"></translation>
+        <translation>aktiv</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="493"/>
@@ -896,7 +896,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/comm/bookmovewidget.ui" line="43"/>
         <source>active</source>
-        <translation type="unfinished"></translation>
+        <translation>aktiv</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovewidget.ui" line="62"/>
@@ -939,7 +939,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/settings/booktablemodel.cpp" line="397"/>
         <source>Active</source>
-        <translation type="unfinished"></translation>
+        <translation>faktiv</translation>
     </message>
     <message>
         <location filename="../../ui/settings/booktablemodel.cpp" line="399"/>
@@ -1033,7 +1033,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="201"/>
         <source>Chat:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chat:</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="211"/>
@@ -1136,12 +1136,12 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/broadcast/broadcastinggametablemodel.cpp" line="107"/>
         <source>live/moves</source>
-        <translation type="unfinished"></translation>
+        <translation>live/Züge</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastinggametablemodel.cpp" line="109"/>
         <source>owner</source>
-        <translation type="unfinished"></translation>
+        <translation>Inhaber</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastinggametablemodel.cpp" line="111"/>
@@ -1502,7 +1502,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/comm/chartwidget.cpp" line="345"/>
         <source>move</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/comm/chartwidget.cpp" line="350"/>
@@ -1615,12 +1615,12 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/net/connection.cpp" line="77"/>
         <source>undefined</source>
-        <translation type="unfinished"></translation>
+        <translation>undefiniert</translation>
     </message>
     <message>
         <location filename="../../ui/net/connection.cpp" line="78"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>unbekannt</translation>
     </message>
 </context>
 <context>
@@ -1668,7 +1668,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="195"/>
         <source>Swap sides</source>
-        <translation type="unfinished"></translation>
+        <translation>tausche Seiten</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="217"/>
@@ -1805,7 +1805,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="203"/>
         <source>Participants (%1):</source>
-        <translation type="unfinished"></translation>
+        <translation>Teilnehmer (%1):</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="364"/>
@@ -2432,17 +2432,17 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="166"/>
         <source>downloading rtbw</source>
-        <translation type="unfinished"></translation>
+        <translation>lade rtbw</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="172"/>
         <source>downloading rtbz</source>
-        <translation type="unfinished"></translation>
+        <translation>lade rtbz</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="174"/>
         <source>, rtbz</source>
-        <translation type="unfinished"></translation>
+        <translation>, rtbz</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="183"/>
@@ -2452,17 +2452,17 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="186"/>
         <source>missing rtbz</source>
-        <translation type="unfinished"></translation>
+        <translation>fehlende rtbz</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="186"/>
         <source>missing rtbw</source>
-        <translation type="unfinished"></translation>
+        <translation>fehlende rtbw</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="227"/>
         <source>name</source>
-        <translation type="unfinished"></translation>
+        <translation>Name</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="229"/>
@@ -2485,12 +2485,12 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="43"/>
         <source>Source:</source>
-        <translation type="unfinished"></translation>
+        <translation>Quelle:</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="59"/>
         <source>ftp.chessdb.cn</source>
-        <translation type="unfinished"></translation>
+        <translation>ftp.chessdb.cn</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="67"/>
@@ -2500,7 +2500,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="108"/>
         <source>Syzygy folders:</source>
-        <translation type="unfinished"></translation>
+        <translation>Syzygy Verzeichnisse:</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="127"/>
@@ -2520,7 +2520,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="148"/>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="158"/>
@@ -2530,7 +2530,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="161"/>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation>4</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="171"/>
@@ -2540,7 +2540,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="174"/>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation>5</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="184"/>
@@ -2550,7 +2550,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="187"/>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation>6</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="197"/>
@@ -2560,7 +2560,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="200"/>
         <source>7</source>
-        <translation type="unfinished"></translation>
+        <translation>7</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="210"/>
@@ -2580,12 +2580,12 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="277"/>
         <source>none</source>
-        <translation type="unfinished"></translation>
+        <translation>keine</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="282"/>
         <source>all</source>
-        <translation type="unfinished"></translation>
+        <translation>alle</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="287"/>
@@ -2650,23 +2650,23 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="350"/>
         <source>rtbw</source>
-        <translation type="unfinished"></translation>
+        <translation>rtbw</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="360"/>
         <source>rtbz</source>
-        <translation type="unfinished"></translation>
+        <translation>rtbz</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="389"/>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="672"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Start</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="411"/>
         <source>Select Syzygy main folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Wähle Syzygy Hauptverzeichnis</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="609"/>
@@ -2676,7 +2676,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="672"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Stop</translation>
     </message>
 </context>
 <context>
@@ -2803,7 +2803,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="136"/>
         <source>#moves:</source>
-        <translation type="unfinished"></translation>
+        <translation>#Züge:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="176"/>
@@ -3120,7 +3120,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.ui" line="53"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Reset</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.ui" line="75"/>
@@ -3254,12 +3254,12 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="122"/>
         <source>side</source>
-        <translation type="unfinished"></translation>
+        <translation>Seite</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="138"/>
         <source>active</source>
-        <translation type="unfinished"></translation>
+        <translation>aktiv</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="160"/>
@@ -3720,7 +3720,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="341"/>
         <source>blitz</source>
-        <translation type="unfinished"></translation>
+        <translation>blitz</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="348"/>
@@ -3735,7 +3735,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="362"/>
         <source>standard</source>
-        <translation type="unfinished"></translation>
+        <translation>standard</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="369"/>
@@ -3767,7 +3767,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="487"/>
         <source>Seekings</source>
-        <translation type="unfinished"></translation>
+        <translation>Suchen</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="542"/>
@@ -4102,12 +4102,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icswidget.ui" line="44"/>
         <source>Resullt</source>
-        <translation type="unfinished"></translation>
+        <translation>Ergebnis</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icswidget.ui" line="49"/>
         <source>Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Log</translation>
     </message>
 </context>
 <context>
@@ -4139,7 +4139,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/comm/lctablemodel.cpp" line="117"/>
         <source>move</source>
-        <translation type="unfinished"></translation>
+        <translation>Zug</translation>
     </message>
 </context>
 <context>
@@ -4224,12 +4224,12 @@ Are you sure?</source>
         <location filename="../../ui/libot/libot.cpp" line="687"/>
         <location filename="../../ui/libot/libot.cpp" line="702"/>
         <source>%1 move %2 </source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Zug %2 </translation>
     </message>
     <message>
         <location filename="../../ui/libot/libot.cpp" line="721"/>
         <source>move %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Zug %1 %2</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libot.cpp" line="752"/>
@@ -4384,7 +4384,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotgamewidget.ui" line="83"/>
         <source>Chat:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chat:</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotgamewidget.cpp" line="129"/>
@@ -4854,7 +4854,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="309"/>
         <source>Moves</source>
-        <translation type="unfinished"></translation>
+        <translation>Züge</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="438"/>
@@ -5024,7 +5024,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="929"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished">Ctrl+S</translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="938"/>
@@ -5109,7 +5109,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1026"/>
         <source>Settings</source>
-        <translation>Einstellungen</translation>
+        <translation>Einstellungen...</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1029"/>
@@ -5181,13 +5181,13 @@ correspondent board</source>
         <location filename="../../main/mainwindow.ui" line="1120"/>
         <location filename="../../main/mainwindow.ui" line="1123"/>
         <source>Exclusive Moves</source>
-        <translation type="unfinished"></translation>
+        <translation>Exklusive Züge</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1132"/>
         <location filename="../../main/mainwindow.ui" line="1135"/>
         <source>Move Now</source>
-        <translation type="unfinished"></translation>
+        <translation>ziehe jetzt</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1144"/>
@@ -5771,7 +5771,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/dlg/moveevaluationsymboldlg.ui" line="22"/>
         <source>Move: </source>
-        <translation type="unfinished"></translation>
+        <translation>Zug: </translation>
     </message>
     <message>
         <location filename="../../ui/dlg/moveevaluationsymboldlg.ui" line="51"/>
@@ -5816,7 +5816,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/dlg/moveevaluationsymboldlg.ui" line="123"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Reset</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/moveevaluationsymboldlg.ui" line="130"/>
@@ -5883,7 +5883,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="43"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Name:</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="74"/>
@@ -5904,7 +5904,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="94"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>s</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="104"/>
@@ -5959,7 +5959,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="207"/>
         <source>Player:</source>
-        <translation type="unfinished"></translation>
+        <translation>Spieler:</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="256"/>
@@ -5979,7 +5979,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="323"/>
         <source>Chat:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chat:</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="333"/>
@@ -6083,7 +6083,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/tools/openingviewerwidget.ui" line="70"/>
         <source>Sides:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seiten:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/openingviewerwidget.ui" line="77"/>
@@ -6411,23 +6411,23 @@ correspondent board</source>
     <message>
         <location filename="../../ui/dlg/savaethemelayoutdlg.ui" line="51"/>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/savaethemelayoutdlg.ui" line="58"/>
         <location filename="../../ui/dlg/savaethemelayoutdlg.ui" line="98"/>
         <source>Index:</source>
-        <translation type="unfinished"></translation>
+        <translation>Index:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/savaethemelayoutdlg.ui" line="91"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Design</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/savaethemelayoutdlg.ui" line="127"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichern</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/savaethemelayoutdlg.cpp" line="35"/>
@@ -6463,7 +6463,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="14"/>
         <source>Configuration files</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurationsdateien</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="26"/>
@@ -6473,7 +6473,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="41"/>
         <source>Folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzeichnis:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="57"/>
@@ -6596,7 +6596,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="37"/>
         <source>Folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzeichnis:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="58"/>
@@ -6694,7 +6694,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="86"/>
         <source>Legal moves</source>
-        <translation type="unfinished"></translation>
+        <translation>erlaubte Züge</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="113"/>
@@ -6714,17 +6714,17 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="158"/>
         <source>Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradient</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="177"/>
         <source>Main color</source>
-        <translation type="unfinished"></translation>
+        <translation>Hauptfarbe</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="202"/>
         <source>Border color</source>
-        <translation type="unfinished"></translation>
+        <translation>Randfarbe</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="223"/>
@@ -6764,7 +6764,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="296"/>
         <source>Clock:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uhr:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="341"/>
@@ -6794,13 +6794,13 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="391"/>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Rand</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="413"/>
         <location filename="../../ui/settings/setupgeneral.ui" line="952"/>
         <source>Font size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fontgröße:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="437"/>
@@ -6815,12 +6815,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="481"/>
         <source>Elo</source>
-        <translation type="unfinished"></translation>
+        <translation>Elo</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="503"/>
         <source>Text colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Textfarben:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="527"/>
@@ -6838,7 +6838,7 @@ Are you sure?</source>
         <location filename="../../ui/settings/setupgeneral.ui" line="577"/>
         <location filename="../../ui/settings/setupgeneral.ui" line="659"/>
         <source>Background color</source>
-        <translation type="unfinished"></translation>
+        <translation>Hintergrundfarbe</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="590"/>
@@ -6848,19 +6848,19 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="687"/>
         <source>Logo:</source>
-        <translation type="unfinished"></translation>
+        <translation>Logo:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="724"/>
         <location filename="../../ui/settings/setupgeneral.ui" line="788"/>
         <source>width</source>
-        <translation type="unfinished"></translation>
+        <translation>breit</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="743"/>
         <location filename="../../ui/settings/setupgeneral.ui" line="807"/>
         <source>height</source>
-        <translation type="unfinished"></translation>
+        <translation>hoch</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="756"/>
@@ -6871,7 +6871,7 @@ Are you sure?</source>
         <location filename="../../ui/settings/setupgeneral.ui" line="846"/>
         <location filename="../../ui/settings/setupgeneral.ui" line="999"/>
         <source>Move list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zugliste:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="888"/>
@@ -6936,7 +6936,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1071"/>
         <source> s</source>
-        <translation type="unfinished"></translation>
+        <translation> s</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1113"/>
@@ -6961,17 +6961,17 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1197"/>
         <source>Small</source>
-        <translation type="unfinished"></translation>
+        <translation>klein</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1202"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>mittel</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1207"/>
         <source>Large</source>
-        <translation type="unfinished"></translation>
+        <translation>groß</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1238"/>
@@ -7021,7 +7021,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1500"/>
         <source>Confiuration files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurationsdateien:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1515"/>
@@ -7041,7 +7041,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneralwidget.cpp" line="401"/>
         <source>PGN (*.pgn);;All Files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>PGN (*.pgn);;alle Dateien (*.*)</translation>
     </message>
 </context>
 <context>
@@ -7377,19 +7377,19 @@ Are you sure?</source>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="97"/>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="224"/>
         <source>Small</source>
-        <translation type="unfinished"></translation>
+        <translation>klein</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="102"/>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="229"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>mittel</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="107"/>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="234"/>
         <source>Large</source>
-        <translation type="unfinished"></translation>
+        <translation>groß</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="140"/>
@@ -7468,7 +7468,7 @@ Are you sure?</source>
     <message>
         <location filename="../../main/basewindow.cpp" line="2166"/>
         <source>%1 seconds to go...</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Sekunden ...</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="2176"/>
@@ -7481,7 +7481,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="14"/>
         <source>Sound Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sound Konfiguration</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="39"/>
@@ -7496,12 +7496,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="53"/>
         <source>Normal games</source>
-        <translation type="unfinished"></translation>
+        <translation>normale Partien</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="60"/>
         <source>Tournament games</source>
-        <translation type="unfinished"></translation>
+        <translation>Turnier Partien</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="67"/>
@@ -7521,12 +7521,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="153"/>
         <source>Language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprache:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="187"/>
         <source>Voice:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stimme:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="221"/>
@@ -7541,12 +7541,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="340"/>
         <source>Short</source>
-        <translation type="unfinished"></translation>
+        <translation>kurz</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="345"/>
         <source>Long</source>
-        <translation type="unfinished"></translation>
+        <translation>lang</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="350"/>
@@ -7561,12 +7561,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="370"/>
         <source>Test:</source>
-        <translation type="unfinished"></translation>
+        <translation>Test:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="385"/>
         <source>e2 a5 b8 g7</source>
-        <translation type="unfinished"></translation>
+        <translation>e2 a5 b8 g7</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="392"/>
@@ -7576,7 +7576,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="414"/>
         <source>Sentence:</source>
-        <translation type="unfinished"></translation>
+        <translation>Satz:</translation>
     </message>
 </context>
 <context>
@@ -7592,7 +7592,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/syzygyinfodlg.ui" line="14"/>
         <source>Syzygy Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Syzygy Info</translation>
     </message>
     <message>
         <location filename="../../ui/settings/syzygyinfodlg.ui" line="41"/>
@@ -7602,12 +7602,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/syzygyinfodlg.ui" line="61"/>
         <source>Checksum</source>
-        <translation type="unfinished"></translation>
+        <translation>Checksumme</translation>
     </message>
     <message>
         <location filename="../../ui/settings/syzygyinfodlg.ui" line="81"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/settings/syzygyinfodlg.cpp" line="169"/>
@@ -7622,12 +7622,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/syzygyinfodlg.cpp" line="191"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Stop</translation>
     </message>
     <message>
         <location filename="../../ui/settings/syzygyinfodlg.cpp" line="191"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Start</translation>
     </message>
 </context>
 <context>
@@ -7681,67 +7681,67 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="148"/>
         <source>Infinite</source>
-        <translation type="unfinished"></translation>
+        <translation>unendlich</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="153"/>
         <source>Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiefe</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="158"/>
         <source>Nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>Knoten</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="163"/>
         <source>Move time</source>
-        <translation type="unfinished"></translation>
+        <translation>Zugzeit</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="168"/>
         <source>Standard</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="173"/>
         <source>All moves</source>
-        <translation type="unfinished"></translation>
+        <translation>alle Züge</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="186"/>
         <source>Depth:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiefe:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="193"/>
         <source>Nodes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Knoten:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="223"/>
         <source>Time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeit:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="265"/>
         <source>Millisecond</source>
-        <translation type="unfinished"></translation>
+        <translation>Millisekunde</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="270"/>
         <source>Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekunde</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="275"/>
         <source>Minute</source>
-        <translation type="unfinished"></translation>
+        <translation>Minute</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="280"/>
         <source>Hour</source>
-        <translation type="unfinished"></translation>
+        <translation>Stunde</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="295"/>
@@ -7866,7 +7866,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="336"/>
         <source>Depth:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiefe:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="362"/>
@@ -8110,7 +8110,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="14"/>
         <source>Tournament result</source>
-        <translation type="unfinished"></translation>
+        <translation>Turnier Ergebnis</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="43"/>
@@ -8120,7 +8120,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="50"/>
         <source>WDL</source>
-        <translation type="unfinished"></translation>
+        <translation>WDL</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="57"/>
@@ -8135,7 +8135,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="114"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Ergebnis</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="143"/>
@@ -8204,37 +8204,37 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="100"/>
         <source>name</source>
-        <translation type="unfinished"></translation>
+        <translation>Name</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="102"/>
         <source>KN/move</source>
-        <translation type="unfinished"></translation>
+        <translation>KN/Zug</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="104"/>
         <source>NPS</source>
-        <translation type="unfinished"></translation>
+        <translation>NPS</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="106"/>
         <source>depths/move</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiefe/Zug</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="108"/>
         <source>time/move</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeit/Zug</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="110"/>
         <source>moves/game</source>
-        <translation type="unfinished"></translation>
+        <translation>Züge/Partie</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="112"/>
         <source>time/game</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeit/Partie</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="114"/>
