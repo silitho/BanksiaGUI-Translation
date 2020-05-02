@@ -140,7 +140,7 @@
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="28"/>
         <source>Normal</source>
-        <translation>Normal</translation>
+        <translation>normal</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="44"/>
@@ -150,17 +150,17 @@
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="54"/>
         <source>Show:</source>
-        <translation>Zeige:</translation>
+        <translation>zeige:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="68"/>
         <source>All games</source>
-        <translation>Alle Partien</translation>
+        <translation>alle Partien</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="73"/>
         <source>Max</source>
-        <translation>Max</translation>
+        <translation>maximal</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="94"/>
@@ -175,7 +175,7 @@
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="141"/>
         <source>Highlight boards with scores from</source>
-        <translation>Hervorheben von Partien mit Spielstand von</translation>
+        <translation>hervorheben von Partien mit Spielstand von</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="154"/>
@@ -567,17 +567,17 @@ Cannot add this game to the database</source>
     <message>
         <location filename="../../main/basewindow.cpp" line="1280"/>
         <source>Open Game</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffne Partie</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="1283"/>
         <source>Portable Game Notation (*.pgn);;All Files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Portable Game Notation (*.pgn);;alle Dateien (*.*)</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="1285"/>
         <source>Portable Game Notation (*.pgn);;CCF (*.ccf);;MXQ (*.mxq);;XQF (*.xqf);;All Known Files (*.pgn *.ccf *.mxq *.xqf);;All Files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Portable Game Notation (*.pgn);;CCF (*.ccf);;MXQ (*.mxq);;XQF (*.xqf);;alle bekannten Dateien (*.pgn *.ccf *.mxq *.xqf);;alle Dateien (*.*)</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="1295"/>
@@ -612,7 +612,7 @@ Cannot add this game to the database</source>
     <message>
         <location filename="../../main/basewindow.cpp" line="1463"/>
         <source>game</source>
-        <translation type="unfinished"></translation>
+        <translation>Partie</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="1463"/>
@@ -1103,7 +1103,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="618"/>
         <source>Open game %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffne Partie %1</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="624"/>
@@ -3674,7 +3674,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="226"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>auto</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="238"/>
@@ -3700,7 +3700,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="267"/>
         <source>open games</source>
-        <translation type="unfinished"></translation>
+        <translation>öffne Partien</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="274"/>
@@ -4949,7 +4949,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="842"/>
         <source>Open Game</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffne Partie</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="845"/>
@@ -5094,7 +5094,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1001"/>
         <source>rotate board</source>
-        <translation type="unfinished"></translation>
+        <translation>drehe Brett</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1014"/>
@@ -5157,7 +5157,7 @@ correspondent board</source>
         <location filename="../../main/mainwindow.ui" line="1081"/>
         <location filename="../../main/mainwindow.ui" line="1084"/>
         <source>Open PGN from URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffne PGN von URL</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1092"/>
@@ -5181,7 +5181,7 @@ correspondent board</source>
         <location filename="../../main/mainwindow.ui" line="1120"/>
         <location filename="../../main/mainwindow.ui" line="1123"/>
         <source>Exclusive Moves</source>
-        <translation>Exklusive Züge</translation>
+        <translation>exklusive Züge</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1132"/>
@@ -5384,7 +5384,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1439"/>
         <source>New Game Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuer Tab</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1444"/>
@@ -8267,12 +8267,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="147"/>
         <source>Open games</source>
-        <translation type="unfinished"></translation>
+        <translation>öffne Partien</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="152"/>
         <source>Open &amp; view</source>
-        <translation type="unfinished"></translation>
+        <translation>öffnen &amp; anzeigen</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="189"/>
