@@ -597,7 +597,7 @@ Cannot add this game to the database</source>
     <message>
         <location filename="../../main/basewindow.cpp" line="1380"/>
         <source>Portable Game Notation (*.pgn);;Extended Position Description (*.epd);;All Files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Portable Game Notation (*.pgn);;Extended Position Description (*.epd);;alle Dateien (*.*)</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="1447"/>
