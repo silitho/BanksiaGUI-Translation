@@ -4854,7 +4854,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="309"/>
         <source>Moves</source>
-        <translation>Züge</translation>
+        <translation type="unfinished">Notation</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="438"/>
@@ -5169,7 +5169,7 @@ correspondent board</source>
         <location filename="../../main/mainwindow.ui" line="1100"/>
         <location filename="../../main/mainwindow.ui" line="1103"/>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichern unter</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1108"/>
