@@ -662,7 +662,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/net/basicnetwidget.cpp" line="89"/>
         <source>&lt;Human&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Mensch&gt;</translation>
     </message>
     <message>
         <location filename="../../ui/net/basicnetwidget.cpp" line="255"/>
@@ -916,7 +916,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/comm/bookmovewidget.ui" line="157"/>
         <source>bubble</source>
-        <translation type="unfinished"></translation>
+        <translation>Bubble</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovewidget.ui" line="182"/>
@@ -939,7 +939,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/settings/booktablemodel.cpp" line="397"/>
         <source>Active</source>
-        <translation>faktiv</translation>
+        <translation>aktiv</translation>
     </message>
     <message>
         <location filename="../../ui/settings/booktablemodel.cpp" line="399"/>
@@ -959,7 +959,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/settings/booktablemodel.cpp" line="405"/>
         <source>Bubble</source>
-        <translation type="unfinished"></translation>
+        <translation>Bubble</translation>
     </message>
     <message>
         <location filename="../../ui/settings/booktablemodel.cpp" line="411"/>
@@ -2266,7 +2266,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="347"/>
         <source>Stats</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistiken</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="401"/>
@@ -3084,7 +3084,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/enginemanagementwidget.ui" line="259"/>
         <source>Engine log:</source>
-        <translation></translation>
+        <translation>Engine Log:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/enginemanagementwidget.cpp" line="143"/>
@@ -3097,7 +3097,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/engineoptionmodel.cpp" line="118"/>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation>Parameter</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoptionmodel.cpp" line="120"/>
@@ -3435,7 +3435,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="324"/>
         <source>&lt;Human&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Mensch&gt;</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="380"/>
@@ -4899,7 +4899,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="599"/>
         <source>Strings, stats</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgaben, Statistiken</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="629"/>
@@ -5374,7 +5374,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1427"/>
         <source>Download engines, data</source>
-        <translation type="unfinished"></translation>
+        <translation>Download</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1436"/>
@@ -5419,7 +5419,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1468"/>
         <source>Plain Color</source>
-        <translation>Einfache Farbe</translation>
+        <translation>Farbe</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1471"/>
@@ -5439,7 +5439,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1484"/>
         <source>Marble</source>
-        <translation></translation>
+        <translation>Marmor</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1487"/>
@@ -5629,17 +5629,17 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="62"/>
         <source>Plain color</source>
-        <translation>Einfache Farbe</translation>
+        <translation>Farbe</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="67"/>
         <source>Dark marble</source>
-        <translation>Dunkler Marmor</translation>
+        <translation>dunkler Marmor</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="72"/>
         <source>Peach marble</source>
-        <translation type="unfinished"></translation>
+        <translation>heller Marmor</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="77"/>
@@ -5709,13 +5709,13 @@ correspondent board</source>
         <location filename="../../ui/settings.cpp" line="670"/>
         <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="171"/>
         <source>Dark marble</source>
-        <translation>Dunkler Marmor</translation>
+        <translation>dunkler Marmor</translation>
     </message>
     <message>
         <location filename="../../ui/settings.cpp" line="671"/>
         <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="172"/>
         <source>Peach marble</source>
-        <translation type="unfinished"></translation>
+        <translation>heller Marmor</translation>
     </message>
     <message>
         <location filename="../../ui/settings.cpp" line="672"/>
@@ -6349,7 +6349,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/playerselectionwidget.cpp" line="126"/>
         <source>&lt;Human&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Mensch&gt;</translation>
     </message>
     <message>
         <location filename="../../ui/settings/playerselectionwidget.cpp" line="154"/>
@@ -6666,7 +6666,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="268"/>
         <source>Bubble:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bubble:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="285"/>
@@ -6704,7 +6704,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="133"/>
         <source>Move animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Züge animieren</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="146"/>
@@ -6729,7 +6729,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="223"/>
         <source>Move highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Züge hervorheben</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="230"/>
@@ -6794,7 +6794,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="391"/>
         <source>Border</source>
-        <translation>Rand</translation>
+        <translation>Rahmen</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="413"/>
@@ -6921,7 +6921,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1018"/>
         <source>stats</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistiken</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1031"/>
@@ -6941,12 +6941,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1113"/>
         <source>Stats:</source>
-        <translation type="unfinished"></translation>
+        <translation>Statistiken:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1161"/>
         <source>Move stats bubbles</source>
-        <translation type="unfinished"></translation>
+        <translation>Zugstatistik Bubbles</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1180"/>
@@ -6956,7 +6956,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1193"/>
         <source>Bubble size</source>
-        <translation type="unfinished"></translation>
+        <translation>Bubble Größe</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1197"/>
@@ -7011,7 +7011,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1480"/>
         <source>Online game log:</source>
-        <translation type="unfinished"></translation>
+        <translation>Online Partie Log:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1493"/>
@@ -7090,7 +7090,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="194"/>
         <source>Board</source>
-        <translation type="unfinished"></translation>
+        <translation>Brett</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="201"/>
@@ -7171,37 +7171,37 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="59"/>
         <source>Smart</source>
-        <translation type="unfinished"></translation>
+        <translation>Smart</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="64"/>
         <source>Condal</source>
-        <translation type="unfinished"></translation>
+        <translation>Condal</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="69"/>
         <source>Cases</source>
-        <translation type="unfinished"></translation>
+        <translation>Cases</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="74"/>
         <source>Motif</source>
-        <translation type="unfinished"></translation>
+        <translation>Motif</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="79"/>
         <source>Kingdom</source>
-        <translation type="unfinished"></translation>
+        <translation>Kingdom</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="84"/>
         <source>Dw</source>
-        <translation type="unfinished"></translation>
+        <translation>Dw</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="89"/>
         <source>Maya</source>
-        <translation type="unfinished"></translation>
+        <translation>Maya</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="94"/>
@@ -7211,22 +7211,22 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="99"/>
         <source>Cheq</source>
-        <translation type="unfinished"></translation>
+        <translation>Cheq</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="104"/>
         <source>Mark</source>
-        <translation type="unfinished"></translation>
+        <translation>Mark</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="109"/>
         <source>Adventurer</source>
-        <translation type="unfinished"></translation>
+        <translation>Adventurer</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="114"/>
         <source>Alpha</source>
-        <translation type="unfinished"></translation>
+        <translation>Alpha</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="119"/>
@@ -7237,7 +7237,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="134"/>
         <source>Scale:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalierung:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="147"/>
@@ -7262,17 +7262,17 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="275"/>
         <source>Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Schatten</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="302"/>
         <source>White cell</source>
-        <translation type="unfinished"></translation>
+        <translation>weißes Feld</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="332"/>
         <source>Black cell</source>
-        <translation type="unfinished"></translation>
+        <translation>schwarzes Feld</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="365"/>
@@ -7287,7 +7287,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="399"/>
         <source>Show board coordinate</source>
-        <translation type="unfinished"></translation>
+        <translation>zeige Koordinaten</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="411"/>
@@ -7307,22 +7307,22 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="470"/>
         <source>App bk</source>
-        <translation type="unfinished"></translation>
+        <translation>Hauptfenster</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="491"/>
         <source>Panel bk</source>
-        <translation type="unfinished"></translation>
+        <translation>Panel</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="531"/>
         <source>Piece:</source>
-        <translation type="unfinished"></translation>
+        <translation>Figuren:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="544"/>
         <source>Board:</source>
-        <translation type="unfinished"></translation>
+        <translation>Brett:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="557"/>
@@ -7335,7 +7335,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="203"/>
         <source>Plain color</source>
-        <translation>Einfache Farbe</translation>
+        <translation>Farbe</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="204"/>
@@ -7371,7 +7371,7 @@ Are you sure?</source>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="78"/>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="205"/>
         <source>Bubble size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bubble Größe:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="97"/>
@@ -7394,7 +7394,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="140"/>
         <source>Show 2nd param</source>
-        <translation type="unfinished"></translation>
+        <translation>zeige 2.Parameter</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="168"/>
@@ -7424,12 +7424,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="399"/>
         <source>Add opening:</source>
-        <translation type="unfinished"></translation>
+        <translation>Buch/EGTB hinzufügen:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="431"/>
         <source>Online book/egtb</source>
-        <translation type="unfinished">Online Buch/EGTB</translation>
+        <translation>Online Buch/EGTB</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="462"/>
@@ -7455,7 +7455,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.cpp" line="191"/>
         <source>Multi folders, separated by %1</source>
-        <translation type="unfinished"></translation>
+        <translation>mehrere Verzeichnisse getrennt durch %1</translation>
     </message>
 </context>
 <context>
@@ -8029,7 +8029,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourresultdlg.ui" line="14"/>
         <source>Results and Stats</source>
-        <translation type="unfinished"></translation>
+        <translation>Ergebnisse und Statistiken</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresultdlg.ui" line="38"/>
@@ -8160,7 +8160,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourresultwidget.cpp" line="264"/>
         <source>No tournament</source>
-        <translation type="unfinished"></translation>
+        <translation>kein Turnier</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresultwidget.cpp" line="273"/>
@@ -8312,12 +8312,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="264"/>
         <source> Tournament completed!</source>
-        <translation type="unfinished"></translation>
+        <translation> Turnier abgeschlossen!</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="275"/>
         <source>No tournament</source>
-        <translation type="unfinished"></translation>
+        <translation>kein Turnier</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="331"/>
@@ -8332,7 +8332,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="340"/>
         <source>New tournament</source>
-        <translation type="unfinished"></translation>
+        <translation>neues Turnier</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="354"/>
@@ -8413,7 +8413,7 @@ Are you sure?</source>
         <location filename="../../main/tourwindow.cpp" line="799"/>
         <location filename="../../main/tourwindow.cpp" line="800"/>
         <source>Human</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensch</translation>
     </message>
 </context>
 <context>
@@ -8421,7 +8421,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.ui" line="14"/>
         <source>Ongoing tournaments</source>
-        <translation type="unfinished"></translation>
+        <translation>laufende Turniere</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.ui" line="47"/>
