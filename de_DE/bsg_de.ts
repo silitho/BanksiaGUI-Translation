@@ -692,12 +692,12 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/net/basicnetwidget.cpp" line="372"/>
         <source>Create a new game</source>
-        <translation type="unfinished"></translation>
+        <translation>erstelle neue Partie</translation>
     </message>
     <message>
         <location filename="../../ui/net/basicnetwidget.cpp" line="380"/>
         <source>Create a new game vs %1</source>
-        <translation type="unfinished"></translation>
+        <translation>erstelle neue Partie vs %1</translation>
     </message>
 </context>
 <context>
@@ -1800,7 +1800,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="202"/>
         <source>Available engines (%1):</source>
-        <translation type="unfinished"></translation>
+        <translation>verfügbare Engines (%1):</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="203"/>
@@ -1943,7 +1943,7 @@ Stop the tournament?</source>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="144"/>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="148"/>
         <source>Create New Database</source>
-        <translation type="unfinished"></translation>
+        <translation>erstelle neue Datenbank</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="153"/>
@@ -3406,7 +3406,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/gamesetupdialog.ui" line="20"/>
         <source>Game setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Partie Setup</translation>
     </message>
     <message>
         <location filename="../../ui/settings/gamesetupdialog.ui" line="56"/>
@@ -4033,7 +4033,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsseekingplayertablemodel.cpp" line="128"/>
         <source>Created at</source>
-        <translation type="unfinished"></translation>
+        <translation>erstellt am</translation>
     </message>
 </context>
 <context>
@@ -4218,7 +4218,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libot.cpp" line="670"/>
         <source>New Lichess game created</source>
-        <translation type="unfinished"></translation>
+        <translation>neue Lichess Partie erstellt</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libot.cpp" line="687"/>
@@ -5125,7 +5125,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1044"/>
         <source>Create tournament</source>
-        <translation type="unfinished"></translation>
+        <translation>erstelle Turnier</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1049"/>
@@ -5204,12 +5204,12 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1168"/>
         <source>Game Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Partie Setup</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1171"/>
         <source>Setup Game</source>
-        <translation type="unfinished"></translation>
+        <translation>Partie Setup</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1174"/>
@@ -5220,13 +5220,13 @@ correspondent board</source>
         <location filename="../../main/mainwindow.ui" line="1183"/>
         <location filename="../../main/mainwindow.ui" line="1186"/>
         <source>Create Database</source>
-        <translation type="unfinished"></translation>
+        <translation>erstelle Datenbank</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1195"/>
         <location filename="../../main/mainwindow.ui" line="1198"/>
         <source>Create Opening</source>
-        <translation type="unfinished"></translation>
+        <translation>erstelle Eröffnungsbuch</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1207"/>
@@ -5954,7 +5954,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="185"/>
         <source>Create a game</source>
-        <translation type="unfinished"></translation>
+        <translation>erstelle Partie</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="207"/>
@@ -8407,7 +8407,7 @@ Are you sure?</source>
     <message>
         <location filename="../../main/tourwindow.cpp" line="628"/>
         <source>Tournament finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Turnier beendet</translation>
     </message>
     <message>
         <location filename="../../main/tourwindow.cpp" line="799"/>
