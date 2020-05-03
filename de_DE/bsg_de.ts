@@ -911,7 +911,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/comm/bookmovewidget.ui" line="133"/>
         <source>Opening book settings</source>
-        <translation>Eröffnungsbuch Einstellungen</translation>
+        <translation>Bücher/EGTB Einstellungen</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovewidget.ui" line="157"/>
