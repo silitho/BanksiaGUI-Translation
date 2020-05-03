@@ -175,7 +175,7 @@
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="141"/>
         <source>Highlight boards with scores from</source>
-        <translation>hervorheben von Partien mit Spielstand von</translation>
+        <translation>hervorheben von Partien mit Wertung von</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="154"/>
@@ -842,7 +842,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="465"/>
         <source>score</source>
-        <translation type="unfinished"></translation>
+        <translation>Wertung</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="472"/>
@@ -1507,7 +1507,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/comm/chartwidget.cpp" line="350"/>
         <source>score</source>
-        <translation type="unfinished"></translation>
+        <translation>Wertung</translation>
     </message>
 </context>
 <context>
@@ -3221,7 +3221,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/comm/evaltablemodel.cpp" line="207"/>
         <source>score</source>
-        <translation type="unfinished"></translation>
+        <translation>Wertung</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablemodel.cpp" line="209"/>
@@ -4874,7 +4874,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="492"/>
         <source>Books/Egtb</source>
-        <translation type="unfinished"></translation>
+        <translation>Bücher/EGTB</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="501"/>
@@ -5094,7 +5094,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1001"/>
         <source>rotate board</source>
-        <translation>drehe Brett</translation>
+        <translation type="unfinished">Brett drehen</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1014"/>
@@ -5829,12 +5829,12 @@ correspondent board</source>
     <message>
         <location filename="../../ui/comm/movelist.cpp" line="350"/>
         <source>Show comments</source>
-        <translation type="unfinished"></translation>
+        <translation>zeige Kommentare</translation>
     </message>
     <message>
         <location filename="../../ui/comm/movelist.cpp" line="360"/>
         <source>Show Scores</source>
-        <translation type="unfinished"></translation>
+        <translation>zeige Wertungen</translation>
     </message>
 </context>
 <context>
@@ -6583,7 +6583,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupdialog.ui" line="76"/>
         <source>Book/Egtb</source>
-        <translation type="unfinished"></translation>
+        <translation>Bücher/EGTB</translation>
     </message>
 </context>
 <context>
@@ -6769,7 +6769,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="341"/>
         <source>Clock at:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uhr anzeigen:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="366"/>
@@ -6789,7 +6789,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="384"/>
         <source>One line</source>
-        <translation type="unfinished"></translation>
+        <translation>eine Zeile</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="391"/>
@@ -6805,7 +6805,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="437"/>
         <source>Normal font size</source>
-        <translation type="unfinished"></translation>
+        <translation>normale  Fontgröße</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="459"/>
@@ -6865,7 +6865,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="756"/>
         <source>Flag:</source>
-        <translation type="unfinished"></translation>
+        <translation>Flagge:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="846"/>
@@ -6876,7 +6876,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="888"/>
         <source>Notation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Notation:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="919"/>
@@ -6911,7 +6911,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1008"/>
         <source>comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentare</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1015"/>
@@ -6926,7 +6926,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1031"/>
         <source>Each move per line</source>
-        <translation type="unfinished"></translation>
+        <translation>eine Zeile pro Zug</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1058"/>
@@ -7360,7 +7360,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="20"/>
         <source>Books/Egtbs</source>
-        <translation type="unfinished"></translation>
+        <translation>Bücher/EGTB</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="65"/>
@@ -7429,7 +7429,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="431"/>
         <source>Online book/egtb</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Online Buch/EGTB</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="462"/>
@@ -7468,7 +7468,7 @@ Are you sure?</source>
     <message>
         <location filename="../../main/basewindow.cpp" line="2166"/>
         <source>%1 seconds to go...</source>
-        <translation>%1 Sekunden ...</translation>
+        <translation type="unfinished">%1 noch Sekunden ...</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="2176"/>
@@ -7726,22 +7726,22 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="265"/>
         <source>Millisecond</source>
-        <translation>Millisekunde</translation>
+        <translation>Millisekunde(n)</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="270"/>
         <source>Second</source>
-        <translation>Sekunde</translation>
+        <translation>Sekunde(n)</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="275"/>
         <source>Minute</source>
-        <translation>Minute</translation>
+        <translation>Minute(n)</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="280"/>
         <source>Hour</source>
-        <translation>Stunde</translation>
+        <translation>Stunde(n)</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="295"/>
@@ -7757,7 +7757,7 @@ Are you sure?</source>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="335"/>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="365"/>
         <source> sec</source>
-        <translation type="unfinished"></translation>
+        <translation> s</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="352"/>
@@ -7955,12 +7955,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="135"/>
         <source>score%</source>
-        <translation type="unfinished"></translation>
+        <translation>Wertung%</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="135"/>
         <source>score</source>
-        <translation type="unfinished"></translation>
+        <translation>Wertung</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="137"/>
@@ -8082,12 +8082,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourresulttablemodel.cpp" line="123"/>
         <source>score%</source>
-        <translation type="unfinished"></translation>
+        <translation>Wertung%</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresulttablemodel.cpp" line="123"/>
         <source>score</source>
-        <translation type="unfinished"></translation>
+        <translation>Wertung</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresulttablemodel.cpp" line="125"/>
@@ -8125,7 +8125,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="57"/>
         <source>scores</source>
-        <translation type="unfinished"></translation>
+        <translation>Wertungen</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="77"/>
