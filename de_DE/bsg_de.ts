@@ -492,7 +492,7 @@
     <message>
         <location filename="../../ui/dlg/analysedlg.ui" line="14"/>
         <source>Analyse Current Game</source>
-        <translation type="unfinished"></translation>
+        <translation>analysiere laufende Partie</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/analysedlg.ui" line="38"/>
@@ -522,12 +522,12 @@
     <message>
         <location filename="../../ui/dlg/analysedlg.ui" line="104"/>
         <source>From (plies):</source>
-        <translation type="unfinished"></translation>
+        <translation>von (plies):</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/analysedlg.ui" line="127"/>
         <source>To:</source>
-        <translation type="unfinished"></translation>
+        <translation>bis:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/analysedlg.ui" line="232"/>
@@ -776,7 +776,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="179"/>
         <source>Copy PGN into clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiere PGN in die Zwischenablage</translation>
     </message>
 </context>
 <context>
@@ -2505,12 +2505,12 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="127"/>
         <source>Main folder to store Syzygy endgames</source>
-        <translation type="unfinished"></translation>
+        <translation>Hauptverzeichnis für Syzygy Endspiele</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="138"/>
         <source>Show:</source>
-        <translation type="unfinished"></translation>
+        <translation>zeige:</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="145"/>
@@ -2575,7 +2575,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="269"/>
         <source>Select:</source>
-        <translation type="unfinished"></translation>
+        <translation>auswählen:</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="277"/>
@@ -2645,7 +2645,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="342"/>
         <source>deselect all</source>
-        <translation type="unfinished"></translation>
+        <translation>alle abwählen</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="350"/>
@@ -4802,12 +4802,12 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="162"/>
         <source>Tool bars</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbolleisten</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="168"/>
         <source>Docks</source>
-        <translation type="unfinished"></translation>
+        <translation>Docks</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="184"/>
@@ -4894,7 +4894,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="588"/>
         <source>Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbindung</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="599"/>
@@ -4914,7 +4914,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="696"/>
         <source>Pv board</source>
-        <translation type="unfinished"></translation>
+        <translation>Preview Board</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="705"/>
@@ -4964,7 +4964,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="859"/>
         <source>Copy PGN</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiere PGN</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="862"/>
@@ -4974,12 +4974,12 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="867"/>
         <source>Copy FEN</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiere FEN</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="876"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfügen</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="879"/>
@@ -4989,7 +4989,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="884"/>
         <source>Copy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiere Bild</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="893"/>
@@ -5004,7 +5004,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="905"/>
         <source>View Opening Book</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige Eröffnungsbuch</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="914"/>
@@ -5140,7 +5140,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1061"/>
         <source>Game Analysis</source>
-        <translation type="unfinished"></translation>
+        <translation>Partie Analyse</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1064"/>
@@ -5389,7 +5389,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1444"/>
         <source>Copy EPD</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiere EPD</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1447"/>
@@ -5414,7 +5414,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1463"/>
         <source>Close current tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließe aktiven Tab</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1468"/>
@@ -5559,7 +5559,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1597"/>
         <source>Draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Remis</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1600"/>
@@ -7463,12 +7463,12 @@ Are you sure?</source>
     <message>
         <location filename="../../main/basewindow.cpp" line="2165"/>
         <source>Shutting down computer...</source>
-        <translation type="unfinished"></translation>
+        <translation>Computer herunterfahren...</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="2166"/>
         <source>%1 seconds to go...</source>
-        <translation type="unfinished">%1 noch Sekunden ...</translation>
+        <translation>%1 noch Sekunden ...</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="2176"/>
@@ -8034,7 +8034,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourresultdlg.ui" line="38"/>
         <source>Collecting data...</source>
-        <translation type="unfinished"></translation>
+        <translation>sammle Daten...</translation>
     </message>
 </context>
 <context>
@@ -8052,32 +8052,32 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourresulttablemodel.cpp" line="116"/>
         <source>wins%</source>
-        <translation type="unfinished"></translation>
+        <translation>Siege%</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresulttablemodel.cpp" line="116"/>
         <source>wins</source>
-        <translation type="unfinished"></translation>
+        <translation>Siege</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresulttablemodel.cpp" line="118"/>
         <source>draws%</source>
-        <translation type="unfinished"></translation>
+        <translation>Remis%</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresulttablemodel.cpp" line="118"/>
         <source>draws</source>
-        <translation type="unfinished"></translation>
+        <translation>Remis</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresulttablemodel.cpp" line="120"/>
         <source>losses%</source>
-        <translation type="unfinished"></translation>
+        <translation>Niederlagen%</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresulttablemodel.cpp" line="120"/>
         <source>losses</source>
-        <translation type="unfinished"></translation>
+        <translation>Niederlagen</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresulttablemodel.cpp" line="123"/>
@@ -8115,7 +8115,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="43"/>
         <source>Use percentage for:</source>
-        <translation type="unfinished"></translation>
+        <translation>nutze Prozentsatz für:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="50"/>
@@ -8239,7 +8239,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="114"/>
         <source>fails</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehlschläge</translation>
     </message>
 </context>
 <context>
