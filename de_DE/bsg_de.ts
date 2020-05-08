@@ -1121,12 +1121,12 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/broadcast/broadcastinggametablemodel.cpp" line="99"/>
         <source>white</source>
-        <translation>weiß</translation>
+        <translation>Weiß</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastinggametablemodel.cpp" line="101"/>
         <source>black</source>
-        <translation>schwarz</translation>
+        <translation>Schwarz</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastinggametablemodel.cpp" line="103"/>
@@ -3304,7 +3304,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="287"/>
         <source>reload engine</source>
-        <translation type="unfinished"></translation>
+        <translation>Engine neu laden</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="304"/>
@@ -4829,7 +4829,7 @@ correspondent board</source>
         <location filename="../../main/mainwindow.ui" line="214"/>
         <location filename="../../main/mainwindow.ui" line="1370"/>
         <source>Connect</source>
-        <translation>Verbindung</translation>
+        <translation>Verbindungen</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="227"/>
