@@ -667,22 +667,22 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/net/basicnetwidget.cpp" line="255"/>
         <source>You are playing some local network games</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie spielen einige Partien im lokalen Netzwerk</translation>
     </message>
     <message>
         <location filename="../../ui/net/basicnetwidget.cpp" line="256"/>
         <source>Do you want to close all local network games then log out?</source>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie alle Partien im lokalen Netzwerk schließen und sich dann abmelden?</translation>
     </message>
     <message>
         <location filename="../../ui/net/basicnetwidget.cpp" line="280"/>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>trennen</translation>
     </message>
     <message>
         <location filename="../../ui/net/basicnetwidget.cpp" line="280"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>verbinden</translation>
     </message>
     <message>
         <location filename="../../ui/net/basicnetwidget.cpp" line="296"/>
@@ -705,17 +705,17 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tools/benchmarkdlg.ui" line="14"/>
         <source>Run Engines With Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Engines mit Parametern ausführen</translation>
     </message>
     <message>
         <location filename="../../ui/tools/benchmarkdlg.ui" line="58"/>
         <source>Run</source>
-        <translation type="unfinished"></translation>
+        <translation>ausführen</translation>
     </message>
     <message>
         <location filename="../../ui/tools/benchmarkdlg.ui" line="84"/>
         <source>Output:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe:</translation>
     </message>
 </context>
 <context>
@@ -723,7 +723,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="26"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="59"/>
@@ -891,7 +891,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/comm/bookmovewidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovewidget.ui" line="43"/>
@@ -1007,7 +1007,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="82"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>verbinden</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="120"/>
@@ -1154,17 +1154,17 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="228"/>
         <source>New</source>
-        <translation>Neu</translation>
+        <translation>neu</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="229"/>
         <source>Stop</source>
-        <translation>Stop</translation>
+        <translation>stop</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="230"/>
         <source>Resume</source>
-        <translation type="unfinished"></translation>
+        <translation>fortsetzen</translation>
     </message>
 </context>
 <context>
@@ -1197,7 +1197,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="98"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="105"/>
@@ -1239,7 +1239,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="257"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="264"/>
@@ -1515,7 +1515,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/dlg/chess960positionselectordlg.ui" line="14"/>
         <source>Chess960 All Positions</source>
-        <translation type="unfinished"></translation>
+        <translation>Chess960 alle Stellungen</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/chess960positionselectordlg.ui" line="45"/>
@@ -1533,7 +1533,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/dlg/chess960positionselectorwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dlg/chess960positionselectorwidget.ui" line="84"/>
@@ -1543,7 +1543,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/dlg/chess960positionselectorwidget.ui" line="104"/>
         <source>Random</source>
-        <translation type="unfinished"></translation>
+        <translation>zufällig</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/chess960positionselectorwidget.ui" line="151"/>
@@ -1566,12 +1566,12 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/dlg/chess960positiontablemodel.cpp" line="74"/>
         <source>Win%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sieg%</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/chess960positiontablemodel.cpp" line="76"/>
         <source>Draw%</source>
-        <translation type="unfinished"></translation>
+        <translation>Remis%</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/chess960positiontablemodel.cpp" line="78"/>
@@ -1633,7 +1633,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="84"/>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="104"/>
@@ -1735,7 +1735,7 @@ Cannot analyse this game</source>
         <location filename="../../ui/tour/createtourwidget.ui" line="522"/>
         <location filename="../../ui/tour/createtourwidget.ui" line="564"/>
         <source>setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Setup</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="503"/>
@@ -1958,7 +1958,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="179"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="192"/>
@@ -1980,7 +1980,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="227"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="234"/>
@@ -2309,12 +2309,12 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadmng.cpp" line="119"/>
         <source>downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>heruntergeladen</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadmng.cpp" line="120"/>
         <source>downloading</source>
-        <translation type="unfinished"></translation>
+        <translation>wird heruntergeladen</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadmng.cpp" line="121"/>
@@ -2337,7 +2337,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloaddlg.ui" line="35"/>
         <source>Update all lists</source>
-        <translation type="unfinished"></translation>
+        <translation>aktualisiere alle Listen</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloaddlg.ui" line="61"/>
@@ -2347,7 +2347,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloaddlg.ui" line="66"/>
         <source>Game databases</source>
-        <translation type="unfinished"></translation>
+        <translation>Partien Datenbank</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloaddlg.ui" line="71"/>
@@ -2362,7 +2362,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloaddlg.ui" line="92"/>
         <source>(if you are an author of chess engines/data and want to publish them on this system, contact us)</source>
-        <translation type="unfinished"></translation>
+        <translation>(wenn Sie Autor von Schach-Engines / Daten sind und diese auf diesem System veröffentlichen möchten, kontaktieren Sie uns)</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloaddlg.cpp" line="54"/>
@@ -2372,17 +2372,17 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloaddlg.cpp" line="54"/>
         <source>Cannot update the lists. Please try later!</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Listen können nicht aktualisiert werden. Bitte versuche es später!</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloaddlg.cpp" line="67"/>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Erfolg</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloaddlg.cpp" line="67"/>
         <source>All lists are updated!</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Listen wurden aktualisiert!</translation>
     </message>
 </context>
 <context>
@@ -2403,7 +2403,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloaditemwidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloaditemwidget.ui" line="41"/>
@@ -2447,7 +2447,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="183"/>
         <source>downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>heruntergeladen</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="186"/>
@@ -2480,7 +2480,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="43"/>
@@ -2495,7 +2495,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="67"/>
         <source>Concurrency:</source>
-        <translation type="unfinished"></translation>
+        <translation>Parallelität:</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="108"/>
@@ -2570,7 +2570,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="213"/>
         <source>Downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>heruntergeladen</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="269"/>
@@ -2671,7 +2671,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="609"/>
         <source>Downloaded: %1%2; Selected: %3%4</source>
-        <translation type="unfinished"></translation>
+        <translation>heruntergeladen: %1%2; ausgewählt: %3%4</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="672"/>
@@ -2704,7 +2704,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadtablemodel.cpp" line="88"/>
         <source>type</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadtablemodel.cpp" line="90"/>
@@ -2717,7 +2717,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadwidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadwidget.ui" line="75"/>
@@ -2727,7 +2727,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadwidget.ui" line="87"/>
         <source>Browser...</source>
-        <translation type="unfinished"></translation>
+        <translation>Browser...</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadwidget.ui" line="105"/>
@@ -2930,7 +2930,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="202"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="204"/>
@@ -2948,7 +2948,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="143"/>
         <source>String cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeichenfolge darf nicht leer sein</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="157"/>
@@ -2958,7 +2958,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="177"/>
         <source>Incorrect protocol string</source>
-        <translation type="unfinished"></translation>
+        <translation>falsche Protokollzeichenfolge</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="197"/>
@@ -2988,7 +2988,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="219"/>
         <source>Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommando</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="221"/>
@@ -3001,17 +3001,17 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/comm/enginelogwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/comm/enginelogwidget.ui" line="47"/>
         <source>Engine&apos;s side</source>
-        <translation type="unfinished"></translation>
+        <translation>Engine Seite</translation>
     </message>
     <message>
         <location filename="../../ui/comm/enginelogwidget.ui" line="60"/>
         <source>Send strings directly to engines (enter to send)</source>
-        <translation type="unfinished"></translation>
+        <translation>sende Zeichenfolgen direkt an Engines (Enter zum Senden)</translation>
     </message>
     <message>
         <location filename="../../ui/comm/enginelogwidget.cpp" line="81"/>
@@ -3029,7 +3029,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/enginemanagementwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/settings/enginemanagementwidget.ui" line="66"/>
@@ -3173,7 +3173,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/engineoveraloptionwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoveraloptionwidget.ui" line="41"/>
@@ -3203,7 +3203,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/engineoveraloptionwidget.ui" line="199"/>
         <source>Cores:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kerne:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoveraloptionwidget.cpp" line="49"/>
@@ -3236,7 +3236,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/comm/evaltablemodel.cpp" line="213"/>
         <source>pv</source>
-        <translation type="unfinished"></translation>
+        <translation>PV</translation>
     </message>
 </context>
 <context>
@@ -3244,7 +3244,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="82"/>
@@ -3269,7 +3269,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="179"/>
         <source>cores/threads</source>
-        <translation type="unfinished"></translation>
+        <translation>Kerne/Threads</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="182"/>
@@ -3279,7 +3279,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="201"/>
         <source>hash size</source>
-        <translation type="unfinished"></translation>
+        <translation>Hash Größe</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="204"/>
@@ -3347,7 +3347,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/comm/evalwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3398,7 +3398,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/tools/filelistselector.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3482,12 +3482,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="784"/>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>trennen</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="786"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>verbinden</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="832"/>
@@ -3561,12 +3561,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="186"/>
         <source>from:</source>
-        <translation type="unfinished"></translation>
+        <translation>von:</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="209"/>
         <source>to:</source>
-        <translation type="unfinished"></translation>
+        <translation>bis:</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="247"/>
@@ -3606,7 +3606,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="376"/>
         <source>Formula:</source>
-        <translation type="unfinished"></translation>
+        <translation>Formel:</translation>
     </message>
 </context>
 <context>
@@ -3614,7 +3614,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="76"/>
@@ -3644,7 +3644,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="160"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>verbinden</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="180"/>
@@ -3876,12 +3876,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsgametablemodel.cpp" line="191"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsgametablemodel.cpp" line="193"/>
         <source>Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Länge</translation>
     </message>
 </context>
 <context>
@@ -3899,7 +3899,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsplayertablemodel.cpp" line="99"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ</translation>
     </message>
 </context>
 <context>
@@ -3937,12 +3937,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsresulttableviewmodel.cpp" line="135"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsresulttableviewmodel.cpp" line="137"/>
         <source>Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Länge</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsresulttableviewmodel.cpp" line="139"/>
@@ -3957,7 +3957,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsresulttableviewmodel.cpp" line="143"/>
         <source>Reason</source>
-        <translation type="unfinished"></translation>
+        <translation>Grund</translation>
     </message>
 </context>
 <context>
@@ -3965,7 +3965,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsresultwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsresultwidget.ui" line="37"/>
@@ -4023,7 +4023,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsseekingplayertablemodel.cpp" line="124"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsseekingplayertablemodel.cpp" line="126"/>
@@ -4041,12 +4041,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icstelnet.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/ics/icstelnet.ui" line="47"/>
         <source>Enter a command then press enter to send</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie einen Befehl ein und drücken Sie zum Senden die Eingabetaste</translation>
     </message>
 </context>
 <context>
@@ -4092,7 +4092,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icswidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/ics/icswidget.ui" line="39"/>
@@ -4115,7 +4115,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/comm/jeiqibarwidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -4131,7 +4131,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/comm/jsontablewidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -4374,7 +4374,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotgamewidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotgamewidget.ui" line="65"/>
@@ -4422,7 +4422,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotlogwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -4473,7 +4473,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotmngwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotmngwidget.ui" line="47"/>
@@ -4628,7 +4628,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotwidget.ui" line="39"/>
@@ -4646,7 +4646,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/logviewerwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/logviewerwidget.ui" line="22"/>
@@ -4829,7 +4829,7 @@ correspondent board</source>
         <location filename="../../main/mainwindow.ui" line="214"/>
         <location filename="../../main/mainwindow.ui" line="1370"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbinden</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="227"/>
@@ -5619,7 +5619,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="17"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="57"/>
@@ -5878,7 +5878,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="14"/>
         <source>Local net players</source>
-        <translation type="unfinished"></translation>
+        <translation>Spieler im lokalen Netz</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="43"/>
@@ -5888,7 +5888,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="74"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>verbinden</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="81"/>
@@ -5914,7 +5914,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="111"/>
         <source>connect</source>
-        <translation type="unfinished"></translation>
+        <translation>verbinden</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="118"/>
@@ -5924,7 +5924,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="121"/>
         <source>show games</source>
-        <translation type="unfinished"></translation>
+        <translation>zeige Partien</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="128"/>
@@ -6288,7 +6288,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/playerselectionwidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/settings/playerselectionwidget.ui" line="55"/>
@@ -6591,7 +6591,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="37"/>
@@ -6684,7 +6684,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="47"/>
@@ -6881,12 +6881,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="919"/>
         <source>Standard Algebraic</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard algebraisch</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="924"/>
         <source>Coordinate</source>
-        <translation type="unfinished"></translation>
+        <translation>Koordinate</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="929"/>
@@ -7049,7 +7049,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="48"/>
@@ -7166,7 +7166,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="59"/>
@@ -7365,7 +7365,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="65"/>
         <source>Auto play opening book moves</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">auto play Eröffnungsbuchzüge</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="78"/>
@@ -7404,17 +7404,17 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="254"/>
         <source>Winning color</source>
-        <translation type="unfinished"></translation>
+        <translation>Sieg Farbe</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="279"/>
         <source>Draw color</source>
-        <translation type="unfinished"></translation>
+        <translation>Remis Farbe</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="304"/>
         <source>Losing color</source>
-        <translation type="unfinished"></translation>
+        <translation>Niederlage Farbe</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="375"/>
@@ -7584,7 +7584,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/comm/statswidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -8247,7 +8247,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="17"/>
@@ -8479,7 +8479,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.cpp" line="173"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.cpp" line="175"/>
