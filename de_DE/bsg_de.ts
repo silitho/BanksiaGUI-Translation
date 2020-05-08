@@ -3236,7 +3236,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/comm/evaltablemodel.cpp" line="213"/>
         <source>pv</source>
-        <translation>PV</translation>
+        <translation>Vorschau</translation>
     </message>
 </context>
 <context>
@@ -3299,7 +3299,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="267"/>
         <source>show board for pv moves</source>
-        <translation type="unfinished"></translation>
+        <translation>zeige Board für Vorschau</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="287"/>
@@ -4829,7 +4829,7 @@ correspondent board</source>
         <location filename="../../main/mainwindow.ui" line="214"/>
         <location filename="../../main/mainwindow.ui" line="1370"/>
         <source>Connect</source>
-        <translation>Verbinden</translation>
+        <translation>Verbindung</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="227"/>
@@ -4914,7 +4914,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="696"/>
         <source>Pv board</source>
-        <translation>Preview Board</translation>
+        <translation>Vorschau Board</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="705"/>
@@ -8283,7 +8283,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="202"/>
         <source>number of concurrent games, 0 is to pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl paralleler Partien, 0 zum Pausieren</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="250"/>
@@ -8293,7 +8293,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="263"/>
         <source>Drag &amp; drop to change item orders; Right click for popup menu</source>
-        <translation type="unfinished"></translation>
+        <translation>drag &amp; drop zum Ändern der Reihenfolge, Rechtsklick für Popup Menü</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="168"/>
@@ -8323,7 +8323,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="331"/>
         <source>Tournament in progress</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Turnier läuft</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="331"/>
@@ -8390,7 +8390,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="443"/>
         <source>Play %1 selected game%2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">spiele %1 ausgewählte Partie%2</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="447"/>
