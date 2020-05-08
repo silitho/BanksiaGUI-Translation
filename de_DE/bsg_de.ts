@@ -3178,7 +3178,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/engineoveraloptionwidget.ui" line="41"/>
         <source>Overall options</source>
-        <translation type="unfinished"></translation>
+        <translation>allgemeine Einstellungen</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoveraloptionwidget.ui" line="64"/>
@@ -5424,7 +5424,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1471"/>
         <source>Theme Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Design Farbe</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1476"/>
@@ -5434,7 +5434,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1479"/>
         <source>Theme Wood</source>
-        <translation type="unfinished"></translation>
+        <translation>Design Holz</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1484"/>
@@ -5444,7 +5444,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1487"/>
         <source>Theme Marble</source>
-        <translation type="unfinished"></translation>
+        <translation>Design Marmor</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1492"/>
@@ -5454,7 +5454,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1495"/>
         <source>Theme Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Design Grün</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1500"/>
@@ -5464,7 +5464,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1503"/>
         <source>Theme Ocean</source>
-        <translation type="unfinished"></translation>
+        <translation>Design Ozean</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1508"/>
@@ -5474,7 +5474,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1511"/>
         <source>Theme Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Design Gelb</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1516"/>
@@ -5484,7 +5484,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1519"/>
         <source>Theme Zen</source>
-        <translation type="unfinished"></translation>
+        <translation>Design Zen</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1524"/>
@@ -5494,7 +5494,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1527"/>
         <source>Theme Nature</source>
-        <translation type="unfinished"></translation>
+        <translation>Design Natur</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1532"/>
@@ -5504,12 +5504,12 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1535"/>
         <source>Theme Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Design Rot</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1543"/>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1546"/>
@@ -5634,17 +5634,17 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="67"/>
         <source>Dark marble</source>
-        <translation>dunkler Marmor</translation>
+        <translation>Marmor dunkel</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="72"/>
         <source>Peach marble</source>
-        <translation>heller Marmor</translation>
+        <translation>Marmor hell</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="77"/>
         <source>Bronze marble</source>
-        <translation type="unfinished"></translation>
+        <translation>Marmor bronze</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="82"/>
@@ -5690,7 +5690,7 @@ correspondent board</source>
         <location filename="../../ui/settings/matselector.ui" line="159"/>
         <location filename="../../ui/settings/matselector.ui" line="193"/>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>kacheln</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.cpp" line="168"/>
@@ -5700,7 +5700,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/matselector.cpp" line="170"/>
         <source>Image Files (*.png *.jpg *.jpeg *.tif *.bmp);; JPEG (*.jpg *.jpeg);; PNG (*.png);; TIFF (*.tif);; All files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilddateien (*.png *.jpg *.jpeg *.tif *.bmp);; JPEG (*.jpg *.jpeg);; PNG (*.png);; TIFF (*.tif);; alle Dateien (*.*)</translation>
     </message>
 </context>
 <context>
@@ -5709,18 +5709,18 @@ correspondent board</source>
         <location filename="../../ui/settings.cpp" line="670"/>
         <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="171"/>
         <source>Dark marble</source>
-        <translation>dunkler Marmor</translation>
+        <translation>Marmor dunkel</translation>
     </message>
     <message>
         <location filename="../../ui/settings.cpp" line="671"/>
         <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="172"/>
         <source>Peach marble</source>
-        <translation>heller Marmor</translation>
+        <translation>Marmor hell</translation>
     </message>
     <message>
         <location filename="../../ui/settings.cpp" line="672"/>
         <source>Bronze marble</source>
-        <translation type="unfinished"></translation>
+        <translation>Marmor bronze</translation>
     </message>
     <message>
         <location filename="../../ui/settings.cpp" line="673"/>
@@ -7112,7 +7112,7 @@ Are you sure?</source>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="277"/>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="442"/>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>kacheln</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="288"/>
@@ -7128,7 +7128,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="317"/>
         <source>Auto resize board</source>
-        <translation type="unfinished"></translation>
+        <translation>automatische Größenänderung</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="324"/>
@@ -7153,7 +7153,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="453"/>
         <source>Custom background image:</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="474"/>
@@ -7257,7 +7257,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="266"/>
         <source>default</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="275"/>
@@ -7277,12 +7277,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="365"/>
         <source>Base</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="392"/>
         <source>Show board base</source>
-        <translation type="unfinished"></translation>
+        <translation>zeige Rahmen</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="399"/>
@@ -7292,7 +7292,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="411"/>
         <source>Auto resize board</source>
-        <translation type="unfinished"></translation>
+        <translation>automatische Größenänderung</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="418"/>
@@ -7746,7 +7746,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="295"/>
         <source>For moves:</source>
-        <translation type="unfinished"></translation>
+        <translation>für Züge:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="322"/>
@@ -7825,7 +7825,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="210"/>
         <source>Use FEN for all matches</source>
-        <translation type="unfinished"></translation>
+        <translation>nutze FEN für alle Partien</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="213"/>
@@ -7846,7 +7846,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="237"/>
         <source>Use SAN moves for all matches</source>
-        <translation type="unfinished"></translation>
+        <translation>nutze SAN Züge für alle Partien</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="240"/>
@@ -8165,12 +8165,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourresultwidget.cpp" line="273"/>
         <source>#games: %1/%2</source>
-        <translation type="unfinished"></translation>
+        <translation>#Partien: %1/%2</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresultwidget.cpp" line="275"/>
         <source>, #fails: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>, #Fehlschläge: %1</translation>
     </message>
 </context>
 <context>
@@ -8337,7 +8337,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="354"/>
         <source>Delete all</source>
-        <translation type="unfinished"></translation>
+        <translation>alle löschen</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="358"/>
@@ -8354,7 +8354,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="370"/>
         <source>Reset all to reuse</source>
-        <translation type="unfinished"></translation>
+        <translation>alle zurücksetzen, wieder verwenden</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="374"/>
