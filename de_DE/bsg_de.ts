@@ -2768,7 +2768,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="20"/>
         <source>Edit board</source>
-        <translation type="unfinished"></translation>
+        <translation>Stellung aufbauen</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="28"/>
@@ -2778,12 +2778,12 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="35"/>
         <source>Copy, paste or edit</source>
-        <translation type="unfinished"></translation>
+        <translation>kopieren, einfügen oder ändern</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="45"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>kopieren</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="90"/>
@@ -2808,47 +2808,47 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="176"/>
         <source>white O-O</source>
-        <translation type="unfinished"></translation>
+        <translation>Weiß O-O</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="183"/>
         <source>white O-O-O</source>
-        <translation type="unfinished"></translation>
+        <translation>Weiß O-O-O</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="190"/>
         <source>black O-O</source>
-        <translation type="unfinished"></translation>
+        <translation>Schwarz O-O</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="197"/>
         <source>black O-O-O</source>
-        <translation type="unfinished"></translation>
+        <translation>Schwarz O-O-O</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="221"/>
         <source>Flip vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>umdrehen</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="228"/>
         <source>Full board</source>
-        <translation type="unfinished"></translation>
+        <translation>Grundstellung</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="235"/>
         <source>Clear all</source>
-        <translation type="unfinished"></translation>
+        <translation>leeren</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="244"/>
         <source>Drag pieces from left bar and drop to board to add</source>
-        <translation type="unfinished"></translation>
+        <translation>ziehe Figuren von der linken Seite auf das Brett zum Hinzufügen</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="251"/>
         <source>Drag pieces from board and drop out side to remove</source>
-        <translation type="unfinished"></translation>
+        <translation>ziehe Figuren vom Brett heraus zum Löschen</translation>
     </message>
 </context>
 <context>
@@ -4834,7 +4834,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="227"/>
         <source>Load/Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Laden/Speichern</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="248"/>
@@ -5009,12 +5009,12 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="914"/>
         <source>Edit Board</source>
-        <translation type="unfinished"></translation>
+        <translation>Stellung aufbauen</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="917"/>
         <source>Edit board</source>
-        <translation type="unfinished"></translation>
+        <translation>Stellung aufbauen</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="926"/>
@@ -5130,12 +5130,12 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1049"/>
         <source>Save Theme &amp;&amp; Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichere Design &amp;&amp; Layout</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1052"/>
         <source>Save theme and layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichere Design und Layout</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1061"/>
@@ -5236,7 +5236,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1210"/>
         <source>View opening book</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige Eröffnungsbuch</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1219"/>
@@ -5258,13 +5258,13 @@ correspondent board</source>
         <location filename="../../main/mainwindow.ui" line="1246"/>
         <location filename="../../main/mainwindow.ui" line="1249"/>
         <source>Xiangqi</source>
-        <translation type="unfinished"></translation>
+        <translation>Xiangqi</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1261"/>
         <location filename="../../main/mainwindow.ui" line="1264"/>
         <source>Jeiqi</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeiqi</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1272"/>
@@ -5280,12 +5280,12 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1291"/>
         <source>CXQ</source>
-        <translation type="unfinished"></translation>
+        <translation>CXQ</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1294"/>
         <source>Club Xiangqi</source>
-        <translation type="unfinished"></translation>
+        <translation>Club Xiangqi</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1302"/>
@@ -5306,12 +5306,12 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1324"/>
         <source>Thien thien tuong ky</source>
-        <translation type="unfinished"></translation>
+        <translation>Thien thien tuong ky</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1332"/>
         <source>Kydao</source>
-        <translation type="unfinished"></translation>
+        <translation>Kydao</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1337"/>
@@ -5399,12 +5399,12 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1452"/>
         <source>Flip On/Off All Docks</source>
-        <translation type="unfinished"></translation>
+        <translation>zeige/verberge alle Docks</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1455"/>
         <source>Show/hide all docks</source>
-        <translation type="unfinished"></translation>
+        <translation>zeige/verberge alle Docks</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1460"/>
@@ -5549,12 +5549,12 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1585"/>
         <source>Tournaments Load/Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Turniere laden/speichern</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1588"/>
         <source>Load, save, delete tournaments</source>
-        <translation type="unfinished"></translation>
+        <translation>Turniere laden, speichern, löschen</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1597"/>
@@ -5564,17 +5564,17 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1600"/>
         <source>Draw/offer draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Remis/ Remis anbieten</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1609"/>
         <source>Resign</source>
-        <translation type="unfinished"></translation>
+        <translation>aufgeben</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1612"/>
         <source>Resign/Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>aufgeben/abbrechen</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.cpp" line="77"/>
