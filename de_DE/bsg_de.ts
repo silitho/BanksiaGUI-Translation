@@ -8252,17 +8252,17 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="17"/>
         <source>Right click for popup menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtsklick für Popup Menü</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="104"/>
         <source>Resume</source>
-        <translation type="unfinished"></translation>
+        <translation>fortsetzen</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="142"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>nichts</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="147"/>
@@ -8277,7 +8277,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="189"/>
         <source>Concurrency:</source>
-        <translation type="unfinished"></translation>
+        <translation>Parallelität:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="202"/>
@@ -8307,7 +8307,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="246"/>
         <source>games: %1/%3; timer: %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Partien: %1/%3; Timer: %4</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="264"/>
@@ -8349,7 +8349,7 @@ Are you sure?</source>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="374"/>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="399"/>
         <source>Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sind Sie sicher?</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="370"/>
@@ -8364,7 +8364,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="390"/>
         <source>Reset selections</source>
-        <translation type="unfinished"></translation>
+        <translation>Auswahl zurücksetzen</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="398"/>
@@ -8374,17 +8374,17 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="413"/>
         <source>Edit JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>bearbeite JSON</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="418"/>
         <source>Hide preview board</source>
-        <translation type="unfinished"></translation>
+        <translation>verstecke Vorschau Board</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="418"/>
         <source>Show preview board</source>
-        <translation type="unfinished"></translation>
+        <translation>zeige Vorschau Board</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="443"/>
@@ -8394,12 +8394,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="447"/>
         <source>Play game %1</source>
-        <translation type="unfinished"></translation>
+        <translation>spiele Partie %1</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="483"/>
         <source>View engine-log of game %1</source>
-        <translation type="unfinished"></translation>
+        <translation>zeige Engine Log von Partie %1</translation>
     </message>
 </context>
 <context>
