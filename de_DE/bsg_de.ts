@@ -4117,7 +4117,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icswidget.ui" line="44"/>
         <source>Result</source>
-        <translation type="unfinished">Ergebnis</translation>
+        <translation>Ergebnis</translation>
     </message>
     <message>
         <source>Resullt</source>
@@ -4474,7 +4474,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotmngmodel.cpp" line="161"/>
         <source>#played</source>
-        <translation type="unfinished">#gespielt</translation>
+        <translation>#gespielt</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotmngmodel.cpp" line="163"/>
@@ -4502,7 +4502,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotmngwidget.ui" line="56"/>
         <source>Concurrency:</source>
-        <translation type="unfinished">Parallelität:</translation>
+        <translation>Parallelität:</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotmngwidget.ui" line="81"/>
@@ -4853,7 +4853,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="219"/>
         <source>Tournaments</source>
-        <translation type="unfinished"></translation>
+        <translation>Turniere</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="235"/>
