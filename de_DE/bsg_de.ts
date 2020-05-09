@@ -233,7 +233,7 @@
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="123"/>
         <source>Concurrency:</source>
-        <translation type="unfinished">Parallelität:</translation>
+        <translation>Parallelität:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="139"/>
@@ -1683,7 +1683,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="217"/>
         <source>Concurrency:</source>
-        <translation type="unfinished">Parallelität:</translation>
+        <translation>Parallelität:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="245"/>
@@ -8589,7 +8589,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/updateallenginedlg.ui" line="45"/>
         <source>Concurrency:</source>
-        <translation type="unfinished">Parallelität:</translation>
+        <translation>Parallelität:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/updateallenginedlg.cpp" line="89"/>
