@@ -1981,12 +1981,12 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/custompieceselectordlg.ui" line="14"/>
         <source>Custom pieces</source>
-        <translation type="unfinished"></translation>
+        <translation>eigene Figuren</translation>
     </message>
     <message>
         <location filename="../../ui/settings/custompieceselectordlg.ui" line="38"/>
         <source>A SVG file contains all piece images:</source>
-        <translation type="unfinished"></translation>
+        <translation>eine SVG Datei enthält alle Figurenbilder:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/custompieceselectordlg.ui" line="75"/>
@@ -1996,7 +1996,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/custompieceselectordlg.ui" line="107"/>
         <source>Multi files, one piece image per file</source>
-        <translation type="unfinished"></translation>
+        <translation>mehrere Dateien, ein Figurenbild pro Datei</translation>
     </message>
     <message>
         <location filename="../../ui/settings/custompieceselectordlg.ui" line="149"/>
@@ -5797,7 +5797,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="57"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>eigene</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="62"/>
@@ -5857,7 +5857,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="134"/>
         <source>Click to select</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken zur Auswahl</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="159"/>
@@ -5868,7 +5868,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/matselector.cpp" line="171"/>
         <source>Choose File</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei auswählen</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.cpp" line="173"/>
@@ -7322,7 +7322,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1474"/>
         <source>Custom arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>eigene Pfeile</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1344"/>
