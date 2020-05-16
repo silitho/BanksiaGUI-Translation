@@ -1078,12 +1078,12 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="66"/>
         <source>auto</source>
-        <translation type="unfinished">auto</translation>
+        <translation>auto</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="79"/>
         <source>Refresh the game list</source>
-        <translation type="unfinished"></translation>
+        <translation>aktualisiere Partieliste</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="82"/>
@@ -1109,7 +1109,7 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="175"/>
         <source>Double click to open, right click for menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Doppelklick zum Öffnen, Rechtsklick für Menü</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="201"/>
@@ -1119,7 +1119,7 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="211"/>
         <source>Type a message then enter to send</source>
-        <translation type="unfinished"></translation>
+        <translation>tippe eine Nachricht, drücke Enter zum Senden</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="231"/>
@@ -1129,7 +1129,7 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="231"/>
         <source>Cannot connect, please try later</source>
-        <translation type="unfinished"></translation>
+        <translation>kann keine Verbindung herstellen, bitte versuchen Sie es später</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="286"/>
@@ -1149,17 +1149,17 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="439"/>
         <source>&lt;font color=&quot;darkgreen&quot;&gt;%1 has joined&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;font color=&quot;darkgreen&quot;&gt;%1 ist hinzugekommen&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="441"/>
         <source>&lt;font color=&quot;indianred&quot;&gt;%1 has left&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;font color=&quot;indianred&quot;&gt;%1 ist gegangen&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="518"/>
         <source>&lt;b&gt;%1&lt;/b&gt;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt;: %2</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="526"/>
@@ -1179,7 +1179,7 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="605"/>
         <source>Remove game %1</source>
-        <translation type="unfinished"></translation>
+        <translation>entferne Partie %1</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="618"/>
@@ -1189,7 +1189,7 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="624"/>
         <source>Preview game %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorschau Partie %1</translation>
     </message>
 </context>
 <context>
@@ -1755,27 +1755,27 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="104"/>
         <source>Round Robin</source>
-        <translation type="unfinished"></translation>
+        <translation>Round Robin</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="109"/>
         <source>Knockout</source>
-        <translation type="unfinished"></translation>
+        <translation>Knockout</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="114"/>
         <source>Swiss</source>
-        <translation type="unfinished"></translation>
+        <translation>Swiss</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="119"/>
         <source>Gauntlet</source>
-        <translation type="unfinished"></translation>
+        <translation>Gauntlet</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="127"/>
         <source>Swiss rounds:</source>
-        <translation type="unfinished"></translation>
+        <translation>Swiss Runden:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="167"/>
@@ -1795,7 +1795,7 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="245"/>
         <source>Shuffle:</source>
-        <translation type="unfinished"></translation>
+        <translation>mischen:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="265"/>
@@ -1825,7 +1825,7 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="310"/>
         <source>Site to write to PGN file</source>
-        <translation type="unfinished"></translation>
+        <translation>Austragungsort für PGN Datei</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="320"/>
@@ -1835,7 +1835,7 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="327"/>
         <source>Event to write to PGN file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ereignis für PGN Datei</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="440"/>
@@ -1845,7 +1845,7 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="447"/>
         <source>Adjudication:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entscheidung:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="466"/>
@@ -1892,17 +1892,17 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="865"/>
         <source>Copy selected engines or all</source>
-        <translation type="unfinished"></translation>
+        <translation>kopiere ausgewählte Engines oder alle</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="879"/>
         <source>Remove selected engines or all</source>
-        <translation type="unfinished"></translation>
+        <translation>entferne ausgewählte Engines oder alle</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="950"/>
         <source>Double click to pickup engines</source>
-        <translation type="unfinished"></translation>
+        <translation>Doppelklick um Engines aufzunehmen</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="67"/>
@@ -1966,17 +1966,17 @@ Turnier beenden?</translation>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="680"/>
         <source>One participant must be ticked as the gauntlet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ein Teilnehmer muss als Gauntlet markiert werden</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="690"/>
         <source>Generating match list...</source>
-        <translation type="unfinished"></translation>
+        <translation>Erzeuge Turnierliste...</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="701"/>
         <source>(Warning: A tournament is playing. Editing may affect it)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Warnung: Ein Turnier wird gespielt. Die Bearbeitung kann sich darauf auswirken.)</translation>
     </message>
 </context>
 <context>
@@ -6072,12 +6072,12 @@ correspondent board</source>
         <location filename="../../ui/net/netwidget.ui" line="81"/>
         <location filename="../../ui/net/netwidget.ui" line="91"/>
         <source>Move increase time for remote engines</source>
-        <translation type="unfinished"></translation>
+        <translation>erhöhe Zugzeit für entfernte Engines</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="84"/>
         <source>Add time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeit hinzufügen:</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="94"/>
@@ -6087,7 +6087,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="104"/>
         <source>Auto:</source>
-        <translation type="unfinished"></translation>
+        <translation>auto:</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="111"/>
@@ -6097,7 +6097,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="118"/>
         <source>Auto show new games</source>
-        <translation type="unfinished"></translation>
+        <translation>automatisch neue Partien anzeigen</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="121"/>
@@ -6107,12 +6107,12 @@ correspondent board</source>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="128"/>
         <source>Auto close completed games</source>
-        <translation type="unfinished"></translation>
+        <translation>automatisch beendete Partien schließen</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="131"/>
         <source>close</source>
-        <translation type="unfinished"></translation>
+        <translation>schließen</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="158"/>
@@ -6127,7 +6127,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="178"/>
         <source>Player for passive games/created by other computers</source>
-        <translation type="unfinished"></translation>
+        <translation>Spieler für passive Partien / erstellt von anderen Computern</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="185"/>
@@ -6142,17 +6142,17 @@ correspondent board</source>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="256"/>
         <source>Net users</source>
-        <translation type="unfinished"></translation>
+        <translation>Netz Nutzer</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="283"/>
         <source>Net games</source>
-        <translation type="unfinished"></translation>
+        <translation>Netz Partien</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="303"/>
         <source>Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Ereignisse</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="323"/>
@@ -6162,17 +6162,17 @@ correspondent board</source>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="333"/>
         <source>Type a message then enter to send</source>
-        <translation type="unfinished"></translation>
+        <translation>tippe eine Nachricht, drücke Enter zum Senden</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.cpp" line="523"/>
         <source>* %1 has joined</source>
-        <translation type="unfinished"></translation>
+        <translation>* %1 ist hinzugekommen</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.cpp" line="547"/>
         <source>* %1 has left</source>
-        <translation type="unfinished"></translation>
+        <translation>* %1 ist gegangen</translation>
     </message>
 </context>
 <context>
