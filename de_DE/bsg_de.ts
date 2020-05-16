@@ -71,7 +71,7 @@
     <message>
         <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="330"/>
         <source>Credits:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anerkennung:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/aboutbanksiadlg.cpp" line="22"/>
@@ -735,7 +735,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/dev/benchmarkenginetablemodel.cpp" line="116"/>
         <source>Cmd</source>
-        <translation>Kommano</translation>
+        <translation>Kommando</translation>
     </message>
 </context>
 <context>
@@ -743,7 +743,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="14"/>
         <source>Run benchmark/command</source>
-        <translation type="unfinished"></translation>
+        <translation>Benchmark/Kommando ausführen</translation>
     </message>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="27"/>
@@ -753,7 +753,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="58"/>
         <source>Cmd:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommando:</translation>
     </message>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="65"/>
@@ -764,17 +764,17 @@ Cannot analyse this game</source>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="76"/>
         <location filename="../../ui/dev/benchmarkwidget.cpp" line="144"/>
         <source>Run</source>
-        <translation type="unfinished">ausführen</translation>
+        <translation>ausführen</translation>
     </message>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="96"/>
         <source>Always on top</source>
-        <translation type="unfinished">immer im Vordergrund</translation>
+        <translation>immer im Vordergrund</translation>
     </message>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="111"/>
         <source>Output:</source>
-        <translation type="unfinished">Ausgabe:</translation>
+        <translation>Ausgabe:</translation>
     </message>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="118"/>
@@ -789,7 +789,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="135"/>
         <source>clear</source>
-        <translation type="unfinished"></translation>
+        <translation>leeren</translation>
     </message>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.cpp" line="144"/>
@@ -1788,7 +1788,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="217"/>
         <source>Concurrency:</source>
-        <translation type="unfinished">Parallelität:</translation>
+        <translation>Parallelität:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="245"/>
@@ -3199,7 +3199,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/enginemanagementwidget.ui" line="127"/>
         <source>all</source>
-        <translation>alle</translation>
+        <translation>alle aktualisieren</translation>
     </message>
     <message>
         <location filename="../../ui/settings/enginemanagementwidget.ui" line="259"/>
@@ -4925,12 +4925,12 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="99"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>eigenes Design</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="106"/>
         <source>Recent Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzte Dateien</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="143"/>
@@ -5182,67 +5182,67 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="917"/>
         <source>Go first</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehe zum Anfang der Partie</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="920"/>
         <source>go first</source>
-        <translation type="unfinished"></translation>
+        <translation>gehe zum Ende der Partie</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="923"/>
         <source>Ctrl+Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl + links</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="932"/>
         <source>Go previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehe zum vorherigen Zug</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="935"/>
         <source>go previous</source>
-        <translation type="unfinished"></translation>
+        <translation>gehe zum vorherigen Zug</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="938"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>links</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="947"/>
         <source>Go next</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehe zum nächsten Zug</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="950"/>
         <source>go next</source>
-        <translation type="unfinished"></translation>
+        <translation>gehe zum nächsten Zug</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="953"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>rechts</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="962"/>
         <source>Go last</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehe zum Ende der Partie</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="965"/>
         <source>go last</source>
-        <translation type="unfinished"></translation>
+        <translation>gehe zum Ende der Partie</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="968"/>
         <source>Ctrl+Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl + rechts</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="977"/>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>drehen</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="980"/>
@@ -5304,7 +5304,7 @@ correspondent board</source>
         <location filename="../../main/mainwindow.ui" line="1052"/>
         <location filename="../../main/mainwindow.ui" line="1055"/>
         <source>Stop Analysis</source>
-        <translation type="unfinished"></translation>
+        <translation>Analyse anhalten</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1060"/>
@@ -5484,7 +5484,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1339"/>
         <source>Clear Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Eintäge löschen</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1344"/>
@@ -5567,7 +5567,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1437"/>
         <source>Copy the game as a list of EPD</source>
-        <translation type="unfinished"></translation>
+        <translation>kopiere Partie als Liste von EPD</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1442"/>
@@ -7567,48 +7567,48 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="119"/>
         <source>Celtic (svg)</source>
-        <translation type="unfinished"></translation>
+        <translation>Celtic (svg)</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="124"/>
         <source>Eyes (svg)</source>
-        <translation type="unfinished"></translation>
+        <translation>Eyes (svg)</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="129"/>
         <source>Fantasy (svg)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fantasy (svg)</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="134"/>
         <source>Fantasy alt (svg)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fantasy alt (svg)</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="139"/>
         <source>Freak (svg)</source>
-        <translation type="unfinished"></translation>
+        <translation>Freak (svg)</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="144"/>
         <source>Prmi (svg)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prmi (svg)</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="149"/>
         <source>Skulls (svg)</source>
-        <translation type="unfinished"></translation>
+        <translation>Skulls (svg)</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="154"/>
         <source>Spatial (svg)</source>
-        <translation type="unfinished"></translation>
+        <translation>Spatial (svg)</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="159"/>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="167"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>eigene</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="174"/>
@@ -7716,13 +7716,13 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="204"/>
         <source>Custom image</source>
-        <translation type="unfinished"></translation>
+        <translation>eigenes Bild</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="276"/>
         <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="430"/>
         <source>Choose File</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei auswählen</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="278"/>
@@ -7810,7 +7810,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="462"/>
         <source>Double click to edit, drag / drop to re-order</source>
-        <translation type="unfinished"></translation>
+        <translation>Doppelklick zum ändern, drag &amp; drop zum neu ordnen</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.cpp" line="92"/>
@@ -7821,12 +7821,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.cpp" line="93"/>
         <source>Book may be existant already or broken!</source>
-        <translation type="unfinished"></translation>
+        <translation>Buch kann bereits vorhanden oder defekt sein!</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.cpp" line="103"/>
         <source>Book may be existant already!</source>
-        <translation type="unfinished"></translation>
+        <translation>Buch kann bereits vorhanden sein!</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.cpp" line="191"/>
@@ -7882,7 +7882,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="67"/>
         <source>Simple sound</source>
-        <translation type="unfinished"></translation>
+        <translation>einfacher Sound</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="74"/>
@@ -7947,7 +7947,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="392"/>
         <source>Test sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Sound testen</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="414"/>
@@ -8020,7 +8020,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/dlg/textdlg.ui" line="52"/>
         <source>copy</source>
-        <translation type="unfinished"></translation>
+        <translation>kopieren</translation>
     </message>
 </context>
 <context>
@@ -8033,17 +8033,17 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/dlg/thewidgetdialog.cpp" line="132"/>
         <source>MoonRiver Opening Book Files (*.mrob);;Obk Opening Book Files (*.obk);;All known Opening Book files (*.mrob *.obk);;All files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>MoonRiver Eröffnungsbuchdateien (*.mrob);;Obk Eröffnungsbuchdateien (*.obk);;alle bekannten Eröffnungsbuchdateien (*.mrob *.obk);;alle Dateien (*.*)</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/thewidgetdialog.cpp" line="138"/>
         <source>All known Game Database files (*.bgdb *.pgn);;Banksia Game Database Files (*.bgdb);; PGN Files (*.pgn);;All files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>alle bekannten Partie Datenbankdateien (*.bgdb *.pgn);;Banksia Partie Datenbankdateien (*.bgdb);; PGN Dateien (*.pgn);;alle Dateien (*.*)</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/thewidgetdialog.cpp" line="140"/>
         <source>Xiangqi Game Database Files (*.xqdb);; All files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Xiangqi Partie Datenbankdateien (*.xqdb);; alle Dateien (*.*)</translation>
     </message>
 </context>
 <context>
@@ -8147,7 +8147,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="415"/>
         <source>Warning: Winboard engines don&apos;t support Nodes mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Warnung: Winboard Engines unterstützen den Nodes Modus nicht</translation>
     </message>
 </context>
 <context>
@@ -8160,7 +8160,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="56"/>
         <source>Select type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ auswählen:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="80"/>
@@ -8221,7 +8221,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="225"/>
         <source>FEN used as opening for all games</source>
-        <translation type="unfinished"></translation>
+        <translation>FEN als Eröffnung für alle Partien nutzen</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="237"/>
@@ -8236,7 +8236,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="252"/>
         <source>SAN moves used as opening for all games</source>
-        <translation type="unfinished"></translation>
+        <translation>SAN Züge als Eröffnung für alle Partien nutzen</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="300"/>
@@ -8282,7 +8282,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="113"/>
         <source>Seed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seed:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="510"/>
@@ -8292,7 +8292,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourbookdlg.cpp" line="74"/>
         <source>Select polyglot book</source>
-        <translation type="unfinished"></translation>
+        <translation>Polyglot Buch auswählen</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.cpp" line="75"/>
@@ -8302,7 +8302,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourbookdlg.cpp" line="78"/>
         <source>Select PGN book</source>
-        <translation type="unfinished"></translation>
+        <translation>PGN Buch auswählen</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.cpp" line="79"/>
@@ -8312,7 +8312,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourbookdlg.cpp" line="82"/>
         <source>Select EPD book</source>
-        <translation type="unfinished"></translation>
+        <translation>EPD Buch auswählen</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.cpp" line="83"/>
@@ -8373,7 +8373,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourenginemodel.cpp" line="180"/>
         <source>Locked</source>
-        <translation type="unfinished"></translation>
+        <translation>gesperrt</translation>
     </message>
 </context>
 <context>
@@ -8411,7 +8411,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourlogdlg.cpp" line="73"/>
         <source>%1 log files will be deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Log Dateien werden gelösct</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourlogdlg.cpp" line="74"/>
@@ -8421,12 +8421,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourlogdlg.cpp" line="84"/>
         <source>No Existent</source>
-        <translation type="unfinished"></translation>
+        <translation>nicht vorhanden</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourlogdlg.cpp" line="84"/>
         <source>All log files are not existent</source>
-        <translation type="unfinished"></translation>
+        <translation>alle Log Dateien sind nicht vorhanden</translation>
     </message>
 </context>
 <context>
@@ -8535,7 +8535,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="77"/>
         <source>copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text kopieren</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="114"/>
@@ -8545,12 +8545,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="143"/>
         <source>Cross</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="172"/>
         <source>Tech</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="201"/>
@@ -8707,7 +8707,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="168"/>
         <source>Cannot parse JSON string, ignored!</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON Zeichenfolge kann nicht analysiert werden -wird ignoriert!</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="246"/>
@@ -8727,12 +8727,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="331"/>
         <source>Tournament in progress</source>
-        <translation type="unfinished">Turnier läuft</translation>
+        <translation>Turnier läuft</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="331"/>
         <source>Error: You can&apos;t do this action when a tournament playing</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler: Sie können diese Aktion nicht ausführen während ein Turnier läuft</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="340"/>
@@ -8747,7 +8747,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="358"/>
         <source>All tournament records will be deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>alle Turnierdatensätze werden gelöscht</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="358"/>
@@ -8764,7 +8764,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="374"/>
         <source>All tournament records will be reset</source>
-        <translation type="unfinished"></translation>
+        <translation>alle Turnierdatensätze werden zurückgesetzt</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="390"/>
@@ -8774,7 +8774,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="398"/>
         <source>%1 records will be reset</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Datensatz wird zurückgesetzt</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="413"/>
@@ -8912,12 +8912,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/updateallenginedlg.ui" line="14"/>
         <source>Update All Engines Options</source>
-        <translation type="unfinished"></translation>
+        <translation>alle Engine Optionen aktualisieren</translation>
     </message>
     <message>
         <location filename="../../ui/settings/updateallenginedlg.ui" line="20"/>
         <source>All engines will be run to update their option lists</source>
-        <translation type="unfinished"></translation>
+        <translation>alle Engines werden ausgeführt, um ihre Optionslisten zu aktualisieren</translation>
     </message>
     <message>
         <location filename="../../ui/settings/updateallenginedlg.ui" line="45"/>
@@ -8932,7 +8932,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/updateallenginedlg.cpp" line="89"/>
         <source>Update</source>
-        <translation></translation>
+        <translation>aktualisieren</translation>
     </message>
 </context>
 </TS>
