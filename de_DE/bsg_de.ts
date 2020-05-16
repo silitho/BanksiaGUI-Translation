@@ -855,7 +855,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="179"/>
         <source>Copy PGN into clipboard</source>
-        <translation>Kopiere PGN in die Zwischenablage</translation>
+        <translation>kopiere PGN in die Zwischenablage</translation>
     </message>
 </context>
 <context>
@@ -1251,32 +1251,32 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="26"/>
         <source>Opening Book Builder</source>
-        <translation type="unfinished"></translation>
+        <translation>Eröffnungsbuch Builder</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="53"/>
         <source>Task:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufgabe:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="75"/>
         <source>Create New or Add to Existent Opening Book</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu erstellen oder zum vorhandenen Eröffnungsbuch hinzufügen</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="80"/>
         <source>Create New Opening Book (overwrite existant one)</source>
-        <translation type="unfinished"></translation>
+        <translation>Neues Eröffnungsbuch erstellen (vorhandenes überschreiben)</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="85"/>
         <source>Merge Openings</source>
-        <translation>Mische Eröffnungen</translation>
+        <translation>mische Eröffnungen</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="90"/>
         <source>Convert</source>
-        <translation type="unfinished"></translation>
+        <translation>konvertieren</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="114"/>
@@ -1299,27 +1299,27 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="145"/>
         <source>From book folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>von Buchverzeichnis:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="166"/>
         <source>Game conditions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Partiebedingungen:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="197"/>
         <source>min player Elo</source>
-        <translation type="unfinished"></translation>
+        <translation>minimales Spieler Elo</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="227"/>
         <source>min game length (ply)</source>
-        <translation type="unfinished"></translation>
+        <translation>minimale Partielänge (ply)</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="257"/>
         <source>repeat at least</source>
-        <translation type="unfinished"></translation>
+        <translation>wiederhole mindestens</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="273"/>
@@ -1329,7 +1329,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="280"/>
         <source>Book format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Buchformat:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="292"/>
@@ -1349,22 +1349,22 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="319"/>
         <source>MoonRiver</source>
-        <translation type="unfinished"></translation>
+        <translation>MoonRiver</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="335"/>
         <source>Obk</source>
-        <translation type="unfinished"></translation>
+        <translation>Obk</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="344"/>
         <source>Book file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Buchdatei:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="375"/>
         <source>Rule:</source>
-        <translation type="unfinished"></translation>
+        <translation>Regel:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="391"/>
@@ -1399,12 +1399,12 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="462"/>
         <source>for white</source>
-        <translation type="unfinished"></translation>
+        <translation>fürWeiß</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="469"/>
         <source>for black</source>
-        <translation type="unfinished"></translation>
+        <translation>für Schwarz</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="515"/>
@@ -1429,12 +1429,12 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="817"/>
         <source>From book file:</source>
-        <translation type="unfinished"></translation>
+        <translation>von Buchdatei:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="606"/>
         <source>Game result factors (0 = ignored):</source>
-        <translation type="unfinished"></translation>
+        <translation>Partieergebnis Faktoren (0 = ignorieren):</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="630"/>
@@ -1449,7 +1449,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="700"/>
         <source>loss:</source>
-        <translation type="unfinished">Niederlage:</translation>
+        <translation>Niederlage:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="725"/>
@@ -1459,7 +1459,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="736"/>
         <source>ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>ignorieren</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="741"/>
@@ -1474,7 +1474,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="751"/>
         <source>loss</source>
-        <translation type="unfinished">Niederlage</translation>
+        <translation>Niederlage</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="795"/>
@@ -1489,32 +1489,32 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="98"/>
         <source>Always on top</source>
-        <translation type="unfinished">immer im Vordergrund</translation>
+        <translation>immer im Vordergrund</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="38"/>
         <source>Select opening file</source>
-        <translation type="unfinished"></translation>
+        <translation>wähle Eröffnungsbuchdatei</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="43"/>
         <source>Select folder of opening files to merge</source>
-        <translation type="unfinished"></translation>
+        <translation>wähle Verzeichnis der Eröffnungsbuchdateien zum Mischen</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="49"/>
         <source>Select Polyglot or PGN file to convert=</source>
-        <translation type="unfinished"></translation>
+        <translation>wähle Polyglot oder PGN Datei zum konvertieren =</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="50"/>
         <source>Polyglot Bin Files (*.bin);;PGN Files (*.pgn);;All files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Polyglot Bin Dateien (*.bin);;PGN Dateien (*.pgn);;alle Dateien (*.*)</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="61"/>
         <source>Select database file</source>
-        <translation type="unfinished"></translation>
+        <translation>wähle Datenbankdatei</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="355"/>
@@ -1529,52 +1529,52 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="496"/>
         <source>Missing opening book file; </source>
-        <translation type="unfinished"></translation>
+        <translation>fehlende Eröffnungsbuchdatei; </translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="504"/>
         <source>Missing database file; </source>
-        <translation type="unfinished"></translation>
+        <translation>fehlende Datenbankdatei; </translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="509"/>
         <source>Must select sides; </source>
-        <translation type="unfinished"></translation>
+        <translation>Seiten müssen ausgewählt werden; </translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="515"/>
         <source>Game-length &gt;= 0; </source>
-        <translation type="unfinished"></translation>
+        <translation>Partie-Länge &gt;=0; </translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="519"/>
         <source>Add-to-length &gt;= 0; </source>
-        <translation type="unfinished"></translation>
+        <translation>hinzufügen-zu-Länge &gt;=0; </translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="525"/>
         <source>At least one factor &gt; 0; </source>
-        <translation type="unfinished"></translation>
+        <translation>mindestens ein Faktor&gt; 0; </translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="535"/>
         <source>Missing book file folder; </source>
-        <translation type="unfinished"></translation>
+        <translation>fehlendes Eröffnungsbuchverzeichnis; </translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="547"/>
         <source>Missing input book file (.bin or .pgn); </source>
-        <translation type="unfinished"></translation>
+        <translation>fehlende Eingabe-Buchdatei (.bin oder .pgn); </translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="551"/>
         <source>Accept only Polyglot (.bin) or PGN (.pgn); </source>
-        <translation type="unfinished"></translation>
+        <translation>akzeptiere nur Polyglot (.bin) oder PGN (.pgn); </translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="563"/>
         <source>Process</source>
-        <translation type="unfinished"></translation>
+        <translation>bearbeiten</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="563"/>
@@ -1584,32 +1584,32 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="563"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>erledigt</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="633"/>
         <source>Error: one or two files are not found, corrupted or encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler: eine oder zwei Dateien wurden nicht gefunden, sind beschädigt oder verschlüsselt</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="634"/>
         <source>Error: books are not same format</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler: Bücher sind nicht im selben Format</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="635"/>
         <source>Error: output book is not same extension with input books</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler: Ausgabe-Buch ist nicht im selben Format wie Eingabe-Buch</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="723"/>
         <source>#nodes: %1, period: %2, speed: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>#Knoten: %1, period: %2, Geschwindigkeit: %3</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="727"/>
         <source>#games: %2, %1period: %3, speed: %4</source>
-        <translation type="unfinished"></translation>
+        <translation>#Partien: %2, %1period: %3, Geschwindigkeit: %4</translation>
     </message>
 </context>
 <context>
@@ -2022,7 +2022,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="20"/>
         <source>Database Builder</source>
-        <translation type="unfinished"></translation>
+        <translation>Datenbank Builder</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="50"/>
@@ -2052,7 +2052,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="586"/>
         <source>Tasks:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufgabe:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="601"/>
@@ -2063,12 +2063,12 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="610"/>
         <source>Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Baum</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="615"/>
         <source>Merge</source>
-        <translation type="unfinished"></translation>
+        <translation>mischen</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="144"/>
@@ -2078,19 +2078,19 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="157"/>
         <source>Game folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Partieverzeichnis:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="169"/>
         <source>including sub folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Unterverzeichnisse einbeziehen</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="176"/>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="298"/>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="326"/>
         <source>Browser...</source>
-        <translation type="unfinished">Browser...</translation>
+        <translation>Browser...</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="266"/>
@@ -2105,47 +2105,47 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="291"/>
         <source>file will be created/changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei wird erstellt/geändert</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="307"/>
         <source>2nd Database file:</source>
-        <translation>2. Datenbankdatei:</translation>
+        <translation>zweite Datenbankdatei:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="319"/>
         <source>this file will not be changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei wird nicht geändert</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="335"/>
         <source>To do:</source>
-        <translation type="unfinished"></translation>
+        <translation>zu tun:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="375"/>
         <source>Add tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Baum hinzufügen</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="391"/>
         <source>Remove</source>
-        <translation type="unfinished">entfernen</translation>
+        <translation>entfernen</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="404"/>
         <source>Similar games:</source>
-        <translation type="unfinished"></translation>
+        <translation>ähnliche Partien:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="417"/>
         <source>Similar games are ones with all moves matched</source>
-        <translation type="unfinished"></translation>
+        <translation>ähnliche Partien sind solche, bei denen alle Züge übereinstimmen</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="450"/>
         <source>accept</source>
-        <translation type="unfinished"></translation>
+        <translation>akzeptieren</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="469"/>
@@ -2155,7 +2155,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="482"/>
         <source>Thread number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl Threads:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="497"/>
@@ -2175,17 +2175,17 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="636"/>
         <source>Always on top</source>
-        <translation type="unfinished">immer im Vordergrund</translation>
+        <translation>immer im Vordergrund</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="185"/>
         <source>Game conditions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Partiebedingungen:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="202"/>
         <source>Min length:</source>
-        <translation type="unfinished"></translation>
+        <translation>minimale Länge:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="217"/>
@@ -2195,32 +2195,32 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="224"/>
         <source>Min score:</source>
-        <translation type="unfinished"></translation>
+        <translation>minimale Wertung:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="192"/>
         <source>accept games without tag Variant. Should check for Standard chess</source>
-        <translation type="unfinished"></translation>
+        <translation>Akzeptiere Partien ohne Variantenkennzeichen. Prüfe auf Standard Schach.</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="195"/>
         <source>Accept missing tag Variant</source>
-        <translation type="unfinished"></translation>
+        <translation>akzeptiere fehlendes Variantenkennzeichen</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.cpp" line="220"/>
         <source>Missing database file;</source>
-        <translation type="unfinished"></translation>
+        <translation>fehlende Datenbankdatei; </translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.cpp" line="235"/>
         <source>Missing game folder</source>
-        <translation type="unfinished"></translation>
+        <translation>fehlendes Partieverzeichnis</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.cpp" line="250"/>
         <source>Process</source>
-        <translation type="unfinished"></translation>
+        <translation>bearbeiten</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.cpp" line="250"/>
@@ -2230,27 +2230,27 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.cpp" line="250"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>erledigt</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.cpp" line="358"/>
         <source>Error: different chess type!</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler: andere Schachvariante!</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.cpp" line="360"/>
         <source>#added games: %1 from %2, period: %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">#hinzugefügte Partien: %1 von %2, period: %3</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.cpp" line="369"/>
         <source>#games: %1 of %2, elapsed: %3, speed: %4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">#Partien: %1 von %2, verstrichen: %3, Geschwindigkeit: %4</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.cpp" line="371"/>
         <source>#games: %1, added: %2, elapsed: %3, speed: %4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">#Partien: %1, hinzugefügt: %2, verstrichen: %3, Geschwindigkeit: %4</translation>
     </message>
 </context>
 <context>
@@ -2301,7 +2301,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="46"/>
         <source>Database file:</source>
-        <translation>Datenbank Datei:</translation>
+        <translation>Datenbankdatei:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="63"/>
@@ -2321,17 +2321,17 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="91"/>
         <source>Limit score:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wertung einschränken:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="99"/>
         <source>None</source>
-        <translation type="unfinished">nichts</translation>
+        <translation>keine</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="104"/>
         <source>Any</source>
-        <translation type="unfinished"></translation>
+        <translation>alle</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="109"/>
@@ -6779,12 +6779,12 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="57"/>
         <source>Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Browser...</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="72"/>
         <source>Init file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Init Datei:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="94"/>
@@ -6829,12 +6829,12 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="303"/>
         <source>Management:</source>
-        <translation type="unfinished"></translation>
+        <translation>Management:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="362"/>
         <source>Playing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Partien:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="421"/>
@@ -6844,7 +6844,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="494"/>
         <source>Delete ticked files</source>
-        <translation type="unfinished"></translation>
+        <translation>markierte Dateien löschen</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.cpp" line="174"/>
