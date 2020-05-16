@@ -5187,7 +5187,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="920"/>
         <source>go first</source>
-        <translation>gehe zum Ende der Partie</translation>
+        <translation>gehe zum Anfang der Partie</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="923"/>
