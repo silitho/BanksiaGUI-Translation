@@ -112,17 +112,17 @@
     <message>
         <location filename="../../ui/dlg/aboutdialog.ui" line="204"/>
         <source>Activate</source>
-        <translation type="unfinished"></translation>
+        <translation>aktivieren</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/aboutdialog.ui" line="225"/>
         <source>Copy</source>
-        <translation type="unfinished">kopieren</translation>
+        <translation>kopieren</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/aboutdialog.cpp" line="51"/>
         <source>Program is activated!</source>
-        <translation type="unfinished"></translation>
+        <translation>Programm ist aktiviert!</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/aboutdialog.cpp" line="56"/>
@@ -228,12 +228,12 @@
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="93"/>
         <source>Main folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hauptverzeichnis:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="123"/>
         <source>Concurrency:</source>
-        <translation type="unfinished">Parallelität:</translation>
+        <translation>Parallelität:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="139"/>
@@ -346,7 +346,7 @@
     <message>
         <location filename="../../ui/tools/addgame2dbdlg.ui" line="14"/>
         <source>Add current game to a database</source>
-        <translation type="unfinished"></translation>
+        <translation>aktuelle Partie zur Datenbank hinzufügen</translation>
     </message>
     <message>
         <location filename="../../ui/tools/addgame2dbdlg.cpp" line="21"/>
@@ -779,12 +779,12 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="118"/>
         <source>Copy output to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>kopiere Ausgabe in dieZwischenablage</translation>
     </message>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="132"/>
         <source>Clear output</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe leeren</translation>
     </message>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="135"/>
@@ -794,7 +794,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.cpp" line="144"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Stop</translation>
     </message>
 </context>
 <context>
@@ -807,7 +807,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="59"/>
         <source>Auto update board</source>
-        <translation type="unfinished"></translation>
+        <translation>Board automatisch aktualisieren</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="62"/>
@@ -817,7 +817,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="85"/>
         <source>Go first</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehe zum Anfang der Partie</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="88"/>
@@ -830,22 +830,22 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="99"/>
         <source>Go previous move</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehe zum vorherigen Zug</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="113"/>
         <source>Go next move</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehe zum nächsten Zug</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="127"/>
         <source>Go last move</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehe zum Ende der Partie</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="141"/>
         <source>Auto play moves</source>
-        <translation type="unfinished"></translation>
+        <translation>Züge automatisch spielen</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="159"/>
@@ -863,12 +863,12 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tools/bookaddcurrentgamedialog.ui" line="14"/>
         <source>Add game to opening books</source>
-        <translation type="unfinished"></translation>
+        <translation>Partie zum Eröffnungsbuch hinzufügen</translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookaddcurrentgamedialog.ui" line="22"/>
         <source>Add to book:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hinzufügen zum Buch:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookaddcurrentgamedialog.ui" line="45"/>
@@ -898,7 +898,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tools/bookaddcurrentgamedialog.cpp" line="115"/>
         <source>Game added to the opening book!</source>
-        <translation type="unfinished"></translation>
+        <translation>Partie zum Eröffnungsbuch hinzugefügt!</translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookaddcurrentgamedialog.cpp" line="120"/>
@@ -908,7 +908,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tools/bookaddcurrentgamedialog.cpp" line="120"/>
         <source>Cannot add the game to the opening book!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kann Partie nicht zum Eröffnungsbuch hinzufügen!</translation>
     </message>
 </context>
 <context>
@@ -937,7 +937,7 @@ Cannot analyse this game</source>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="474"/>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="489"/>
         <source>comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentar</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="482"/>
@@ -947,22 +947,22 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="493"/>
         <source>win%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sieg%</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="494"/>
         <source>win</source>
-        <translation type="unfinished">Sieg</translation>
+        <translation>Sieg</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="495"/>
         <source>draw</source>
-        <translation type="unfinished">Remis</translation>
+        <translation>Remis</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="496"/>
         <source>lost</source>
-        <translation type="unfinished"></translation>
+        <translation>Niederlage</translation>
     </message>
 </context>
 <context>
@@ -985,7 +985,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/comm/bookmovewidget.ui" line="116"/>
         <source>Add current game to book</source>
-        <translation type="unfinished"></translation>
+        <translation>aktuelle Partie zum Eröffnungsbuch hinzufügen</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovewidget.ui" line="133"/>
@@ -1005,12 +1005,12 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/comm/bookmovewidget.cpp" line="223"/>
         <source>Book error</source>
-        <translation type="unfinished"></translation>
+        <translation>Buch Fehler</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovewidget.cpp" line="227"/>
         <source>Different chess variant</source>
-        <translation type="unfinished"></translation>
+        <translation>andere Schachvariante</translation>
     </message>
 </context>
 <context>
@@ -1233,17 +1233,17 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="228"/>
         <source>New</source>
-        <translation>neu</translation>
+        <translation>Neu</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="229"/>
         <source>Stop</source>
-        <translation>stop</translation>
+        <translation>Stop</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="230"/>
         <source>Resume</source>
-        <translation>fortsetzen</translation>
+        <translation>Fortsetzen</translation>
     </message>
 </context>
 <context>
@@ -2482,7 +2482,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloaddlg.ui" line="92"/>
         <source>(if you are an author of chess engines/data and want to publish them on this system, contact us)</source>
-        <translation>(wenn Sie Autor von Schach-Engines / Daten sind und diese auf diesem System veröffentlichen möchten, kontaktieren Sie uns)</translation>
+        <translation>(wenn Sie Autor von Schach-Engines /-Daten sind und diese auf diesem System veröffentlichen möchten, kontaktieren Sie uns)</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloaddlg.cpp" line="54"/>
@@ -2592,7 +2592,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="231"/>
         <source>select</source>
-        <translation type="unfinished"></translation>
+        <translation>auswählen</translation>
     </message>
 </context>
 <context>
@@ -2842,7 +2842,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadwidget.ui" line="75"/>
         <source>Save to folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>in Verzeichnis speichern:</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadwidget.ui" line="87"/>
@@ -2852,7 +2852,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadwidget.ui" line="105"/>
         <source>Auto add after downloading</source>
-        <translation type="unfinished"></translation>
+        <translation>nach dem Herunterladen automatisch hinzufügen</translation>
     </message>
 </context>
 <context>
@@ -2860,7 +2860,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/duplicateenginedlg.ui" line="20"/>
         <source>Duplicate Engine</source>
-        <translation type="unfinished"></translation>
+        <translation>Engine duplizieren</translation>
     </message>
     <message>
         <location filename="../../ui/settings/duplicateenginedlg.ui" line="42"/>
@@ -2875,12 +2875,12 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/duplicateenginedlg.ui" line="99"/>
         <source>Pickup color</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbe auswählen</translation>
     </message>
     <message>
         <location filename="../../ui/settings/duplicateenginedlg.ui" line="145"/>
         <source>Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>duplizieren</translation>
     </message>
 </context>
 <context>
@@ -2976,7 +2976,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dlg/editjsondlg.ui" line="14"/>
         <source>JSON editor</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON Editor</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editjsondlg.ui" line="37"/>
@@ -2987,7 +2987,7 @@ Stop the tournament?</source>
         <location filename="../../ui/dlg/editjsondlg.ui" line="51"/>
         <location filename="../../ui/dlg/editjsondlg.ui" line="75"/>
         <source>Copy</source>
-        <translation type="unfinished">kopieren</translation>
+        <translation>kopieren</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editjsondlg.ui" line="68"/>
@@ -2997,12 +2997,12 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dlg/editjsondlg.ui" line="82"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>leeren</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editjsondlg.ui" line="89"/>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>neu laden</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editjsondlg.ui" line="113"/>
@@ -3012,12 +3012,12 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dlg/editjsondlg.ui" line="120"/>
         <source>Click OK to update</source>
-        <translation type="unfinished"></translation>
+        <translation>OK klicken zum Aktualisieren</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editjsondlg.cpp" line="27"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>aktualisieren</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editjsondlg.cpp" line="43"/>
@@ -4871,7 +4871,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/logviewerwidget.ui" line="224"/>
         <source>Copy text log to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>kopiere Text in dieZwischenablage</translation>
     </message>
     <message>
         <location filename="../../ui/logviewerwidget.ui" line="286"/>
@@ -4925,7 +4925,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="99"/>
         <source>Custom</source>
-        <translation>eigenes Design</translation>
+        <translation type="unfinished">Eigenes Design</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="106"/>
@@ -5394,18 +5394,18 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1202"/>
         <source>Add current game to a book</source>
-        <translation type="unfinished"></translation>
+        <translation>aktuelle Partie zum Eröffnungsbuch hinzufügen</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1205"/>
         <source>Add current game to an opening book</source>
-        <translation type="unfinished"></translation>
+        <translation>aktuelle Partie zum Eröffnungsbuch hinzufügen</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1214"/>
         <location filename="../../main/mainwindow.ui" line="1217"/>
         <source>Add current game to a database</source>
-        <translation type="unfinished"></translation>
+        <translation>aktuelle Partie zur Datenbank hinzufügen</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1229"/>
@@ -5489,7 +5489,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1344"/>
         <source>Benchmark/Cmd</source>
-        <translation type="unfinished"></translation>
+        <translation>Benchmark/Kommando</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1347"/>
@@ -6447,17 +6447,17 @@ correspondent board</source>
     <message>
         <location filename="../../ui/dev/perftwidget.ui" line="269"/>
         <source>Copy output to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>kopiere Ausgabe in dieZwischenablage</translation>
     </message>
     <message>
         <location filename="../../ui/dev/perftwidget.ui" line="283"/>
         <source>Clear output</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabe leeren</translation>
     </message>
     <message>
         <location filename="../../ui/dev/perftwidget.ui" line="286"/>
         <source>clear</source>
-        <translation type="unfinished"></translation>
+        <translation>leeren</translation>
     </message>
     <message>
         <location filename="../../ui/dev/perftwidget.ui" line="293"/>
@@ -6795,17 +6795,17 @@ correspondent board</source>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="384"/>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="440"/>
         <source>Copy path to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>kopiere Pfad in dieZwischenablage</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="123"/>
         <source>Layout file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout Datei:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="176"/>
         <source>JSON files:</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON Dateien:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="185"/>
@@ -6819,7 +6819,7 @@ correspondent board</source>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="398"/>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="454"/>
         <source>Edit JSON</source>
-        <translation type="unfinished">bearbeite JSON</translation>
+        <translation>bearbeite JSON</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="244"/>
@@ -6902,12 +6902,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="58"/>
         <source>Show endgame moves</source>
-        <translation type="unfinished"></translation>
+        <translation>zeige Endspielzüge</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="68"/>
         <source>Auto play</source>
-        <translation type="unfinished"></translation>
+        <translation>automatisch spielen</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="87"/>
@@ -6922,7 +6922,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="97"/>
         <source>selected sides</source>
-        <translation type="unfinished"></translation>
+        <translation>ausgewählte Seiten</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="105"/>
@@ -6952,17 +6952,17 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="178"/>
         <source>wining color</source>
-        <translation type="unfinished"></translation>
+        <translation>Sieg Farbe</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="209"/>
         <source>draw color</source>
-        <translation type="unfinished"></translation>
+        <translation>Remis Farbe</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="240"/>
         <source>Losing color</source>
-        <translation type="unfinished">Niederlage Farbe</translation>
+        <translation>Niederlage Farbe</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="268"/>
@@ -6972,12 +6972,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="285"/>
         <source>Endgame list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Endspiel Liste:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="292"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>aktualisieren</translation>
     </message>
 </context>
 <context>
@@ -6990,7 +6990,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="47"/>
         <source>General:</source>
-        <translation type="unfinished"></translation>
+        <translation>Allgemein:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="100"/>
@@ -7000,7 +7000,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="274"/>
         <source>Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Sound</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="80"/>
@@ -7287,7 +7287,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1243"/>
         <source>Click to pickup color</source>
-        <translation type="unfinished"></translation>
+        <translation>klicken zur Farbauswahl</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1256"/>
@@ -7362,7 +7362,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1587"/>
         <source>View/Edit/Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>zeigen/ändern/löschen</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1565"/>
@@ -7372,7 +7372,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneralwidget.cpp" line="416"/>
         <source>Select a PGN file or enter a new name</source>
-        <translation type="unfinished"></translation>
+        <translation>wähle eine PGN Datei oder gib einen neuen Namen ein</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneralwidget.cpp" line="417"/>
@@ -8831,12 +8831,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.ui" line="47"/>
         <source>Save current tournament</source>
-        <translation type="unfinished"></translation>
+        <translation>aktuelles Turnier speichern</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.ui" line="61"/>
         <source>Remove selected row</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">entferne ausgewählte Reihe</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.ui" line="75"/>
@@ -8856,27 +8856,27 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.cpp" line="245"/>
         <source>Delete backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Backup löschen</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.cpp" line="246"/>
         <source>Do you want to delete the selected backup?</source>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie das ausgewählte Backup löschen?</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.cpp" line="364"/>
         <source>. Warning: completed tournament</source>
-        <translation type="unfinished"></translation>
+        <translation>. Warnung: abgeschlossenes Turnier</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.cpp" line="366"/>
         <source>Current tournament: %1, %2 engines, games: %3/%4%5</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuelles Turnier: %1, %2 Engines, Partien: %3/%4%5</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.cpp" line="375"/>
         <source>Current tournament is empty. Warning: cannott save empty tournament</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuelles Turnier ist leer. Warnung: kann leeres Turniernicht speichern!</translation>
     </message>
 </context>
 <context>
