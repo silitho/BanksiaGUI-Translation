@@ -5484,7 +5484,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1339"/>
         <source>Clear Menu</source>
-        <translation>Eintäge löschen</translation>
+        <translation type="unfinished">Einträge löschen</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1344"/>
