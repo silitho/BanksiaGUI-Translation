@@ -567,7 +567,8 @@
         <location filename="../../main/basewindow.cpp" line="876"/>
         <source>Game is empty!
 Cannot add this game to the database</source>
-        <translation type="unfinished"></translation>
+        <translation>Partie ist leer!
+Kann diese Partie nicht zur Datenbank hinzufügen.</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="1313"/>
@@ -587,17 +588,17 @@ Cannot add this game to the database</source>
     <message>
         <location filename="../../main/basewindow.cpp" line="1328"/>
         <source>Cannot open game</source>
-        <translation type="unfinished"></translation>
+        <translation>kann Partie nicht öffnen</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="1329"/>
         <source>Cannot read or parse this pgn!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kann dieses pgn nicht lesen oder analysieren!</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="1415"/>
         <source>Save Game</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichere Partie</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="1417"/>
@@ -607,12 +608,12 @@ Cannot add this game to the database</source>
     <message>
         <location filename="../../main/basewindow.cpp" line="1529"/>
         <source>Cannot create</source>
-        <translation type="unfinished"></translation>
+        <translation>kann nicht erstellen</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="1530"/>
         <source>Cannot create a new tab!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kann keinen neuen Tab erstellen!</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="1545"/>
@@ -627,12 +628,12 @@ Cannot add this game to the database</source>
     <message>
         <location filename="../../main/basewindow.cpp" line="1547"/>
         <source>Cannot paste</source>
-        <translation type="unfinished"></translation>
+        <translation>kann nicht einfügen</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="1548"/>
         <source>Cannot read or parse this game!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kann diese Partie nicht lesen oder analysieren!</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="1864"/>
@@ -648,7 +649,7 @@ Cannot add this game to opening books</source>
     <message>
         <location filename="../../main/basewindow.cpp" line="1879"/>
         <source>Cannot add game to opening book</source>
-        <translation type="unfinished"></translation>
+        <translation>kann Partie nicht zum Eröffnungsbuch hinzufügen</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="1880"/>
@@ -659,7 +660,8 @@ Cannot add this game to opening books</source>
         <location filename="../../main/basewindow.cpp" line="2278"/>
         <source>Game is empty!
 Cannot analyse this game</source>
-        <translation type="unfinished"></translation>
+        <translation>Partie ist leer!
+Kann diese Partie nicht analysieren.</translation>
     </message>
 </context>
 <context>
@@ -667,7 +669,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/net/basicnetwidget.cpp" line="89"/>
         <source>&lt;Human&gt;</source>
-        <translation>&lt;Mensch&gt;</translation>
+        <translation>&lt;Spieler&gt;</translation>
     </message>
     <message>
         <location filename="../../ui/net/basicnetwidget.cpp" line="255"/>
@@ -3531,7 +3533,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/gamesetupdialog.ui" line="56"/>
         <source>New tab</source>
-        <translation>Neuer Tab</translation>
+        <translation>neuer Tab</translation>
     </message>
     <message>
         <location filename="../../ui/settings/gamesetupdialog.ui" line="162"/>
@@ -3542,7 +3544,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/gamesetupdialog.ui" line="308"/>
         <source>General settings</source>
-        <translation>Allgemeine Einstellungen</translation>
+        <translation>allgemeine Einstellungen</translation>
     </message>
     <message>
         <location filename="../../ui/settings/gamesetupdialog.ui" line="338"/>
@@ -3555,7 +3557,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="324"/>
         <source>&lt;Human&gt;</source>
-        <translation>&lt;Mensch&gt;</translation>
+        <translation>&lt;Spieler&gt;</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="380"/>
@@ -3635,12 +3637,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="20"/>
         <source>Challenge/Seek</source>
-        <translation type="unfinished"></translation>
+        <translation>herausfordern/suchen</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="55"/>
         <source>Challenge</source>
-        <translation type="unfinished"></translation>
+        <translation>herausfordern</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="65"/>
@@ -3650,17 +3652,17 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="72"/>
         <source>Auto seek</source>
-        <translation type="unfinished"></translation>
+        <translation>automatische Suche</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="95"/>
         <source>Challenge to:</source>
-        <translation type="unfinished"></translation>
+        <translation>herausfordern:</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="127"/>
         <source>Auto seek period:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeitraum:</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="136"/>
@@ -3691,7 +3693,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="247"/>
         <source>Your side:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihre Seite:</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="266"/>
@@ -3744,12 +3746,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="119"/>
         <source>Username, let empty to log as a guest</source>
-        <translation type="unfinished"></translation>
+        <translation>Nutzername; leer lassen für Login als Gast</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="125"/>
         <source>User name, letters only. Let empty to log in as a Guest</source>
-        <translation type="unfinished"></translation>
+        <translation>Nutzername, nur Buchstaben; leer lassen für Login als Gast</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="141"/>
@@ -3769,22 +3771,22 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="180"/>
         <source>Engine/human to play</source>
-        <translation type="unfinished"></translation>
+        <translation>Engine/Spieler zum Spielen</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="187"/>
         <source>Challenge/Seek</source>
-        <translation type="unfinished"></translation>
+        <translation>herausfordern/suchen</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="194"/>
         <source>Stop your auto seeking</source>
-        <translation type="unfinished"></translation>
+        <translation>automatische Suche stoppen</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="197"/>
         <source>Stop seeking</source>
-        <translation type="unfinished"></translation>
+        <translation>Suche stoppen</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="219"/>
@@ -3830,7 +3832,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="277"/>
         <source>close</source>
-        <translation type="unfinished"></translation>
+        <translation>schließen</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="329"/>
@@ -3912,12 +3914,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="584"/>
         <source>Enter a message then press enter to send</source>
-        <translation type="unfinished"></translation>
+        <translation>gib eine Nachricht ein, drücke Enter zum Senden</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="590"/>
         <source>type a message, press enter to send</source>
-        <translation type="unfinished"></translation>
+        <translation>tippe eine Nachricht, drücke Enter zum Senden</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.cpp" line="638"/>
@@ -3927,12 +3929,13 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.cpp" line="644"/>
         <source>game %1 (%2%3) is %4!</source>
-        <translation type="unfinished"></translation>
+        <translation>Partie %1 (%2%3) ist %4!</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.cpp" line="924"/>
         <source>game %1 is over, result &lt;font color=&apos;red&apos;&gt;%2&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Partie %1 ist vorbei, Ergebnis &lt;font color=&apos;red&apos;&gt;%2&lt;/font&gt;</translatorcomment>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -4977,7 +4980,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="217"/>
         <source>Play mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Spielmodus</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="231"/>
@@ -5003,7 +5006,8 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="307"/>
         <source>Score graph</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Partieprofil</translatorcomment>
+        <translation>Wertungsdiagramm</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="325"/>
@@ -5857,7 +5861,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="134"/>
         <source>Click to select</source>
-        <translation>Klicken zur Auswahl</translation>
+        <translation>klicken zur Auswahl</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="159"/>
@@ -6650,7 +6654,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/playerselectionwidget.cpp" line="126"/>
         <source>&lt;Human&gt;</source>
-        <translation>&lt;Mensch&gt;</translation>
+        <translation>&lt;Spieler&gt;</translation>
     </message>
     <message>
         <location filename="../../ui/settings/playerselectionwidget.cpp" line="154"/>
@@ -6769,7 +6773,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="26"/>
         <source>Main:</source>
-        <translation type="unfinished"></translation>
+        <translation>Haupteinstellungen:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="41"/>
@@ -6917,7 +6921,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="92"/>
         <source>human</source>
-        <translation type="unfinished"></translation>
+        <translation>Spieler</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="97"/>
@@ -7010,7 +7014,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="318"/>
         <source>Thinking arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfeile für Denkvorgang</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="188"/>
@@ -7035,67 +7039,67 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="161"/>
         <source>Score indicator</source>
-        <translation type="unfinished"></translation>
+        <translation>Wertungsindikator</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="296"/>
         <source>Pawn unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Bauerneinheit</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="303"/>
         <source>Centipawn</source>
-        <translation type="unfinished"></translation>
+        <translation>Centipawn</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="87"/>
         <source>Graph logarithmic scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagramm logarithmische Skalierung</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="115"/>
         <source>Toolbar:</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbolleiste:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="129"/>
         <source>Default</source>
-        <translation type="unfinished">Standard</translation>
+        <translation>Standard</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="134"/>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>transparent</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="139"/>
         <source>White</source>
-        <translation type="unfinished">Weiß</translation>
+        <translation>weiß</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="144"/>
         <source>Black</source>
-        <translation type="unfinished">Schwarz</translation>
+        <translation>schwarz</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="149"/>
         <source>LightGray</source>
-        <translation type="unfinished"></translation>
+        <translation>hellgrau</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="168"/>
         <source>Score indicator range [-r, r], pawn unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Wertungsindikator Bereich [-r, r], Bauerneinheit</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="325"/>
         <source>score in white&apos;s perspective</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewertung aus der Perspektive von Weiß</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="328"/>
         <source>Score in white view</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewertung aus der Sicht von Weiß</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="359"/>
@@ -7110,17 +7114,17 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="429"/>
         <source>Above board</source>
-        <translation type="unfinished"></translation>
+        <translation>über dem Board</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="434"/>
         <source>Under board</source>
-        <translation type="unfinished"></translation>
+        <translation>unter dem Board</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="439"/>
         <source>A dock panel</source>
-        <translation type="unfinished"></translation>
+        <translation>im Dock Panel</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="447"/>
@@ -7146,7 +7150,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="522"/>
         <source>Font size for digit in 2 lines mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Schriftgröße für Ziffer im 2-Zeilen-Modus</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="544"/>
@@ -7162,13 +7166,13 @@ Are you sure?</source>
         <location filename="../../ui/settings/setupgeneral.ui" line="590"/>
         <location filename="../../ui/settings/setupgeneral.ui" line="672"/>
         <source>Name color</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbe für Namen</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="615"/>
         <location filename="../../ui/settings/setupgeneral.ui" line="697"/>
         <source>Digit color</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbe für Ziffern</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="640"/>
@@ -7179,7 +7183,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="653"/>
         <source>Highlight:</source>
-        <translation type="unfinished"></translation>
+        <translation>hervorheben:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="750"/>
@@ -7267,7 +7271,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1121"/>
         <source>Auto play move period:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dauer automatische Zugwiedergabe:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1134"/>
@@ -7312,12 +7316,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1278"/>
         <source>main:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hauptwert:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1298"/>
         <source>second:</source>
-        <translation type="unfinished"></translation>
+        <translation>zweiter Wert:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1474"/>
@@ -7327,7 +7331,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1344"/>
         <source>WDL chart:</source>
-        <translation type="unfinished"></translation>
+        <translation>WDL Diagramm:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1364"/>
@@ -7337,12 +7341,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1369"/>
         <source>Stacked area</source>
-        <translation type="unfinished"></translation>
+        <translation>gestapelter Bereich</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1374"/>
         <source>Stacked bar</source>
-        <translation type="unfinished"></translation>
+        <translation>gestapelter Balken</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1545"/>
@@ -7352,7 +7356,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1558"/>
         <source>To save games from ICS, Lichess...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Speichern von Partien von ICS, Lichess...</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1572"/>
@@ -7367,7 +7371,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1565"/>
         <source>Store computing info as comments</source>
-        <translation type="unfinished"></translation>
+        <translation>speichere berechnete Informationen als Kommentare</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneralwidget.cpp" line="416"/>
@@ -7867,7 +7871,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="46"/>
         <source>Human moves</source>
-        <translation type="unfinished"></translation>
+        <translation>Spielerzüge</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="53"/>
@@ -7892,7 +7896,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="119"/>
         <source>Speech engine:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprach Engine:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="153"/>
@@ -8818,7 +8822,7 @@ Are you sure?</source>
         <location filename="../../main/tourwindow.cpp" line="799"/>
         <location filename="../../main/tourwindow.cpp" line="800"/>
         <source>Human</source>
-        <translation>Mensch</translation>
+        <translation>Spieler</translation>
     </message>
 </context>
 <context>
