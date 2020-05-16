@@ -203,27 +203,27 @@
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="20"/>
         <source>Drag and drop file, folder here</source>
-        <translation type="unfinished"></translation>
+        <translation>drag &amp; drop Datei, Verzeichnis hieher</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="37"/>
         <source>Detect:</source>
-        <translation type="unfinished"></translation>
+        <translation>erkenne:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="47"/>
         <source>One</source>
-        <translation type="unfinished"></translation>
+        <translation>eine</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="57"/>
         <source>Engines can be in their own sub folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Engines können in ihrem eigenen Unterverzeichnis sein</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="60"/>
         <source>All engines in a main folder</source>
-        <translation type="unfinished"></translation>
+        <translation>alle Engines in einem Hauptverzeichnis</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="93"/>
@@ -238,12 +238,12 @@
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="139"/>
         <source>Could be more than total of cores</source>
-        <translation type="unfinished"></translation>
+        <translation>könnte mehr als die Gesamtzahl der Kerne sein</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="155"/>
         <source>(detect multi engines at once)</source>
-        <translation type="unfinished"></translation>
+        <translation>(erkenne mehrere Engines auf einmal)</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="185"/>
@@ -263,12 +263,12 @@
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="268"/>
         <source>Name of the engine, let empty for auto detecting</source>
-        <translation type="unfinished"></translation>
+        <translation>Name der Engine, zur automatischen Erkennung leer lassen</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="271"/>
         <source>Let empty for auto detecting</source>
-        <translation type="unfinished"></translation>
+        <translation>zur automatischen Erkennung leer lassen</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="288"/>
@@ -293,17 +293,17 @@
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="447"/>
         <source>Init strings:</source>
-        <translation type="unfinished"></translation>
+        <translation>Init Zeichenfolgen:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="475"/>
         <source>Detecting...</source>
-        <translation type="unfinished"></translation>
+        <translation>erkenne...</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="50"/>
         <source>Auto detect</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatische Erkennung</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="60"/>
@@ -318,22 +318,22 @@
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="203"/>
         <source>Error: This engine doesn&apos;t support any protocol!</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler: Diese Engine unterstützt kein Protokoll!</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="205"/>
         <source>Error: This engine doesn&apos;t support the selected protocol!</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler: Diese Engine unterstützt das ausgewählte Protokoll nicht!</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="468"/>
         <source>Error: The folder is empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler: Der Ordner ist leer!</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="500"/>
         <source>Error: Duplicated name</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler: Doppelter Name!</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="500"/>
@@ -748,7 +748,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="27"/>
         <source>This function is to run frequently engines with parameters such as taking benchmarks or for any purposes. Double click on parameters column and edit to change permanently, edit command line (Cmd) to change temporarily.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Funktion dient dazu, häufig Engines mit Parametern wie Benchmarks oder für andere Zwecke zu betreiben. Doppelklicken Sie auf die Parameterspalte und bearbeiten Sie sie, um sie dauerhaft zu ändern. Bearbeiten Sie die Befehlszeile (Cmd), um sie vorübergehend zu ändern.</translation>
     </message>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="58"/>
@@ -758,7 +758,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="65"/>
         <source>Command to run, edit for temporary change</source>
-        <translation type="unfinished"></translation>
+        <translation>Befehl zum Ausführen, bearbeiten für vorübergehende Änderung</translation>
     </message>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="76"/>
@@ -873,12 +873,12 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/tools/bookaddcurrentgamedialog.ui" line="45"/>
         <source>Add to length (ply):</source>
-        <translation type="unfinished"></translation>
+        <translation>hinzufügen zur Länge (ply):</translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookaddcurrentgamedialog.ui" line="82"/>
         <source>Factor:</source>
-        <translation type="unfinished"></translation>
+        <translation>Faktor:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookaddcurrentgamedialog.ui" line="121"/>
@@ -926,12 +926,12 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="472"/>
         <source>learn</source>
-        <translation type="unfinished"></translation>
+        <translation>lernen</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="474"/>
         <source>winrate</source>
-        <translation type="unfinished"></translation>
+        <translation>Gewinnrate</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="474"/>
@@ -980,7 +980,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/comm/bookmovewidget.ui" line="62"/>
         <source>Best move, click to play</source>
-        <translation type="unfinished"></translation>
+        <translation>bester Zug, klicken, um diesen zu spielen</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovewidget.ui" line="116"/>
@@ -1699,7 +1699,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/connect/connecttoolbar.cpp" line="60"/>
         <source>idle</source>
-        <translation type="unfinished"></translation>
+        <translation>Leerlauf</translation>
     </message>
     <message>
         <location filename="../../ui/connect/connecttoolbar.cpp" line="61"/>
@@ -1709,7 +1709,7 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../ui/connect/connecttoolbar.cpp" line="62"/>
         <source>play for a side</source>
-        <translation type="unfinished"></translation>
+        <translation>spiele für eine Seite</translation>
     </message>
 </context>
 <context>
@@ -1717,12 +1717,12 @@ Cannot analyse this game</source>
     <message>
         <location filename="../../main/connectwindow.cpp" line="470"/>
         <source>Bad: cannot detect chess board</source>
-        <translation type="unfinished"></translation>
+        <translation>Schlecht: Schachbrett kann nicht erkannt werden</translation>
     </message>
     <message>
         <location filename="../../main/connectwindow.cpp" line="470"/>
         <source>Good connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Gute Verbindung</translation>
     </message>
 </context>
 <context>
@@ -2014,7 +2014,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/custompieceselectorwidget.ui" line="32"/>
         <source>Drag &amp; drop image files here</source>
-        <translation type="unfinished"></translation>
+        <translation>drag &amp; drop Bilddateien hierher</translation>
     </message>
 </context>
 <context>
@@ -2539,12 +2539,12 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloaditemwidget.cpp" line="80"/>
         <source>Stop</source>
-        <translation>Stop</translation>
+        <translation>stop</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloaditemwidget.cpp" line="88"/>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>zeige</translation>
     </message>
 </context>
 <context>
@@ -3030,12 +3030,12 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="88"/>
         <source>failed %1</source>
-        <translation type="unfinished"></translation>
+        <translation>fehlgeschlagen %1</translation>
     </message>
     <message>
         <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="92"/>
         <source>Good</source>
-        <translation type="unfinished"></translation>
+        <translation>gut</translation>
     </message>
     <message>
         <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="198"/>
@@ -3235,7 +3235,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.ui" line="50"/>
         <source>Reset all options to default values</source>
-        <translation type="unfinished"></translation>
+        <translation>Setze alle Optionen auf Standardwerte zurück</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.ui" line="53"/>
@@ -3245,32 +3245,32 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.ui" line="75"/>
         <source>Charactors using in FEN string</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeichen, die in FEN Zeichenfolge verwendet werden</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.ui" line="78"/>
         <source>FEN charators:</source>
-        <translation type="unfinished"></translation>
+        <translation>FEN Zeichen:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.ui" line="90"/>
         <source>King, Advisor, Bishop, Rook, Cannon, kNight, Pawn</source>
-        <translation type="unfinished"></translation>
+        <translation>King, Advisor, Bishop, Rook, Cannon, kNight, Pawn</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.ui" line="93"/>
         <source>KABRCNP</source>
-        <translation type="unfinished"></translation>
+        <translation>KABRCNP</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.ui" line="103"/>
         <source>King, Advisor, Elephant, Rook, Cannon, Horse, Pawn</source>
-        <translation type="unfinished"></translation>
+        <translation>King, Advisor, Elephant, Rook, Cannon, Horse, Pawn</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.ui" line="106"/>
         <source>KAERCHP</source>
-        <translation type="unfinished"></translation>
+        <translation>KAERCHP</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.cpp" line="59"/>
@@ -3280,7 +3280,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.cpp" line="59"/>
         <source>Cannot parse JSON string, ignored!</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON Zeichenfolge kann nicht analysiert werden, wird ignoriert!</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.cpp" line="130"/>
@@ -3414,7 +3414,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="240"/>
         <source>add an engine</source>
-        <translation type="unfinished"></translation>
+        <translation>füge eine Engine hinzu</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="257"/>
@@ -3480,27 +3480,27 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dlg/exclusivemovedialog.ui" line="26"/>
         <source>All legal moves:</source>
-        <translation type="unfinished"></translation>
+        <translation>alle legalen Züge:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/exclusivemovedialog.ui" line="77"/>
         <source>Tick all</source>
-        <translation type="unfinished"></translation>
+        <translation>markiere alle</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/exclusivemovedialog.ui" line="84"/>
         <source>Clear all</source>
-        <translation type="unfinished">leeren</translation>
+        <translation>alle leeren</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/exclusivemovedialog.ui" line="93"/>
         <source>Unticked moves will be excluded from searching and making.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht markierte Züge werden vom Suchen und Ausführen ausgeschlossen.</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/exclusivemovedialog.ui" line="100"/>
         <source>If they are changed, stop engines then search again to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wenn sie geändert wurden, stoppen Sie die Engine und suchen Sie erneut, um wirksam zu werden.</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/exclusivemovedialog.cpp" line="106"/>
@@ -3510,7 +3510,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dlg/exclusivemovedialog.cpp" line="106"/>
         <source>All moves are unticked!</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Züge sind nicht markiert!</translation>
     </message>
 </context>
 <context>
@@ -5519,7 +5519,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1371"/>
         <source>Idle</source>
-        <translation type="unfinished"></translation>
+        <translation>Leerlauf</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1379"/>
@@ -6117,7 +6117,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="165"/>
         <source>Select:</source>
-        <translation type="unfinished">auswählen:</translation>
+        <translation>auswählen:</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="178"/>
@@ -6541,22 +6541,22 @@ correspondent board</source>
     <message>
         <location filename="../../ui/comm/plaintextlog.cpp" line="106"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>leeren</translation>
     </message>
     <message>
         <location filename="../../ui/comm/plaintextlog.cpp" line="109"/>
         <source>Save...</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichern...</translation>
     </message>
     <message>
         <location filename="../../ui/comm/plaintextlog.cpp" line="112"/>
         <source>Save Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichere Log</translation>
     </message>
     <message>
         <location filename="../../ui/comm/plaintextlog.cpp" line="113"/>
         <source>Text Files (*.txt);;All Files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Text Dateien (*.txt);;alle Dateien (*.*)</translation>
     </message>
     <message>
         <location filename="../../ui/comm/plaintextlog.cpp" line="142"/>
@@ -6581,7 +6581,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/comm/plaintextlog.cpp" line="157"/>
         <source>The file &quot;%1&quot; could not be saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Datei &quot;%1&quot; konnte nicht gespeichert werden.</translation>
     </message>
 </context>
 <context>
@@ -6707,7 +6707,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/dlg/savaethemelayoutdlg.ui" line="14"/>
         <source>Save/Delete Theme and Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichere/Lösche Design und Layout</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/savaethemelayoutdlg.ui" line="51"/>
