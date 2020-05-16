@@ -2963,12 +2963,12 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="244"/>
         <source>Drag pieces from left bar and drop to board to add</source>
-        <translation>ziehe Figuren von der linken Seite auf das Brett zum Hinzufügen</translation>
+        <translation>ziehe Figuren von der linken Seite auf das Board zum Hinzufügen</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="251"/>
         <source>Drag pieces from board and drop out side to remove</source>
-        <translation>ziehe Figuren vom Brett heraus zum Löschen</translation>
+        <translation>ziehe Figuren vom Board heraus zum Löschen</translation>
     </message>
 </context>
 <context>
@@ -5247,7 +5247,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="980"/>
         <source>rotate board</source>
-        <translation>Brett drehen</translation>
+        <translation>Board drehen</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="993"/>
@@ -7426,12 +7426,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="194"/>
         <source>Board</source>
-        <translation>Brett</translation>
+        <translation>Board</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="201"/>
         <source>Board material:</source>
-        <translation type="unfinished"></translation>
+        <translation>Board Material:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="223"/>
@@ -7442,7 +7442,7 @@ Are you sure?</source>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="270"/>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="435"/>
         <source>Color pickup</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbe auswählen</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="277"/>
@@ -7453,7 +7453,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="288"/>
         <source>Custom board image</source>
-        <translation type="unfinished"></translation>
+        <translation>eigenes Board Bild</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="303"/>
@@ -7474,7 +7474,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="333"/>
         <source>Board opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Board Transparenz:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="367"/>
@@ -7484,12 +7484,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="374"/>
         <source>Background material:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hintergrund Material:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="453"/>
         <source>Custom background image:</source>
-        <translation type="unfinished"></translation>
+        <translation>eigenes Hintergrundbild:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="474"/>
@@ -7698,7 +7698,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="584"/>
         <source>Board:</source>
-        <translation>Brett:</translation>
+        <translation>Board:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="597"/>

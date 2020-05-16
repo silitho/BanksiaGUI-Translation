@@ -3,4 +3,4 @@
 Translations for the freeware Graphical User Interface [BanksiaGUI](https://banksiagui.com) based on the open source tournament manager for chess engines [Banksia](https://github.com/nguyenpham/Banksia) (named after an Australian native wildflower).
 
 
-The German language package is work in progress (2053/4357 words). Feel free to contribute.
+The German language package is work in progress (2066/4357 words). Feel free to contribute.
