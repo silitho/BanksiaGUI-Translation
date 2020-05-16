@@ -203,7 +203,7 @@
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="20"/>
         <source>Drag and drop file, folder here</source>
-        <translation>drag &amp; drop Datei, Verzeichnis hieher</translation>
+        <translation>drag &amp; drop Datei, Verzeichnis hierher</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="37"/>
@@ -213,7 +213,7 @@
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="47"/>
         <source>One</source>
-        <translation>eine</translation>
+        <translation>einzeln</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="57"/>
@@ -303,7 +303,7 @@
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="50"/>
         <source>Auto detect</source>
-        <translation>Automatische Erkennung</translation>
+        <translation>automatische Erkennung</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="60"/>
