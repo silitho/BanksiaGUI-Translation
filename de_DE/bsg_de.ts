@@ -7316,12 +7316,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1278"/>
         <source>main:</source>
-        <translation>Hauptwert:</translation>
+        <translation>Hauptparameter:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1298"/>
         <source>second:</source>
-        <translation>zweiter Wert:</translation>
+        <translation type="unfinished">zweiter Parameter:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1474"/>
@@ -7774,7 +7774,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="140"/>
         <source>Show 2nd param</source>
-        <translation>zeige 2.Parameter</translation>
+        <translation>zeige zweiten Parameter</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="168"/>
