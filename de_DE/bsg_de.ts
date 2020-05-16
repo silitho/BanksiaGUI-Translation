@@ -185,7 +185,7 @@
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="154"/>
         <source> pawns</source>
-        <translation> Bauern</translation>
+        <translation> Bauerneinheiten</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="201"/>
@@ -1780,7 +1780,7 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="167"/>
         <source>Games/pair:</source>
-        <translation type="unfinished"></translation>
+        <translation>Partien/Paarung:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="195"/>
@@ -1815,7 +1815,7 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="280"/>
         <source>Carousel</source>
-        <translation type="unfinished"></translation>
+        <translation>Karussell</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="303"/>
@@ -1862,17 +1862,17 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="702"/>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>spielen</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="712"/>
         <source>Shutdown computer when tournament finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Computer herunterfahren wenn Turnier beendet wurde</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="715"/>
         <source>Shutdown after</source>
-        <translation type="unfinished"></translation>
+        <translation>danach herunterfahren</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="722"/>
@@ -1882,12 +1882,12 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="773"/>
         <source>Locked side</source>
-        <translation type="unfinished"></translation>
+        <translation>gesperrte Seite</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="800"/>
         <source>Double click remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Doppelklick zum Entfernen</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="865"/>
@@ -1912,7 +1912,7 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="67"/>
         <source>Cannot parse JSON string, ignored!</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON Zeichenfolge kann nicht analysiert werden, wird ignoriert!</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="202"/>
@@ -1928,12 +1928,12 @@ Kann diese Partie nicht analysieren.</translation>
         <location filename="../../ui/tour/createtourwidget.cpp" line="364"/>
         <location filename="../../ui/tour/createtourwidget.cpp" line="377"/>
         <source>(empty)</source>
-        <translation type="unfinished"></translation>
+        <translation>(leer)</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="364"/>
         <source>(#books: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>(#Bücher: %1)</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="377"/>
@@ -1943,12 +1943,12 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="389"/>
         <source>(no log)</source>
-        <translation type="unfinished"></translation>
+        <translation>(kein Log)</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="389"/>
         <source>(#logs: %1)</source>
-        <translation>(#logs: %1)</translation>
+        <translation>(#Logs: %1)</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="667"/>
@@ -1960,7 +1960,8 @@ Kann diese Partie nicht analysieren.</translation>
         <location filename="../../ui/tour/createtourwidget.cpp" line="668"/>
         <source>A tournament is playing
 Stop the tournament?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Turnier läuft.
+Turnier beenden?</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="680"/>
@@ -2343,7 +2344,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="114"/>
         <source>Black</source>
-        <translation></translation>
+        <translation>Schwarz</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="119"/>
@@ -3237,12 +3238,12 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.ui" line="50"/>
         <source>Reset all options to default values</source>
-        <translation>Setze alle Optionen auf Standardwerte zurück</translation>
+        <translation>setze alle Optionen auf Standardwerte zurück</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.ui" line="53"/>
         <source>Reset</source>
-        <translation>Reset</translation>
+        <translation>zurücksetzen</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.ui" line="75"/>
@@ -3487,12 +3488,12 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dlg/exclusivemovedialog.ui" line="77"/>
         <source>Tick all</source>
-        <translation>markiere alle</translation>
+        <translation>alle markieren</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/exclusivemovedialog.ui" line="84"/>
         <source>Clear all</source>
-        <translation>alle leeren</translation>
+        <translation>alle abwählen</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/exclusivemovedialog.ui" line="93"/>
@@ -3502,7 +3503,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dlg/exclusivemovedialog.ui" line="100"/>
         <source>If they are changed, stop engines then search again to take effect.</source>
-        <translation type="unfinished">Wenn sie geändert wurden, stoppen Sie die Engine und suchen Sie erneut, um wirksam zu werden.</translation>
+        <translation type="unfinished">Wenn geändert wurde, Engine stoppen und erneut suchen, um wirksam zu werden.</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/exclusivemovedialog.cpp" line="106"/>
@@ -5350,7 +5351,7 @@ correspondent board</source>
         <location filename="../../main/mainwindow.ui" line="1127"/>
         <location filename="../../main/mainwindow.ui" line="1130"/>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Spielen</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1139"/>
@@ -6256,7 +6257,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/tools/openingviewerwidget.ui" line="49"/>
         <source>Opening file:</source>
-        <translation>Eröffnungsbuch Datei:</translation>
+        <translation>Eröffnungsbuchdatei:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/openingviewerwidget.ui" line="70"/>
@@ -7321,7 +7322,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1298"/>
         <source>second:</source>
-        <translation type="unfinished">zweiter Parameter:</translation>
+        <translation>zweiter Parameter:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1474"/>
@@ -8788,7 +8789,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="418"/>
         <source>Hide preview board</source>
-        <translation>verberge Vorschau</translation>
+        <translation>verberge Vorschau Board</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="418"/>
