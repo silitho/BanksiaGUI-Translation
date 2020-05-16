@@ -1063,17 +1063,17 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="47"/>
         <source>Your name as an owner/publisher</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihr Name als Inhaber/Herausgeber</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="53"/>
         <source>Your name to broadcast as a game owner/publisher</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ihr Name als Inhaber/Herausgeber</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="63"/>
         <source>auto login when starting up</source>
-        <translation type="unfinished"></translation>
+        <translation>automatisches Login beim Start</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="66"/>
@@ -1083,7 +1083,7 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="79"/>
         <source>Refresh the game list</source>
-        <translation>aktualisiere Partieliste</translation>
+        <translation type="unfinished">aktualisiere Partieliste</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="82"/>
@@ -1098,13 +1098,13 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="133"/>
         <source>Broadcast current game</source>
-        <translation type="unfinished"></translation>
+        <translation>übertrage aktuelle Partie</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="136"/>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="543"/>
         <source>Broadcast</source>
-        <translation type="unfinished"></translation>
+        <translation>Übertragung</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="175"/>
@@ -1134,17 +1134,17 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="286"/>
         <source>Stopped broadcasting!</source>
-        <translation type="unfinished"></translation>
+        <translation>Übertragung eingestellt!</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="317"/>
         <source>Broadcasting (live) %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>übertrage (live) %1...</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="319"/>
         <source>Broadcasted (not live) %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>übertragen (not live) %1.</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="439"/>
@@ -1164,12 +1164,12 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="526"/>
         <source>Logout</source>
-        <translation>Logout</translation>
+        <translation type="unfinished">Logout</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="526"/>
         <source>Login</source>
-        <translation>Login</translation>
+        <translation type="unfinished">Login</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="543"/>
@@ -1966,7 +1966,7 @@ Turnier beenden?</translation>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="680"/>
         <source>One participant must be ticked as the gauntlet</source>
-        <translation type="unfinished">ein Teilnehmer muss als Gauntlet markiert werden</translation>
+        <translation>ein Teilnehmer muss für Gauntlet markiert werden</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="690"/>
