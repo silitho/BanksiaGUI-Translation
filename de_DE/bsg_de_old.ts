@@ -120,8 +120,19 @@
         <translation>kopieren</translation>
     </message>
     <message>
+        <location filename="../../ui/dlg/aboutdialog.cpp" line="51"/>
+        <source>Program is activated!</source>
+        <translation>Programm ist aktiviert!</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/aboutdialog.cpp" line="56"/>
         <source>Error</source>
-        <translation type="vanished">Fehler</translation>
+        <translation>Fehler</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/aboutdialog.cpp" line="56"/>
+        <source>Cannot activate!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -174,7 +185,7 @@
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="154"/>
         <source> pawns</source>
-        <translation> Bauern</translation>
+        <translation> Bauerneinheiten</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="201"/>
@@ -192,32 +203,32 @@
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="20"/>
         <source>Drag and drop file, folder here</source>
-        <translation></translation>
+        <translation>drag &amp; drop Datei, Verzeichnis hierher</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="37"/>
         <source>Detect:</source>
-        <translation></translation>
+        <translation>erkenne:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="47"/>
         <source>One</source>
-        <translation></translation>
+        <translation>einzeln</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="57"/>
         <source>Engines can be in their own sub folders</source>
-        <translation></translation>
+        <translation>Engines können in ihrem eigenen Unterverzeichnis sein</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="60"/>
         <source>All engines in a main folder</source>
-        <translation></translation>
+        <translation>alle Engines in einem Hauptverzeichnis</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="93"/>
         <source>Main folder:</source>
-        <translation></translation>
+        <translation>Hauptverzeichnis:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="123"/>
@@ -227,12 +238,12 @@
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="139"/>
         <source>Could be more than total of cores</source>
-        <translation></translation>
+        <translation>könnte mehr als die Gesamtzahl der Kerne sein</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="155"/>
         <source>(detect multi engines at once)</source>
-        <translation></translation>
+        <translation>(erkenne mehrere Engines auf einmal)</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="185"/>
@@ -252,12 +263,12 @@
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="268"/>
         <source>Name of the engine, let empty for auto detecting</source>
-        <translation></translation>
+        <translation>Name der Engine, zur automatischen Erkennung leer lassen</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="271"/>
         <source>Let empty for auto detecting</source>
-        <translation></translation>
+        <translation>zur automatischen Erkennung leer lassen</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="288"/>
@@ -282,17 +293,17 @@
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="447"/>
         <source>Init strings:</source>
-        <translation></translation>
+        <translation>Init Zeichenfolgen:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="475"/>
         <source>Detecting...</source>
-        <translation></translation>
+        <translation>erkenne...</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="50"/>
         <source>Auto detect</source>
-        <translation></translation>
+        <translation>automatische Erkennung</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="60"/>
@@ -307,22 +318,22 @@
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="203"/>
         <source>Error: This engine doesn&apos;t support any protocol!</source>
-        <translation></translation>
+        <translation>Fehler: Diese Engine unterstützt kein Protokoll!</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="205"/>
         <source>Error: This engine doesn&apos;t support the selected protocol!</source>
-        <translation></translation>
+        <translation>Fehler: Diese Engine unterstützt das ausgewählte Protokoll nicht!</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="468"/>
         <source>Error: The folder is empty!</source>
-        <translation></translation>
+        <translation>Fehler: Der Ordner ist leer!</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="500"/>
         <source>Error: Duplicated name</source>
-        <translation></translation>
+        <translation>Fehler: Doppelter Name!</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="500"/>
@@ -537,116 +548,116 @@
 <context>
     <name>BaseWindow</name>
     <message>
-        <location filename="../../main/basewindow.cpp" line="469"/>
+        <location filename="../../main/basewindow.cpp" line="438"/>
         <source>Layout %1</source>
         <translation>Layout %1</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="471"/>
+        <location filename="../../main/basewindow.cpp" line="440"/>
         <source>Theme %1</source>
         <translation>Design %1</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="900"/>
-        <location filename="../../main/basewindow.cpp" line="2332"/>
+        <location filename="../../main/basewindow.cpp" line="876"/>
+        <location filename="../../main/basewindow.cpp" line="2278"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="900"/>
+        <location filename="../../main/basewindow.cpp" line="876"/>
         <source>Game is empty!
 Cannot add this game to the database</source>
         <translation>Partie ist leer!
 Kann diese Partie nicht zur Datenbank hinzufügen.</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1347"/>
+        <location filename="../../main/basewindow.cpp" line="1313"/>
         <source>Open Game</source>
         <translation>Öffne Partie</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1350"/>
+        <location filename="../../main/basewindow.cpp" line="1316"/>
         <source>Portable Game Notation (*.pgn);;All Files (*.*)</source>
         <translation>Portable Game Notation (*.pgn);;alle Dateien (*.*)</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1352"/>
+        <location filename="../../main/basewindow.cpp" line="1318"/>
         <source>Portable Game Notation (*.pgn);;CCF (*.ccf);;MXQ (*.mxq);;XQF (*.xqf);;All Known Files (*.pgn *.ccf *.mxq *.xqf);;All Files (*.*)</source>
         <translation>Portable Game Notation (*.pgn);;CCF (*.ccf);;MXQ (*.mxq);;XQF (*.xqf);;alle bekannten Dateien (*.pgn *.ccf *.mxq *.xqf);;alle Dateien (*.*)</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1362"/>
+        <location filename="../../main/basewindow.cpp" line="1328"/>
         <source>Cannot open game</source>
         <translation>kann Partie nicht öffnen</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1363"/>
+        <location filename="../../main/basewindow.cpp" line="1329"/>
         <source>Cannot read or parse this pgn!</source>
         <translation>Kann dieses pgn nicht lesen oder analysieren!</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1449"/>
+        <location filename="../../main/basewindow.cpp" line="1415"/>
         <source>Save Game</source>
         <translation>Speichere Partie</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1451"/>
+        <location filename="../../main/basewindow.cpp" line="1417"/>
         <source>Portable Game Notation (*.pgn);;Extended Position Description (*.epd);;All Files (*.*)</source>
         <translation>Portable Game Notation (*.pgn);;Extended Position Description (*.epd);;alle Dateien (*.*)</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1573"/>
+        <location filename="../../main/basewindow.cpp" line="1529"/>
         <source>Cannot create</source>
         <translation>kann nicht erstellen</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1574"/>
+        <location filename="../../main/basewindow.cpp" line="1530"/>
         <source>Cannot create a new tab!</source>
         <translation>Kann keinen neuen Tab erstellen!</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1589"/>
+        <location filename="../../main/basewindow.cpp" line="1545"/>
         <source>game</source>
         <translation>Partie</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1589"/>
+        <location filename="../../main/basewindow.cpp" line="1545"/>
         <source>FEN</source>
         <translation>FEN</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1591"/>
+        <location filename="../../main/basewindow.cpp" line="1547"/>
         <source>Cannot paste</source>
         <translation>kann nicht einfügen</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1592"/>
+        <location filename="../../main/basewindow.cpp" line="1548"/>
         <source>Cannot read or parse this game!</source>
         <translation>Kann diese Partie nicht lesen oder analysieren!</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1908"/>
+        <location filename="../../main/basewindow.cpp" line="1864"/>
         <source>There is not any editable book</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1912"/>
+        <location filename="../../main/basewindow.cpp" line="1868"/>
         <source>Game is empty or not from starting position!
 Cannot add this game to opening books</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1923"/>
+        <location filename="../../main/basewindow.cpp" line="1879"/>
         <source>Cannot add game to opening book</source>
         <translation>kann Partie nicht zum Eröffnungsbuch hinzufügen</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1924"/>
+        <location filename="../../main/basewindow.cpp" line="1880"/>
         <source>Error:</source>
         <translation>Fehler:</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="2332"/>
+        <location filename="../../main/basewindow.cpp" line="2278"/>
         <source>Game is empty!
 Cannot analyse this game</source>
         <translation>Partie ist leer!
@@ -656,42 +667,42 @@ Kann diese Partie nicht analysieren.</translation>
 <context>
     <name>BasicNetWidget</name>
     <message>
-        <location filename="../../ui/net/basicnetwidget.cpp" line="95"/>
+        <location filename="../../ui/net/basicnetwidget.cpp" line="89"/>
         <source>&lt;Human&gt;</source>
         <translation>&lt;Spieler&gt;</translation>
     </message>
     <message>
-        <location filename="../../ui/net/basicnetwidget.cpp" line="261"/>
+        <location filename="../../ui/net/basicnetwidget.cpp" line="255"/>
         <source>You are playing some local network games</source>
         <translation>Sie spielen einige Partien im lokalen Netzwerk</translation>
     </message>
     <message>
-        <location filename="../../ui/net/basicnetwidget.cpp" line="262"/>
+        <location filename="../../ui/net/basicnetwidget.cpp" line="256"/>
         <source>Do you want to close all local network games then log out?</source>
         <translation>Möchten Sie alle Partien im lokalen Netzwerk schließen und sich dann abmelden?</translation>
     </message>
     <message>
-        <location filename="../../ui/net/basicnetwidget.cpp" line="286"/>
+        <location filename="../../ui/net/basicnetwidget.cpp" line="280"/>
         <source>Disconnect</source>
         <translation>trennen</translation>
     </message>
     <message>
-        <location filename="../../ui/net/basicnetwidget.cpp" line="286"/>
+        <location filename="../../ui/net/basicnetwidget.cpp" line="280"/>
         <source>Connect</source>
         <translation>verbinden</translation>
     </message>
     <message>
-        <location filename="../../ui/net/basicnetwidget.cpp" line="302"/>
+        <location filename="../../ui/net/basicnetwidget.cpp" line="296"/>
         <source>&lt;b&gt;&lt;font color=%1&gt;%2:&lt;/font&gt;&lt;/b&gt; %3</source>
         <translation>&lt;b&gt;&lt;font color=%1&gt;%2:&lt;/font&gt;&lt;/b&gt; %3</translation>
     </message>
     <message>
-        <location filename="../../ui/net/basicnetwidget.cpp" line="378"/>
+        <location filename="../../ui/net/basicnetwidget.cpp" line="372"/>
         <source>Create a new game</source>
         <translation>erstelle neue Partie</translation>
     </message>
     <message>
-        <location filename="../../ui/net/basicnetwidget.cpp" line="386"/>
+        <location filename="../../ui/net/basicnetwidget.cpp" line="380"/>
         <source>Create a new game vs %1</source>
         <translation>erstelle neue Partie vs %1</translation>
     </message>
@@ -739,7 +750,7 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="27"/>
         <source>This function is to run frequently engines with parameters such as taking benchmarks or for any purposes. Double click on parameters column and edit to change permanently, edit command line (Cmd) to change temporarily.</source>
-        <translation type="unfinished">Diese Funktion dient dazu, häufig Engines mit Parametern wie Benchmarks oder für andere Zwecke auszuführen. Doppelklicken Sie auf die Parameterspalte und bearbeiten Sie sie, um sie dauerhaft zu ändern. Bearbeiten Sie die Befehlszeile (Kommando), um sie vorübergehend zu ändern.</translation>
+        <translation>Diese Funktion dient dazu, häufig Engines mit Parametern wie Benchmarks oder für andere Zwecke zu betreiben. Doppelklicken Sie auf die Parameterspalte und bearbeiten Sie sie, um sie dauerhaft zu ändern. Bearbeiten Sie die Befehlszeile (Cmd), um sie vorübergehend zu ändern.</translation>
     </message>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="58"/>
@@ -846,7 +857,7 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="179"/>
         <source>Copy PGN into clipboard</source>
-        <translation>Kopiere PGN in die Zwischenablage</translation>
+        <translation>kopiere PGN in die Zwischenablage</translation>
     </message>
 </context>
 <context>
@@ -1091,7 +1102,7 @@ Kann diese Partie nicht analysieren.</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="136"/>
-        <location filename="../../ui/broadcast/broadcastwidget.cpp" line="532"/>
+        <location filename="../../ui/broadcast/broadcastwidget.cpp" line="543"/>
         <source>Broadcast</source>
         <translation>Übertragung</translation>
     </message>
@@ -1111,18 +1122,14 @@ Kann diese Partie nicht analysieren.</translation>
         <translation>tippe eine Nachricht, drücke Enter zum Senden</translation>
     </message>
     <message>
+        <location filename="../../ui/broadcast/broadcastwidget.cpp" line="231"/>
         <source>Error</source>
-        <translation type="vanished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="231"/>
         <source>Cannot connect, please try later</source>
         <translation>kann keine Verbindung herstellen, bitte versuchen Sie es später</translation>
-    </message>
-    <message>
-        <location filename="../../ui/broadcast/broadcastwidget.cpp" line="231"/>
-        <source>Error Broadcasting</source>
-        <translation>Fehler bei der Übertragung</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="286"/>
@@ -1150,37 +1157,37 @@ Kann diese Partie nicht analysieren.</translation>
         <translation>&lt;font color=&quot;indianred&quot;&gt;%1 ist gegangen&lt;/font&gt;</translation>
     </message>
     <message>
-        <location filename="../../ui/broadcast/broadcastwidget.cpp" line="507"/>
+        <location filename="../../ui/broadcast/broadcastwidget.cpp" line="518"/>
         <source>&lt;b&gt;%1&lt;/b&gt;: %2</source>
         <translation>&lt;b&gt;%1&lt;/b&gt;: %2</translation>
     </message>
     <message>
-        <location filename="../../ui/broadcast/broadcastwidget.cpp" line="515"/>
+        <location filename="../../ui/broadcast/broadcastwidget.cpp" line="526"/>
         <source>Logout</source>
         <translation>Logout</translation>
     </message>
     <message>
-        <location filename="../../ui/broadcast/broadcastwidget.cpp" line="515"/>
+        <location filename="../../ui/broadcast/broadcastwidget.cpp" line="526"/>
         <source>Login</source>
         <translation>Login</translation>
     </message>
     <message>
-        <location filename="../../ui/broadcast/broadcastwidget.cpp" line="532"/>
+        <location filename="../../ui/broadcast/broadcastwidget.cpp" line="543"/>
         <source>Stop</source>
         <translation>Stop</translation>
     </message>
     <message>
-        <location filename="../../ui/broadcast/broadcastwidget.cpp" line="594"/>
+        <location filename="../../ui/broadcast/broadcastwidget.cpp" line="605"/>
         <source>Remove game %1</source>
         <translation>entferne Partie %1</translation>
     </message>
     <message>
-        <location filename="../../ui/broadcast/broadcastwidget.cpp" line="607"/>
+        <location filename="../../ui/broadcast/broadcastwidget.cpp" line="618"/>
         <source>Open game %1</source>
         <translation>öffne Partie %1</translation>
     </message>
     <message>
-        <location filename="../../ui/broadcast/broadcastwidget.cpp" line="613"/>
+        <location filename="../../ui/broadcast/broadcastwidget.cpp" line="624"/>
         <source>Preview game %1</source>
         <translation>Vorschau Partie %1</translation>
     </message>
@@ -1228,17 +1235,17 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="228"/>
         <source>New</source>
-        <translation>neu</translation>
+        <translation>Neu</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="229"/>
         <source>Stop</source>
-        <translation>stop</translation>
+        <translation>Stop</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="230"/>
         <source>Resume</source>
-        <translation>fortsetzen</translation>
+        <translation>Fortsetzen</translation>
     </message>
 </context>
 <context>
@@ -1266,7 +1273,7 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="85"/>
         <source>Merge Openings</source>
-        <translation>Mische Eröffnungen</translation>
+        <translation>mische Eröffnungen</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="90"/>
@@ -1512,102 +1519,97 @@ Kann diese Partie nicht analysieren.</translation>
         <translation>wähle Datenbankdatei</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="359"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="355"/>
         <source>PGN Files (*.pgn);;All files (*.*)</source>
         <translation>PGN (*.pgn);;alle Dateien (*.*)</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="362"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="358"/>
         <source>EPD Files (*.epd);;All files (*.*)</source>
         <translation>EPD (*.epd);;alle Dateien (*.*)</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="500"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="496"/>
         <source>Missing opening book file; </source>
         <translation>fehlende Eröffnungsbuchdatei; </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="508"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="504"/>
         <source>Missing database file; </source>
         <translation>fehlende Datenbankdatei; </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="513"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="509"/>
         <source>Must select sides; </source>
         <translation>Seiten müssen ausgewählt werden; </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="519"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="515"/>
         <source>Game-length &gt;= 0; </source>
         <translation>Partie-Länge &gt;=0; </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="523"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="519"/>
         <source>Add-to-length &gt;= 0; </source>
         <translation>hinzufügen-zu-Länge &gt;=0; </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="529"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="525"/>
         <source>At least one factor &gt; 0; </source>
         <translation>mindestens ein Faktor&gt; 0; </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="539"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="535"/>
         <source>Missing book file folder; </source>
         <translation>fehlendes Eröffnungsbuchverzeichnis; </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="551"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="547"/>
         <source>Missing input book file (.bin or .pgn); </source>
         <translation>fehlende Eingabe-Buchdatei (.bin oder .pgn); </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="555"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="551"/>
         <source>Accept only Polyglot (.bin) or PGN (.pgn); </source>
         <translation>akzeptiere nur Polyglot (.bin) oder PGN (.pgn); </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="567"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="563"/>
         <source>Process</source>
         <translation>bearbeiten</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="567"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="563"/>
         <source>Cancel</source>
         <translation>abbrechen</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="567"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="563"/>
         <source>Done</source>
         <translation>erledigt</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="636"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="633"/>
         <source>Error: one or two files are not found, corrupted or encrypted</source>
         <translation>Fehler: eine oder zwei Dateien wurden nicht gefunden, sind beschädigt oder verschlüsselt</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="637"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="634"/>
         <source>Error: books are not same format</source>
         <translation>Fehler: Bücher sind nicht im selben Format</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="638"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="635"/>
         <source>Error: output book is not same extension with input books</source>
         <translation>Fehler: Ausgabe-Buch ist nicht im selben Format wie Eingabe-Buch</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="728"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="723"/>
         <source>#nodes: %1, period: %2, speed: %3</source>
         <translation>#Knoten: %1, period: %2, Geschwindigkeit: %3</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="736"/>
-        <source>%1#added: %2, period: %3, speed: %4</source>
-        <translation type="unfinished">%1#hinzugefügt: %2, period: %3, Geschwindigkeit: %4</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="746"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="727"/>
         <source>#games: %2, %1period: %3, speed: %4</source>
         <translation>#Partien: %2, %1period: %3, Geschwindigkeit: %4</translation>
     </message>
@@ -1615,12 +1617,12 @@ Kann diese Partie nicht analysieren.</translation>
 <context>
     <name>ChartWidget</name>
     <message>
-        <location filename="../../ui/comm/chartwidget.cpp" line="354"/>
+        <location filename="../../ui/comm/chartwidget.cpp" line="345"/>
         <source>move</source>
         <translation>Zug</translation>
     </message>
     <message>
-        <location filename="../../ui/comm/chartwidget.cpp" line="359"/>
+        <location filename="../../ui/comm/chartwidget.cpp" line="350"/>
         <source>score</source>
         <translation>Wertung</translation>
     </message>
@@ -3335,27 +3337,27 @@ Turnier beenden?</translation>
 <context>
     <name>EvalTableModel</name>
     <message>
-        <location filename="../../ui/comm/evaltablemodel.cpp" line="231"/>
+        <location filename="../../ui/comm/evaltablemodel.cpp" line="229"/>
         <source>depth</source>
         <translation>Tiefe</translation>
     </message>
     <message>
-        <location filename="../../ui/comm/evaltablemodel.cpp" line="233"/>
+        <location filename="../../ui/comm/evaltablemodel.cpp" line="231"/>
         <source>score</source>
         <translation>Wertung</translation>
     </message>
     <message>
-        <location filename="../../ui/comm/evaltablemodel.cpp" line="235"/>
+        <location filename="../../ui/comm/evaltablemodel.cpp" line="233"/>
         <source>time</source>
         <translation>Zeit</translation>
     </message>
     <message>
-        <location filename="../../ui/comm/evaltablemodel.cpp" line="237"/>
+        <location filename="../../ui/comm/evaltablemodel.cpp" line="235"/>
         <source>nodes</source>
         <translation>Knoten</translation>
     </message>
     <message>
-        <location filename="../../ui/comm/evaltablemodel.cpp" line="239"/>
+        <location filename="../../ui/comm/evaltablemodel.cpp" line="237"/>
         <source>pv</source>
         <translation>Vorschau</translation>
     </message>
@@ -3443,22 +3445,22 @@ Turnier beenden?</translation>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="../../ui/comm/evaltablewidget.cpp" line="566"/>
+        <location filename="../../ui/comm/evaltablewidget.cpp" line="558"/>
         <source>0 NPS</source>
         <translation>0 NPS</translation>
     </message>
     <message>
-        <location filename="../../ui/comm/evaltablewidget.cpp" line="572"/>
+        <location filename="../../ui/comm/evaltablewidget.cpp" line="564"/>
         <source>%1 NPS</source>
         <translation>%1 NPS</translation>
     </message>
     <message>
-        <location filename="../../ui/comm/evaltablewidget.cpp" line="580"/>
+        <location filename="../../ui/comm/evaltablewidget.cpp" line="572"/>
         <source>MPS</source>
         <translation>MPS</translation>
     </message>
     <message>
-        <location filename="../../ui/comm/evaltablewidget.cpp" line="585"/>
+        <location filename="../../ui/comm/evaltablewidget.cpp" line="577"/>
         <source>KPS</source>
         <translation>KPS</translation>
     </message>
@@ -4223,7 +4225,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icswidget.ui" line="44"/>
         <source>Result</source>
-        <translation>Ergebnis</translation>
+        <translation type="unfinished">Ergebnis</translation>
     </message>
     <message>
         <source>Resullt</source>
@@ -4270,149 +4272,149 @@ Are you sure?</source>
 <context>
     <name>LiBot</name>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="243"/>
+        <location filename="../../ui/libot/libot.cpp" line="254"/>
         <source>Logged out!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="404"/>
-        <location filename="../../ui/libot/libot.cpp" line="509"/>
+        <location filename="../../ui/libot/libot.cpp" line="408"/>
+        <location filename="../../ui/libot/libot.cpp" line="511"/>
         <source>accepted challenger %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="432"/>
+        <location filename="../../ui/libot/libot.cpp" line="438"/>
         <source>%1 %2, %3</source>
         <translation>%1 %2, %3</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="455"/>
+        <location filename="../../ui/libot/libot.cpp" line="451"/>
+        <source>it is not standard chess</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libot.cpp" line="457"/>
         <source>BOT is not accepted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="464"/>
+        <location filename="../../ui/libot/libot.cpp" line="466"/>
         <source>rated/casual is not matched</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="472"/>
+        <location filename="../../ui/libot/libot.cpp" line="474"/>
         <source>side is not matched</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="487"/>
+        <location filename="../../ui/libot/libot.cpp" line="488"/>
         <source>speed is not matched</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="493"/>
+        <location filename="../../ui/libot/libot.cpp" line="494"/>
         <source>challenged by &lt;b&gt;%1&lt;/b&gt; color %2 speed %3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="504"/>
+        <location filename="../../ui/libot/libot.cpp" line="505"/>
         <source>challenged by %1, saved into waiting list</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="513"/>
+        <location filename="../../ui/libot/libot.cpp" line="515"/>
         <source>Declined %1, %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="523"/>
+        <location filename="../../ui/libot/libot.cpp" line="525"/>
         <source>new game started</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="559"/>
+        <location filename="../../ui/libot/libot.cpp" line="561"/>
         <source>Timeout, arboted game %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="702"/>
+        <location filename="../../ui/libot/libot.cpp" line="670"/>
         <source>game initialised, %1 vs %2, moves %3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="711"/>
+        <location filename="../../ui/libot/libot.cpp" line="679"/>
         <source>New Lichess game created</source>
         <translation>neue Lichess Partie erstellt</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="733"/>
-        <location filename="../../ui/libot/libot.cpp" line="748"/>
+        <location filename="../../ui/libot/libot.cpp" line="696"/>
+        <location filename="../../ui/libot/libot.cpp" line="711"/>
         <source>%1 move %2 </source>
         <translation>%1 Zug %2 </translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="767"/>
+        <location filename="../../ui/libot/libot.cpp" line="730"/>
         <source>move %1 %2</source>
         <translation>Zug %1 %2</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="582"/>
+        <location filename="../../ui/libot/libot.cpp" line="772"/>
         <source>&lt;b&gt;%1:&lt;/b&gt; %2, room %3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="449"/>
-        <source>it is not right variant</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/libot/libot.cpp" line="833"/>
+        <location filename="../../ui/libot/libot.cpp" line="819"/>
         <source>Game finished, %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="844"/>
+        <location filename="../../ui/libot/libot.cpp" line="830"/>
         <source>Failed to query</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="854"/>
+        <location filename="../../ui/libot/libot.cpp" line="840"/>
         <source>Fail to upgrade account to BOT! Stop!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="885"/>
+        <location filename="../../ui/libot/libot.cpp" line="867"/>
         <source>Error: Can&apos;t send move %1 to Lichess server. Retrying...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="897"/>
+        <location filename="../../ui/libot/libot.cpp" line="879"/>
         <source>Error: cannot send move %1. Stopped!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="919"/>
+        <location filename="../../ui/libot/libot.cpp" line="901"/>
         <source>%1 %2</source>
         <translation>%1 %2</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="924"/>
+        <location filename="../../ui/libot/libot.cpp" line="906"/>
         <source>Logged in as &lt;b&gt;&lt;font color=&quot;darkgreen&quot;&gt;%1&lt;/font&gt;&lt;/b&gt;! Waiting for challenges...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="927"/>
+        <location filename="../../ui/libot/libot.cpp" line="909"/>
         <source>Logged in as &lt;b&gt;%1&lt;/b&gt;, requesting to upgrade to BOT account...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="936"/>
+        <location filename="../../ui/libot/libot.cpp" line="918"/>
         <source>Upgraded successfully to BOT account! Waiting for challenges...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="946"/>
+        <location filename="../../ui/libot/libot.cpp" line="928"/>
         <source>OK: sent move %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="948"/>
+        <location filename="../../ui/libot/libot.cpp" line="930"/>
         <source>Resent successfully move %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4425,58 +4427,48 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="26"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="20"/>
         <source>Username:</source>
         <translation>Nutzername:</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="52"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="27"/>
         <source>rated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="242"/>
-        <source>chess</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="252"/>
-        <source>chess960</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="275"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="34"/>
         <source>Your side:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="175"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="43"/>
         <source>Random</source>
         <translation type="unfinished">zufällig</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="192"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="53"/>
         <source>white</source>
         <translation>Weiß</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="185"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="60"/>
         <source>black</source>
         <translation>Schwarz</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="74"/>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="100"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="90"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="116"/>
         <source> s</source>
         <translation> s</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="87"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="103"/>
         <source>Increment:</source>
         <translation>Inkrement:</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="59"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="157"/>
         <source>Initial time:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4611,7 +4603,7 @@ Are you sure?</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="167"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="191"/>
         <source>Show playing games</source>
         <translation>zeige aktive Partien</translation>
     </message>
@@ -4642,6 +4634,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="../../ui/libot/libotmngwidget.ui" line="108"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="177"/>
         <source> s</source>
         <translation> s</translation>
     </message>
@@ -4651,137 +4644,127 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="170"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="164"/>
+        <source>Min move time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="194"/>
         <source>Show games</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="177"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="201"/>
         <source>Log network input/output to log files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="180"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="204"/>
         <source>log</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="193"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="217"/>
         <source>Accept:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="241"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="251"/>
         <source>blitz</source>
         <translation type="unfinished">blitz</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="262"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="258"/>
         <source>bullet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="227"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="265"/>
         <source>white</source>
         <translation>Weiß</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="248"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="272"/>
         <source>rated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="255"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="279"/>
         <source>ultra bullet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="290"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="286"/>
         <source>black</source>
         <translation>Schwarz</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="269"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="293"/>
         <source>casual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="276"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="300"/>
         <source>rapid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="283"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="307"/>
         <source>classical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="234"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="314"/>
         <source>bots</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="297"/>
-        <source>chess960</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="304"/>
-        <source>chess</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="379"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="389"/>
         <source>Event logs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.cpp" line="62"/>
+        <location filename="../../ui/libot/libotmngwidget.cpp" line="63"/>
         <source>Delete Libots</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.cpp" line="63"/>
+        <location filename="../../ui/libot/libotmngwidget.cpp" line="64"/>
         <source>Are you sure to delete all selected bots?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.cpp" line="80"/>
+        <location filename="../../ui/libot/libotmngwidget.cpp" line="81"/>
         <source>There is no online libot. Please go online first</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.cpp" line="97"/>
+        <location filename="../../ui/libot/libotmngwidget.cpp" line="98"/>
         <source>There are more than one online/selected libots. Please select one first</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.cpp" line="102"/>
+        <location filename="../../ui/libot/libotmngwidget.cpp" line="103"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.cpp" line="358"/>
+        <location filename="../../ui/libot/libotmngwidget.cpp" line="340"/>
         <source>Error: at least one side must be checked</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.cpp" line="366"/>
-        <source>Error: at least one chess variant must be checked</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/libot/libotmngwidget.cpp" line="374"/>
+        <location filename="../../ui/libot/libotmngwidget.cpp" line="348"/>
         <source>Error: casual/rate must be checked</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.cpp" line="387"/>
+        <location filename="../../ui/libot/libotmngwidget.cpp" line="361"/>
         <source>Error: at least one speed must be checked</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.cpp" line="399"/>
+        <location filename="../../ui/libot/libotmngwidget.cpp" line="373"/>
         <source>Error: some bots have same tokens</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4923,8 +4906,9 @@ correspondent board</source>
 <context>
     <name>MainWindow</name>
     <message>
+        <location filename="../../main/mainwindow.ui" line="17"/>
         <source>MainWindow</source>
-        <translation type="vanished">Hauptfenster</translation>
+        <translation>Hauptfenster</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="77"/>
@@ -4937,126 +4921,126 @@ correspondent board</source>
         <translation>Design</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="95"/>
+        <location filename="../../main/mainwindow.ui" line="91"/>
         <source>Menu color</source>
         <translation>Menüfarbe</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="103"/>
+        <location filename="../../main/mainwindow.ui" line="99"/>
         <source>Custom</source>
         <translation>Eigenes Design</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="110"/>
+        <location filename="../../main/mainwindow.ui" line="106"/>
         <source>Recent Files</source>
         <translation>Benutzte Dateien</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="146"/>
+        <location filename="../../main/mainwindow.ui" line="143"/>
         <source>Edit</source>
         <translation>Bearbeiten</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="17"/>
-        <location filename="../../main/mainwindow.ui" line="158"/>
-        <location filename="../../main/mainwindow.ui" line="553"/>
+        <location filename="../../main/mainwindow.ui" line="155"/>
+        <location filename="../../main/mainwindow.ui" line="549"/>
         <source>Tools</source>
         <translation>Werkzeuge</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="162"/>
+        <location filename="../../main/mainwindow.ui" line="159"/>
         <source>Developers</source>
         <translation>Entwickler</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="178"/>
+        <location filename="../../main/mainwindow.ui" line="175"/>
         <source>Windows</source>
         <translation>Fenster</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="182"/>
+        <location filename="../../main/mainwindow.ui" line="179"/>
         <source>Tool bars</source>
         <translation>Symbolleisten</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="188"/>
+        <location filename="../../main/mainwindow.ui" line="185"/>
         <source>Docks</source>
         <translation>Docks</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="204"/>
+        <location filename="../../main/mainwindow.ui" line="201"/>
         <source>Languages</source>
         <translation>Sprachen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="209"/>
-        <location filename="../../main/mainwindow.ui" line="213"/>
+        <location filename="../../main/mainwindow.ui" line="206"/>
+        <location filename="../../main/mainwindow.ui" line="210"/>
         <source>Server</source>
         <translation>Server</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="220"/>
+        <location filename="../../main/mainwindow.ui" line="217"/>
         <source>Play mode</source>
         <translation>Spielmodus</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="234"/>
-        <location filename="../../main/mainwindow.ui" line="1364"/>
+        <location filename="../../main/mainwindow.ui" line="231"/>
+        <location filename="../../main/mainwindow.ui" line="1360"/>
         <source>Connect</source>
         <translation>Verbindungen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="239"/>
+        <location filename="../../main/mainwindow.ui" line="236"/>
         <source>Tournaments</source>
         <translation>Turniere</translation>
     </message>
     <message>
+        <location filename="../../main/mainwindow.ui" line="252"/>
         <source>Load/Save</source>
-        <translation type="vanished">Laden/Speichern</translation>
+        <translation>Laden/Speichern</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="277"/>
+        <location filename="../../main/mainwindow.ui" line="273"/>
         <source>Clock</source>
         <translation>Uhr</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="311"/>
+        <location filename="../../main/mainwindow.ui" line="307"/>
         <source>Score graph</source>
         <translatorcomment>Partieprofil</translatorcomment>
         <translation>Wertungsdiagramm</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="329"/>
+        <location filename="../../main/mainwindow.ui" line="325"/>
         <source>Engine info</source>
         <translation>Engine Info</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="338"/>
+        <location filename="../../main/mainwindow.ui" line="334"/>
         <source>Moves</source>
         <translation type="unfinished">Notation</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="467"/>
+        <location filename="../../main/mainwindow.ui" line="463"/>
         <source>?!</source>
         <translation>?!</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="477"/>
+        <location filename="../../main/mainwindow.ui" line="473"/>
         <source>{}</source>
         <translation>{}</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="491"/>
+        <location filename="../../main/mainwindow.ui" line="487"/>
         <source>Engine log</source>
         <translation>Engine Log</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="521"/>
+        <location filename="../../main/mainwindow.ui" line="517"/>
         <source>Books/Egtb</source>
         <translation>Bücher/EGTB</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="530"/>
+        <location filename="../../main/mainwindow.ui" line="526"/>
         <source>Control</source>
         <translation>Steuerung</translation>
     </message>
@@ -5065,750 +5049,745 @@ correspondent board</source>
         <translation type="vanished">Datenbanken</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="571"/>
+        <location filename="../../main/mainwindow.ui" line="567"/>
         <source>Connection</source>
         <translation>Verbindung</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="582"/>
+        <location filename="../../main/mainwindow.ui" line="578"/>
         <source>Strings, stats</source>
-        <translatorcomment>Ausgaben, Statistiken</translatorcomment>
-        <translation>Engine Info</translation>
+        <translatorcomment>Engine Info</translatorcomment>
+        <translation>Ausgaben, Statistiken</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="612"/>
+        <location filename="../../main/mainwindow.ui" line="608"/>
         <source>Tournament</source>
         <translation>Turnier</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="652"/>
+        <location filename="../../main/mainwindow.ui" line="648"/>
         <source>Tournament result</source>
         <translation>Turnier Ergebnis</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="679"/>
+        <location filename="../../main/mainwindow.ui" line="675"/>
         <source>Pv board</source>
         <translation>Vorschau Board</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="688"/>
+        <location filename="../../main/mainwindow.ui" line="684"/>
         <source>Lichess bots</source>
         <translation>Lichess Bots</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="725"/>
+        <location filename="../../main/mainwindow.ui" line="721"/>
         <source>Internet Chess Server</source>
         <translation>Internet Schach Server</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="752"/>
+        <location filename="../../main/mainwindow.ui" line="748"/>
         <source>Local Network</source>
         <translation>Lokales Netzwerk</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="779"/>
+        <location filename="../../main/mainwindow.ui" line="775"/>
         <source>Broadcast</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="813"/>
+        <location filename="../../main/mainwindow.ui" line="809"/>
         <source>New Game</source>
         <translation>Neue Partie</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="816"/>
+        <location filename="../../main/mainwindow.ui" line="812"/>
         <source>Ctrl+N</source>
         <translation>Ctrl+N</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="825"/>
+        <location filename="../../main/mainwindow.ui" line="821"/>
         <source>Open Game</source>
         <translation>Öffne Partie</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="828"/>
+        <location filename="../../main/mainwindow.ui" line="824"/>
         <source>Ctrl+O</source>
         <translation>Ctrl+O</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="833"/>
+        <location filename="../../main/mainwindow.ui" line="829"/>
         <source>Exit</source>
         <translation>Exit</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="842"/>
+        <location filename="../../main/mainwindow.ui" line="838"/>
         <source>Copy PGN</source>
         <translation>Kopiere PGN</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="845"/>
+        <location filename="../../main/mainwindow.ui" line="841"/>
         <source>Ctrl+C</source>
         <translation>Ctrl+C</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="850"/>
+        <location filename="../../main/mainwindow.ui" line="846"/>
         <source>Copy FEN</source>
         <translation>Kopiere FEN</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="859"/>
+        <location filename="../../main/mainwindow.ui" line="855"/>
         <source>Paste</source>
         <translation>Einfügen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="862"/>
+        <location filename="../../main/mainwindow.ui" line="858"/>
         <source>Ctrl+V</source>
         <translation>Ctrl+V</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="867"/>
+        <location filename="../../main/mainwindow.ui" line="863"/>
         <source>Copy Image</source>
         <translation>Kopiere Bild</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="876"/>
+        <location filename="../../main/mainwindow.ui" line="872"/>
         <source>Database</source>
         <translation>Öffne Datenbank</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="885"/>
+        <location filename="../../main/mainwindow.ui" line="881"/>
         <source>Opening</source>
         <translation>Öffne Eröffnungsbuch</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="888"/>
+        <location filename="../../main/mainwindow.ui" line="884"/>
         <source>View Opening Book</source>
         <translation>zeige Eröffnungsbuch</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="897"/>
+        <location filename="../../main/mainwindow.ui" line="893"/>
         <source>Edit Board</source>
         <translation>Stellung aufbauen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="900"/>
+        <location filename="../../main/mainwindow.ui" line="896"/>
         <source>Edit board</source>
         <translation>Stellung aufbauen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="909"/>
+        <location filename="../../main/mainwindow.ui" line="905"/>
         <source>Save</source>
         <translation>Speichern</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="912"/>
+        <location filename="../../main/mainwindow.ui" line="908"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="921"/>
+        <location filename="../../main/mainwindow.ui" line="917"/>
         <source>Go first</source>
         <translation>Gehe zum Anfang der Partie</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="924"/>
+        <location filename="../../main/mainwindow.ui" line="920"/>
         <source>go first</source>
         <translation>gehe zum Anfang der Partie</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="927"/>
+        <location filename="../../main/mainwindow.ui" line="923"/>
         <source>Ctrl+Left</source>
         <translation>Ctrl + links</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="936"/>
+        <location filename="../../main/mainwindow.ui" line="932"/>
         <source>Go previous</source>
         <translation>Gehe zum vorherigen Zug</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="939"/>
+        <location filename="../../main/mainwindow.ui" line="935"/>
         <source>go previous</source>
         <translation>gehe zum vorherigen Zug</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="942"/>
+        <location filename="../../main/mainwindow.ui" line="938"/>
         <source>Left</source>
         <translation>links</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="951"/>
+        <location filename="../../main/mainwindow.ui" line="947"/>
         <source>Go next</source>
         <translation>Gehe zum nächsten Zug</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="954"/>
+        <location filename="../../main/mainwindow.ui" line="950"/>
         <source>go next</source>
         <translation>gehe zum nächsten Zug</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="957"/>
+        <location filename="../../main/mainwindow.ui" line="953"/>
         <source>Right</source>
         <translation>rechts</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="966"/>
+        <location filename="../../main/mainwindow.ui" line="962"/>
         <source>Go last</source>
         <translation>Gehe zum Ende der Partie</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="969"/>
+        <location filename="../../main/mainwindow.ui" line="965"/>
         <source>go last</source>
         <translation>gehe zum Ende der Partie</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="972"/>
+        <location filename="../../main/mainwindow.ui" line="968"/>
         <source>Ctrl+Right</source>
         <translation>Ctrl + rechts</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="981"/>
+        <location filename="../../main/mainwindow.ui" line="977"/>
         <source>Rotate</source>
         <translation>drehen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="984"/>
+        <location filename="../../main/mainwindow.ui" line="980"/>
         <source>rotate board</source>
         <translation>Board drehen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="997"/>
+        <location filename="../../main/mainwindow.ui" line="993"/>
         <source>Auto Play</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1000"/>
+        <location filename="../../main/mainwindow.ui" line="996"/>
         <source>auto play</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1009"/>
+        <location filename="../../main/mainwindow.ui" line="1005"/>
         <source>Settings</source>
         <translation>Einstellungen...</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1012"/>
+        <location filename="../../main/mainwindow.ui" line="1008"/>
         <source>settings</source>
         <translation>Einstellungen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1021"/>
-        <location filename="../../main/mainwindow.ui" line="1024"/>
+        <location filename="../../main/mainwindow.ui" line="1017"/>
+        <location filename="../../main/mainwindow.ui" line="1020"/>
         <source>New Tournament</source>
         <translation>Neues Turnier</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1027"/>
+        <location filename="../../main/mainwindow.ui" line="1023"/>
         <source>Create tournament</source>
         <translation>erstelle Turnier</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1032"/>
+        <location filename="../../main/mainwindow.ui" line="1028"/>
         <source>Save Theme &amp;&amp; Layout</source>
         <translation>Speichere Design &amp;&amp; Layout</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1035"/>
+        <location filename="../../main/mainwindow.ui" line="1031"/>
         <source>Save theme and layout</source>
         <translation>Speichere Design und Layout</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1044"/>
+        <location filename="../../main/mainwindow.ui" line="1040"/>
         <source>Game Analysis</source>
         <translation>Partie analysieren</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1047"/>
+        <location filename="../../main/mainwindow.ui" line="1043"/>
         <source>Auto analyse game</source>
         <translation>Partie analysieren</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1056"/>
-        <location filename="../../main/mainwindow.ui" line="1059"/>
+        <location filename="../../main/mainwindow.ui" line="1052"/>
+        <location filename="../../main/mainwindow.ui" line="1055"/>
         <source>Stop Analysis</source>
         <translation>Analyse anhalten</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1064"/>
-        <location filename="../../main/mainwindow.ui" line="1067"/>
+        <location filename="../../main/mainwindow.ui" line="1060"/>
+        <location filename="../../main/mainwindow.ui" line="1063"/>
         <source>Open PGN from URL</source>
         <translation>Öffne PGN von URL</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1079"/>
-        <location filename="../../main/mainwindow.ui" line="1082"/>
+        <location filename="../../main/mainwindow.ui" line="1075"/>
+        <location filename="../../main/mainwindow.ui" line="1078"/>
         <source>Always On Top</source>
         <translation>immer im Vordergrund</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1087"/>
-        <location filename="../../main/mainwindow.ui" line="1090"/>
+        <location filename="../../main/mainwindow.ui" line="1083"/>
+        <location filename="../../main/mainwindow.ui" line="1086"/>
         <source>Save As</source>
         <translation>Speichern unter</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1095"/>
-        <location filename="../../main/mainwindow.ui" line="1098"/>
+        <location filename="../../main/mainwindow.ui" line="1091"/>
+        <location filename="../../main/mainwindow.ui" line="1094"/>
         <source>About</source>
         <translation>Über</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1107"/>
-        <location filename="../../main/mainwindow.ui" line="1110"/>
+        <location filename="../../main/mainwindow.ui" line="1103"/>
+        <location filename="../../main/mainwindow.ui" line="1106"/>
         <source>Exclusive Moves</source>
         <translation>exklusive Züge</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1119"/>
-        <location filename="../../main/mainwindow.ui" line="1122"/>
+        <location filename="../../main/mainwindow.ui" line="1115"/>
+        <location filename="../../main/mainwindow.ui" line="1118"/>
         <source>Move Now</source>
         <translation>ziehe jetzt</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1131"/>
-        <location filename="../../main/mainwindow.ui" line="1134"/>
+        <location filename="../../main/mainwindow.ui" line="1127"/>
+        <location filename="../../main/mainwindow.ui" line="1130"/>
         <source>Play</source>
         <translation>Spielen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1143"/>
-        <location filename="../../main/mainwindow.ui" line="1146"/>
+        <location filename="../../main/mainwindow.ui" line="1139"/>
+        <location filename="../../main/mainwindow.ui" line="1142"/>
         <source>Takeback</source>
         <translation>zurücknehmen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1155"/>
+        <location filename="../../main/mainwindow.ui" line="1151"/>
         <source>Game Setup</source>
         <translation>Partie Setup</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1158"/>
+        <location filename="../../main/mainwindow.ui" line="1154"/>
         <source>Setup Game</source>
         <translation>Partie Setup</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1161"/>
+        <location filename="../../main/mainwindow.ui" line="1157"/>
         <source>Ctrl+/</source>
         <translation>Ctrl+/</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1170"/>
-        <location filename="../../main/mainwindow.ui" line="1173"/>
+        <location filename="../../main/mainwindow.ui" line="1166"/>
+        <location filename="../../main/mainwindow.ui" line="1169"/>
         <source>Create Database</source>
         <translation>Erstelle Datenbank</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1182"/>
-        <location filename="../../main/mainwindow.ui" line="1185"/>
+        <location filename="../../main/mainwindow.ui" line="1178"/>
+        <location filename="../../main/mainwindow.ui" line="1181"/>
         <source>Create Opening</source>
         <translation>Erstelle Eröffnungsbuch</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1194"/>
+        <location filename="../../main/mainwindow.ui" line="1190"/>
         <source>View Book</source>
         <translation>Zeige Buch</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1197"/>
+        <location filename="../../main/mainwindow.ui" line="1193"/>
         <source>View opening book</source>
         <translation>Öffne Eröffnungsbuch</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1206"/>
+        <location filename="../../main/mainwindow.ui" line="1202"/>
         <source>Add current game to a book</source>
         <translation>aktuelle Partie zum Eröffnungsbuch hinzufügen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1209"/>
+        <location filename="../../main/mainwindow.ui" line="1205"/>
         <source>Add current game to an opening book</source>
         <translation>aktuelle Partie zum Eröffnungsbuch hinzufügen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1218"/>
-        <location filename="../../main/mainwindow.ui" line="1221"/>
+        <location filename="../../main/mainwindow.ui" line="1214"/>
+        <location filename="../../main/mainwindow.ui" line="1217"/>
         <source>Add current game to a database</source>
         <translation>aktuelle Partie zur Datenbank hinzufügen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1233"/>
-        <location filename="../../main/mainwindow.ui" line="1236"/>
+        <location filename="../../main/mainwindow.ui" line="1229"/>
+        <location filename="../../main/mainwindow.ui" line="1232"/>
         <source>Xiangqi</source>
         <translation>Xiangqi</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1248"/>
-        <location filename="../../main/mainwindow.ui" line="1251"/>
+        <location filename="../../main/mainwindow.ui" line="1244"/>
+        <location filename="../../main/mainwindow.ui" line="1247"/>
         <source>Jeiqi</source>
         <translation>Jeiqi</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1259"/>
-        <location filename="../../main/mainwindow.ui" line="1262"/>
+        <location filename="../../main/mainwindow.ui" line="1255"/>
+        <location filename="../../main/mainwindow.ui" line="1258"/>
         <source>Chess</source>
         <translation>Standard Schach</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1274"/>
+        <location filename="../../main/mainwindow.ui" line="1270"/>
         <source>Chess960</source>
         <translation>Chess 960</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1282"/>
+        <location filename="../../main/mainwindow.ui" line="1278"/>
         <source>CXQ</source>
         <translation>CXQ</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1285"/>
+        <location filename="../../main/mainwindow.ui" line="1281"/>
         <source>Club Xiangqi</source>
         <translation>Club Xiangqi</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1293"/>
+        <location filename="../../main/mainwindow.ui" line="1289"/>
         <source>GameVH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1296"/>
+        <location filename="../../main/mainwindow.ui" line="1292"/>
         <source>Game VH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1304"/>
-        <location filename="../../main/mainwindow.ui" line="1307"/>
+        <location filename="../../main/mainwindow.ui" line="1300"/>
+        <location filename="../../main/mainwindow.ui" line="1303"/>
         <source>MoveSky</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1315"/>
+        <location filename="../../main/mainwindow.ui" line="1311"/>
         <source>Thien thien tuong ky</source>
         <translation>Thien thien tuong ky</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1323"/>
+        <location filename="../../main/mainwindow.ui" line="1319"/>
         <source>Kydao</source>
         <translation>Kydao</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1328"/>
+        <location filename="../../main/mainwindow.ui" line="1324"/>
         <source>Reserve1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1333"/>
+        <location filename="../../main/mainwindow.ui" line="1329"/>
         <source>ServerReserve2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1338"/>
+        <location filename="../../main/mainwindow.ui" line="1334"/>
         <source>ServerReserve3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1343"/>
+        <location filename="../../main/mainwindow.ui" line="1339"/>
         <source>Clear Menu</source>
         <translation type="unfinished">Einträge löschen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1348"/>
+        <location filename="../../main/mainwindow.ui" line="1344"/>
         <source>Benchmark/Cmd</source>
         <translation>Benchmark/Kommando</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1351"/>
+        <location filename="../../main/mainwindow.ui" line="1347"/>
         <source>Benchmark or command</source>
         <translation>Benchmark oder Kommando</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1611"/>
+        <location filename="../../main/mainwindow.ui" line="1607"/>
         <source>Dump</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1616"/>
+        <location filename="../../main/mainwindow.ui" line="1612"/>
         <source>Perft</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1619"/>
+        <location filename="../../main/mainwindow.ui" line="1615"/>
         <source>Computing perft</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1367"/>
+        <location filename="../../main/mainwindow.ui" line="1363"/>
         <source>ServerConnect</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="256"/>
-        <source>Load Save</source>
-        <translation>Laden/Speichern</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="1375"/>
+        <location filename="../../main/mainwindow.ui" line="1371"/>
         <source>Idle</source>
         <translation>Leerlauf</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1383"/>
-        <location filename="../../main/mainwindow.ui" line="1386"/>
+        <location filename="../../main/mainwindow.ui" line="1379"/>
+        <location filename="../../main/mainwindow.ui" line="1382"/>
         <source>Analyse</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1394"/>
-        <location filename="../../main/mainwindow.ui" line="1397"/>
+        <location filename="../../main/mainwindow.ui" line="1390"/>
+        <location filename="../../main/mainwindow.ui" line="1393"/>
         <source>Play for one side</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1406"/>
-        <location filename="../../main/mainwindow.ui" line="1409"/>
+        <location filename="../../main/mainwindow.ui" line="1402"/>
+        <location filename="../../main/mainwindow.ui" line="1405"/>
         <source>Swap players</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1418"/>
+        <location filename="../../main/mainwindow.ui" line="1414"/>
         <source>Download</source>
         <translation>Download</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1421"/>
+        <location filename="../../main/mainwindow.ui" line="1417"/>
         <source>Download engines, data</source>
         <translation>Download</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1430"/>
+        <location filename="../../main/mainwindow.ui" line="1426"/>
         <source>New Tab</source>
         <translation>Neuer Tab</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1433"/>
+        <location filename="../../main/mainwindow.ui" line="1429"/>
         <source>New Game Tab</source>
         <translation>Neuer Tab</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1438"/>
+        <location filename="../../main/mainwindow.ui" line="1434"/>
         <source>Copy EPD</source>
         <translation>Kopiere EPD</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1441"/>
+        <location filename="../../main/mainwindow.ui" line="1437"/>
         <source>Copy the game as a list of EPD</source>
         <translation>kopiere Partie als Liste von EPD</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1446"/>
+        <location filename="../../main/mainwindow.ui" line="1442"/>
         <source>Flip On/Off All Docks</source>
         <translation>zeige/verberge alle Docks</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1449"/>
+        <location filename="../../main/mainwindow.ui" line="1445"/>
         <source>Show/hide all docks</source>
         <translation>zeige/verberge alle Docks</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1454"/>
+        <location filename="../../main/mainwindow.ui" line="1450"/>
         <source>Close Tab</source>
         <translation>Schließe Tab</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1457"/>
+        <location filename="../../main/mainwindow.ui" line="1453"/>
         <source>Close current tab</source>
         <translation>Schließe aktiven Tab</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1462"/>
+        <location filename="../../main/mainwindow.ui" line="1458"/>
         <source>Plain Color</source>
         <translation>Farbe</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1465"/>
+        <location filename="../../main/mainwindow.ui" line="1461"/>
         <source>Theme Color</source>
         <translation>Design Farbe</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1470"/>
+        <location filename="../../main/mainwindow.ui" line="1466"/>
         <source>Wood</source>
         <translation>Holz</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1473"/>
+        <location filename="../../main/mainwindow.ui" line="1469"/>
         <source>Theme Wood</source>
         <translation>Design Holz</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1478"/>
+        <location filename="../../main/mainwindow.ui" line="1474"/>
         <source>Marble</source>
         <translation>Marmor</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1481"/>
+        <location filename="../../main/mainwindow.ui" line="1477"/>
         <source>Theme Marble</source>
         <translation>Design Marmor</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1486"/>
+        <location filename="../../main/mainwindow.ui" line="1482"/>
         <source>Green</source>
         <translation>Grün</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1489"/>
+        <location filename="../../main/mainwindow.ui" line="1485"/>
         <source>Theme Green</source>
         <translation>Design Grün</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1494"/>
+        <location filename="../../main/mainwindow.ui" line="1490"/>
         <source>Ocean</source>
         <translation>Ozean</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1497"/>
+        <location filename="../../main/mainwindow.ui" line="1493"/>
         <source>Theme Ocean</source>
         <translation>Design Ozean</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1502"/>
+        <location filename="../../main/mainwindow.ui" line="1498"/>
         <source>Yellow</source>
         <translation>Gelb</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1505"/>
+        <location filename="../../main/mainwindow.ui" line="1501"/>
         <source>Theme Yellow</source>
         <translation>Design Gelb</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1510"/>
+        <location filename="../../main/mainwindow.ui" line="1506"/>
         <source>Zen</source>
         <translation>Zen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1513"/>
+        <location filename="../../main/mainwindow.ui" line="1509"/>
         <source>Theme Zen</source>
         <translation>Design Zen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1518"/>
+        <location filename="../../main/mainwindow.ui" line="1514"/>
         <source>Nature</source>
         <translation>Natur</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1521"/>
+        <location filename="../../main/mainwindow.ui" line="1517"/>
         <source>Theme Nature</source>
         <translation>Design Natur</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1526"/>
+        <location filename="../../main/mainwindow.ui" line="1522"/>
         <source>Red</source>
         <translation>Rot</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1529"/>
+        <location filename="../../main/mainwindow.ui" line="1525"/>
         <source>Theme Red</source>
         <translation>Design Rot</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1537"/>
+        <location filename="../../main/mainwindow.ui" line="1533"/>
         <source>Default</source>
         <translation>Standard</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1540"/>
+        <location filename="../../main/mainwindow.ui" line="1536"/>
         <source>Default menu color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1548"/>
+        <location filename="../../main/mainwindow.ui" line="1544"/>
         <source>Light</source>
         <translation>Hell</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1551"/>
+        <location filename="../../main/mainwindow.ui" line="1547"/>
         <source>Light menu color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1559"/>
+        <location filename="../../main/mainwindow.ui" line="1555"/>
         <source>Dark</source>
         <translation>Dunkel</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1562"/>
+        <location filename="../../main/mainwindow.ui" line="1558"/>
         <source>Dark menu color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1571"/>
+        <location filename="../../main/mainwindow.ui" line="1567"/>
         <source>Playing games</source>
         <translation>aktive Partien</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1574"/>
+        <location filename="../../main/mainwindow.ui" line="1570"/>
         <source>Show all playing games</source>
         <translation>zeige alle aktiven Partien</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1579"/>
+        <location filename="../../main/mainwindow.ui" line="1575"/>
         <source>Tournaments Load/Save</source>
         <translation>Turniere laden/speichern</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1582"/>
+        <location filename="../../main/mainwindow.ui" line="1578"/>
         <source>Load, save, delete tournaments</source>
         <translation>Turniere laden, speichern, löschen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1591"/>
+        <location filename="../../main/mainwindow.ui" line="1587"/>
         <source>Draw</source>
         <translation>Remis</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1594"/>
+        <location filename="../../main/mainwindow.ui" line="1590"/>
         <source>Draw/offer draw</source>
         <translation>Remis/ Remis anbieten</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1603"/>
+        <location filename="../../main/mainwindow.ui" line="1599"/>
         <source>Resign</source>
         <translation>aufgeben</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1606"/>
+        <location filename="../../main/mainwindow.ui" line="1602"/>
         <source>Resign/Abort</source>
         <translation>aufgeben/abbrechen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.cpp" line="82"/>
+        <location filename="../../main/mainwindow.cpp" line="79"/>
         <source>You dropped a folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.cpp" line="83"/>
+        <location filename="../../main/mainwindow.cpp" line="80"/>
         <source>Do you want to detect all engines in that folder, including sub folder?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.cpp" line="141"/>
-        <location filename="../../main/mainwindow.cpp" line="386"/>
+        <location filename="../../main/mainwindow.cpp" line="136"/>
+        <location filename="../../main/mainwindow.cpp" line="381"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.cpp" line="141"/>
+        <location filename="../../main/mainwindow.cpp" line="136"/>
         <source>Dropped file is not recognized. BanksiaGUI accepts engines, images, svg, games (pgn, epd), .bin (Polyglot) or .bgdb</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.cpp" line="261"/>
+        <location filename="../../main/mainwindow.cpp" line="256"/>
         <source>Cannot download PGN from given URL. Please try later!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.cpp" line="308"/>
+        <location filename="../../main/mainwindow.cpp" line="303"/>
         <source>PGN from given URL is downloaded but error!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.cpp" line="368"/>
-        <location filename="../../main/mainwindow.cpp" line="377"/>
+        <location filename="../../main/mainwindow.cpp" line="363"/>
+        <location filename="../../main/mainwindow.cpp" line="372"/>
         <source>Cannot show PGN from the given URL. Please try later!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5905,52 +5884,57 @@ correspondent board</source>
 <context>
     <name>Material</name>
     <message>
-        <location filename="../../ui/settings.cpp" line="749"/>
+        <location filename="../../ui/settings.cpp" line="684"/>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="171"/>
         <source>Dark marble</source>
         <translation>Marmor dunkel</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="750"/>
+        <location filename="../../ui/settings.cpp" line="685"/>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="172"/>
         <source>Peach marble</source>
         <translation>Marmor hell</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="751"/>
+        <location filename="../../ui/settings.cpp" line="686"/>
         <source>Bronze marble</source>
         <translation>Marmor bronze</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="752"/>
+        <location filename="../../ui/settings.cpp" line="687"/>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="173"/>
         <source>Wood 0</source>
         <translation>Holz 0</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="753"/>
+        <location filename="../../ui/settings.cpp" line="688"/>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="174"/>
         <source>Wood 1</source>
         <translation>Holz 1</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="754"/>
+        <location filename="../../ui/settings.cpp" line="689"/>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="175"/>
         <source>Wood 2</source>
         <translation>Holz 2</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="755"/>
+        <location filename="../../ui/settings.cpp" line="690"/>
         <source>Ocean</source>
         <translation>Ozean</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="758"/>
+        <location filename="../../ui/settings.cpp" line="693"/>
         <source>Blue</source>
         <translation>Blau</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="759"/>
+        <location filename="../../ui/settings.cpp" line="694"/>
         <source>Water</source>
         <translation>Wasser</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="760"/>
+        <location filename="../../ui/settings.cpp" line="695"/>
         <source>Lake</source>
         <translation>See</translation>
     </message>
@@ -6181,12 +6165,12 @@ correspondent board</source>
         <translation>tippe eine Nachricht, drücke Enter zum Senden</translation>
     </message>
     <message>
-        <location filename="../../ui/net/netwidget.cpp" line="534"/>
+        <location filename="../../ui/net/netwidget.cpp" line="523"/>
         <source>* %1 has joined</source>
         <translation>* %1 ist hinzugekommen</translation>
     </message>
     <message>
-        <location filename="../../ui/net/netwidget.cpp" line="558"/>
+        <location filename="../../ui/net/netwidget.cpp" line="547"/>
         <source>* %1 has left</source>
         <translation>* %1 ist gegangen</translation>
     </message>
@@ -6273,7 +6257,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/tools/openingviewerwidget.ui" line="49"/>
         <source>Opening file:</source>
-        <translation>Eröffnungsbuch Datei:</translation>
+        <translation>Eröffnungsbuchdatei:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/openingviewerwidget.ui" line="70"/>
@@ -6369,7 +6353,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/patheditwidget.cpp" line="101"/>
         <source>Are you sure?</source>
-        <translation>Sind sie sicher?</translation>
+        <translation>Sind Sie sicher?</translation>
     </message>
 </context>
 <context>
@@ -6494,31 +6478,67 @@ correspondent board</source>
 <context>
     <name>PieceMaterial</name>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="191"/>
         <source>Plain</source>
-        <translation type="vanished">einfach</translation>
+        <translation>einfach</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="192"/>
         <source>Wood 1</source>
-        <translation type="vanished">Holz 1</translation>
+        <translation>Holz 1</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="193"/>
         <source>Wood 2</source>
-        <translation type="vanished">Holz 2</translation>
+        <translation>Holz 2</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="194"/>
         <source>Stone</source>
-        <translation type="vanished">Stein</translation>
+        <translation>Stein</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="195"/>
         <source>Water</source>
-        <translation type="vanished">Wasser</translation>
+        <translation>Wasser</translation>
     </message>
 </context>
 <context>
     <name>PieceStyle</name>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="180"/>
+        <source>Characters in English</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="181"/>
+        <source>Characters in Vietnamese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="182"/>
         <source>Graphics</source>
-        <translation type="obsolete">Design</translation>
+        <translation type="unfinished">Design</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="183"/>
+        <source>Traditional</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="184"/>
+        <source>Alternate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="185"/>
+        <source>Common</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="186"/>
+        <source>Historical</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6729,17 +6749,17 @@ correspondent board</source>
 <context>
     <name>Scene</name>
     <message>
-        <location filename="../../graphics/scene.cpp" line="169"/>
+        <location filename="../../graphics/scene.cpp" line="153"/>
         <source>Congraturation</source>
         <translation>Glückwunsch</translation>
     </message>
     <message>
-        <location filename="../../graphics/scene.cpp" line="169"/>
+        <location filename="../../graphics/scene.cpp" line="153"/>
         <source>The engine has resigned!</source>
         <translation>Die Engine hat aufgegeben!</translation>
     </message>
     <message>
-        <location filename="../../graphics/scene.cpp" line="219"/>
+        <location filename="../../graphics/scene.cpp" line="203"/>
         <source>Analysing... %1 of %2</source>
         <translation>Analysiere... %1 von %2</translation>
     </message>
@@ -7368,302 +7388,116 @@ Are you sure?</source>
 <context>
     <name>SetupGraphicsWidget</name>
     <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="14"/>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="14"/>
         <source>Form</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="119"/>
-        <source>white</source>
-        <translation>Weiß</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="132"/>
-        <source>black</source>
-        <translation>Schwarz</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="145"/>
-        <source>default</source>
-        <translation>Standard</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="154"/>
-        <source>Shadow</source>
-        <translation>Schatten</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="181"/>
-        <source>White cell</source>
-        <translation>weißes Feld</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="211"/>
-        <source>Black cell</source>
-        <translation>schwarzes Feld</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="244"/>
-        <source>Base</source>
-        <translation>Rahmen</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="271"/>
-        <source>Show board base</source>
-        <translation>zeige Rahmen</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="297"/>
-        <source>Centre</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="311"/>
-        <source>Opacity:</source>
-        <translation>Transparenz:</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="349"/>
-        <source>App bk</source>
-        <translation>Hauptfenster</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="370"/>
-        <source>Panel bk</source>
-        <translation>Panel</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="410"/>
-        <source>Piece:</source>
-        <translation>Figuren:</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="423"/>
-        <source>Board:</source>
-        <translation>Board:</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="436"/>
-        <source>Background:</source>
-        <translation>Hintergrund:</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="445"/>
-        <source>Xiangqi/Jeiqi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="452"/>
-        <source>Chess/Ches960</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="500"/>
-        <source>Smart</source>
-        <translation>Smart</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="505"/>
-        <source>Condal</source>
-        <translation>Condal</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="510"/>
-        <source>Cases</source>
-        <translation>Cases</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="515"/>
-        <source>Motif</source>
-        <translation>Motif</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="520"/>
-        <source>Kingdom</source>
-        <translation>Kingdom</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="525"/>
-        <source>Dw</source>
-        <translation>Dw</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="530"/>
-        <source>Maya</source>
-        <translation>Maya</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="535"/>
-        <source>Leipzig</source>
-        <translation>Leipzig</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="540"/>
-        <source>Cheq</source>
-        <translation>Cheq</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="545"/>
-        <source>Mark</source>
-        <translation>Mark</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="550"/>
-        <source>Adventurer</source>
-        <translation>Adventurer</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="555"/>
-        <source>Alpha</source>
-        <translation>Alpha</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="560"/>
-        <source>Celtic (svg)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="565"/>
-        <source>Eyes (svg)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="570"/>
-        <source>Fantasy (svg)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="575"/>
-        <source>Fantasy alt (svg)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="580"/>
-        <source>Freak (svg)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="585"/>
-        <source>Prmi (svg)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="590"/>
-        <source>Skulls (svg)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="595"/>
-        <source>Spatial (svg)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="600"/>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="689"/>
-        <source>Custom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="609"/>
-        <source>Characters in English</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="614"/>
-        <source>Characters in Vietnamese</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="619"/>
-        <source>Graphics</source>
-        <translation>Design</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="624"/>
-        <source>Traditional</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="629"/>
-        <source>Alternate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="634"/>
-        <source>Common</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="639"/>
-        <source>Historical</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="656"/>
-        <source>Plain</source>
-        <translation type="unfinished">einfach</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="661"/>
-        <source>Wood 1</source>
-        <translation>Holz 1</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="666"/>
-        <source>Wood 2</source>
-        <translation>Holz 2</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="671"/>
-        <source>Stone</source>
-        <translation>Stein</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="676"/>
-        <source>Water</source>
-        <translation>Wasser</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="696"/>
-        <source>Scale:</source>
-        <translation>Skalierung:</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="709"/>
-        <source> %</source>
-        <translation> %</translation>
-    </message>
-    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="48"/>
         <source>Pieces</source>
-        <translation type="vanished">Figuren</translation>
+        <translation>Figuren</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="55"/>
         <source>Piece style:</source>
-        <translation type="vanished">Figuren Stil:</translation>
+        <translation>Figuren Stil:</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="72"/>
         <source>Piece material:</source>
-        <translation type="vanished">Figuren Material:</translation>
+        <translation>Figuren Material:</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="111"/>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="130"/>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="150"/>
+        <source>white color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="163"/>
+        <source>black color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="176"/>
+        <source>set defaults</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="194"/>
         <source>Board</source>
-        <translation type="vanished">Brett</translation>
+        <translation>Board</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="201"/>
+        <source>Board material:</source>
+        <translation>Board Material:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="223"/>
+        <source>Show board grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="270"/>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="435"/>
+        <source>Color pickup</source>
+        <translation>Farbe auswählen</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="277"/>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="442"/>
         <source>Tile</source>
-        <translation type="vanished">kacheln</translation>
+        <translation>kacheln</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="290"/>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="288"/>
+        <source>Custom board image</source>
+        <translation>eigenes Board Bild</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="303"/>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="465"/>
+        <source>Browse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="317"/>
         <source>Auto resize board</source>
         <translation>automatische Größenänderung</translation>
     </message>
     <message>
-        <source>Background</source>
-        <translation type="vanished">Hintergrund</translation>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="324"/>
+        <source>In center</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgraphicswidget.ui" line="278"/>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="333"/>
+        <source>Board opacity:</source>
+        <translation>Board Transparenz:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="367"/>
+        <source>Background</source>
+        <translation>Hintergrund</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="374"/>
+        <source>Background material:</source>
+        <translation>Hintergrund Material:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="453"/>
+        <source>Custom background image:</source>
+        <translation>eigenes Hintergrundbild:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.ui" line="474"/>
         <source>Show board coordinate</source>
         <translation type="unfinished">zeige Koordinaten</translation>
     </message>
@@ -7671,135 +7505,235 @@ Are you sure?</source>
 <context>
     <name>SetupGraphicsWidget_Chess</name>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="14"/>
+        <source>Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="59"/>
         <source>Smart</source>
-        <translation type="vanished">Smart</translation>
+        <translation>Smart</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="64"/>
         <source>Condal</source>
-        <translation type="vanished">Condal</translation>
+        <translation>Condal</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="69"/>
         <source>Cases</source>
-        <translation type="vanished">Cases</translation>
+        <translation>Cases</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="74"/>
         <source>Motif</source>
-        <translation type="vanished">Motif</translation>
+        <translation>Motif</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="79"/>
         <source>Kingdom</source>
-        <translation type="vanished">Kingdom</translation>
+        <translation>Kingdom</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="84"/>
         <source>Dw</source>
-        <translation type="vanished">Dw</translation>
+        <translation>Dw</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="89"/>
         <source>Maya</source>
-        <translation type="vanished">Maya</translation>
+        <translation>Maya</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="94"/>
         <source>Leipzig</source>
-        <translation type="vanished">Leipzig</translation>
+        <translation>Leipzig</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="99"/>
         <source>Cheq</source>
-        <translation type="vanished">Cheq</translation>
+        <translation>Cheq</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="104"/>
         <source>Mark</source>
-        <translation type="vanished">Mark</translation>
+        <translation>Mark</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="109"/>
         <source>Adventurer</source>
-        <translation type="vanished">Adventurer</translation>
+        <translation>Adventurer</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="114"/>
         <source>Alpha</source>
-        <translation type="vanished">Alpha</translation>
+        <translation>Alpha</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="119"/>
+        <source>Celtic (svg)</source>
+        <translation>Celtic (svg)</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="124"/>
+        <source>Eyes (svg)</source>
+        <translation>Eyes (svg)</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="129"/>
+        <source>Fantasy (svg)</source>
+        <translation>Fantasy (svg)</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="134"/>
+        <source>Fantasy alt (svg)</source>
+        <translation>Fantasy alt (svg)</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="139"/>
+        <source>Freak (svg)</source>
+        <translation>Freak (svg)</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="144"/>
+        <source>Prmi (svg)</source>
+        <translation>Prmi (svg)</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="149"/>
+        <source>Skulls (svg)</source>
+        <translation>Skulls (svg)</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="154"/>
+        <source>Spatial (svg)</source>
+        <translation>Spatial (svg)</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="159"/>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="167"/>
+        <source>Custom</source>
+        <translation>eigene</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="174"/>
         <source>Scale:</source>
-        <translation type="vanished">Skalierung:</translation>
+        <translation>Skalierung:</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="187"/>
         <source> %</source>
-        <translation type="vanished"> %</translation>
+        <translation> %</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="280"/>
         <source>white</source>
-        <translation type="vanished">Weiß</translation>
+        <translation>Weiß</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="293"/>
         <source>black</source>
-        <translation type="vanished">Schwarz</translation>
+        <translation>Schwarz</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="306"/>
         <source>default</source>
-        <translation type="vanished">Standard</translation>
+        <translation>Standard</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="315"/>
         <source>Shadow</source>
-        <translation type="vanished">Schatten</translation>
+        <translation>Schatten</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="342"/>
         <source>White cell</source>
-        <translation type="vanished">weißes Feld</translation>
+        <translation>weißes Feld</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="372"/>
         <source>Black cell</source>
-        <translation type="vanished">schwarzes Feld</translation>
+        <translation>schwarzes Feld</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="405"/>
         <source>Base</source>
-        <translation type="vanished">Rahmen</translation>
+        <translation>Rahmen</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="432"/>
         <source>Show board base</source>
-        <translation type="vanished">zeige Rahmen</translation>
+        <translation>zeige Rahmen</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="439"/>
         <source>Show board coordinate</source>
-        <translation type="vanished">zeige Koordinaten</translation>
+        <translation>zeige Koordinaten</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="451"/>
         <source>Auto resize board</source>
-        <translation type="vanished">automatische Größenänderung</translation>
+        <translation>automatische Größenänderung</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="458"/>
+        <source>Centre</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="472"/>
         <source>Opacity:</source>
-        <translation type="vanished">Transparenz:</translation>
+        <translation>Transparenz:</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="510"/>
         <source>App bk</source>
-        <translation type="vanished">Hauptfenster</translation>
+        <translation>Hauptfenster</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="531"/>
         <source>Panel bk</source>
-        <translation type="vanished">Panel</translation>
+        <translation>Panel</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="571"/>
         <source>Piece:</source>
-        <translation type="vanished">Figuren:</translation>
+        <translation>Figuren:</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="584"/>
         <source>Board:</source>
-        <translation type="vanished">Brett:</translation>
+        <translation>Board:</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_chess.ui" line="597"/>
         <source>Background:</source>
-        <translation type="vanished">Hintergrund:</translation>
+        <translation>Hintergrund:</translation>
     </message>
 </context>
 <context>
     <name>SetupGraphicsWidget_Xq</name>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="203"/>
         <source>Plain color</source>
-        <translation type="vanished">Farbe</translation>
+        <translation>Farbe</translation>
     </message>
     <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="204"/>
+        <source>Custom image</source>
+        <translation>eigenes Bild</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="276"/>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="430"/>
+        <source>Choose File</source>
+        <translation>Datei auswählen</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="278"/>
+        <location filename="../../ui/settings/setupgraphicswidget_xq.cpp" line="432"/>
         <source>Image Files (*.png *.jpg *.jpeg *.tif *.bmp);; JPEG (*.jpg *.jpeg);; PNG (*.png);; TIFF (*.tif);; All files (*.*)</source>
-        <translation type="vanished">Bilddateien (*.png *.jpg *.jpeg *.tif *.bmp);; JPEG (*.jpg *.jpeg);; PNG (*.png);; TIFF (*.tif);; alle Dateien (*.*)</translation>
+        <translation>Bilddateien (*.png *.jpg *.jpeg *.tif *.bmp);; JPEG (*.jpg *.jpeg);; PNG (*.png);; TIFF (*.tif);; alle Dateien (*.*)</translation>
     </message>
 </context>
 <context>
@@ -7816,25 +7750,25 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="78"/>
-        <location filename="../../ui/settings/setupopeningwidget.ui" line="272"/>
+        <location filename="../../ui/settings/setupopeningwidget.ui" line="205"/>
         <source>Bubble size:</source>
         <translation>Bubble Größe:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="97"/>
-        <location filename="../../ui/settings/setupopeningwidget.ui" line="291"/>
+        <location filename="../../ui/settings/setupopeningwidget.ui" line="224"/>
         <source>Small</source>
         <translation>klein</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="102"/>
-        <location filename="../../ui/settings/setupopeningwidget.ui" line="296"/>
+        <location filename="../../ui/settings/setupopeningwidget.ui" line="229"/>
         <source>Medium</source>
         <translation>mittel</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="107"/>
-        <location filename="../../ui/settings/setupopeningwidget.ui" line="301"/>
+        <location filename="../../ui/settings/setupopeningwidget.ui" line="234"/>
         <source>Large</source>
         <translation>groß</translation>
     </message>
@@ -7849,57 +7783,37 @@ Are you sure?</source>
         <translation>Eröffnungen:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupopeningwidget.ui" line="175"/>
-        <source>Seed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupopeningwidget.ui" line="200"/>
-        <source>depth:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupopeningwidget.ui" line="210"/>
-        <source>top:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupopeningwidget.ui" line="217"/>
-        <source>%</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupopeningwidget.ui" line="321"/>
+        <location filename="../../ui/settings/setupopeningwidget.ui" line="254"/>
         <source>Winning color</source>
         <translation>Sieg Farbe</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupopeningwidget.ui" line="346"/>
+        <location filename="../../ui/settings/setupopeningwidget.ui" line="279"/>
         <source>Draw color</source>
         <translation>Remis Farbe</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupopeningwidget.ui" line="371"/>
+        <location filename="../../ui/settings/setupopeningwidget.ui" line="304"/>
         <source>Losing color</source>
         <translation>Niederlage Farbe</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupopeningwidget.ui" line="442"/>
+        <location filename="../../ui/settings/setupopeningwidget.ui" line="375"/>
         <source>Syzygy path:</source>
         <translation>Syzygy Pfad:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupopeningwidget.ui" line="466"/>
+        <location filename="../../ui/settings/setupopeningwidget.ui" line="399"/>
         <source>Add opening:</source>
         <translation>Buch/EGTB hinzufügen:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupopeningwidget.ui" line="498"/>
+        <location filename="../../ui/settings/setupopeningwidget.ui" line="431"/>
         <source>Online book/egtb</source>
         <translation>Online Buch/EGTB</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupopeningwidget.ui" line="529"/>
+        <location filename="../../ui/settings/setupopeningwidget.ui" line="462"/>
         <source>Double click to edit, drag / drop to re-order</source>
         <translation>Doppelklick zum ändern, drag &amp; drop zum neu ordnen</translation>
     </message>
@@ -7928,17 +7842,17 @@ Are you sure?</source>
 <context>
     <name>Shutdown</name>
     <message>
-        <location filename="../../main/basewindow.cpp" line="2301"/>
+        <location filename="../../main/basewindow.cpp" line="2247"/>
         <source>Shutting down computer...</source>
         <translation>Computer herunterfahren...</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="2302"/>
+        <location filename="../../main/basewindow.cpp" line="2248"/>
         <source>%1 seconds to go...</source>
         <translation>%1 noch Sekunden ...</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="2312"/>
+        <location filename="../../main/basewindow.cpp" line="2258"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
@@ -8903,13 +8817,15 @@ Are you sure?</source>
 <context>
     <name>TourWindow</name>
     <message>
-        <location filename="../../main/tourwindow.cpp" line="629"/>
+        <location filename="../../main/tourwindow.cpp" line="628"/>
         <source>Tournament finished</source>
         <translation>Turnier beendet</translation>
     </message>
     <message>
+        <location filename="../../main/tourwindow.cpp" line="799"/>
+        <location filename="../../main/tourwindow.cpp" line="800"/>
         <source>Human</source>
-        <translation type="vanished">Mensch</translation>
+        <translation>Spieler</translation>
     </message>
 </context>
 <context>
