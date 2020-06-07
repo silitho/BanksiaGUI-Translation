@@ -5072,8 +5072,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="582"/>
         <source>Strings, stats</source>
-        <translatorcomment>Ausgaben, Statistiken</translatorcomment>
-        <translation>Engine Info</translation>
+        <translation>Ausgaben, Statistiken</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="612"/>
