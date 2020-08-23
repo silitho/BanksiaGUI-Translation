@@ -1,0 +1,1 @@
+Simplified Chinese translation by Qingyuan Ouyang
