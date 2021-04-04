@@ -50,31 +50,45 @@
     </message>
     <message>
         <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="263"/>
-        <source>Forums:</source>
-        <translation>论坛:</translation>
+        <source>Channel:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="276"/>
-        <source>https://banksiagui.com/forums/</source>
-        <translation></translation>
+        <source>https://www.youtube.com/channel/UCwzPwT0syFRiNILDpf6Q0KQ</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="300"/>
+        <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="293"/>
+        <source>Donate:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="306"/>
+        <source>https://banksiagui.com/download/</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forums:</source>
+        <translation type="vanished">论坛:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="330"/>
         <source>It is a freeware, based on our open source:</source>
         <translation>本软件是免费软件，它基于我们的开源项目:</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="313"/>
+        <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="343"/>
         <source>https://github.com/nguyenpham/Banksia</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="330"/>
+        <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="360"/>
         <source>Credits:</source>
         <translation>致谢:</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/aboutbanksiadlg.cpp" line="22"/>
+        <location filename="../../ui/dlg/aboutbanksiadlg.cpp" line="23"/>
         <source>The latest:
 %1</source>
         <translation>最新:
@@ -288,42 +302,42 @@
         <translation>检测中…</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/addenginedialog.cpp" line="50"/>
+        <location filename="../../ui/dlg/addenginedialog.cpp" line="52"/>
         <source>Auto detect</source>
         <translation>自动检测</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/addenginedialog.cpp" line="60"/>
+        <location filename="../../ui/dlg/addenginedialog.cpp" line="62"/>
         <source>Modify Engine</source>
         <translation>编辑引擎</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/addenginedialog.cpp" line="84"/>
+        <location filename="../../ui/dlg/addenginedialog.cpp" line="86"/>
         <source>Add Engine</source>
         <translation>添加引擎</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/addenginedialog.cpp" line="201"/>
+        <location filename="../../ui/dlg/addenginedialog.cpp" line="214"/>
         <source>Error: This engine doesn&apos;t support any protocol!</source>
         <translation>错误: 该引擎不支持任何协议!</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/addenginedialog.cpp" line="203"/>
+        <location filename="../../ui/dlg/addenginedialog.cpp" line="216"/>
         <source>Error: This engine doesn&apos;t support the selected protocol!</source>
         <translation>错误: 该引擎不支持选定的协议!</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/addenginedialog.cpp" line="466"/>
+        <location filename="../../ui/dlg/addenginedialog.cpp" line="479"/>
         <source>Error: The folder is empty!</source>
         <translation>错误: 文件夹是空的!</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/addenginedialog.cpp" line="498"/>
+        <location filename="../../ui/dlg/addenginedialog.cpp" line="511"/>
         <source>Error: Duplicated name</source>
         <translation>错误: 重名</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/addenginedialog.cpp" line="498"/>
+        <location filename="../../ui/dlg/addenginedialog.cpp" line="511"/>
         <source>This name is already existent</source>
         <translation>该名称已存在</translation>
     </message>
@@ -334,6 +348,11 @@
         <location filename="../../ui/tools/addgame2dbdlg.ui" line="14"/>
         <source>Add current game to a database</source>
         <translation>将当前对局添加至数据库</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/addgame2dbdlg.ui" line="26"/>
+        <source>Db path:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tools/addgame2dbdlg.cpp" line="21"/>
@@ -349,133 +368,173 @@
         <translation>裁定设置</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="62"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="41"/>
+        <source>By endgame tablebases:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="75"/>
         <source>Syzygy Folders:</source>
         <translation>Syzygy 残局库文件夹:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="72"/>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="84"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="85"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="97"/>
         <source>set 0 to ignore, draw when game lengths exceed</source>
         <translation>设置为 0 则忽略，对局长度超过时则判和</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="75"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="88"/>
         <source>Max game length:</source>
         <translation>最大对局长度:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="87"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="100"/>
         <source> plies</source>
         <translatorcomment>半个回合</translatorcomment>
         <translation> 步</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="108"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="121"/>
         <source>Draw if exceeds</source>
         <translation>如果超过则判和</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="157"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="170"/>
         <source>Draw by engine scores:</source>
         <translation>根据引擎分判和:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="187"/>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="371"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="200"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="367"/>
         <source>mode</source>
         <translation>模式</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="209"/>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="221"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="222"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="234"/>
         <source>Start checking from this ply</source>
         <translation>从这一步起开始检测</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="212"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="225"/>
         <source>Work from ply:</source>
         <translation>开始检测的步数:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="246"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="244"/>
         <source>Check in ply range</source>
         <translation>检测步数范围</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="249"/>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="454"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="247"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="450"/>
         <source>Ply range:</source>
         <translation>步数范围:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="258"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="254"/>
         <source>Check draw in the range</source>
         <translation>检测和局的步数范围</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="286"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="282"/>
         <source>Score range:</source>
         <translation>分数范围:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="295"/>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="402"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="291"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="398"/>
         <source> centipawn</source>
         <translation> 百分之一兵</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="325"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="321"/>
         <source>check as [-range, range]</source>
         <translation>检测 [-分数范围, 分数范围]</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="341"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="337"/>
         <source>Resign by engine scores:</source>
         <translation>根据引擎分认输:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="393"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="389"/>
         <source>Score threshold:</source>
         <translation>分数阈值:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="447"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="443"/>
         <source>score must be negative, check as &lt; score</source>
         <translation>分数必须为负数，检测范围为小于该分数</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="463"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="459"/>
         <source>Check resign in the range</source>
         <translation>检测认输的步数范围</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="491"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="487"/>
         <source>Side:</source>
         <translation>方:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="500"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="496"/>
         <source>Last side</source>
         <translation>单方</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="507"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="503"/>
         <source>Two sides</source>
         <translation>双方</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="547"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="525"/>
+        <source>Lost material:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="534"/>
+        <source>Use combine with score threshold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="538"/>
+        <source>Ignored</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="543"/>
+        <source>And</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="548"/>
+        <source>Or</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="556"/>
+        <source> pawn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="586"/>
+        <source>(Q: 9, R: 5, B: 3, N: 3, P: 1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="611"/>
         <source>Reset to defaults</source>
         <translation>重置为默认</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="557"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="621"/>
         <source>OK</source>
         <translation>确定</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.cpp" line="115"/>
+        <location filename="../../ui/tour/adjudicationdlg.cpp" line="114"/>
         <source>(%1 men, %2 endgames)</source>
         <translation>（%1 子，%2 种残局）</translation>
     </message>
@@ -553,7 +612,7 @@
         <translation>开始</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/analysedlg.cpp" line="80"/>
+        <location filename="../../ui/dlg/analysedlg.cpp" line="84"/>
         <source>Available engines (%1):</source>
         <translation>%1 个可用引擎:</translation>
     </message>
@@ -561,111 +620,112 @@
 <context>
     <name>BaseWindow</name>
     <message>
-        <location filename="../../main/basewindow.cpp" line="481"/>
+        <location filename="../../main/basewindow.cpp" line="501"/>
         <source>Layout %1</source>
         <translation>布局 %1</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="483"/>
+        <location filename="../../main/basewindow.cpp" line="503"/>
         <source>Theme %1</source>
         <translation>主题 %1</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="922"/>
         <source>Error</source>
-        <translation>错误</translation>
+        <translation type="vanished">错误</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="922"/>
         <source>Game is empty!
 Cannot add this game to the database</source>
-        <translation>对局为空!
+        <translation type="vanished">对局为空!
 无法将本局对局添加至数据库</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1389"/>
+        <location filename="../../main/basewindow.cpp" line="1426"/>
         <source>Open Game</source>
         <translation>打开对局</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1392"/>
+        <location filename="../../main/basewindow.cpp" line="1429"/>
         <source>Portable Game Notation (*.pgn);;All Files (*.*)</source>
         <translation>Portable Game Notation (*.pgn);;所有文件 (*.*)</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1394"/>
+        <location filename="../../main/basewindow.cpp" line="1431"/>
         <source>Portable Game Notation (*.pgn);;CCF (*.ccf);;MXQ (*.mxq);;XQF (*.xqf);;All Known Files (*.pgn *.ccf *.mxq *.xqf);;All Files (*.*)</source>
         <translation>Portable Game Notation (*.pgn);;CCF (*.ccf);;MXQ (*.mxq);;XQF (*.xqf);;所有已知格式文件 (*.pgn *.ccf *.mxq *.xqf);;所有文件 (*.*)</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1404"/>
         <source>Cannot open game</source>
-        <translation>无法打开对局</translation>
+        <translation type="vanished">无法打开对局</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1405"/>
+        <location filename="../../main/basewindow.cpp" line="1442"/>
         <source>Cannot read or parse this pgn!</source>
         <translation>无法读取或解析这个 PGN!</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1484"/>
+        <location filename="../../main/basewindow.cpp" line="1536"/>
         <source>Save Game</source>
         <translation>保存对局</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1486"/>
+        <location filename="../../main/basewindow.cpp" line="1538"/>
         <source>Portable Game Notation (*.pgn);;Extended Position Description (*.epd);;All Files (*.*)</source>
         <translation>Portable Game Notation (*.pgn);;Extended Position Description (*.epd);;所有文件 (*.*)</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1608"/>
         <source>Cannot create</source>
-        <translation>无法创建</translation>
+        <translation type="vanished">无法创建</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1609"/>
+        <location filename="../../main/basewindow.cpp" line="1660"/>
         <source>Cannot create a new tab!</source>
         <translation>无法创建新标签页!</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1624"/>
+        <location filename="../../main/basewindow.cpp" line="1675"/>
         <source>game</source>
         <translation>对局</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1624"/>
+        <location filename="../../main/basewindow.cpp" line="1675"/>
         <source>FEN</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1626"/>
         <source>Cannot paste</source>
-        <translation>无法粘贴</translation>
+        <translation type="vanished">无法粘贴</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1627"/>
+        <location filename="../../main/basewindow.cpp" line="958"/>
+        <source>Error: Game is empty!
+Cannot add this game to the database</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/basewindow.cpp" line="1678"/>
         <source>Cannot read or parse this game!</source>
         <translation>无法读取或解析本对局!</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1969"/>
+        <location filename="../../main/basewindow.cpp" line="2057"/>
         <source>There is not any editable book</source>
         <translation>没有可以修改的开局书</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1973"/>
+        <location filename="../../main/basewindow.cpp" line="2061"/>
         <source>Game is empty or not from starting position!
 Cannot add this game to opening books</source>
         <translation>对局为空或者并非从起始位置开始!
 无法将本对局添加至开局书</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1984"/>
+        <location filename="../../main/basewindow.cpp" line="2072"/>
         <source>Cannot add game to opening book</source>
         <translation>无法将对局添加至开局书</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1985"/>
+        <location filename="../../main/basewindow.cpp" line="2073"/>
         <source>Error:</source>
         <translation>错误:</translation>
     </message>
@@ -905,6 +965,130 @@ Cannot add this game to opening books</source>
     </message>
 </context>
 <context>
+    <name>BookComputingWidget</name>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="14"/>
+        <source>Build Opening Books by Computing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="66"/>
+        <source>Variant:</source>
+        <translation type="unfinished">变体:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="84"/>
+        <source>Support only chess variant</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="108"/>
+        <source>Chess</source>
+        <translation type="unfinished">国际象棋</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="121"/>
+        <source>Chess960</source>
+        <translation type="unfinished">Chess960</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="146"/>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="168"/>
+        <source>Polyglot only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="149"/>
+        <source>Save to book:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="175"/>
+        <source>Method:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="197"/>
+        <source>Evaluate from root, expand good nodes only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="202"/>
+        <source>Build full tree, evaluate leaves only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="225"/>
+        <source>Engine:</source>
+        <translation type="unfinished">引擎:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="263"/>
+        <source>A node will be ignored if its score below, unit centipawn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="266"/>
+        <source> cp</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="282"/>
+        <source>Max ply:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="313"/>
+        <source>Threshold score:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="342"/>
+        <source>Current limits: only chess variant, Polyglot books</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="373"/>
+        <source>Always on top</source>
+        <translation type="unfinished">置顶窗口</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="416"/>
+        <source>0/0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.cpp" line="38"/>
+        <source>Select Opening book to create</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.cpp" line="97"/>
+        <source>Resume</source>
+        <translation type="unfinished">继续</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.cpp" line="98"/>
+        <source>Do you want to resume last building?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.cpp" line="245"/>
+        <source>Start</source>
+        <translation type="unfinished">开始</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.cpp" line="245"/>
+        <source>Stop</source>
+        <translation type="unfinished">停止</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.cpp" line="245"/>
+        <source>Done</source>
+        <translation type="unfinished">完成</translation>
+    </message>
+</context>
+<context>
     <name>BookMoveTableModel</name>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="463"/>
@@ -1048,16 +1232,19 @@ Cannot add this game to opening books</source>
     </message>
     <message>
         <location filename="../../ui/libot/bottimerdlg.ui" line="20"/>
+        <source>Auto (timer set by Lichess)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Auto</source>
-        <translation>自动</translation>
+        <translation type="vanished">自动</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/bottimerdlg.ui" line="32"/>
         <source>Set mode to All moves and use times, increaments from Lichess</source>
-        <translation>将模式设置为所有着法并使用 Lichess 的时间与加秒</translation>
+        <translation type="vanished">将模式设置为所有着法并使用 Lichess 的时间与加秒</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/bottimerdlg.ui" line="39"/>
+        <location filename="../../ui/libot/bottimerdlg.ui" line="27"/>
         <source>Manual</source>
         <translation>手动</translation>
     </message>
@@ -1247,17 +1434,17 @@ Cannot add this game to opening books</source>
 <context>
     <name>BtnFunc</name>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="245"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="243"/>
         <source>New</source>
         <translation>新建</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="246"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="244"/>
         <source>Stop</source>
         <translation>停止</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="247"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="245"/>
         <source>Resume</source>
         <translation>继续</translation>
     </message>
@@ -1528,107 +1715,107 @@ Cannot add this game to opening books</source>
         <translation type="unfinished">Polyglot Bin 文件 (*.bin);;PGN 文件 (*.pgn);;所有文件 (*.*)</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="61"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="60"/>
         <source>Select database file</source>
         <translation>选择数据库文件</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="359"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="358"/>
         <source>PGN Files (*.pgn);;All files (*.*)</source>
         <translation>PGN 文件 (*.pgn);;所有文件 (*.*)</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="362"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="361"/>
         <source>EPD Files (*.epd);;All files (*.*)</source>
         <translation>EPD 文件 (*.epd);;所有文件 (*.*)</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="500"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="499"/>
         <source>Missing opening book file; </source>
         <translation>缺少开局书文件; </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="508"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="507"/>
         <source>Missing database file; </source>
         <translation>缺少数据库文件; </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="513"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="512"/>
         <source>Must select sides; </source>
         <translation>必须选边; </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="519"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="518"/>
         <source>Game-length &gt;= 0; </source>
         <translation>游戏长度 &gt;= 0; </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="523"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="522"/>
         <source>Add-to-length &gt;= 0; </source>
         <translation>添加长度 &gt;= 0; </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="529"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="528"/>
         <source>At least one factor &gt; 0; </source>
         <translation>至少一个因子 &gt;0; </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="539"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="538"/>
         <source>Missing book file folder; </source>
         <translation>缺少开局书文件文件夹; </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="551"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="550"/>
         <source>Missing input book file (.bin or .pgn); </source>
         <translation>缺少开局书文件输入（.bin 或 .pgn）; </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="555"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="554"/>
         <source>Accept only Polyglot (.bin) or PGN (.pgn); </source>
         <translation>只接受 Polyglot (.bin) 或 PGN (.pgn); </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="567"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="566"/>
         <source>Process</source>
         <translation>处理</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="567"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="566"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="567"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="566"/>
         <source>Done</source>
         <translation>完成</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="636"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="635"/>
         <source>Error: one or two files are not found, corrupted or encrypted</source>
         <translation>错误: 一个或两个文件未找到、损坏或已加密</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="637"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="636"/>
         <source>Error: books are not same format</source>
         <translation>错误: 开局书并非相同格式</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="638"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="637"/>
         <source>Error: output book is not same extension with input books</source>
         <translation>错误: 输出的开局书于输入的开局书格式不同</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="728"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="731"/>
         <source>#nodes: %1, period: %2, speed: %3</source>
         <translation>#节点: %1, 阶段: %2, 速度: %3</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="736"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="739"/>
         <source>%1#added: %2, period: %3, speed: %4</source>
         <translation>%1#已添加: %2, 阶段: %3, 速度: %4</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="746"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="749"/>
         <source>#games: %2, %1period: %3, speed: %4</source>
         <translation>#对局: %2, %1阶段: %3, 速度: %4</translation>
     </message>
@@ -1636,12 +1823,12 @@ Cannot add this game to opening books</source>
 <context>
     <name>ChartWidget</name>
     <message>
-        <location filename="../../ui/comm/chartwidget.cpp" line="371"/>
+        <location filename="../../ui/comm/chartwidget.cpp" line="378"/>
         <source>move</source>
         <translation>回合</translation>
     </message>
     <message>
-        <location filename="../../ui/comm/chartwidget.cpp" line="376"/>
+        <location filename="../../ui/comm/chartwidget.cpp" line="383"/>
         <source>score</source>
         <translation>分数</translation>
     </message>
@@ -1669,7 +1856,7 @@ Cannot add this game to opening books</source>
     <message>
         <location filename="../../ui/dlg/chess960positionselectorwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/chess960positionselectorwidget.ui" line="84"/>
@@ -1729,6 +1916,93 @@ Cannot add this game to opening books</source>
     </message>
 </context>
 <context>
+    <name>ConnectXqServerWidget</name>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished">种类</translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="42"/>
+        <location filename="../../ui/connect/connectxqserverwidget.cpp" line="193"/>
+        <source>Connect</source>
+        <translation type="unfinished">连接</translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="50"/>
+        <source>CXQ</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="62"/>
+        <source>none</source>
+        <translation type="unfinished">无</translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="67"/>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="135"/>
+        <source>auto</source>
+        <translation type="unfinished">自动</translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="72"/>
+        <source>analyse only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="77"/>
+        <source>play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="85"/>
+        <source>Minimum time in second before making a move</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="88"/>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="153"/>
+        <source> s</source>
+        <translation type="unfinished"> 秒</translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="101"/>
+        <source>copy</source>
+        <translation type="unfinished">复制</translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="128"/>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="175"/>
+        <source>Timer for playing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="140"/>
+        <source>fix time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="145"/>
+        <source>fix depth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="178"/>
+        <source> depth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="197"/>
+        <source>book len:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.cpp" line="193"/>
+        <source>Disconnect</source>
+        <translation type="unfinished">断开连接</translation>
+    </message>
+</context>
+<context>
     <name>Connection</name>
     <message>
         <location filename="../../ui/net/connection.cpp" line="77"/>
@@ -1754,223 +2028,243 @@ Cannot add this game to opening books</source>
         <translation>类型:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="108"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="323"/>
         <source>Round Robin</source>
         <translation>循环赛</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="113"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="328"/>
         <source>Knockout</source>
         <translation>淘汰赛</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="118"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="333"/>
         <source>Swiss</source>
         <translation>瑞士制</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="123"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="338"/>
         <source>Gauntlet</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="131"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="95"/>
         <source>Swiss rounds:</source>
         <translation>瑞士轮:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="171"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="135"/>
         <source>Games/pair:</source>
         <translation>每对对手对局:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="199"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="163"/>
         <source>Swap sides</source>
         <translation>换边</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="221"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="185"/>
         <source>Concurrency:</source>
         <translation>同时进行:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="249"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="213"/>
         <source>Shuffle:</source>
         <translation>乱序:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="269"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="233"/>
         <source>None</source>
         <translation>无</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="274"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="238"/>
         <source>Players</source>
         <translation>棋手</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="279"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="243"/>
         <source>Games</source>
         <translation>对局</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="284"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="248"/>
         <source>Carousel</source>
         <translation>轮盘</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="307"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="271"/>
         <source>Site:</source>
         <translation>地点:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="314"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="278"/>
         <source>Site to write to PGN file</source>
         <translation>写入 PGN 文件的地点</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="324"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="288"/>
         <source>Event:</source>
         <translation>赛事:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="331"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="295"/>
         <source>Event to write to PGN file</source>
         <translation>写入 PGN 文件的赛事</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="444"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="472"/>
         <source>Openings:</source>
         <translation>开局:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="451"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="479"/>
         <source>Adjudication:</source>
         <translation>裁定:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="470"/>
-        <location filename="../../ui/tour/createtourwidget.ui" line="526"/>
-        <location filename="../../ui/tour/createtourwidget.ui" line="575"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="498"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="554"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="603"/>
         <source>setup</source>
         <translation>设置</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="507"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="535"/>
         <source>Logs:</source>
         <translation>日志:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="706"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="734"/>
         <source>Play</source>
         <translation>立即开始</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="716"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="744"/>
+        <source>Reduce conflict between games with GPU engines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/createtourwidget.ui" line="747"/>
+        <source>No GPU concurrence</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/createtourwidget.ui" line="757"/>
         <source>Shutdown computer when tournament finished</source>
         <translation>锦标赛结束后关闭计算机</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="719"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="760"/>
         <source>Shutdown after</source>
         <translation>结束后关机</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="726"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="767"/>
         <source>Start</source>
         <translation>开始</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="777"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="818"/>
         <source>Locked side</source>
         <translation>锁定颜色</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="804"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="845"/>
         <source>Double click remove</source>
         <translation>双击以移除</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="869"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="910"/>
         <source>Copy selected engines or all</source>
         <translation>复制选定的引擎或所有引擎</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="883"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="924"/>
         <source>Remove selected engines or all</source>
         <translation>移除选定的引擎或所有引擎</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="938"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="979"/>
         <source>Human</source>
         <translation>真人</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="970"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="1011"/>
         <source>Double click to pickup engines</source>
         <translation>双击以选取引擎</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="67"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="76"/>
         <source>Error:</source>
         <translation>错误:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="67"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="76"/>
         <source>Cannot parse JSON string, ignored!</source>
         <translation>无法解析 JSON 字符串，已忽略!</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="181"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="190"/>
         <source>Available (%1):</source>
         <translation>%1 个选手可用:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="182"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="191"/>
         <source>Participants (%1):</source>
         <translation>%1 个参赛者:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="323"/>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="336"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="212"/>
+        <source>#games: %1 %2</source>
+        <translation type="unfinished">#对局: %1 %2</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="215"/>
+        <source>(1st round)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="363"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="376"/>
         <source>(empty)</source>
         <translation>（空）</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="323"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="363"/>
         <source>(#books: %1)</source>
         <translation>（#开局书: %1）</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="336"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="376"/>
         <source>(#funcs: %1)</source>
         <translation>（#开启功能: %1）</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="348"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="388"/>
         <source>(no log)</source>
         <translation>（没有日志）</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="348"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="388"/>
         <source>(#logs: %1)</source>
         <translation>（#日志: %1）</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="565"/>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="577"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="566"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="578"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="566"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="567"/>
         <source>A tournament is playing
 Stop the tournament?</source>
         <translation>有一个锦标赛正在进行
 停止该锦标赛?</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="578"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="579"/>
         <source>At least one participant must be ticked as the gauntlet</source>
         <translation>至少要勾选一名参赛者作为 Gauntlet</translation>
     </message>
@@ -1980,9 +2274,15 @@ Stop the tournament?</source>
         <translation>正在生成对局列表…</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="599"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="601"/>
         <source>(Warning: A tournament is playing. Editing may affect it)</source>
         <translation>（警告: 有一个锦标赛正在进行。修改可能会影响它。）</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="614"/>
+        <source>(Warning: Lc0 option VerboseMoveStats &amp; LogLiveStats are on
+It may create too much data and freeze all sometimes)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2242,22 +2542,22 @@ Stop the tournament?</source>
         <translation>完成</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.cpp" line="358"/>
+        <location filename="../../ui/tools/databasebuilderwidget.cpp" line="370"/>
         <source>Error: different chess type!</source>
         <translation>错误: 不同的象棋种类!</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.cpp" line="360"/>
+        <location filename="../../ui/tools/databasebuilderwidget.cpp" line="372"/>
         <source>#added games: %1 from %2, period: %3</source>
         <translation>#添加的对局: 来自 %2 的 %1，阶段: %3</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.cpp" line="369"/>
+        <location filename="../../ui/tools/databasebuilderwidget.cpp" line="381"/>
         <source>#games: %1 of %2, elapsed: %3, speed: %4</source>
         <translation>#对局: %1 / %2，已经过: %3，速度: %4</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.cpp" line="371"/>
+        <location filename="../../ui/tools/databasebuilderwidget.cpp" line="383"/>
         <source>#games: %1, added: %2, elapsed: %3, speed: %4</source>
         <translation>#对局: %1，已添加 %2，已经过: %3，速度: %4</translation>
     </message>
@@ -2408,22 +2708,22 @@ Stop the tournament?</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.cpp" line="137"/>
+        <location filename="../../ui/tools/databaseviewerwidget.cpp" line="136"/>
         <source>Game database</source>
         <translation>对局数据库</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.cpp" line="392"/>
+        <location filename="../../ui/tools/databaseviewerwidget.cpp" line="391"/>
         <source>Loading database...</source>
         <translation>正在加载数据库…</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.cpp" line="652"/>
+        <location filename="../../ui/tools/databaseviewerwidget.cpp" line="651"/>
         <source>Searching...</source>
         <translation>搜索中…</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.cpp" line="688"/>
+        <location filename="../../ui/tools/databaseviewerwidget.cpp" line="687"/>
         <source>Sorting...</source>
         <translation>排序中…</translation>
     </message>
@@ -2517,12 +2817,12 @@ Stop the tournament?</source>
 <context>
     <name>DownloadItem</name>
     <message>
-        <location filename="../../ui/dl/downloadmng.cpp" line="265"/>
+        <location filename="../../ui/dl/downloadmng.cpp" line="259"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadmng.cpp" line="266"/>
+        <location filename="../../ui/dl/downloadmng.cpp" line="260"/>
         <source>Folder is empty</source>
         <translation>文件夹是空的</translation>
     </message>
@@ -2532,7 +2832,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloaditemwidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloaditemwidget.ui" line="41"/>
@@ -2557,49 +2857,166 @@ Stop the tournament?</source>
     </message>
 </context>
 <context>
+    <name>DownloadNNNetDlg</name>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.ui" line="20"/>
+        <source>Download NNUE networks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.ui" line="29"/>
+        <source>Use NNUE (for setting option Use NNUE)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.ui" line="41"/>
+        <source>To use NNUE, you need a network (a file with extension .nnue), click download
+button to download the default net or select one from the table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.ui" line="49"/>
+        <source>Network folder:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.ui" line="58"/>
+        <source>Engine&apos;s folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.ui" line="65"/>
+        <source>Another folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.ui" line="87"/>
+        <source>Folder:</source>
+        <translation type="unfinished">文件夹:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.ui" line="114"/>
+        <source>Existent networks:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.ui" line="145"/>
+        <source>network name, e.g., nn-82215d0fd0df.nnue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.ui" line="155"/>
+        <source>Download</source>
+        <translation type="unfinished">下载</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.ui" line="164"/>
+        <source>Network name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.cpp" line="63"/>
+        <source>Select a folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.cpp" line="180"/>
+        <source>Downloading %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.cpp" line="187"/>
+        <source>Downloaded</source>
+        <translation type="unfinished">已下载</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.cpp" line="187"/>
+        <source>Download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.cpp" line="234"/>
+        <source>%1 exists</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.cpp" line="235"/>
+        <source>%1 not found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.cpp" line="240"/>
+        <source>Network name must not be empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.cpp" line="242"/>
+        <source>The folder must not be empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.cpp" line="258"/>
+        <source>Selected netword: %1 %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.cpp" line="260"/>
+        <source>(missing)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DownloadNNUETableModel</name>
+    <message>
+        <location filename="../../ui/dl/downloadnnuetablemodel.cpp" line="75"/>
+        <source>name</source>
+        <translation type="unfinished">名称</translation>
+    </message>
+</context>
+<context>
     <name>DownloadSyzygyTableModel</name>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="166"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="168"/>
         <source>downloading rtbw</source>
         <translation>正在下载 rtbw</translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="172"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="174"/>
         <source>downloading rtbz</source>
         <translation>正在下载 rtbz</translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="174"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="176"/>
         <source>, rtbz</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="183"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="185"/>
         <source>downloaded</source>
         <translation>已下载</translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="186"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="188"/>
         <source>missing rtbz</source>
         <translation>缺少 rtbz</translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="186"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="188"/>
         <source>missing rtbw</source>
         <translation>缺少 rtbw</translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="227"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="229"/>
         <source>name</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="229"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="231"/>
         <source>men</source>
         <translation>子</translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="231"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="233"/>
         <source>select</source>
         <translation>选择</translation>
     </message>
@@ -2609,7 +3026,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="43"/>
@@ -2788,22 +3205,22 @@ Stop the tournament?</source>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="389"/>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="672"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="674"/>
         <source>Start</source>
         <translation>开始</translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="411"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="413"/>
         <source>Select Syzygy main folder</source>
         <translation>选择 Syzygy 残局库的主文件夹</translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="609"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="611"/>
         <source>Downloaded: %1%2; Selected: %3%4</source>
         <translation>已下载: %1%2; 已选择: %3%4</translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="672"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="674"/>
         <source>Stop</source>
         <translation>停止</translation>
     </message>
@@ -2846,7 +3263,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/dl/downloadwidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadwidget.ui" line="75"/>
@@ -3037,37 +3454,37 @@ Stop the tournament?</source>
 <context>
     <name>EgtbFileTableModel</name>
     <message>
-        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="88"/>
+        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="89"/>
         <source>failed %1</source>
         <translation>失败 %1</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="92"/>
+        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="93"/>
         <source>Good</source>
         <translation>完好</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="198"/>
+        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="199"/>
         <source>Name</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="200"/>
+        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="201"/>
         <source>Men</source>
         <translation>子</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="202"/>
+        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="203"/>
         <source>Type</source>
         <translation>类型</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="204"/>
+        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="205"/>
         <source>Size</source>
         <translation>大小</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="206"/>
+        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="207"/>
         <source>Checksum</source>
         <translation>校验值</translation>
     </message>
@@ -3130,7 +3547,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/comm/enginelogwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
     <message>
         <location filename="../../ui/comm/enginelogwidget.ui" line="47"/>
@@ -3158,7 +3575,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/enginemanagementwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
     <message>
         <location filename="../../ui/settings/enginemanagementwidget.ui" line="77"/>
@@ -3216,17 +3633,17 @@ Stop the tournament?</source>
         <translation>引擎日志:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/enginemanagementwidget.cpp" line="150"/>
+        <location filename="../../ui/settings/enginemanagementwidget.cpp" line="152"/>
         <source>Engines (%1):</source>
         <translation>%1 个引擎:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/enginemanagementwidget.cpp" line="208"/>
+        <location filename="../../ui/settings/enginemanagementwidget.cpp" line="210"/>
         <source>Engine %1 will be deleted</source>
         <translation>%1 引擎将会被删除</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/enginemanagementwidget.cpp" line="213"/>
+        <location filename="../../ui/settings/enginemanagementwidget.cpp" line="215"/>
         <source>Are you sure?</source>
         <translation>你确定吗?</translation>
     </message>
@@ -3257,52 +3674,51 @@ Stop the tournament?</source>
         <translation>重置所有选项为默认值</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineoptionwidget.ui" line="53"/>
         <source>Reset</source>
-        <translation>重置</translation>
+        <translation type="vanished">重置</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineoptionwidget.ui" line="75"/>
+        <location filename="../../ui/settings/engineoptionwidget.ui" line="96"/>
         <source>Charactors using in FEN string</source>
         <translation>FEN 字符串中使用的字符</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineoptionwidget.ui" line="78"/>
+        <location filename="../../ui/settings/engineoptionwidget.ui" line="99"/>
         <source>FEN charators:</source>
         <translation>FEN 字符:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineoptionwidget.ui" line="90"/>
+        <location filename="../../ui/settings/engineoptionwidget.ui" line="111"/>
         <source>King, Advisor, Bishop, Rook, Cannon, kNight, Pawn</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineoptionwidget.ui" line="93"/>
+        <location filename="../../ui/settings/engineoptionwidget.ui" line="114"/>
         <source>KABRCNP</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineoptionwidget.ui" line="103"/>
+        <location filename="../../ui/settings/engineoptionwidget.ui" line="124"/>
         <source>King, Advisor, Elephant, Rook, Cannon, Horse, Pawn</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineoptionwidget.ui" line="106"/>
+        <location filename="../../ui/settings/engineoptionwidget.ui" line="127"/>
         <source>KAERCHP</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineoptionwidget.cpp" line="59"/>
+        <location filename="../../ui/settings/engineoptionwidget.cpp" line="61"/>
         <source>Error:</source>
         <translation>错误:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineoptionwidget.cpp" line="59"/>
+        <location filename="../../ui/settings/engineoptionwidget.cpp" line="61"/>
         <source>Cannot parse JSON string, ignored!</source>
         <translation>无法解析 JSON 字符串，已忽略!</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineoptionwidget.cpp" line="130"/>
+        <location filename="../../ui/settings/engineoptionwidget.cpp" line="147"/>
         <source>Engine options</source>
         <translation>引擎选项</translation>
     </message>
@@ -3312,7 +3728,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/settings/engineoveraloptionwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoveraloptionwidget.ui" line="41"/>
@@ -3351,6 +3767,32 @@ Stop the tournament?</source>
     </message>
 </context>
 <context>
+    <name>ErrorDlg</name>
+    <message>
+        <location filename="../../ui/dlg/errordlg.ui" line="14"/>
+        <source>Errors &amp; important messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ErrorTableModel</name>
+    <message>
+        <location filename="../../ui/dlg/errortablemodel.cpp" line="74"/>
+        <source>time</source>
+        <translation type="unfinished">时间</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/errortablemodel.cpp" line="77"/>
+        <source>type</source>
+        <translation type="unfinished">类型</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/errortablemodel.cpp" line="80"/>
+        <source>msg</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EvalTableModel</name>
     <message>
         <location filename="../../ui/comm/evaltablemodel.cpp" line="258"/>
@@ -3379,11 +3821,16 @@ Stop the tournament?</source>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablemodel.cpp" line="268"/>
+        <source>nnue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/comm/evaltablemodel.cpp" line="270"/>
         <source>movesleft</source>
         <translation>剩余着数</translation>
     </message>
     <message>
-        <location filename="../../ui/comm/evaltablemodel.cpp" line="270"/>
+        <location filename="../../ui/comm/evaltablemodel.cpp" line="272"/>
         <source>pv</source>
         <translation>主分支</translation>
     </message>
@@ -3393,7 +3840,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="82"/>
@@ -3471,24 +3918,32 @@ Stop the tournament?</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../ui/comm/evaltablewidget.cpp" line="576"/>
         <source>0 NPS</source>
-        <translation>0 节点 / 秒</translation>
+        <translation type="vanished">0 节点 / 秒</translation>
+    </message>
+    <message>
+        <source>%1 NPS</source>
+        <translation type="vanished">%1 节点 / 秒</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.cpp" line="582"/>
-        <source>%1 NPS</source>
-        <translation>%1 节点 / 秒</translation>
+        <source>0 N/s</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/comm/evaltablewidget.cpp" line="590"/>
-        <source>MPS</source>
-        <translation></translation>
+        <location filename="../../ui/comm/evaltablewidget.cpp" line="588"/>
+        <source>%1 N/s</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/comm/evaltablewidget.cpp" line="595"/>
-        <source>KPS</source>
-        <translation></translation>
+        <location filename="../../ui/comm/evaltablewidget.cpp" line="596"/>
+        <source>mN/s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/comm/evaltablewidget.cpp" line="601"/>
+        <source>kN/s</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3496,7 +3951,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/comm/evalwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
 </context>
 <context>
@@ -3547,7 +4002,7 @@ Stop the tournament?</source>
     <message>
         <location filename="../../ui/tools/filelistselector.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
 </context>
 <context>
@@ -3582,81 +4037,81 @@ Stop the tournament?</source>
 <context>
     <name>IcsBasicCtrlWidget</name>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="324"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="325"/>
         <source>&lt;Human&gt;</source>
         <translation>&lt;真人&gt;</translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="381"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="382"/>
         <source>You want to abort this game!
 Are you sure?</source>
         <translation>你要终端这局游戏!
 你确定吗?</translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="384"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="385"/>
         <source>You want to resign this game!
 Are you sure?</source>
         <translation>你要认输!
 你确定吗?</translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="387"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="388"/>
         <source>Confirm</source>
         <translation>确定</translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="543"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="544"/>
         <source>Your username is is a registered name and already logged in. Please chose another username then login again</source>
         <translation>你的用户名已被注册且已被登录。请选择另一个用户名来重新登录</translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="545"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="546"/>
         <source>Your username is is a registered name but the password is empty. Please enter the password or chose another username then login again</source>
         <translation>你的用户名已被注册但密码是空的。请输入密码或选择另一个用户名来重新登录</translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="671"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="672"/>
         <source>Host incorrect</source>
         <translation>主机错误</translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="672"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="673"/>
         <source>Host must be in format host:port, e.g.: freechess.org:5000</source>
         <translation>主机格式必须为 主机:端口，比如：freechess.org:5000</translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="722"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="723"/>
         <source>Trying to play vs %1</source>
         <translation>正在尝试与 %1 对局</translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="785"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="786"/>
         <source>Disconnect</source>
         <translation>断开连接</translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="787"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="788"/>
         <source>Connect</source>
         <translation>连接</translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="833"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="834"/>
         <source>Observe game id %1</source>
         <translation>观战对局 ID %1</translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="863"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="864"/>
         <source>Challenge %1</source>
         <translation>挑战 %1</translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="872"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="873"/>
         <source>Tell to %1</source>
         <translation>发送给 %1</translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="898"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="899"/>
         <source>Try to play vs %1</source>
         <translation>尝试与 %1 对局</translation>
     </message>
@@ -3765,7 +4220,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="76"/>
@@ -3890,7 +4345,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="369"/>
-        <location filename="../../ui/ics/icsctrlwidget.cpp" line="640"/>
+        <location filename="../../ui/ics/icsctrlwidget.cpp" line="553"/>
         <source>rated</source>
         <translation>计分</translation>
     </message>
@@ -3901,7 +4356,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="383"/>
-        <location filename="../../ui/ics/icsctrlwidget.cpp" line="640"/>
+        <location filename="../../ui/ics/icsctrlwidget.cpp" line="553"/>
         <source>unrated</source>
         <translation>非计分</translation>
     </message>
@@ -3951,17 +4406,17 @@ Are you sure?</source>
         <translation>输入消息，按 Enter 以发送</translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsctrlwidget.cpp" line="638"/>
+        <location filename="../../ui/ics/icsctrlwidget.cpp" line="551"/>
         <source>, %1 %2</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsctrlwidget.cpp" line="644"/>
+        <location filename="../../ui/ics/icsctrlwidget.cpp" line="557"/>
         <source>game %1 (%2%3) is %4!</source>
         <translation>对局 %1 (%2%3) %4!</translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsctrlwidget.cpp" line="924"/>
+        <location filename="../../ui/ics/icsctrlwidget.cpp" line="833"/>
         <source>game %1 is over, result &lt;font color=&apos;red&apos;&gt;%2&lt;/font&gt;</source>
         <translation>对局 %1 已结束，结果 &lt;font color=&apos;red&apos;&gt;%2&lt;/font&gt;</translation>
     </message>
@@ -4116,7 +4571,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsresultwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsresultwidget.ui" line="37"/>
@@ -4192,7 +4647,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icstelnet.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icstelnet.ui" line="47"/>
@@ -4243,7 +4698,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icswidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icswidget.ui" line="39"/>
@@ -4266,7 +4721,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/comm/jeiqibarwidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
 </context>
 <context>
@@ -4282,13 +4737,13 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/comm/jsontablewidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
 </context>
 <context>
     <name>LcTableModel</name>
     <message>
-        <location filename="../../ui/comm/lctablemodel.cpp" line="83"/>
+        <location filename="../../ui/comm/lctablemodel.cpp" line="86"/>
         <source>move</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4450,32 +4905,32 @@ Are you sure?</source>
 <context>
     <name>LiBotBasic</name>
     <message>
-        <location filename="../../ui/libot/libotbasic.cpp" line="79"/>
+        <location filename="../../ui/libot/libotbasic.cpp" line="83"/>
         <source>Stop challenging</source>
         <translation>停止挑战</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotbasic.cpp" line="80"/>
+        <location filename="../../ui/libot/libotbasic.cpp" line="84"/>
         <source>Do you want to stop challenging?</source>
         <translation>你是否要停止挑战?</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotbasic.cpp" line="125"/>
+        <location filename="../../ui/libot/libotbasic.cpp" line="132"/>
         <source>auto</source>
         <translation>自动</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotbasic.cpp" line="134"/>
+        <location filename="../../ui/libot/libotbasic.cpp" line="141"/>
         <source>challenge</source>
         <translation>挑战</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotbasic.cpp" line="138"/>
+        <location filename="../../ui/libot/libotbasic.cpp" line="145"/>
         <source>challenging</source>
         <translation>挑战中</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotbasic.cpp" line="300"/>
+        <location filename="../../ui/libot/libotbasic.cpp" line="307"/>
         <source>Logged out!</source>
         <translation>已登出!</translation>
     </message>
@@ -4483,119 +4938,138 @@ Are you sure?</source>
 <context>
     <name>LibotChallengeDlg</name>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="210"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="252"/>
         <source>chess</source>
         <translation>国际象棋</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="220"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="262"/>
         <source>chess960</source>
         <translation>Chess960</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="250"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="431"/>
         <source>Your side:</source>
         <translation>你方:</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="278"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="459"/>
         <source>Random</source>
         <translation>随机</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="295"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="476"/>
         <source>white</source>
         <translation>白</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="288"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="469"/>
         <source>black</source>
         <translation>黑</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="30"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="32"/>
+        <source>Player list to be challenged</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="64"/>
         <source>Usernames:</source>
         <translation>用户名:</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="129"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="163"/>
         <source>select all</source>
         <translation>全选</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="136"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="170"/>
         <source>unselect all</source>
         <translation>全部选</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="333"/>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="359"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="287"/>
+        <source>Repeat playing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="393"/>
+        <source>Game parametters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="514"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="540"/>
         <source> s</source>
         <translation> 秒</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="346"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="527"/>
         <source>Increment:</source>
         <translation>加秒:</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="392"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="609"/>
+        <source>Challenge</source>
+        <translation type="unfinished">挑战</translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="339"/>
         <source>Delay between challenges</source>
         <translation>挑战之间的延迟</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="395"/>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="415"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="342"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="362"/>
         <source>s</source>
         <translation>秒</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="405"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="352"/>
         <source>Timeout:</source>
         <translation>超时:</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="412"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="359"/>
         <source>Timeout for a challenge</source>
         <translation>挑战超时</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="448"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="323"/>
         <source>(repeat after a lap)</source>
         <translation>（一轮后重复）</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="455"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="330"/>
         <source>Delay:</source>
         <translation>延迟:</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="462"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="311"/>
         <source>Repeat:</source>
         <translation>重复:</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="469"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="417"/>
         <source>Rated:</source>
         <translation>计分:</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="476"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="218"/>
         <source>Variant:</source>
         <translation>变体:</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="513"/>
         <source>OK</source>
-        <translation>确定</translation>
+        <translation type="vanished">确定</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="523"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="619"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="318"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="499"/>
         <source>Initial time:</source>
         <translation>起始时间:</translation>
     </message>
@@ -4604,21 +5078,36 @@ Are you sure?</source>
         <source>Challenges by %1</source>
         <translation>被 %1 挑战</translation>
     </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.cpp" line="136"/>
+        <source>Error: Player list is empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.cpp" line="138"/>
+        <source>Error: The bot is not logged in yet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.cpp" line="140"/>
+        <source>Error: None player is selected</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LibotChallengerTableModel</name>
     <message>
-        <location filename="../../ui/libot/libotchallengertablemodel.cpp" line="225"/>
+        <location filename="../../ui/libot/libotchallengertablemodel.cpp" line="223"/>
         <source>Name</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengertablemodel.cpp" line="227"/>
+        <location filename="../../ui/libot/libotchallengertablemodel.cpp" line="225"/>
         <source>Hit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengertablemodel.cpp" line="229"/>
+        <location filename="../../ui/libot/libotchallengertablemodel.cpp" line="227"/>
         <source>Succ</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4651,7 +5140,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotgamewidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotgamewidget.ui" line="65"/>
@@ -4661,7 +5150,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotgamewidget.ui" line="83"/>
         <source>Chat:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">聊天:</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotgamewidget.cpp" line="129"/>
@@ -4676,7 +5165,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotgamewidget.cpp" line="139"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">错误</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotgamewidget.cpp" line="150"/>
@@ -4699,7 +5188,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotlogwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
 </context>
 <context>
@@ -4760,7 +5249,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotmngwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotmngwidget.ui" line="146"/>
@@ -4941,7 +5430,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotwidget.ui" line="39"/>
@@ -4959,7 +5448,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/logviewerwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
     <message>
         <location filename="../../ui/logviewerwidget.ui" line="22"/>
@@ -5084,869 +5573,908 @@ correspondent board</source>
         <translation>主题</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="99"/>
+        <location filename="../../main/mainwindow.ui" line="101"/>
         <source>Menu color</source>
         <translation>菜单颜色</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="107"/>
+        <location filename="../../main/mainwindow.ui" line="109"/>
         <source>Custom</source>
         <translation>自定义</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="114"/>
+        <location filename="../../main/mainwindow.ui" line="116"/>
         <source>Recent Files</source>
         <translation>最近文件</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="150"/>
+        <location filename="../../main/mainwindow.ui" line="152"/>
         <source>Edit</source>
         <translation>编辑</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="17"/>
-        <location filename="../../main/mainwindow.ui" line="163"/>
-        <location filename="../../main/mainwindow.ui" line="559"/>
+        <location filename="../../main/mainwindow.ui" line="167"/>
+        <location filename="../../main/mainwindow.ui" line="538"/>
         <source>Tools</source>
         <translation>工具</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="167"/>
+        <location filename="../../main/mainwindow.ui" line="171"/>
         <source>Developers</source>
         <translation>开发者</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="183"/>
+        <location filename="../../main/mainwindow.ui" line="188"/>
         <source>Windows</source>
         <translation>窗口</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="187"/>
+        <location filename="../../main/mainwindow.ui" line="192"/>
         <source>Tool bars</source>
         <translation>工具栏</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="193"/>
+        <location filename="../../main/mainwindow.ui" line="198"/>
         <source>Docks</source>
         <translation>小面板</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="209"/>
+        <location filename="../../main/mainwindow.ui" line="214"/>
         <source>Languages</source>
         <translation>语言</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="214"/>
-        <location filename="../../main/mainwindow.ui" line="218"/>
         <source>Server</source>
-        <translation>服务器</translation>
+        <translation type="vanished">服务器</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="225"/>
         <source>Play mode</source>
-        <translation>游玩模式</translation>
+        <translation type="vanished">游玩模式</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="239"/>
-        <location filename="../../main/mainwindow.ui" line="1359"/>
+        <location filename="../../main/mainwindow.ui" line="219"/>
+        <location filename="../../main/mainwindow.ui" line="1338"/>
         <source>Connect</source>
         <translation>连接</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="244"/>
+        <location filename="../../main/mainwindow.ui" line="224"/>
         <source>Tournaments</source>
         <translation>锦标赛</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="283"/>
+        <location filename="../../main/mainwindow.ui" line="262"/>
         <source>Clock</source>
         <translation>棋钟</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="317"/>
+        <location filename="../../main/mainwindow.ui" line="296"/>
         <source>Score graph</source>
         <translation>分数曲线图</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="335"/>
+        <location filename="../../main/mainwindow.ui" line="314"/>
         <source>Engine info</source>
         <translation>引擎信息</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="344"/>
+        <location filename="../../main/mainwindow.ui" line="323"/>
         <source>Moves</source>
         <translation>着法</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="473"/>
+        <location filename="../../main/mainwindow.ui" line="452"/>
         <source>?!</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="483"/>
+        <location filename="../../main/mainwindow.ui" line="462"/>
         <source>{}</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="497"/>
+        <location filename="../../main/mainwindow.ui" line="476"/>
         <source>Engine log</source>
         <translation>引擎日志</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="527"/>
+        <location filename="../../main/mainwindow.ui" line="506"/>
         <source>Books/Egtb</source>
         <translation>开局书 / 残局库</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="536"/>
+        <location filename="../../main/mainwindow.ui" line="515"/>
         <source>Control</source>
         <translation>控制</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="577"/>
+        <location filename="../../main/mainwindow.ui" line="556"/>
         <source>Strings, stats</source>
         <translation>文本、数据</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="607"/>
+        <location filename="../../main/mainwindow.ui" line="586"/>
         <source>Tournament</source>
         <translation>锦标赛</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="647"/>
+        <location filename="../../main/mainwindow.ui" line="626"/>
         <source>Tournament result</source>
         <translation>锦标赛结果</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="674"/>
+        <location filename="../../main/mainwindow.ui" line="653"/>
         <source>Pv board</source>
         <translation>主分支棋盘</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="683"/>
+        <location filename="../../main/mainwindow.ui" line="662"/>
         <source>Lichess bots</source>
         <translation>Lichess 机器人</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="720"/>
+        <location filename="../../main/mainwindow.ui" line="699"/>
         <source>Internet Chess Server</source>
         <translation>在线国际象棋服务器</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="747"/>
+        <location filename="../../main/mainwindow.ui" line="726"/>
         <source>Local Network</source>
         <translation>本地网络</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="774"/>
+        <location filename="../../main/mainwindow.ui" line="753"/>
         <source>Broadcast</source>
         <translation>广播</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="808"/>
+        <location filename="../../main/mainwindow.ui" line="787"/>
         <source>New Game</source>
         <translation>新对局</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="811"/>
+        <location filename="../../main/mainwindow.ui" line="790"/>
         <source>Ctrl+N</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="820"/>
+        <location filename="../../main/mainwindow.ui" line="799"/>
         <source>Open Game</source>
         <translation>打开对局</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="823"/>
+        <location filename="../../main/mainwindow.ui" line="802"/>
         <source>Ctrl+O</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="828"/>
+        <location filename="../../main/mainwindow.ui" line="807"/>
         <source>Exit</source>
         <translation>退出</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="837"/>
+        <location filename="../../main/mainwindow.ui" line="816"/>
         <source>Copy PGN</source>
         <translation>复制 PGN</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="840"/>
+        <location filename="../../main/mainwindow.ui" line="819"/>
         <source>Ctrl+C</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="845"/>
+        <location filename="../../main/mainwindow.ui" line="824"/>
         <source>Copy FEN</source>
         <translation>复制 FEN</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="854"/>
+        <location filename="../../main/mainwindow.ui" line="833"/>
         <source>Paste</source>
         <translation>粘贴</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="857"/>
+        <location filename="../../main/mainwindow.ui" line="836"/>
         <source>Ctrl+V</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="862"/>
+        <location filename="../../main/mainwindow.ui" line="841"/>
         <source>Copy Image</source>
         <translation>复制图片</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="871"/>
+        <location filename="../../main/mainwindow.ui" line="850"/>
         <source>Database</source>
         <translation>数据库</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="880"/>
+        <location filename="../../main/mainwindow.ui" line="859"/>
         <source>Opening</source>
         <translation>开局</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="883"/>
+        <location filename="../../main/mainwindow.ui" line="862"/>
         <source>View Opening Book</source>
         <translation>查看开局书</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="892"/>
+        <location filename="../../main/mainwindow.ui" line="871"/>
         <source>Edit Board</source>
         <translation>编辑局面</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="895"/>
+        <location filename="../../main/mainwindow.ui" line="874"/>
         <source>Edit board</source>
         <translation>编辑局面</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="904"/>
+        <location filename="../../main/mainwindow.ui" line="883"/>
         <source>Save</source>
         <translation>保存</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="907"/>
+        <location filename="../../main/mainwindow.ui" line="886"/>
         <source>Ctrl+S</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="916"/>
+        <location filename="../../main/mainwindow.ui" line="895"/>
         <source>Go first</source>
         <translation>第一步</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="919"/>
+        <location filename="../../main/mainwindow.ui" line="898"/>
         <source>go first</source>
         <translation>第一步</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="922"/>
+        <location filename="../../main/mainwindow.ui" line="901"/>
         <source>Ctrl+Left</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="931"/>
+        <location filename="../../main/mainwindow.ui" line="910"/>
         <source>Go previous</source>
         <translation>前一步</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="934"/>
+        <location filename="../../main/mainwindow.ui" line="913"/>
         <source>go previous</source>
         <translation>前一步</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="937"/>
+        <location filename="../../main/mainwindow.ui" line="916"/>
         <source>Left</source>
         <translation>左</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="946"/>
+        <location filename="../../main/mainwindow.ui" line="925"/>
         <source>Go next</source>
         <translation>后一步</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="949"/>
+        <location filename="../../main/mainwindow.ui" line="928"/>
         <source>go next</source>
         <translation>后一步</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="952"/>
+        <location filename="../../main/mainwindow.ui" line="931"/>
         <source>Right</source>
         <translation>右</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="961"/>
+        <location filename="../../main/mainwindow.ui" line="940"/>
         <source>Go last</source>
         <translation>最后一步</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="964"/>
+        <location filename="../../main/mainwindow.ui" line="943"/>
         <source>go last</source>
         <translation>最后一步</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="967"/>
+        <location filename="../../main/mainwindow.ui" line="946"/>
         <source>Ctrl+Right</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="976"/>
+        <location filename="../../main/mainwindow.ui" line="955"/>
         <source>Rotate</source>
         <translation>旋转</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="979"/>
+        <location filename="../../main/mainwindow.ui" line="958"/>
         <source>rotate board</source>
         <translation>旋转棋盘</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="992"/>
+        <location filename="../../main/mainwindow.ui" line="971"/>
         <source>Auto Play</source>
         <translation>自动播放行棋</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="995"/>
+        <location filename="../../main/mainwindow.ui" line="974"/>
         <source>auto play</source>
         <translation>自动播放行棋</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1004"/>
+        <location filename="../../main/mainwindow.ui" line="983"/>
         <source>Settings</source>
         <translation>设置</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1007"/>
+        <location filename="../../main/mainwindow.ui" line="986"/>
         <source>settings</source>
         <translation>设置</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1016"/>
-        <location filename="../../main/mainwindow.ui" line="1019"/>
+        <location filename="../../main/mainwindow.ui" line="995"/>
+        <location filename="../../main/mainwindow.ui" line="998"/>
         <source>New Tournament</source>
         <translation>新建锦标赛</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1022"/>
+        <location filename="../../main/mainwindow.ui" line="1001"/>
         <source>Create tournament</source>
         <translation>创建锦标赛</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1027"/>
+        <location filename="../../main/mainwindow.ui" line="1006"/>
         <source>Save Theme &amp;&amp; Layout</source>
         <translation>保存主题与布局</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1030"/>
+        <location filename="../../main/mainwindow.ui" line="1009"/>
         <source>Save theme and layout</source>
         <translation>保存主题与布局</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1039"/>
+        <location filename="../../main/mainwindow.ui" line="1018"/>
         <source>Game Analysis</source>
         <translation>对局分析</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1042"/>
+        <location filename="../../main/mainwindow.ui" line="1021"/>
         <source>Auto analyse game</source>
         <translation>自动分析对局</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1051"/>
-        <location filename="../../main/mainwindow.ui" line="1054"/>
+        <location filename="../../main/mainwindow.ui" line="1030"/>
+        <location filename="../../main/mainwindow.ui" line="1033"/>
         <source>Stop Analysis</source>
         <translation>停止分析</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1059"/>
-        <location filename="../../main/mainwindow.ui" line="1062"/>
+        <location filename="../../main/mainwindow.ui" line="1038"/>
+        <location filename="../../main/mainwindow.ui" line="1041"/>
         <source>Open PGN from URL</source>
         <translation>从 URL 打开 PGN</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1074"/>
-        <location filename="../../main/mainwindow.ui" line="1077"/>
+        <location filename="../../main/mainwindow.ui" line="1053"/>
+        <location filename="../../main/mainwindow.ui" line="1056"/>
         <source>Always On Top</source>
         <translation>置顶窗口</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1082"/>
-        <location filename="../../main/mainwindow.ui" line="1085"/>
+        <location filename="../../main/mainwindow.ui" line="1061"/>
+        <location filename="../../main/mainwindow.ui" line="1064"/>
         <source>Save As</source>
         <translation>另存为</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1090"/>
-        <location filename="../../main/mainwindow.ui" line="1093"/>
+        <location filename="../../main/mainwindow.ui" line="1069"/>
+        <location filename="../../main/mainwindow.ui" line="1072"/>
         <source>About</source>
         <translation>关于</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1102"/>
-        <location filename="../../main/mainwindow.ui" line="1105"/>
+        <location filename="../../main/mainwindow.ui" line="1081"/>
+        <location filename="../../main/mainwindow.ui" line="1084"/>
         <source>Exclusive Moves</source>
         <translation>排除着法</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1114"/>
-        <location filename="../../main/mainwindow.ui" line="1117"/>
+        <location filename="../../main/mainwindow.ui" line="1093"/>
+        <location filename="../../main/mainwindow.ui" line="1096"/>
         <source>Move Now</source>
         <translation>立即行棋</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1126"/>
-        <location filename="../../main/mainwindow.ui" line="1129"/>
+        <location filename="../../main/mainwindow.ui" line="1105"/>
+        <location filename="../../main/mainwindow.ui" line="1108"/>
         <source>Play</source>
         <translation>游玩</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1138"/>
-        <location filename="../../main/mainwindow.ui" line="1141"/>
+        <location filename="../../main/mainwindow.ui" line="1117"/>
+        <location filename="../../main/mainwindow.ui" line="1120"/>
         <source>Takeback</source>
         <translation>悔棋</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1150"/>
+        <location filename="../../main/mainwindow.ui" line="1129"/>
         <source>Game Setup</source>
         <translation>对局设置</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1153"/>
+        <location filename="../../main/mainwindow.ui" line="1132"/>
         <source>Setup Game</source>
         <translation>设置对局</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1156"/>
+        <location filename="../../main/mainwindow.ui" line="1135"/>
         <source>Ctrl+/</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1165"/>
-        <location filename="../../main/mainwindow.ui" line="1168"/>
+        <location filename="../../main/mainwindow.ui" line="1144"/>
+        <location filename="../../main/mainwindow.ui" line="1147"/>
         <source>Create Database</source>
         <translation>创建数据库</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1177"/>
-        <location filename="../../main/mainwindow.ui" line="1180"/>
-        <source>Create Opening</source>
-        <translation>创建开局书</translation>
+        <location filename="../../main/mainwindow.ui" line="1606"/>
+        <source>Compute Opening book</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1189"/>
+        <location filename="../../main/mainwindow.ui" line="1609"/>
+        <source>create opening book by computing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1614"/>
+        <source>Stone</source>
+        <translation type="unfinished">停止</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1617"/>
+        <source>Theme stone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1622"/>
+        <source>Metallic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1625"/>
+        <source>Theme Metallic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1630"/>
+        <source>Gold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1633"/>
+        <source>Theme Gold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Opening</source>
+        <translation type="vanished">创建开局书</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1168"/>
         <source>View Book</source>
         <translation>查看开局书</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1192"/>
+        <location filename="../../main/mainwindow.ui" line="1171"/>
         <source>View opening book</source>
         <translation>查看开局书</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1201"/>
+        <location filename="../../main/mainwindow.ui" line="1180"/>
         <source>Add current game to a book</source>
         <translation>将当前对局添加至开局书</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1204"/>
+        <location filename="../../main/mainwindow.ui" line="1183"/>
         <source>Add current game to an opening book</source>
         <translation>将当前对局添加至开局书</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1213"/>
-        <location filename="../../main/mainwindow.ui" line="1216"/>
+        <location filename="../../main/mainwindow.ui" line="1192"/>
+        <location filename="../../main/mainwindow.ui" line="1195"/>
         <source>Add current game to a database</source>
         <translation>将当前对局添加至数据库</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1228"/>
-        <location filename="../../main/mainwindow.ui" line="1231"/>
+        <location filename="../../main/mainwindow.ui" line="1207"/>
+        <location filename="../../main/mainwindow.ui" line="1210"/>
         <source>Xiangqi</source>
         <translation>中国象棋</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1243"/>
-        <location filename="../../main/mainwindow.ui" line="1246"/>
+        <location filename="../../main/mainwindow.ui" line="1222"/>
+        <location filename="../../main/mainwindow.ui" line="1225"/>
         <source>Jeiqi</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1254"/>
-        <location filename="../../main/mainwindow.ui" line="1257"/>
+        <location filename="../../main/mainwindow.ui" line="1233"/>
+        <location filename="../../main/mainwindow.ui" line="1236"/>
         <source>Chess</source>
         <translation>国际象棋</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1269"/>
+        <location filename="../../main/mainwindow.ui" line="1248"/>
         <source>Chess960</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1277"/>
+        <location filename="../../main/mainwindow.ui" line="1256"/>
         <source>CXQ</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1280"/>
+        <location filename="../../main/mainwindow.ui" line="1259"/>
         <source>Club Xiangqi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1288"/>
+        <location filename="../../main/mainwindow.ui" line="1267"/>
         <source>GameVH</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1291"/>
+        <location filename="../../main/mainwindow.ui" line="1270"/>
         <source>Game VH</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1299"/>
-        <location filename="../../main/mainwindow.ui" line="1302"/>
+        <location filename="../../main/mainwindow.ui" line="1278"/>
+        <location filename="../../main/mainwindow.ui" line="1281"/>
         <source>MoveSky</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1310"/>
+        <location filename="../../main/mainwindow.ui" line="1289"/>
         <source>Thien thien tuong ky</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1318"/>
+        <location filename="../../main/mainwindow.ui" line="1297"/>
         <source>Kydao</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1323"/>
+        <location filename="../../main/mainwindow.ui" line="1302"/>
         <source>Reserve1</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1328"/>
+        <location filename="../../main/mainwindow.ui" line="1307"/>
         <source>ServerReserve2</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1333"/>
+        <location filename="../../main/mainwindow.ui" line="1312"/>
         <source>ServerReserve3</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1338"/>
+        <location filename="../../main/mainwindow.ui" line="1317"/>
         <source>Clear Menu</source>
         <translation>清空菜单</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1343"/>
+        <location filename="../../main/mainwindow.ui" line="1322"/>
         <source>Benchmark/Cmd</source>
         <translation>基准测试 / 命令</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1346"/>
+        <location filename="../../main/mainwindow.ui" line="1325"/>
         <source>Benchmark or command</source>
         <translation>基准测试或命令</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1481"/>
+        <location filename="../../main/mainwindow.ui" line="1460"/>
         <source>Light Green</source>
         <translation>亮绿色</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1497"/>
+        <location filename="../../main/mainwindow.ui" line="1476"/>
         <source>Talkchess Workbench</source>
         <translation>论棋台</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1500"/>
+        <location filename="../../main/mainwindow.ui" line="1479"/>
         <source>Theme Talkchess Workbench</source>
         <translation>论棋台主题</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1505"/>
+        <location filename="../../main/mainwindow.ui" line="1484"/>
         <source>Light Marble</source>
         <translation>亮色大理石</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1521"/>
+        <location filename="../../main/mainwindow.ui" line="1500"/>
         <source>Light Red</source>
         <translation>亮红色</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1524"/>
+        <location filename="../../main/mainwindow.ui" line="1503"/>
         <source>Theme Light Red</source>
         <translation>亮红色主题</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1606"/>
+        <location filename="../../main/mainwindow.ui" line="1585"/>
         <source>Dump</source>
         <translation>丢弃</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1611"/>
+        <location filename="../../main/mainwindow.ui" line="1590"/>
         <source>Perft</source>
         <translation>性能测试</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1614"/>
+        <location filename="../../main/mainwindow.ui" line="1593"/>
         <source>Computing perft</source>
         <translation>性能测试</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1619"/>
+        <location filename="../../main/mainwindow.ui" line="1598"/>
         <source>Copy UCI position</source>
         <translation>复制 UCI 位置</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1622"/>
+        <location filename="../../main/mainwindow.ui" line="1601"/>
         <source>Copy board as a UCI position</source>
         <translation>将棋盘以 UCI 位置的形式复制</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1362"/>
+        <location filename="../../main/mainwindow.ui" line="1341"/>
         <source>ServerConnect</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="261"/>
+        <location filename="../../main/mainwindow.ui" line="240"/>
         <source>Load Save</source>
         <translation>读取存档</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1370"/>
+        <location filename="../../main/mainwindow.ui" line="1156"/>
+        <location filename="../../main/mainwindow.ui" line="1159"/>
+        <source>Create Opening book</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1349"/>
         <source>Idle</source>
         <translation>空置</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1378"/>
-        <location filename="../../main/mainwindow.ui" line="1381"/>
+        <location filename="../../main/mainwindow.ui" line="1357"/>
+        <location filename="../../main/mainwindow.ui" line="1360"/>
         <source>Analyse</source>
         <translation>分析</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1389"/>
-        <location filename="../../main/mainwindow.ui" line="1392"/>
+        <location filename="../../main/mainwindow.ui" line="1368"/>
+        <location filename="../../main/mainwindow.ui" line="1371"/>
         <source>Play for one side</source>
         <translation>游玩单方</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1401"/>
-        <location filename="../../main/mainwindow.ui" line="1404"/>
+        <location filename="../../main/mainwindow.ui" line="1380"/>
+        <location filename="../../main/mainwindow.ui" line="1383"/>
         <source>Swap players</source>
         <translation>交换棋手</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1413"/>
+        <location filename="../../main/mainwindow.ui" line="1392"/>
         <source>Download</source>
         <translation>下载</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1416"/>
+        <location filename="../../main/mainwindow.ui" line="1395"/>
         <source>Download engines, data</source>
         <translation>下载引擎、数据</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1425"/>
+        <location filename="../../main/mainwindow.ui" line="1404"/>
         <source>New Tab</source>
         <translation>新建标签页</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1428"/>
+        <location filename="../../main/mainwindow.ui" line="1407"/>
         <source>New Game Tab</source>
         <translation>新对局标签页</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1433"/>
+        <location filename="../../main/mainwindow.ui" line="1412"/>
         <source>Copy EPD</source>
         <translation>复制 EPD</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1436"/>
+        <location filename="../../main/mainwindow.ui" line="1415"/>
         <source>Copy the game as a list of EPD</source>
         <translation>将对局作为 EPD 列表复制</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1441"/>
+        <location filename="../../main/mainwindow.ui" line="1420"/>
         <source>Flip On/Off All Docks</source>
         <translation>开启 / 关闭所有小面板</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1444"/>
+        <location filename="../../main/mainwindow.ui" line="1423"/>
         <source>Show/hide all docks</source>
         <translation>显示 / 隐藏所有小面板</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1449"/>
+        <location filename="../../main/mainwindow.ui" line="1428"/>
         <source>Close Tab</source>
         <translation>关闭标签页</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1452"/>
+        <location filename="../../main/mainwindow.ui" line="1431"/>
         <source>Close current tab</source>
         <translation>关闭当前标签页</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1457"/>
+        <location filename="../../main/mainwindow.ui" line="1436"/>
         <source>Plain Color</source>
         <translation>纯色</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1460"/>
+        <location filename="../../main/mainwindow.ui" line="1439"/>
         <source>Theme Color</source>
         <translation>主题颜色</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1465"/>
+        <location filename="../../main/mainwindow.ui" line="1444"/>
         <source>Wood</source>
         <translation>木头</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1468"/>
+        <location filename="../../main/mainwindow.ui" line="1447"/>
         <source>Theme Wood</source>
         <translation>木头主题</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1473"/>
+        <location filename="../../main/mainwindow.ui" line="1452"/>
         <source>Marble</source>
         <translation>大理石</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1476"/>
-        <location filename="../../main/mainwindow.ui" line="1508"/>
+        <location filename="../../main/mainwindow.ui" line="1455"/>
+        <location filename="../../main/mainwindow.ui" line="1487"/>
         <source>Theme Marble</source>
         <translation>大理石主题</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1484"/>
+        <location filename="../../main/mainwindow.ui" line="1463"/>
         <source>Theme Green</source>
         <translation>绿色主题</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1489"/>
+        <location filename="../../main/mainwindow.ui" line="1468"/>
         <source>Ocean</source>
         <translation>海洋</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1492"/>
+        <location filename="../../main/mainwindow.ui" line="1471"/>
         <source>Theme Ocean</source>
         <translation>海洋主题</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1513"/>
+        <location filename="../../main/mainwindow.ui" line="1492"/>
         <source>Nature</source>
         <translation>自然</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1516"/>
+        <location filename="../../main/mainwindow.ui" line="1495"/>
         <source>Theme Nature</source>
         <translation>自然主题</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1532"/>
+        <location filename="../../main/mainwindow.ui" line="1511"/>
         <source>Default</source>
         <translation>默认</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1535"/>
+        <location filename="../../main/mainwindow.ui" line="1514"/>
         <source>Default menu color</source>
         <translation>默认菜单颜色</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1543"/>
+        <location filename="../../main/mainwindow.ui" line="1522"/>
         <source>Light</source>
         <translation>亮色</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1546"/>
+        <location filename="../../main/mainwindow.ui" line="1525"/>
         <source>Light menu color</source>
         <translation>亮色菜单颜色</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1554"/>
+        <location filename="../../main/mainwindow.ui" line="1533"/>
         <source>Dark</source>
         <translation>暗色</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1557"/>
+        <location filename="../../main/mainwindow.ui" line="1536"/>
         <source>Dark menu color</source>
         <translation>暗色菜单颜色</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1566"/>
+        <location filename="../../main/mainwindow.ui" line="1545"/>
         <source>Playing games</source>
         <translation>正在进行的对局</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1569"/>
+        <location filename="../../main/mainwindow.ui" line="1548"/>
         <source>Show all playing games</source>
         <translation>显示所有正在进行的对局</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1574"/>
+        <location filename="../../main/mainwindow.ui" line="1553"/>
         <source>Tournaments Load/Save</source>
         <translation>读取 / 保存锦标赛</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1577"/>
+        <location filename="../../main/mainwindow.ui" line="1556"/>
         <source>Load, save, delete tournaments</source>
         <translation>读取、保存、删除锦标赛</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1586"/>
+        <location filename="../../main/mainwindow.ui" line="1565"/>
         <source>Draw</source>
         <translation>和棋</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1589"/>
+        <location filename="../../main/mainwindow.ui" line="1568"/>
         <source>Draw/offer draw</source>
         <translation>和棋 / 求和</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1598"/>
+        <location filename="../../main/mainwindow.ui" line="1577"/>
         <source>Resign</source>
         <translation>认输</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1601"/>
+        <location filename="../../main/mainwindow.ui" line="1580"/>
         <source>Resign/Abort</source>
         <translation>认输 / 中止</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.cpp" line="106"/>
+        <location filename="../../main/mainwindow.cpp" line="108"/>
         <source>You dropped a folder</source>
         <translation>你拖放了一个文件夹</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.cpp" line="107"/>
+        <location filename="../../main/mainwindow.cpp" line="109"/>
         <source>Do you want to detect all engines in that folder, including sub folder?</source>
         <translation>你是否要检测该文件夹中的所有引擎，包括其子文件夹?</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.cpp" line="165"/>
-        <location filename="../../main/mainwindow.cpp" line="411"/>
+        <location filename="../../main/mainwindow.cpp" line="167"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.cpp" line="165"/>
+        <location filename="../../main/mainwindow.cpp" line="167"/>
         <source>Dropped file is not recognized. BanksiaGUI accepts engines, images, svg, games (pgn, epd), .bin (Polyglot) or .bgdb</source>
         <translation>无法识别拖放的文件。BanksiaGUI 接受引擎、图片、SVG、对局 (PGN, EPD)、 .bin (Polyglot) 或 .bgdb。</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.cpp" line="286"/>
+        <location filename="../../main/mainwindow.cpp" line="258"/>
         <source>Cannot download PGN from given URL. Please try later!</source>
         <translation>无法从指定的 URL 下载 PGN。请稍后再试!</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.cpp" line="333"/>
+        <location filename="../../main/mainwindow.cpp" line="299"/>
         <source>PGN from given URL is downloaded but error!</source>
         <translation>从指定的 URL 下载了 PGN 但出现错误!</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.cpp" line="393"/>
-        <location filename="../../main/mainwindow.cpp" line="402"/>
+        <location filename="../../main/mainwindow.cpp" line="352"/>
         <source>Cannot show PGN from the given URL. Please try later!</source>
         <translation>无法从指定的 URL 显示 PGN。请稍后再试!</translation>
     </message>
@@ -6004,7 +6532,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="17"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="57"/>
@@ -6038,82 +6566,87 @@ correspondent board</source>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="87"/>
+        <source>Stone</source>
+        <translation type="unfinished">停止</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/matselector.ui" line="92"/>
         <source>Wood 0</source>
         <translation>木头 0</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.ui" line="92"/>
+        <location filename="../../ui/settings/matselector.ui" line="97"/>
         <source>Wood 1</source>
         <translation>木头 1</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.ui" line="97"/>
+        <location filename="../../ui/settings/matselector.ui" line="102"/>
         <source>Wood 2</source>
         <translation>木头 2</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.ui" line="102"/>
+        <location filename="../../ui/settings/matselector.ui" line="107"/>
         <source>Pine wood</source>
         <translation>松木</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.ui" line="107"/>
+        <location filename="../../ui/settings/matselector.ui" line="112"/>
         <source>Ocean</source>
         <translation>海洋</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.ui" line="112"/>
+        <location filename="../../ui/settings/matselector.ui" line="117"/>
         <source>Blue</source>
         <translation>蓝色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.ui" line="117"/>
+        <location filename="../../ui/settings/matselector.ui" line="122"/>
         <source>Water</source>
         <translation>水</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.ui" line="122"/>
+        <location filename="../../ui/settings/matselector.ui" line="127"/>
         <source>Lake</source>
         <translation>湖</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.ui" line="127"/>
+        <location filename="../../ui/settings/matselector.ui" line="132"/>
         <source>Light</source>
         <translation>亮色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.ui" line="132"/>
+        <location filename="../../ui/settings/matselector.ui" line="137"/>
         <source>Dark</source>
         <translation>暗色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.ui" line="137"/>
+        <location filename="../../ui/settings/matselector.ui" line="142"/>
         <source>Light red</source>
         <translation>亮红色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.ui" line="142"/>
+        <location filename="../../ui/settings/matselector.ui" line="147"/>
         <source>Dark red</source>
         <translation>暗红色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.ui" line="147"/>
+        <location filename="../../ui/settings/matselector.ui" line="152"/>
         <source>Light green</source>
         <translation>亮绿色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.ui" line="152"/>
+        <location filename="../../ui/settings/matselector.ui" line="157"/>
         <source>Dark green</source>
         <translation>暗绿色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.ui" line="174"/>
+        <location filename="../../ui/settings/matselector.ui" line="179"/>
         <source>Click to select</source>
         <translation>点击以选定</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.ui" line="199"/>
-        <location filename="../../ui/settings/matselector.ui" line="233"/>
+        <location filename="../../ui/settings/matselector.ui" line="204"/>
+        <location filename="../../ui/settings/matselector.ui" line="238"/>
         <source>Tile</source>
         <translation>密铺</translation>
     </message>
@@ -6126,95 +6659,110 @@ correspondent board</source>
 <context>
     <name>Material</name>
     <message>
-        <location filename="../../ui/settings.cpp" line="795"/>
+        <location filename="../../ui/settings.cpp" line="825"/>
         <source>Dark marble</source>
         <translation>暗色大理石</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="796"/>
+        <location filename="../../ui/settings.cpp" line="826"/>
         <source>Peach marble</source>
         <translation>桃色大理石</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="797"/>
+        <location filename="../../ui/settings.cpp" line="827"/>
         <source>Bronze marble</source>
         <translation>铜色大理石</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="798"/>
+        <location filename="../../ui/settings.cpp" line="828"/>
         <source>light marble</source>
         <translation>亮色大理石</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="799"/>
+        <location filename="../../ui/settings.cpp" line="829"/>
+        <source>stone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings.cpp" line="831"/>
         <source>Wood 0</source>
         <translation>木头 0</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="800"/>
+        <location filename="../../ui/settings.cpp" line="832"/>
         <source>Wood 1</source>
         <translation>木头 1</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="801"/>
+        <location filename="../../ui/settings.cpp" line="833"/>
         <source>Wood 2</source>
         <translation>木头 2</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="803"/>
+        <location filename="../../ui/settings.cpp" line="835"/>
         <source>Pine wood</source>
         <translation>松木</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="805"/>
+        <location filename="../../ui/settings.cpp" line="837"/>
         <source>Ocean</source>
         <translation>海洋</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="808"/>
+        <location filename="../../ui/settings.cpp" line="840"/>
         <source>Blue</source>
         <translation>蓝色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="809"/>
+        <location filename="../../ui/settings.cpp" line="841"/>
         <source>Water</source>
         <translation>水</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="812"/>
-        <location filename="../../ui/settings.cpp" line="814"/>
+        <location filename="../../ui/settings.cpp" line="844"/>
+        <location filename="../../ui/settings.cpp" line="846"/>
         <source>Lake</source>
         <translation>湖</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="817"/>
+        <location filename="../../ui/settings.cpp" line="849"/>
         <source>Light</source>
         <translation>亮色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="818"/>
+        <location filename="../../ui/settings.cpp" line="850"/>
         <source>Dark</source>
         <translation>暗色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="820"/>
+        <location filename="../../ui/settings.cpp" line="852"/>
         <source>Light Red</source>
         <translation>亮红色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="821"/>
+        <location filename="../../ui/settings.cpp" line="853"/>
         <source>Dark Red</source>
         <translation>暗红色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="822"/>
+        <location filename="../../ui/settings.cpp" line="854"/>
         <source>Light Green</source>
         <translation>亮绿色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="823"/>
+        <location filename="../../ui/settings.cpp" line="855"/>
         <source>Dark Green</source>
         <translation>暗绿色</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings.cpp" line="857"/>
+        <source>Metallic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings.cpp" line="858"/>
+        <source>Gold Metal</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6283,14 +6831,27 @@ correspondent board</source>
 <context>
     <name>MoveList</name>
     <message>
-        <location filename="../../ui/comm/movelist.cpp" line="348"/>
+        <location filename="../../ui/comm/movelist.cpp" line="345"/>
         <source>Show comments</source>
         <translation>显示评论</translation>
     </message>
     <message>
-        <location filename="../../ui/comm/movelist.cpp" line="358"/>
+        <location filename="../../ui/comm/movelist.cpp" line="355"/>
         <source>Show Scores</source>
         <translation>显示分数</translation>
+    </message>
+</context>
+<context>
+    <name>MultiTimerModel</name>
+    <message>
+        <location filename="../../ui/settings/timecontrolwidget.h" line="42"/>
+        <source>B</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/timecontrolwidget.h" line="42"/>
+        <source>W</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6444,12 +7005,12 @@ correspondent board</source>
         <translation>输入消息并按 Enter 以发送</translation>
     </message>
     <message>
-        <location filename="../../ui/net/netwidget.cpp" line="535"/>
+        <location filename="../../ui/net/netwidget.cpp" line="521"/>
         <source>* %1 has joined</source>
         <translation>* %1 已加入</translation>
     </message>
     <message>
-        <location filename="../../ui/net/netwidget.cpp" line="559"/>
+        <location filename="../../ui/net/netwidget.cpp" line="545"/>
         <source>* %1 has left</source>
         <translation>* %1 已退出</translation>
     </message>
@@ -6485,44 +7046,138 @@ correspondent board</source>
 <context>
     <name>OpenURLDlg</name>
     <message>
-        <location filename="../../ui/dlg/openurldlg.ui" line="14"/>
         <source>URL of a PGN game</source>
-        <translation>对局 PGN 的 URL</translation>
+        <translation type="vanished">对局 PGN 的 URL</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/openurldlg.ui" line="22"/>
-        <source>URL:</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../../ui/dlg/openurldlg.ui" line="46"/>
         <source>live PGN, auto update period:</source>
-        <translation>在线 PGN，自动更新频率:</translation>
+        <translation type="vanished">在线 PGN，自动更新频率:</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/openurldlg.ui" line="59"/>
         <source> s</source>
-        <translation> 秒</translation>
+        <translation type="vanished"> 秒</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/openurldlg.ui" line="139"/>
         <source>Stop</source>
-        <translation>停止</translation>
+        <translation type="vanished">停止</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/openurldlg.ui" line="155"/>
         <source>Updating a live game...</source>
-        <translation>正在更新在线对局…</translation>
+        <translation type="vanished">正在更新在线对局…</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/openurldlg.cpp" line="93"/>
         <source>Error: empty</source>
-        <translation>错误: 空</translation>
+        <translation type="vanished">错误: 空</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/openurldlg.cpp" line="94"/>
         <source>Error: string is not an URL</source>
-        <translation>错误: 输入内容不是 URL</translation>
+        <translation type="vanished">错误: 输入内容不是 URL</translation>
+    </message>
+</context>
+<context>
+    <name>OpenUrlGameDlg</name>
+    <message>
+        <location filename="../../ui/dlg/openurlgamedlg.ui" line="14"/>
+        <source>Open PGN games from URLs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlgamedlg.ui" line="64"/>
+        <source>URL:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlgamedlg.ui" line="84"/>
+        <source>start downloading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlgamedlg.ui" line="87"/>
+        <source>Open</source>
+        <translation type="unfinished">打开</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlgamedlg.ui" line="94"/>
+        <source>clear the list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlgamedlg.ui" line="112"/>
+        <source>live PGN, auto update period:</source>
+        <translation type="unfinished">在线 PGN，自动更新频率:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlgamedlg.ui" line="125"/>
+        <source> s</source>
+        <translation type="unfinished"> 秒</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlgamedlg.ui" line="157"/>
+        <source>Always on top</source>
+        <translation type="unfinished">置顶窗口</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlgamedlg.cpp" line="103"/>
+        <source>Error: string is not an URL</source>
+        <translation type="unfinished">错误: 输入内容不是 URL</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlgamedlg.cpp" line="114"/>
+        <source>Remove the URL list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlgamedlg.cpp" line="115"/>
+        <source>Do you want to clean the dropdown list?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlgamedlg.cpp" line="149"/>
+        <source>Error: this url is opening</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenUrlItem</name>
+    <message>
+        <location filename="../../ui/dlg/openurlitem.ui" line="20"/>
+        <source>Form</source>
+        <translation type="unfinished">种类</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlitem.ui" line="41"/>
+        <source>stop and remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlitem.ui" line="55"/>
+        <source>Updated:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlitem.ui" line="81"/>
+        <source>time left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlitem.ui" line="94"/>
+        <source>update period</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlitem.ui" line="97"/>
+        <source> s</source>
+        <translation type="unfinished"> 秒</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlitem.ui" line="110"/>
+        <source>download now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlitem.ui" line="116"/>
+        <source>now</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6804,19 +7459,24 @@ correspondent board</source>
 <context>
     <name>PlayerLogoWidget</name>
     <message>
-        <location filename="../../ui/settings/playerlogowidget.ui" line="20"/>
+        <location filename="../../ui/settings/playerlogowidget.ui" line="26"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/playerlogowidget.ui" line="40"/>
+        <location filename="../../ui/settings/playerlogowidget.ui" line="52"/>
         <source>Logo:</source>
         <translation>Logo:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/playerlogowidget.ui" line="63"/>
+        <location filename="../../ui/settings/playerlogowidget.ui" line="75"/>
         <source>Country:</source>
         <translation>国家:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/playerlogowidget.ui" line="92"/>
+        <source>Name:</source>
+        <translation type="unfinished">名称:</translation>
     </message>
 </context>
 <context>
@@ -6824,7 +7484,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/playerselectionwidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
     <message>
         <location filename="../../ui/settings/playerselectionwidget.ui" line="55"/>
@@ -6896,6 +7556,24 @@ correspondent board</source>
         <location filename="../../ui/settings/playerselectionwidget.cpp" line="176"/>
         <source>Black:</source>
         <translation>黑:</translation>
+    </message>
+</context>
+<context>
+    <name>PvWidget</name>
+    <message>
+        <location filename="../../ui/dlg/pvwidget.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished">种类</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/pvwidget.ui" line="59"/>
+        <source>white</source>
+        <translation type="unfinished">白</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/pvwidget.ui" line="95"/>
+        <source>black</source>
+        <translation type="unfinished">黑</translation>
     </message>
 </context>
 <context>
@@ -6984,22 +7662,22 @@ correspondent board</source>
 <context>
     <name>Scene</name>
     <message>
-        <location filename="../../graphics/scene.cpp" line="186"/>
+        <location filename="../../graphics/scene.cpp" line="153"/>
         <source>Congraturation</source>
         <translation>恭喜</translation>
     </message>
     <message>
-        <location filename="../../graphics/scene.cpp" line="186"/>
+        <location filename="../../graphics/scene.cpp" line="153"/>
         <source>The engine has resigned!</source>
         <translation>引擎认输了!</translation>
     </message>
     <message>
-        <location filename="../../graphics/scene.cpp" line="233"/>
+        <location filename="../../graphics/scene.cpp" line="220"/>
         <source>Analysing... %1 of %2</source>
         <translation>分析中… %1 / %2</translation>
     </message>
     <message>
-        <location filename="../../graphics/scene.cpp" line="239"/>
+        <location filename="../../graphics/scene.cpp" line="226"/>
         <source>Analysing on fly...</source>
         <translation>实时分析中…</translation>
     </message>
@@ -7107,6 +7785,301 @@ Are you sure?</source>
     </message>
 </context>
 <context>
+    <name>SetupClockMoveWidget</name>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="20"/>
+        <source>Form</source>
+        <translation type="unfinished">种类</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="47"/>
+        <source>General:</source>
+        <translation type="unfinished">通用:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="86"/>
+        <source>score in white&apos;s perspective</source>
+        <translation type="unfinished">以白方为视角显示分数</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="89"/>
+        <source>Score in white view</source>
+        <translation type="unfinished">白方分数</translation>
+    </message>
+    <message>
+        <source>Graph win percentage</source>
+        <translation type="obsolete">胜率百分比图表</translation>
+    </message>
+    <message>
+        <source>Graph colors</source>
+        <translation type="obsolete">曲线图颜色</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="625"/>
+        <source>Graph line color for White side</source>
+        <translation type="unfinished">白方曲线颜色</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="656"/>
+        <source>Graph line color for Black side</source>
+        <translation type="unfinished">黑方曲线颜色</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="98"/>
+        <source>Pawn unit</source>
+        <translation type="unfinished">兵单位</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="105"/>
+        <source>Centipawn</source>
+        <translation type="unfinished">百分之一兵</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="120"/>
+        <source>Thinking arrows</source>
+        <translation type="unfinished">思考箭头</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="133"/>
+        <source>Legal moves</source>
+        <translation type="unfinished">合乎规则的着法</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="146"/>
+        <source>Move animation</source>
+        <translation type="unfinished">行棋动画</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="159"/>
+        <source>Move highlight</source>
+        <translation type="unfinished">高亮着法</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="171"/>
+        <source>Gradient</source>
+        <translation type="unfinished">渐变</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="190"/>
+        <source>Main color</source>
+        <translation type="unfinished">主色</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="215"/>
+        <source>Border color</source>
+        <translation type="unfinished">边缘色</translation>
+    </message>
+    <message>
+        <source>Move list:</source>
+        <translation type="obsolete">着法记录:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="254"/>
+        <source>Move list/PGN:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="299"/>
+        <source>Notation:</source>
+        <translation type="unfinished">记谱:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="330"/>
+        <source>Standard Algebraic</source>
+        <translation type="unfinished">标准代数记谱</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="335"/>
+        <source>Coordinate</source>
+        <translation type="unfinished">坐标记谱</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="340"/>
+        <source>Traditional</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="345"/>
+        <source>Traditional in Chinese</source>
+        <translation type="unfinished">中文传统记谱</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="350"/>
+        <source>Traditional in Vietnamese</source>
+        <translation type="unfinished">越南文传统记谱</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="355"/>
+        <source>Traditional in Vietnamese words</source>
+        <translation type="unfinished">越南单词传统记谱</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="363"/>
+        <source>Font size:</source>
+        <translation type="unfinished">字体大小:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="382"/>
+        <source>Move list font size, 0 for detault</source>
+        <translation type="unfinished">着法记录字号，0 为默认</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="413"/>
+        <source>Show:</source>
+        <translation type="unfinished">显示:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="422"/>
+        <source>comments</source>
+        <translation type="unfinished">评论</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="429"/>
+        <source>score/depth time, wdl...</source>
+        <translation type="unfinished">分数 / 深度时间,胜平负…</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="432"/>
+        <source>stats</source>
+        <translation type="unfinished">统计</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="445"/>
+        <source>Each move per line</source>
+        <translation type="unfinished">每行一步</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="472"/>
+        <source>Auto play move period:</source>
+        <translation type="unfinished">自动播放行棋间隔：</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="485"/>
+        <source> s</source>
+        <translation type="unfinished"> 秒</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="521"/>
+        <source>Graph:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="545"/>
+        <source>Text color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="587"/>
+        <source>Line colors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="595"/>
+        <source>Custom</source>
+        <translation type="unfinished">自定义</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="600"/>
+        <source>White/Black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="605"/>
+        <source>Engine colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="671"/>
+        <source>Win percentage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="686"/>
+        <source>Background color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="726"/>
+        <source>Stats/Engine Info:</source>
+        <translation type="unfinished">统计 / 引擎信息：</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="774"/>
+        <source>Move stats bubbles</source>
+        <translation type="unfinished">着法统计泡泡</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="793"/>
+        <source>Click to pickup color</source>
+        <translation type="unfinished">点击以选取颜色</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="806"/>
+        <source>Bubble size</source>
+        <translation type="unfinished">泡泡大小</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="810"/>
+        <source>Small</source>
+        <translation type="unfinished">小</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="815"/>
+        <source>Medium</source>
+        <translation type="unfinished">中</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="820"/>
+        <source>Large</source>
+        <translation type="unfinished">大</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="828"/>
+        <source>main:</source>
+        <translation type="unfinished">主:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="848"/>
+        <source>2nd:</source>
+        <translation type="unfinished">次:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="900"/>
+        <source>WDL chart:</source>
+        <translation type="unfinished">胜平负 表:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="920"/>
+        <source>None</source>
+        <translation type="unfinished">无</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="925"/>
+        <source>Stacked area</source>
+        <translation type="unfinished">堆叠区域</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="930"/>
+        <source>Stacked bar</source>
+        <translation type="unfinished">堆叠条</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="1010"/>
+        <source>Custom arrows</source>
+        <translation type="unfinished">自定义箭头</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="1059"/>
+        <source>Engine Info font size:</source>
+        <translation type="unfinished">引擎信息字号:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="1066"/>
+        <source>Eval font size, 0 for default size</source>
+        <translation type="unfinished">Eval 字号，0 为默认大小</translation>
+    </message>
+</context>
+<context>
     <name>SetupDialog</name>
     <message>
         <location filename="../../ui/settings/setupdialog.ui" line="20"/>
@@ -7119,17 +8092,22 @@ Are you sure?</source>
         <translation>通用</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupdialog.ui" line="66"/>
+        <location filename="../../ui/settings/setupdialog.ui" line="60"/>
+        <source>Move/Stats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupdialog.ui" line="71"/>
         <source>Graphics</source>
         <translation>图像</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupdialog.ui" line="71"/>
+        <location filename="../../ui/settings/setupdialog.ui" line="76"/>
         <source>Engines</source>
         <translation>引擎</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupdialog.ui" line="76"/>
+        <location filename="../../ui/settings/setupdialog.ui" line="81"/>
         <source>Book/Egtb</source>
         <translation>开局书 / 残局库</translation>
     </message>
@@ -7139,7 +8117,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="37"/>
@@ -7232,7 +8210,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="47"/>
@@ -7240,419 +8218,402 @@ Are you sure?</source>
         <translation>通用:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="100"/>
         <source>Legal moves</source>
-        <translation>合乎规则的着法</translation>
+        <translation type="vanished">合乎规则的着法</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="274"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="115"/>
         <source>Sound</source>
         <translation>音效</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="80"/>
         <source>Move animation</source>
-        <translation>行棋动画</translation>
+        <translation type="vanished">行棋动画</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="328"/>
         <source>Thinking arrows</source>
-        <translation>思考箭头</translation>
+        <translation type="vanished">思考箭头</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="188"/>
         <source>Gradient</source>
-        <translation>渐变</translation>
+        <translation type="vanished">渐变</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="207"/>
         <source>Main color</source>
-        <translation>主色</translation>
+        <translation type="vanished">主色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="232"/>
         <source>Border color</source>
-        <translation>边缘色</translation>
+        <translation type="vanished">边缘色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="253"/>
         <source>Move highlight</source>
-        <translation>高亮着法</translation>
+        <translation type="vanished">高亮着法</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="161"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="137"/>
         <source>Score indicator</source>
         <translation>分数指示器</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="296"/>
         <source>Pawn unit</source>
-        <translation>兵单位</translation>
+        <translation type="vanished">兵单位</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="303"/>
         <source>Centipawn</source>
-        <translation>百分之一兵</translation>
+        <translation type="vanished">百分之一兵</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="115"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="161"/>
         <source>Toolbar:</source>
         <translation>工具栏:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="129"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="175"/>
         <source>Default</source>
         <translation>默认</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="134"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="180"/>
         <source>Transparent</source>
         <translation>半透明</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="139"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="185"/>
         <source>White</source>
         <translation>白色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="144"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="190"/>
         <source>Black</source>
         <translation>黑色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="149"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="195"/>
         <source>LightGray</source>
         <translation>浅灰色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="168"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="144"/>
         <source>Score indicator range [-r, r], pawn unit</source>
         <translation>分数指示器范围 [-r, r]，兵单位</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="312"/>
         <source>score in white&apos;s perspective</source>
-        <translation>以白方为视角显示分数</translation>
+        <translation type="vanished">以白方为视角显示分数</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="315"/>
         <source>Score in white view</source>
-        <translation>白方分数</translation>
+        <translation type="vanished">白方分数</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="346"/>
         <source>Graph colors</source>
-        <translation>曲线图颜色</translation>
+        <translation type="vanished">曲线图颜色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="365"/>
         <source>Graph line color for White side</source>
-        <translation>白方曲线颜色</translation>
+        <translation type="vanished">白方曲线颜色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="396"/>
         <source>Graph line color for Black side</source>
-        <translation>黑方曲线颜色</translation>
+        <translation type="vanished">黑方曲线颜色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="435"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="94"/>
+        <source>Two PV boards</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgeneral.ui" line="229"/>
         <source>Clock:</source>
         <translation>棋钟:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="480"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="274"/>
         <source>Clock at:</source>
         <translation>棋钟位置:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="505"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="299"/>
         <source>Above board</source>
         <translation>棋盘上方</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="510"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="304"/>
         <source>Under board</source>
         <translation>棋盘下方</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="515"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="309"/>
         <source>A dock panel</source>
         <translation>棋钟面板</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="523"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="317"/>
         <source>One line</source>
         <translation>单行</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="530"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="324"/>
         <source>Border</source>
         <translation>边框</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="552"/>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1102"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="346"/>
         <source>Font size:</source>
         <translation>字体大小:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="576"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="370"/>
         <source>Normal font size</source>
         <translation>正常字体大小</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="598"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="392"/>
         <source>Font size for digit in 2 lines mode</source>
         <translation>双行模式数字字体大小</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="620"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="414"/>
         <source>Elo</source>
         <translation>等级分</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="642"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="436"/>
         <source>Text colors:</source>
         <translation>文本颜色:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="666"/>
-        <location filename="../../ui/settings/setupgeneral.ui" line="748"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="460"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="542"/>
         <source>Name color</source>
         <translation>名称颜色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="691"/>
-        <location filename="../../ui/settings/setupgeneral.ui" line="773"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="485"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="567"/>
         <source>Digit color</source>
         <translation>数字颜色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="716"/>
-        <location filename="../../ui/settings/setupgeneral.ui" line="798"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="510"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="592"/>
         <source>Background color</source>
         <translation>背景颜色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="729"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="523"/>
         <source>Highlight:</source>
         <translation>高亮:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="826"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="620"/>
         <source>Logo:</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="863"/>
-        <location filename="../../ui/settings/setupgeneral.ui" line="927"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="657"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="721"/>
         <source>width</source>
         <translation>宽度</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="882"/>
-        <location filename="../../ui/settings/setupgeneral.ui" line="946"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="676"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="740"/>
         <source>height</source>
         <translation>高度</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="895"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="689"/>
         <source>Flag:</source>
         <translation>旗帜:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="996"/>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1152"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="881"/>
+        <source>Info/Errors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgeneral.ui" line="903"/>
+        <source>Computing info:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgeneral.ui" line="918"/>
+        <source>Standard format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgeneral.ui" line="923"/>
+        <source>TCEC format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgeneral.ui" line="939"/>
+        <source>(stored as comments)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Move list:</source>
-        <translation>着法记录:</translation>
+        <translation type="vanished">着法记录:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1038"/>
         <source>Notation:</source>
-        <translation>记谱:</translation>
+        <translation type="vanished">记谱:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1069"/>
         <source>Standard Algebraic</source>
-        <translation>标准代数记谱</translation>
+        <translation type="vanished">标准代数记谱</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1074"/>
         <source>Coordinate</source>
-        <translation>坐标记谱</translation>
+        <translation type="vanished">坐标记谱</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1079"/>
         <source>Traditional</source>
-        <translation>传统记谱</translation>
+        <translation type="vanished">传统记谱</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1084"/>
         <source>Traditional in Chinese</source>
-        <translation>中文传统记谱</translation>
+        <translation type="vanished">中文传统记谱</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1089"/>
         <source>Traditional in Vietnamese</source>
-        <translation>越南文传统记谱</translation>
+        <translation type="vanished">越南文传统记谱</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1094"/>
         <source>Traditional in Vietnamese words</source>
-        <translation>越南单词传统记谱</translation>
+        <translation type="vanished">越南单词传统记谱</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1121"/>
         <source>Move list font size, 0 for detault</source>
-        <translation>着法记录字号，0 为默认</translation>
+        <translation type="vanished">着法记录字号，0 为默认</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1161"/>
         <source>comments</source>
-        <translation>评论</translation>
+        <translation type="vanished">评论</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1168"/>
         <source>score/depth time, wdl...</source>
-        <translation>分数 / 深度时间,胜平负…</translation>
+        <translation type="vanished">分数 / 深度时间,胜平负…</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1171"/>
         <source>stats</source>
-        <translation>统计</translation>
+        <translation type="vanished">统计</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1184"/>
         <source>Each move per line</source>
-        <translation>每行一步</translation>
+        <translation type="vanished">每行一步</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1211"/>
         <source>Auto play move period:</source>
-        <translation>自动播放行棋间隔：</translation>
+        <translation type="vanished">自动播放行棋间隔：</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1224"/>
         <source> s</source>
-        <translation> 秒</translation>
+        <translation type="vanished"> 秒</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1266"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="779"/>
         <source>Stats/Engine Info:</source>
         <translation>统计 / 引擎信息：</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1314"/>
         <source>Move stats bubbles</source>
-        <translation>着法统计泡泡</translation>
+        <translation type="vanished">着法统计泡泡</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1333"/>
         <source>Click to pickup color</source>
-        <translation>点击以选取颜色</translation>
+        <translation type="vanished">点击以选取颜色</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1346"/>
         <source>Bubble size</source>
-        <translation>泡泡大小</translation>
+        <translation type="vanished">泡泡大小</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1350"/>
         <source>Small</source>
-        <translation>小</translation>
+        <translation type="vanished">小</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1355"/>
         <source>Medium</source>
-        <translation>中</translation>
+        <translation type="vanished">中</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1360"/>
         <source>Large</source>
-        <translation>大</translation>
+        <translation type="vanished">大</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1368"/>
         <source>main:</source>
-        <translation>主:</translation>
+        <translation type="vanished">主:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1388"/>
         <source>2nd:</source>
-        <translation>次:</translation>
+        <translation type="vanished">次:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1599"/>
         <source>Engine Info font size:</source>
-        <translation>引擎信息字号:</translation>
+        <translation type="vanished">引擎信息字号:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1682"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="830"/>
         <source>Configuration files:</source>
         <translation>配置文件:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1550"/>
         <source>Custom arrows</source>
-        <translation>自定义箭头</translation>
+        <translation type="vanished">自定义箭头</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1440"/>
         <source>WDL chart:</source>
-        <translation>胜平负 表:</translation>
+        <translation type="vanished">胜平负 表:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="87"/>
         <source>Graph win percentage</source>
-        <translation>胜率百分比图表</translation>
+        <translation type="vanished">胜率百分比图表</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1460"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="913"/>
         <source>None</source>
         <translation>无</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1465"/>
         <source>Stacked area</source>
-        <translation>堆叠区域</translation>
+        <translation type="vanished">堆叠区域</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1470"/>
         <source>Stacked bar</source>
-        <translation>堆叠条</translation>
+        <translation type="vanished">堆叠条</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1606"/>
         <source>Eval font size, 0 for default size</source>
-        <translation>Eval 字号，0 为默认大小</translation>
+        <translation type="vanished">Eval 字号，0 为默认大小</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1655"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="810"/>
         <source>Online game log:</source>
         <translation>在线游戏日志:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1668"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="823"/>
         <source>To save games from ICS, Lichess...</source>
         <translation>从在线国际象棋服务器、Lichess 保存对局…</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1697"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="851"/>
         <source>View/Edit/Delete</source>
         <translation>查看 / 编辑 / 删除</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1675"/>
         <source>Store computing info as comments</source>
-        <translation>将计算信息存储为评论</translation>
+        <translation type="vanished">将计算信息存储为评论</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneralwidget.cpp" line="453"/>
+        <location filename="../../ui/settings/setupgeneralwidget.cpp" line="231"/>
         <source>Select a PGN file or enter a new name</source>
         <translation>选择一个 PGN 文件或者输入新名称</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneralwidget.cpp" line="454"/>
+        <location filename="../../ui/settings/setupgeneralwidget.cpp" line="232"/>
         <source>PGN (*.pgn);;All Files (*.*)</source>
         <translation>PGN (*.pgn);;所有文件 (*.*)</translation>
     </message>
@@ -7662,7 +8623,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="119"/>
@@ -7945,16 +8906,24 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="../../ui/settings/setuplogodlg.ui" line="26"/>
+        <source>Human (if missing name, logo, country):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setuplogodlg.ui" line="49"/>
+        <source>Engines (if missing logo, country):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Human (if missing logo/country):</source>
-        <translation>真人（如果没有 Logo / 国家）:</translation>
+        <translation type="vanished">真人（如果没有 Logo / 国家）:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setuplogodlg.ui" line="42"/>
         <source>Engines (if missing logo/country):</source>
-        <translation>引擎（如果没有 Logo / 国家）:</translation>
+        <translation type="vanished">引擎（如果没有 Logo / 国家）:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setuplogodlg.ui" line="58"/>
+        <location filename="../../ui/settings/setuplogodlg.ui" line="72"/>
         <source>Remote engines:</source>
         <translation>远程引擎:</translation>
     </message>
@@ -8085,17 +9054,17 @@ Are you sure?</source>
 <context>
     <name>Shutdown</name>
     <message>
-        <location filename="../../main/basewindow.cpp" line="2434"/>
+        <location filename="../../main/basewindow.cpp" line="2525"/>
         <source>Shutting down computer...</source>
         <translation>正在关闭计算机…</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="2435"/>
+        <location filename="../../main/basewindow.cpp" line="2526"/>
         <source>%1 seconds to go...</source>
         <translation>还剩 %1 秒…</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="2445"/>
+        <location filename="../../main/basewindow.cpp" line="2536"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -8208,7 +9177,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/comm/statswidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
 </context>
 <context>
@@ -8234,22 +9203,27 @@ Are you sure?</source>
         <translation>重置</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/syzygyinfodlg.cpp" line="183"/>
+        <location filename="../../ui/settings/syzygyinfodlg.cpp" line="267"/>
         <source>Total endgames: %1 (%2 file%3), men: %4&lt;br/&gt;Missing: %5 file%6</source>
         <translation>所有残局: %1（%2 个文件），子数: %4 &lt;br/&gt;缺少: %5 个文件</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/syzygyinfodlg.cpp" line="192"/>
+        <location filename="../../ui/settings/syzygyinfodlg.cpp" line="276"/>
         <source>&lt;br/&gt;Checksum: failed %1/%2</source>
         <translation>&lt;br/&gt;校验值: 失败 %1/%2</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/syzygyinfodlg.cpp" line="205"/>
+        <location filename="../../ui/settings/syzygyinfodlg.cpp" line="283"/>
+        <source>&lt;br/&gt;Checking: %1, %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/syzygyinfodlg.cpp" line="295"/>
         <source>Stop</source>
         <translation>停止</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/syzygyinfodlg.cpp" line="205"/>
+        <location filename="../../ui/settings/syzygyinfodlg.cpp" line="295"/>
         <source>Start</source>
         <translation>开始</translation>
     </message>
@@ -8298,98 +9272,132 @@ Are you sure?</source>
         <translation>时间控制:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="69"/>
         <source>Multi timers</source>
-        <translation>多个计时器</translation>
+        <translation type="vanished">多个计时器</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="173"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="226"/>
         <source>Infinite</source>
         <translation>无限</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="148"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="201"/>
         <source>Depth</source>
         <translation>深度</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="153"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="56"/>
+        <source>normal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="63"/>
+        <source>multi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="70"/>
+        <source>armageddon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="170"/>
+        <source>Result:</source>
+        <translation type="unfinished">结果:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="178"/>
+        <source>No-special</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="183"/>
+        <source>White must win</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="188"/>
+        <source>Black must win</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="206"/>
         <source>Nodes</source>
         <translation>节点</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="158"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="211"/>
         <source>Move time</source>
         <translation>行棋时间</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="163"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="216"/>
         <source>Standard</source>
         <translation>标准</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="168"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="221"/>
         <source>All moves</source>
         <translation>所有步</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="186"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="239"/>
         <source>Depth:</source>
         <translation>深度:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="193"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="246"/>
         <source>Nodes:</source>
         <translation>节点:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="223"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="276"/>
         <source>Time:</source>
         <translation>时间:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="265"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="318"/>
         <source>Millisecond</source>
         <translation>毫秒</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="270"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="323"/>
         <source>Second</source>
         <translation>秒</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="275"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="328"/>
         <source>Minute</source>
         <translation>分钟</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="280"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="333"/>
         <source>Hour</source>
         <translation>小时</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="295"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="348"/>
         <source>For moves:</source>
         <translation>步数:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="322"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="375"/>
         <source>Increment:</source>
         <translation>加秒:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="335"/>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="365"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="388"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="418"/>
         <source> sec</source>
         <translation> 秒</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="352"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="405"/>
         <source>Margin per move:</source>
         <translation>每步延迟:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="415"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="468"/>
         <source>Warning: Winboard engines don&apos;t support Nodes mode</source>
         <translation>警告: Winboard 引擎不支持节点模式</translation>
     </message>
@@ -8567,27 +9575,37 @@ Are you sure?</source>
 <context>
     <name>TourCrossTableModel</name>
     <message>
-        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="131"/>
+        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="172"/>
         <source>name</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="133"/>
+        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="174"/>
         <source>elo</source>
         <translation>等级分</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="135"/>
+        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="176"/>
+        <source>+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="178"/>
+        <source>-</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="180"/>
         <source>score%</source>
         <translation>分数%</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="135"/>
+        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="180"/>
         <source>score</source>
         <translation>分数</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="137"/>
+        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="182"/>
         <source>games</source>
         <translation>场次</translation>
     </message>
@@ -8612,7 +9630,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourenginemodel.cpp" line="205"/>
         <source>Time Id</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">计时器 ID</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourenginemodel.cpp" line="207"/>
@@ -8628,9 +9646,13 @@ Are you sure?</source>
         <translation>锦标赛日志</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourlogdlg.ui" line="35"/>
         <source>Delete all</source>
-        <translation>删除全部</translation>
+        <translation type="vanished">删除全部</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourlogdlg.ui" line="35"/>
+        <source>Delete all but game database</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourlogdlg.ui" line="65"/>
@@ -8648,27 +9670,36 @@ Are you sure?</source>
         <translation>结果:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourlogdlg.ui" line="112"/>
+        <location filename="../../ui/tour/tourlogdlg.ui" line="95"/>
+        <source>Game to database:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourlogdlg.ui" line="122"/>
         <source>OK</source>
         <translation>确定</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourlogdlg.cpp" line="73"/>
         <source>%1 log files will be deleted</source>
-        <translation>%1 个日志文件将会被删除</translation>
+        <translation type="vanished">%1 个日志文件将会被删除</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourlogdlg.cpp" line="74"/>
         <source>Are you sure?</source>
-        <translation>你确定吗?</translation>
+        <translation type="vanished">你确定吗?</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourlogdlg.cpp" line="84"/>
+        <location filename="../../ui/tour/tourlogdlg.cpp" line="78"/>
+        <source>%1 log files will be deleted!
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourlogdlg.cpp" line="88"/>
         <source>No Existent</source>
         <translation>不存在</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourlogdlg.cpp" line="84"/>
+        <location filename="../../ui/tour/tourlogdlg.cpp" line="88"/>
         <source>All log files are not existent</source>
         <translation>日志文件不存在</translation>
     </message>
@@ -8689,67 +9720,75 @@ Are you sure?</source>
 <context>
     <name>TourResultTableModel</name>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="112"/>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="136"/>
         <source>name</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="114"/>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="138"/>
         <source>games</source>
         <translation>局</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="116"/>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="140"/>
         <source>wins%</source>
         <translation>胜率%</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="116"/>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="140"/>
         <source>wins</source>
         <translation>胜</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="118"/>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="142"/>
         <source>draws%</source>
         <translation>平%</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="118"/>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="142"/>
         <source>draws</source>
         <translation>和局</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="120"/>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="144"/>
         <source>losses%</source>
         <translation>负率%</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="120"/>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="144"/>
         <source>losses</source>
         <translation>负</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="123"/>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="147"/>
         <source>score%</source>
         <translation>分数%</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="123"/>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="147"/>
         <source>score</source>
         <translation>分数</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="125"/>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="155"/>
+        <source>+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="157"/>
+        <source>-</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>los%</source>
-        <translation>占优率%</translation>
+        <translation type="vanished">占优率%</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="127"/>
         <source>elo+/-</source>
-        <translation>等级分 +/-</translation>
+        <translation type="vanished">等级分 +/-</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="129"/>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="153"/>
         <source>elo</source>
         <translation>等级分</translation>
     </message>
@@ -8762,62 +9801,100 @@ Are you sure?</source>
         <translation>锦标赛结果</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.ui" line="43"/>
         <source>Use percentage for:</source>
-        <translation>使用百分比:</translation>
+        <translation type="vanished">使用百分比:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.ui" line="50"/>
         <source>WDL</source>
-        <translation>胜平负</translation>
+        <translation type="vanished">胜平负</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.ui" line="57"/>
         <source>scores</source>
-        <translation>分数</translation>
+        <translation type="vanished">分数</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.ui" line="77"/>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="64"/>
+        <source>Score:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="71"/>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="161"/>
+        <source>point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="78"/>
+        <source>% performance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="109"/>
+        <source>WDL:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="116"/>
+        <source>number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="123"/>
+        <source>%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="154"/>
+        <source>Crosstable:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="168"/>
+        <source>details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="191"/>
         <source>copy text</source>
         <translation>复制文本</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.ui" line="114"/>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="228"/>
         <source>Result</source>
         <translation>结果</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.ui" line="143"/>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="257"/>
         <source>Cross</source>
         <translation>计分表</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.ui" line="172"/>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="286"/>
         <source>Tech</source>
         <translation>技术信息</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.ui" line="201"/>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="315"/>
         <source>Plain text</source>
         <translation>纯文本</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.cpp" line="86"/>
+        <location filename="../../ui/tour/tourresultwidget.cpp" line="105"/>
         <source>Stats based on computing moves only, ignored moves with zero node</source>
         <translation>统计来自计算的着法，忽略了零节点的着法</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.cpp" line="264"/>
+        <location filename="../../ui/tour/tourresultwidget.cpp" line="321"/>
         <source>No tournament</source>
         <translation>没有锦标赛</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.cpp" line="273"/>
+        <location filename="../../ui/tour/tourresultwidget.cpp" line="330"/>
         <source>#games: %1/%2</source>
         <translation>#对局: %1/%2</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.cpp" line="275"/>
+        <location filename="../../ui/tour/tourresultwidget.cpp" line="332"/>
         <source>, #fails: %1</source>
         <translation>, #失败: %1</translation>
     </message>
@@ -8825,12 +9902,12 @@ Are you sure?</source>
 <context>
     <name>TourTableDelegate</name>
     <message>
-        <location filename="../../ui/tour/tourtablemodel.cpp" line="28"/>
+        <location filename="../../ui/tour/tourtablemodel.cpp" line="33"/>
         <source>playing</source>
         <translation>对局中</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourtablemodel.cpp" line="31"/>
+        <location filename="../../ui/tour/tourtablemodel.cpp" line="36"/>
         <source>error</source>
         <translation>错误</translation>
     </message>
@@ -8838,12 +9915,12 @@ Are you sure?</source>
 <context>
     <name>TourTableModel</name>
     <message>
-        <location filename="../../ui/tour/tourtablemodel.cpp" line="144"/>
+        <location filename="../../ui/tour/tourtablemodel.cpp" line="178"/>
         <source>players</source>
         <translation>棋手</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourtablemodel.cpp" line="146"/>
+        <location filename="../../ui/tour/tourtablemodel.cpp" line="180"/>
         <source>status</source>
         <translation>状态</translation>
     </message>
@@ -8851,42 +9928,42 @@ Are you sure?</source>
 <context>
     <name>TourTechResultTableModel</name>
     <message>
-        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="100"/>
+        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="99"/>
         <source>name</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="102"/>
+        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="101"/>
         <source>KN/move</source>
         <translation>K 节点 / 步</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="104"/>
+        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="103"/>
         <source>NPS</source>
         <translation>节点 / 秒</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="106"/>
+        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="105"/>
         <source>depths/move</source>
         <translation>深度 / 步</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="108"/>
+        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="107"/>
         <source>time/move</source>
         <translation>时间 / 步</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="110"/>
+        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="109"/>
         <source>moves/game</source>
         <translation>步 / 局</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="112"/>
+        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="111"/>
         <source>time/game</source>
         <translation>时间 / 局</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="114"/>
+        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="113"/>
         <source>fails</source>
         <translation>失败</translation>
     </message>
@@ -8896,7 +9973,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">种类</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="17"/>
@@ -8904,164 +9981,206 @@ Are you sure?</source>
         <translation>右键点击以唤出弹出菜单</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.ui" line="104"/>
+        <location filename="../../ui/tour/tourviewwidget.ui" line="116"/>
         <source>Resume</source>
         <translation>继续</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.ui" line="142"/>
+        <location filename="../../ui/tour/tourviewwidget.ui" line="154"/>
         <source>None</source>
         <translation>无</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.ui" line="147"/>
+        <location filename="../../ui/tour/tourviewwidget.ui" line="159"/>
         <source>Open games</source>
         <translation>打开对局</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.ui" line="152"/>
+        <location filename="../../ui/tour/tourviewwidget.ui" line="164"/>
         <source>Open &amp; view</source>
         <translation>打开并查看</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.ui" line="189"/>
+        <location filename="../../ui/tour/tourviewwidget.ui" line="201"/>
         <source>Concurrency:</source>
         <translation>并行数:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.ui" line="202"/>
+        <location filename="../../ui/tour/tourviewwidget.ui" line="214"/>
         <source>number of concurrent games, 0 is to pause</source>
         <translation>同时进行的游戏，0 为暂停</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.ui" line="250"/>
+        <location filename="../../ui/tour/tourviewwidget.ui" line="262"/>
         <source>...</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.ui" line="263"/>
+        <location filename="../../ui/tour/tourviewwidget.ui" line="275"/>
         <source>Drag &amp; drop to change item orders; Right click for popup menu</source>
         <translation>拖放以重新排序; 右键点击以唤出弹出菜单</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="185"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="183"/>
         <source>Error:</source>
         <translation>错误:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="185"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="183"/>
         <source>Cannot parse JSON string, ignored!</source>
         <translation>无法解析 JSON 字符串，已忽略!</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="263"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="261"/>
         <source>games: %1/%3; timer: %4</source>
         <translation>对局: %1/%3; 计时器: %4</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="281"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="279"/>
         <source> Tournament completed!</source>
         <translation> 锦标赛已完成!</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="292"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="290"/>
         <source>No tournament</source>
         <translation>无锦标赛</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="357"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="355"/>
         <source>Tournament in progress</source>
         <translation>锦标赛进行中</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="357"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="355"/>
         <source>Error: You can&apos;t do this action when a tournament playing</source>
         <translation>错误: 你不能在锦标赛进行时进行此操作</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="366"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="364"/>
         <source>New tournament</source>
         <translation>新建锦标赛</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="375"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="373"/>
         <source>Delete all</source>
         <translation>删除全部</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="379"/>
         <source>All tournament records will be deleted</source>
-        <translation>所有的锦标赛记录都会被删除</translation>
+        <translation type="vanished">所有的锦标赛记录都会被删除</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="379"/>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="395"/>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="420"/>
         <source>Are you sure?</source>
-        <translation>你确定吗?</translation>
+        <translation type="vanished">你确定吗?</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="391"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="390"/>
         <source>Reset all to reuse</source>
         <translation>全部重置以复用</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="395"/>
         <source>All tournament records will be reset</source>
-        <translation>所有的锦标赛记录都会被重置</translation>
+        <translation type="vanished">所有的锦标赛记录都会被重置</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="411"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="412"/>
         <source>Reset selections</source>
         <translation>重置选择</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="419"/>
         <source>%1 records will be reset</source>
-        <translation>%1 记录将会被重置</translation>
+        <translation type="vanished">%1 记录将会被重置</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="434"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="378"/>
+        <source>All tournament records will be deleted!
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="396"/>
+        <source>All tournament records will be reset!
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="421"/>
+        <source>%1 records will be reset!
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="435"/>
         <source>Edit JSON</source>
         <translation>编辑 JSON</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="439"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="440"/>
         <source>Hide preview board</source>
         <translation>隐藏预览棋盘</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="439"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="440"/>
         <source>Show preview board</source>
         <translation>显示预览棋盘</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="464"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="465"/>
         <source>Play %1 selected game%2</source>
         <translation>进行 %1 场选定的对局</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="468"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="469"/>
         <source>Play game %1</source>
         <translation>进行对局 %1</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="499"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="500"/>
         <source>Manually adjudicate game %1</source>
         <translation>手动裁定对局 %1</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="513"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="514"/>
         <source>View engine-log of game %1</source>
         <translation>显示对局 %1 的引擎日志</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="533"/>
+        <source>Export PGN of all played games</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="541"/>
+        <source>Save PGN Games</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="543"/>
+        <source>Portable Game Notation (*.pgn);;All Files (*.*)</source>
+        <translation type="unfinished">Portable Game Notation (*.pgn);;所有文件 (*.*)</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="553"/>
+        <source>Copy PGN of all played games</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="562"/>
+        <source>Copy PGN of game %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>TourWindow</name>
     <message>
-        <location filename="../../main/tourwindow.cpp" line="650"/>
+        <location filename="../../main/tourwindow.cpp" line="624"/>
         <source>Tournament finished</source>
         <translation>锦标赛已结束</translation>
+    </message>
+    <message>
+        <location filename="../../main/tourwindow.cpp" line="641"/>
+        <source>You need to play a game in the tournament</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9092,9 +10211,15 @@ Are you sure?</source>
         <translation>读取</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourneymngdlg.ui" line="100"/>
+        <location filename="../../ui/tour/tourneymngdlg.ui" line="87"/>
         <source>Select a row to save, load or delete</source>
         <translation>选中一行以保存、读取或删除</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourneymngdlg.ui" line="117"/>
+        <source>(to save, select a row in the table first, the click &quot;+&quot; button;
+to load, select a not-empty row in the table then click &quot;Load&quot; button)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.cpp" line="247"/>
@@ -9127,7 +10252,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.cpp" line="175"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">类型</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.cpp" line="177"/>
@@ -9142,12 +10267,20 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.cpp" line="181"/>
         <source>#played</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">#已对局</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.cpp" line="183"/>
         <source>Save date</source>
         <translation>保存日期</translation>
+    </message>
+</context>
+<context>
+    <name>UiLib</name>
+    <message>
+        <location filename="../../ui/uilib.cpp" line="78"/>
+        <source>All Known Images (*.png *.gif *.jpg *.jpeg *.svg *.bm *.bmp *.tiff);;JPEG (*.jpg *.jpeg);; PNG (*.png);;Scalable Vector Graphics files (*.svg);;All files (*.*)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

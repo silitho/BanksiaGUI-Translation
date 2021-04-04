@@ -50,31 +50,45 @@
     </message>
     <message>
         <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="263"/>
-        <source>Forums:</source>
-        <translation>Forum:</translation>
+        <source>Channel:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="276"/>
-        <source>https://banksiagui.com/forums/</source>
-        <translation></translation>
+        <source>https://www.youtube.com/channel/UCwzPwT0syFRiNILDpf6Q0KQ</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="300"/>
+        <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="293"/>
+        <source>Donate:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="306"/>
+        <source>https://banksiagui.com/download/</source>
+        <translation type="unfinished">https://banksiagui.com/download/</translation>
+    </message>
+    <message>
+        <source>Forums:</source>
+        <translation type="vanished">Forum:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="330"/>
         <source>It is a freeware, based on our open source:</source>
         <translation>Freeware basierend auf der Open Source Software:</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="313"/>
+        <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="343"/>
         <source>https://github.com/nguyenpham/Banksia</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="330"/>
+        <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="360"/>
         <source>Credits:</source>
         <translation>Anerkennung:</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/aboutbanksiadlg.cpp" line="22"/>
+        <location filename="../../ui/dlg/aboutbanksiadlg.cpp" line="23"/>
         <source>The latest:
 %1</source>
         <translation>Neuste Version:
@@ -132,52 +146,52 @@
         <translation>aktive Partien</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/activegamewidget.ui" line="28"/>
+        <location filename="../../ui/dlg/activegamewidget.ui" line="32"/>
         <source>Normal</source>
         <translation>normal</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/activegamewidget.ui" line="44"/>
+        <location filename="../../ui/dlg/activegamewidget.ui" line="48"/>
         <source>Tournament</source>
         <translation>Turnier</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/activegamewidget.ui" line="54"/>
+        <location filename="../../ui/dlg/activegamewidget.ui" line="58"/>
         <source>Show:</source>
         <translation>zeige:</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/activegamewidget.ui" line="68"/>
+        <location filename="../../ui/dlg/activegamewidget.ui" line="72"/>
         <source>All games</source>
         <translation>alle Partien</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/activegamewidget.ui" line="73"/>
+        <location filename="../../ui/dlg/activegamewidget.ui" line="77"/>
         <source>Max</source>
         <translation>maximal</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/activegamewidget.ui" line="94"/>
+        <location filename="../../ui/dlg/activegamewidget.ui" line="98"/>
         <source>Games/row:</source>
         <translation>Partien/Zeile:</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/activegamewidget.ui" line="117"/>
+        <location filename="../../ui/dlg/activegamewidget.ui" line="121"/>
         <source>Always on top</source>
         <translation>immer im Vordergrund</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/activegamewidget.ui" line="141"/>
+        <location filename="../../ui/dlg/activegamewidget.ui" line="145"/>
         <source>Highlight boards with scores from</source>
         <translation>hervorheben von Partien mit Wertung von</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/activegamewidget.ui" line="154"/>
+        <location filename="../../ui/dlg/activegamewidget.ui" line="158"/>
         <source> pawns</source>
         <translation> Bauern</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/activegamewidget.ui" line="201"/>
+        <location filename="../../ui/dlg/activegamewidget.ui" line="205"/>
         <source>Double click to open a game</source>
         <translation>Doppelklick zum Öffnen der Partie</translation>
     </message>
@@ -290,12 +304,12 @@
         <translation></translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/addenginedialog.cpp" line="50"/>
+        <location filename="../../ui/dlg/addenginedialog.cpp" line="52"/>
         <source>Auto detect</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/addenginedialog.cpp" line="60"/>
+        <location filename="../../ui/dlg/addenginedialog.cpp" line="62"/>
         <source>Modify Engine</source>
         <translation>Engine ändern</translation>
     </message>
@@ -305,27 +319,27 @@
         <translation>Engine hinzufügen</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/addenginedialog.cpp" line="203"/>
+        <location filename="../../ui/dlg/addenginedialog.cpp" line="214"/>
         <source>Error: This engine doesn&apos;t support any protocol!</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/addenginedialog.cpp" line="205"/>
+        <location filename="../../ui/dlg/addenginedialog.cpp" line="216"/>
         <source>Error: This engine doesn&apos;t support the selected protocol!</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/addenginedialog.cpp" line="468"/>
+        <location filename="../../ui/dlg/addenginedialog.cpp" line="479"/>
         <source>Error: The folder is empty!</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/addenginedialog.cpp" line="500"/>
+        <location filename="../../ui/dlg/addenginedialog.cpp" line="511"/>
         <source>Error: Duplicated name</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/addenginedialog.cpp" line="500"/>
+        <location filename="../../ui/dlg/addenginedialog.cpp" line="511"/>
         <source>This name is already existent</source>
         <translation>Dieser Name existiert bereits</translation>
     </message>
@@ -336,6 +350,11 @@
         <location filename="../../ui/tools/addgame2dbdlg.ui" line="14"/>
         <source>Add current game to a database</source>
         <translation>aktuelle Partie zur Datenbank hinzufügen</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/addgame2dbdlg.ui" line="26"/>
+        <source>Db path:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tools/addgame2dbdlg.cpp" line="21"/>
@@ -351,132 +370,172 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="62"/>
-        <source>Syzygy Folders:</source>
-        <translation>Syzygy Verzeichnisse:</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="72"/>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="84"/>
-        <source>set 0 to ignore, draw when game lengths exceed</source>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="41"/>
+        <source>By endgame tablebases:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tour/adjudicationdlg.ui" line="75"/>
+        <source>Syzygy Folders:</source>
+        <translation>Syzygy Verzeichnisse:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="85"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="97"/>
+        <source>set 0 to ignore, draw when game lengths exceed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="88"/>
         <source>Max game length:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="87"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="100"/>
         <source> plies</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="108"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="121"/>
         <source>Draw if exceeds</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="157"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="170"/>
         <source>Draw by engine scores:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="187"/>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="371"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="200"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="367"/>
         <source>mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="209"/>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="221"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="222"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="234"/>
         <source>Start checking from this ply</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="212"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="225"/>
         <source>Work from ply:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="246"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="244"/>
         <source>Check in ply range</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="249"/>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="454"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="247"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="450"/>
         <source>Ply range:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="258"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="254"/>
         <source>Check draw in the range</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="286"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="282"/>
         <source>Score range:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="295"/>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="402"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="291"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="398"/>
         <source> centipawn</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="325"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="321"/>
         <source>check as [-range, range]</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="341"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="337"/>
         <source>Resign by engine scores:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="393"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="389"/>
         <source>Score threshold:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="447"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="443"/>
         <source>score must be negative, check as &lt; score</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="463"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="459"/>
         <source>Check resign in the range</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="491"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="487"/>
         <source>Side:</source>
         <translation>Seite:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="500"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="496"/>
         <source>Last side</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="507"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="503"/>
         <source>Two sides</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="547"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="525"/>
+        <source>Lost material:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="534"/>
+        <source>Use combine with score threshold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="538"/>
+        <source>Ignored</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="543"/>
+        <source>And</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="548"/>
+        <source>Or</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="556"/>
+        <source> pawn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="586"/>
+        <source>(Q: 9, R: 5, B: 3, N: 3, P: 1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="611"/>
         <source>Reset to defaults</source>
         <translation>auf Standard zurücksetzen</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="557"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="621"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.cpp" line="111"/>
+        <location filename="../../ui/tour/adjudicationdlg.cpp" line="114"/>
         <source>(%1 men, %2 endgames)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -489,47 +548,72 @@
         <translation>analysiere aktive Partie</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/analysedlg.ui" line="38"/>
+        <location filename="../../ui/dlg/analysedlg.ui" line="52"/>
+        <source>Stop Analysing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/analysedlg.ui" line="100"/>
+        <source>On fly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/analysedlg.ui" line="107"/>
+        <source>All current moves</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/analysedlg.ui" line="125"/>
+        <source>Current game has no move</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/analysedlg.ui" line="167"/>
         <source>Sides:</source>
         <translation>Seiten:</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/analysedlg.ui" line="47"/>
+        <location filename="../../ui/dlg/analysedlg.ui" line="176"/>
         <source>white</source>
         <translation>Weiß</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/analysedlg.ui" line="57"/>
+        <location filename="../../ui/dlg/analysedlg.ui" line="186"/>
         <source>black</source>
         <translation>Schwarz</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/analysedlg.ui" line="82"/>
+        <location filename="../../ui/dlg/analysedlg.ui" line="211"/>
         <source>Range:</source>
         <translation>Bereich:</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/analysedlg.ui" line="89"/>
+        <location filename="../../ui/dlg/analysedlg.ui" line="218"/>
         <source>all moves</source>
         <translation>alle Züge</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/analysedlg.ui" line="104"/>
+        <location filename="../../ui/dlg/analysedlg.ui" line="233"/>
         <source>From (plies):</source>
         <translation>von (plies):</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/analysedlg.ui" line="127"/>
+        <location filename="../../ui/dlg/analysedlg.ui" line="256"/>
         <source>To:</source>
         <translation>bis:</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/analysedlg.ui" line="232"/>
+        <location filename="../../ui/dlg/analysedlg.ui" line="350"/>
+        <source>(You could select multi engines)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/analysedlg.ui" line="376"/>
         <source>Start</source>
         <translation>Start</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/analysedlg.cpp" line="52"/>
+        <location filename="../../ui/dlg/analysedlg.cpp" line="84"/>
         <source>Available engines (%1):</source>
         <translation>verfügbare Engines (%1):</translation>
     </message>
@@ -537,161 +621,160 @@
 <context>
     <name>BaseWindow</name>
     <message>
-        <location filename="../../main/basewindow.cpp" line="469"/>
+        <location filename="../../main/basewindow.cpp" line="501"/>
         <source>Layout %1</source>
         <translation>Layout %1</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="471"/>
+        <location filename="../../main/basewindow.cpp" line="503"/>
         <source>Theme %1</source>
         <translation>Design %1</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="900"/>
-        <location filename="../../main/basewindow.cpp" line="2332"/>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation type="vanished">Fehler</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="900"/>
         <source>Game is empty!
 Cannot add this game to the database</source>
-        <translation>Partie ist leer!
+        <translation type="vanished">Partie ist leer!
 Kann diese Partie nicht zur Datenbank hinzufügen.</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1347"/>
+        <location filename="../../main/basewindow.cpp" line="1426"/>
         <source>Open Game</source>
         <translation>Öffne Partie</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1350"/>
+        <location filename="../../main/basewindow.cpp" line="1429"/>
         <source>Portable Game Notation (*.pgn);;All Files (*.*)</source>
         <translation>Portable Game Notation (*.pgn);;alle Dateien (*.*)</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1352"/>
+        <location filename="../../main/basewindow.cpp" line="1431"/>
         <source>Portable Game Notation (*.pgn);;CCF (*.ccf);;MXQ (*.mxq);;XQF (*.xqf);;All Known Files (*.pgn *.ccf *.mxq *.xqf);;All Files (*.*)</source>
         <translation>Portable Game Notation (*.pgn);;CCF (*.ccf);;MXQ (*.mxq);;XQF (*.xqf);;alle bekannten Dateien (*.pgn *.ccf *.mxq *.xqf);;alle Dateien (*.*)</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1362"/>
         <source>Cannot open game</source>
-        <translation>kann Partie nicht öffnen</translation>
+        <translation type="vanished">kann Partie nicht öffnen</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1363"/>
+        <location filename="../../main/basewindow.cpp" line="1442"/>
         <source>Cannot read or parse this pgn!</source>
         <translation>Kann dieses pgn nicht lesen oder analysieren!</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1449"/>
+        <location filename="../../main/basewindow.cpp" line="1536"/>
         <source>Save Game</source>
         <translation>Speichere Partie</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1451"/>
+        <location filename="../../main/basewindow.cpp" line="1538"/>
         <source>Portable Game Notation (*.pgn);;Extended Position Description (*.epd);;All Files (*.*)</source>
         <translation>Portable Game Notation (*.pgn);;Extended Position Description (*.epd);;alle Dateien (*.*)</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1573"/>
         <source>Cannot create</source>
-        <translation>kann nicht erstellen</translation>
+        <translation type="vanished">kann nicht erstellen</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1574"/>
+        <location filename="../../main/basewindow.cpp" line="1660"/>
         <source>Cannot create a new tab!</source>
         <translation>Kann keinen neuen Tab erstellen!</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1589"/>
+        <location filename="../../main/basewindow.cpp" line="1675"/>
         <source>game</source>
         <translation>Partie</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1589"/>
+        <location filename="../../main/basewindow.cpp" line="1675"/>
         <source>FEN</source>
         <translation>FEN</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1591"/>
         <source>Cannot paste</source>
-        <translation>kann nicht einfügen</translation>
+        <translation type="vanished">kann nicht einfügen</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1592"/>
+        <location filename="../../main/basewindow.cpp" line="958"/>
+        <source>Error: Game is empty!
+Cannot add this game to the database</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/basewindow.cpp" line="1678"/>
         <source>Cannot read or parse this game!</source>
         <translation>Kann diese Partie nicht lesen oder analysieren!</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1908"/>
+        <location filename="../../main/basewindow.cpp" line="2057"/>
         <source>There is not any editable book</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1912"/>
+        <location filename="../../main/basewindow.cpp" line="2061"/>
         <source>Game is empty or not from starting position!
 Cannot add this game to opening books</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1923"/>
+        <location filename="../../main/basewindow.cpp" line="2072"/>
         <source>Cannot add game to opening book</source>
         <translation>kann Partie nicht zum Eröffnungsbuch hinzufügen</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="1924"/>
+        <location filename="../../main/basewindow.cpp" line="2073"/>
         <source>Error:</source>
         <translation>Fehler:</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="2332"/>
         <source>Game is empty!
 Cannot analyse this game</source>
-        <translation>Partie ist leer!
+        <translation type="vanished">Partie ist leer!
 Kann diese Partie nicht analysieren.</translation>
     </message>
 </context>
 <context>
     <name>BasicNetWidget</name>
     <message>
-        <location filename="../../ui/net/basicnetwidget.cpp" line="95"/>
+        <location filename="../../ui/net/basicnetwidget.cpp" line="96"/>
         <source>&lt;Human&gt;</source>
         <translation>&lt;Spieler&gt;</translation>
     </message>
     <message>
-        <location filename="../../ui/net/basicnetwidget.cpp" line="261"/>
+        <location filename="../../ui/net/basicnetwidget.cpp" line="263"/>
         <source>You are playing some local network games</source>
         <translation>Sie spielen einige Partien im lokalen Netzwerk</translation>
     </message>
     <message>
-        <location filename="../../ui/net/basicnetwidget.cpp" line="262"/>
+        <location filename="../../ui/net/basicnetwidget.cpp" line="264"/>
         <source>Do you want to close all local network games then log out?</source>
         <translation>Möchten Sie alle Partien im lokalen Netzwerk schließen und sich dann abmelden?</translation>
     </message>
     <message>
-        <location filename="../../ui/net/basicnetwidget.cpp" line="286"/>
+        <location filename="../../ui/net/basicnetwidget.cpp" line="288"/>
         <source>Disconnect</source>
         <translation>trennen</translation>
     </message>
     <message>
-        <location filename="../../ui/net/basicnetwidget.cpp" line="286"/>
+        <location filename="../../ui/net/basicnetwidget.cpp" line="288"/>
         <source>Connect</source>
         <translation>verbinden</translation>
     </message>
     <message>
-        <location filename="../../ui/net/basicnetwidget.cpp" line="302"/>
+        <location filename="../../ui/net/basicnetwidget.cpp" line="304"/>
         <source>&lt;b&gt;&lt;font color=%1&gt;%2:&lt;/font&gt;&lt;/b&gt; %3</source>
         <translation>&lt;b&gt;&lt;font color=%1&gt;%2:&lt;/font&gt;&lt;/b&gt; %3</translation>
     </message>
     <message>
-        <location filename="../../ui/net/basicnetwidget.cpp" line="378"/>
+        <location filename="../../ui/net/basicnetwidget.cpp" line="380"/>
         <source>Create a new game</source>
         <translation>erstelle neue Partie</translation>
     </message>
     <message>
-        <location filename="../../ui/net/basicnetwidget.cpp" line="386"/>
+        <location filename="../../ui/net/basicnetwidget.cpp" line="388"/>
         <source>Create a new game vs %1</source>
         <translation>erstelle neue Partie vs %1</translation>
     </message>
@@ -903,6 +986,130 @@ Kann diese Partie nicht analysieren.</translation>
     </message>
 </context>
 <context>
+    <name>BookComputingWidget</name>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="14"/>
+        <source>Build Opening Books by Computing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="66"/>
+        <source>Variant:</source>
+        <translation type="unfinished">Variante:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="84"/>
+        <source>Support only chess variant</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="108"/>
+        <source>Chess</source>
+        <translation type="unfinished">Standard Schach</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="121"/>
+        <source>Chess960</source>
+        <translation type="unfinished">Chess 960</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="146"/>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="168"/>
+        <source>Polyglot only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="149"/>
+        <source>Save to book:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="175"/>
+        <source>Method:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="197"/>
+        <source>Evaluate from root, expand good nodes only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="202"/>
+        <source>Build full tree, evaluate leaves only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="225"/>
+        <source>Engine:</source>
+        <translation type="unfinished">Engine:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="263"/>
+        <source>A node will be ignored if its score below, unit centipawn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="266"/>
+        <source> cp</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="282"/>
+        <source>Max ply:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="313"/>
+        <source>Threshold score:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="342"/>
+        <source>Current limits: only chess variant, Polyglot books</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="373"/>
+        <source>Always on top</source>
+        <translation type="unfinished">immer im Vordergrund</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.ui" line="416"/>
+        <source>0/0</source>
+        <translation type="unfinished">0/0</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.cpp" line="38"/>
+        <source>Select Opening book to create</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.cpp" line="97"/>
+        <source>Resume</source>
+        <translation type="unfinished">fortsetzen</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.cpp" line="98"/>
+        <source>Do you want to resume last building?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.cpp" line="245"/>
+        <source>Start</source>
+        <translation type="unfinished">Start</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.cpp" line="245"/>
+        <source>Stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/bookcomputingwidget.cpp" line="245"/>
+        <source>Done</source>
+        <translation type="unfinished">erledigt</translation>
+    </message>
+</context>
+<context>
     <name>BookMoveTableModel</name>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="463"/>
@@ -1035,6 +1242,28 @@ Kann diese Partie nicht analysieren.</translation>
         <location filename="../../ui/settings/booktablemodel.cpp" line="411"/>
         <source>Path</source>
         <translation>Pfad</translation>
+    </message>
+</context>
+<context>
+    <name>BotTimerDlg</name>
+    <message>
+        <location filename="../../ui/libot/bottimerdlg.ui" line="14"/>
+        <source>Lichess bot timer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/bottimerdlg.ui" line="20"/>
+        <source>Auto (timer set by Lichess)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation type="obsolete">auto</translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/bottimerdlg.ui" line="27"/>
+        <source>Manual</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1226,17 +1455,17 @@ Kann diese Partie nicht analysieren.</translation>
 <context>
     <name>BtnFunc</name>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="228"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="243"/>
         <source>New</source>
         <translation>neu</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="229"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="244"/>
         <source>Stop</source>
         <translation>stop</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="230"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="245"/>
         <source>Resume</source>
         <translation>fortsetzen</translation>
     </message>
@@ -1249,240 +1478,240 @@ Kann diese Partie nicht analysieren.</translation>
         <translation>Eröffnungsbuch Builder</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="53"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="57"/>
         <source>Task:</source>
         <translation>Aufgabe:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="75"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="82"/>
         <source>Create New or Add to Existent Opening Book</source>
         <translation>Neu erstellen oder zum vorhandenen Eröffnungsbuch hinzufügen</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="80"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="87"/>
         <source>Create New Opening Book (overwrite existant one)</source>
         <translation>Neues Eröffnungsbuch erstellen (vorhandenes überschreiben)</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="85"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="92"/>
         <source>Merge Openings</source>
         <translation>Mische Eröffnungen</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="90"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="97"/>
         <source>Convert</source>
         <translation>konvertieren</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="114"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="121"/>
         <source>Input</source>
         <translation>Eingabe</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="121"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="128"/>
         <source>Database:</source>
         <translation>Datenbank:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="136"/>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="157"/>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="366"/>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="829"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="143"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="164"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="373"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="836"/>
         <source>Browser...</source>
         <translation>Browser...</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="145"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="152"/>
         <source>From book folder:</source>
         <translation>von Buchverzeichnis:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="166"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="173"/>
         <source>Game conditions:</source>
         <translation>Partiebedingungen:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="197"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="204"/>
         <source>min player Elo</source>
         <translation>minimales Spieler Elo</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="227"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="234"/>
         <source>min game length (ply)</source>
         <translation>minimale Partielänge (ply)</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="257"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="264"/>
         <source>repeat at least</source>
         <translation>wiederhole mindestens</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="273"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="280"/>
         <source>Output</source>
         <translation>Ausgabe</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="280"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="287"/>
         <source>Book format:</source>
         <translation>Buchformat:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="292"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="299"/>
         <source>Polyglot</source>
         <translation>Polyglot</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="299"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="306"/>
         <source>PGN</source>
         <translation>PGN</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="306"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="313"/>
         <source>EPD</source>
         <translation>EPD</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="319"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="326"/>
         <source>MoonRiver</source>
         <translation>MoonRiver</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="335"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="342"/>
         <source>Obk</source>
         <translation>Obk</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="344"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="351"/>
         <source>Book file:</source>
         <translation>Buchdatei:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="375"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="382"/>
         <source>Rule:</source>
         <translation>Regel:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="391"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="398"/>
         <source>Add values together</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="396"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="403"/>
         <source>Take the best</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="401"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="408"/>
         <source>Priority to 1st book</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="406"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="413"/>
         <source>Priority to 2nd book</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="411"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="418"/>
         <source>Reset all to a fix value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="444"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="451"/>
         <source>Take:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="462"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="469"/>
         <source>for white</source>
         <translation>für Weiß</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="469"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="476"/>
         <source>for black</source>
         <translation>für Schwarz</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="515"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="522"/>
         <source> plies</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="525"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="532"/>
         <source>Random +/-:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="545"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="552"/>
         <source>Accept duplicated last positions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="548"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="555"/>
         <source>Duplicated positions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="817"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="824"/>
         <source>From book file:</source>
         <translation>von Buchdatei:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="606"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="613"/>
         <source>Game result factors (0 = ignored):</source>
         <translation>Partieergebnis Faktoren (0 = ignorieren):</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="630"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="637"/>
         <source>win:</source>
         <translation>Sieg:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="655"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="662"/>
         <source>draw:</source>
         <translation>Remis:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="700"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="707"/>
         <source>loss:</source>
         <translation>Niederlage:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="725"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="732"/>
         <source>no result:</source>
         <translation>kein Ergebnis:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="736"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="743"/>
         <source>ignore</source>
         <translation>ignorieren</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="741"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="748"/>
         <source>win</source>
         <translation>Sieg</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="746"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="753"/>
         <source>draw</source>
         <translation>Remis</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="751"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="758"/>
         <source>loss</source>
         <translation>Niederlage</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="795"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="802"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="497"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="504"/>
         <source>Add to:</source>
         <translation>hinzufügen zu:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="98"/>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="105"/>
         <source>Always on top</source>
         <translation>immer im Vordergrund</translation>
     </message>
@@ -1507,107 +1736,107 @@ Kann diese Partie nicht analysieren.</translation>
         <translation>Polyglot Bin Dateien (*.bin);;PGN Dateien (*.pgn);;alle Dateien (*.*)</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="61"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="60"/>
         <source>Select database file</source>
         <translation>wähle Datenbankdatei</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="359"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="358"/>
         <source>PGN Files (*.pgn);;All files (*.*)</source>
         <translation>PGN (*.pgn);;alle Dateien (*.*)</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="362"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="361"/>
         <source>EPD Files (*.epd);;All files (*.*)</source>
         <translation>EPD (*.epd);;alle Dateien (*.*)</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="500"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="499"/>
         <source>Missing opening book file; </source>
         <translation>fehlende Eröffnungsbuchdatei; </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="508"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="507"/>
         <source>Missing database file; </source>
         <translation>fehlende Datenbankdatei; </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="513"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="512"/>
         <source>Must select sides; </source>
         <translation>Seiten müssen ausgewählt werden; </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="519"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="518"/>
         <source>Game-length &gt;= 0; </source>
         <translation>Partie-Länge &gt;=0; </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="523"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="522"/>
         <source>Add-to-length &gt;= 0; </source>
         <translation>hinzufügen-zu-Länge &gt;=0; </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="529"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="528"/>
         <source>At least one factor &gt; 0; </source>
         <translation>mindestens ein Faktor&gt; 0; </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="539"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="538"/>
         <source>Missing book file folder; </source>
         <translation>fehlendes Eröffnungsbuchverzeichnis; </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="551"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="550"/>
         <source>Missing input book file (.bin or .pgn); </source>
         <translation>fehlende Eingabe-Buchdatei (.bin oder .pgn); </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="555"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="554"/>
         <source>Accept only Polyglot (.bin) or PGN (.pgn); </source>
         <translation>akzeptiere nur Polyglot (.bin) oder PGN (.pgn); </translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="567"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="566"/>
         <source>Process</source>
         <translation>bearbeiten</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="567"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="566"/>
         <source>Cancel</source>
         <translation>abbrechen</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="567"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="566"/>
         <source>Done</source>
         <translation>erledigt</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="636"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="635"/>
         <source>Error: one or two files are not found, corrupted or encrypted</source>
         <translation>Fehler: eine oder zwei Dateien wurden nicht gefunden, sind beschädigt oder verschlüsselt</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="637"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="636"/>
         <source>Error: books are not same format</source>
         <translation>Fehler: Bücher sind nicht im selben Format</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="638"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="637"/>
         <source>Error: output book is not same extension with input books</source>
         <translation>Fehler: Ausgabe-Buch ist nicht im selben Format wie Eingabe-Buch</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="728"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="731"/>
         <source>#nodes: %1, period: %2, speed: %3</source>
         <translation>#Knoten: %1, period: %2, Geschwindigkeit: %3</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="736"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="739"/>
         <source>%1#added: %2, period: %3, speed: %4</source>
         <translation type="unfinished">%1#hinzugefügt: %2, period: %3, Geschwindigkeit: %4</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.cpp" line="746"/>
+        <location filename="../../ui/tools/buildopeningwidget.cpp" line="749"/>
         <source>#games: %2, %1period: %3, speed: %4</source>
         <translation>#Partien: %2, %1period: %3, Geschwindigkeit: %4</translation>
     </message>
@@ -1615,12 +1844,12 @@ Kann diese Partie nicht analysieren.</translation>
 <context>
     <name>ChartWidget</name>
     <message>
-        <location filename="../../ui/comm/chartwidget.cpp" line="354"/>
+        <location filename="../../ui/comm/chartwidget.cpp" line="378"/>
         <source>move</source>
         <translation>Zug</translation>
     </message>
     <message>
-        <location filename="../../ui/comm/chartwidget.cpp" line="359"/>
+        <location filename="../../ui/comm/chartwidget.cpp" line="383"/>
         <source>score</source>
         <translation>Wertung</translation>
     </message>
@@ -1697,19 +1926,16 @@ Kann diese Partie nicht analysieren.</translation>
 <context>
     <name>ConnectToolBar</name>
     <message>
-        <location filename="../../ui/connect/connecttoolbar.cpp" line="60"/>
         <source>idle</source>
-        <translation>Leerlauf</translation>
+        <translation type="vanished">Leerlauf</translation>
     </message>
     <message>
-        <location filename="../../ui/connect/connecttoolbar.cpp" line="61"/>
         <source>analyse</source>
-        <translation>analysiere</translation>
+        <translation type="vanished">analysiere</translation>
     </message>
     <message>
-        <location filename="../../ui/connect/connecttoolbar.cpp" line="62"/>
         <source>play for a side</source>
-        <translation>spiele für eine Seite</translation>
+        <translation type="vanished">spiele für eine Seite</translation>
     </message>
 </context>
 <context>
@@ -1723,6 +1949,93 @@ Kann diese Partie nicht analysieren.</translation>
         <location filename="../../main/connectwindow.cpp" line="470"/>
         <source>Good connection</source>
         <translation>Gute Verbindung</translation>
+    </message>
+</context>
+<context>
+    <name>ConnectXqServerWidget</name>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="42"/>
+        <location filename="../../ui/connect/connectxqserverwidget.cpp" line="193"/>
+        <source>Connect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="50"/>
+        <source>CXQ</source>
+        <translation type="unfinished">CXQ</translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="62"/>
+        <source>none</source>
+        <translation type="unfinished">keine</translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="67"/>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="135"/>
+        <source>auto</source>
+        <translation type="unfinished">auto</translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="72"/>
+        <source>analyse only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="77"/>
+        <source>play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="85"/>
+        <source>Minimum time in second before making a move</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="88"/>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="153"/>
+        <source> s</source>
+        <translation type="unfinished"> s</translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="101"/>
+        <source>copy</source>
+        <translation type="unfinished">kopieren</translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="128"/>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="175"/>
+        <source>Timer for playing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="140"/>
+        <source>fix time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="145"/>
+        <source>fix depth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="178"/>
+        <source> depth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.ui" line="197"/>
+        <source>book len:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/connect/connectxqserverwidget.cpp" line="193"/>
+        <source>Disconnect</source>
+        <translation type="unfinished">trennen</translation>
     </message>
 </context>
 <context>
@@ -1746,233 +2059,272 @@ Kann diese Partie nicht analysieren.</translation>
         <translation>Neues Turnier</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="84"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="88"/>
         <source>Type:</source>
         <translation>Typ:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="104"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="323"/>
         <source>Round Robin</source>
         <translation>Round Robin</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="109"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="328"/>
         <source>Knockout</source>
         <translation>Knockout</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="114"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="333"/>
         <source>Swiss</source>
         <translation>Swiss</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="119"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="338"/>
         <source>Gauntlet</source>
         <translation>Gauntlet</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="127"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="95"/>
         <source>Swiss rounds:</source>
         <translation>Swiss Runden:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="167"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="135"/>
         <source>Games/pair:</source>
         <translation>Partien/Paarung:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="195"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="163"/>
         <source>Swap sides</source>
         <translation>tausche Seiten</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="217"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="185"/>
         <source>Concurrency:</source>
         <translation>Parallelität:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="245"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="213"/>
         <source>Shuffle:</source>
         <translation>mischen:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="265"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="233"/>
         <source>None</source>
         <translation type="unfinished">nichts</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="270"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="238"/>
         <source>Players</source>
         <translation>Spieler</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="275"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="243"/>
         <source>Games</source>
         <translation>Partien</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="280"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="248"/>
         <source>Carousel</source>
         <translation>Karussell</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="303"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="271"/>
         <source>Site:</source>
         <translation>Austragungsort:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="310"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="278"/>
         <source>Site to write to PGN file</source>
         <translation>Austragungsort für PGN Datei</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="320"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="288"/>
         <source>Event:</source>
         <translation>Ereignis:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="327"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="295"/>
         <source>Event to write to PGN file</source>
         <translation>Ereignis für PGN Datei</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="440"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="472"/>
         <source>Openings:</source>
         <translation>Eröffnungen:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="447"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="479"/>
         <source>Adjudication:</source>
         <translation type="unfinished">Entscheidung:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="466"/>
-        <location filename="../../ui/tour/createtourwidget.ui" line="522"/>
-        <location filename="../../ui/tour/createtourwidget.ui" line="571"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="498"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="554"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="603"/>
         <source>setup</source>
         <translation>Setup</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="503"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="535"/>
         <source>Logs:</source>
         <translation>Logs:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="702"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="734"/>
         <source>Play</source>
         <translation>spielen</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="712"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="744"/>
+        <source>Reduce conflict between games with GPU engines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/createtourwidget.ui" line="747"/>
+        <source>No GPU concurrence</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/createtourwidget.ui" line="757"/>
         <source>Shutdown computer when tournament finished</source>
         <translation>Computer herunterfahren wenn Turnier beendet wurde</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="715"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="760"/>
         <source>Shutdown after</source>
         <translation>danach herunterfahren</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="722"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="767"/>
         <source>Start</source>
         <translation>Start</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="773"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="818"/>
         <source>Locked side</source>
         <translation>gesperrte Seite</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="800"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="845"/>
         <source>Double click remove</source>
         <translation>Doppelklick zum Entfernen</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="865"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="910"/>
         <source>Copy selected engines or all</source>
         <translation>kopiere ausgewählte Engines oder alle</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="879"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="924"/>
         <source>Remove selected engines or all</source>
         <translation>entferne ausgewählte Engines oder alle</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="950"/>
+        <location filename="../../ui/tour/createtourwidget.ui" line="979"/>
+        <source>Human</source>
+        <translation type="unfinished">Mensch</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/createtourwidget.ui" line="1011"/>
         <source>Double click to pickup engines</source>
         <translation>Doppelklick um Engines aufzunehmen</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="67"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="76"/>
         <source>Error:</source>
         <translation>Fehler:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="67"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="76"/>
         <source>Cannot parse JSON string, ignored!</source>
         <translation>JSON Zeichenfolge kann nicht analysiert werden, wird ignoriert!</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="202"/>
         <source>Available engines (%1):</source>
-        <translation>verfügbare Engines (%1):</translation>
+        <translation type="vanished">verfügbare Engines (%1):</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="203"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="190"/>
+        <source>Available (%1):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="191"/>
         <source>Participants (%1):</source>
         <translation>Teilnehmer (%1):</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="364"/>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="377"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="212"/>
+        <source>#games: %1 %2</source>
+        <translation type="unfinished">#Partien: %1 %2</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="215"/>
+        <source>(1st round)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="363"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="376"/>
         <source>(empty)</source>
         <translation>(leer)</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="364"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="363"/>
         <source>(#books: %1)</source>
         <translation>(#Bücher: %1)</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="377"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="376"/>
         <source>(#funcs: %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="389"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="388"/>
         <source>(no log)</source>
         <translation>(kein Log)</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="389"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="388"/>
         <source>(#logs: %1)</source>
         <translation>(#Logs: %1)</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="667"/>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="679"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="566"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="578"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="668"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="567"/>
         <source>A tournament is playing
 Stop the tournament?</source>
         <translation>Ein Turnier läuft.
 Turnier beenden?</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="680"/>
-        <source>One participant must be ticked as the gauntlet</source>
-        <translation>ein Teilnehmer muss für Gauntlet markiert werden</translation>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="579"/>
+        <source>At least one participant must be ticked as the gauntlet</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="690"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="614"/>
+        <source>(Warning: Lc0 option VerboseMoveStats &amp; LogLiveStats are on
+It may create too much data and freeze all sometimes)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One participant must be ticked as the gauntlet</source>
+        <translation type="vanished">ein Teilnehmer muss für Gauntlet markiert werden</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="588"/>
         <source>Generating match list...</source>
         <translation>Erzeuge Turnierliste...</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/createtourwidget.cpp" line="701"/>
+        <location filename="../../ui/tour/createtourwidget.cpp" line="601"/>
         <source>(Warning: A tournament is playing. Editing may affect it)</source>
         <translation>(Warnung: Ein Turnier wird gespielt. Die Bearbeitung kann sich darauf auswirken.)</translation>
     </message>
@@ -2026,185 +2378,185 @@ Turnier beenden?</translation>
         <translation>Datenbank Builder</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="50"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="54"/>
         <source>Chess variant:</source>
         <translation>Schachvariante:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="87"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="91"/>
         <source>Xiangqi</source>
         <translation>Xiangqi</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="94"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="98"/>
         <source>Jeiqi</source>
         <translation>Jeiqi</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="101"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="105"/>
         <source>Standard</source>
         <translation>Standard</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="108"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="112"/>
         <source>Chess960</source>
         <translation>Chess 960</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="586"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="590"/>
         <source>Tasks:</source>
         <translation>Aufgabe:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="601"/>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="605"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="609"/>
         <source>Create New Database</source>
         <translation>erstelle neue Datenbank</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="610"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="614"/>
         <source>Tree</source>
         <translation>Baum</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="615"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="619"/>
         <source>Merge</source>
         <translation>mischen</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="144"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="148"/>
         <source>Input</source>
         <translation>Eingabe</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="157"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="161"/>
         <source>Game folder:</source>
         <translation>Partieverzeichnis:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="169"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="173"/>
         <source>including sub folders</source>
         <translation>Unterverzeichnisse einbeziehen</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="176"/>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="298"/>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="326"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="180"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="302"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="330"/>
         <source>Browser...</source>
         <translation>Browser...</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="266"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="270"/>
         <source>Output</source>
         <translation>Ausgabe</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="273"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="277"/>
         <source>Database file:</source>
         <translation>Datenbankdatei:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="291"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="295"/>
         <source>file will be created/changed</source>
         <translation>Datei wird erstellt/geändert</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="307"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="311"/>
         <source>2nd Database file:</source>
         <translation>zweite Datenbankdatei:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="319"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="323"/>
         <source>this file will not be changed</source>
         <translation>Datei wird nicht geändert</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="335"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="339"/>
         <source>To do:</source>
         <translation>zu tun:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="375"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="379"/>
         <source>Add tree</source>
         <translation>Baum hinzufügen</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="391"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="395"/>
         <source>Remove</source>
         <translation>entfernen</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="404"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="408"/>
         <source>Similar games:</source>
         <translation>ähnliche Partien:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="417"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="421"/>
         <source>Similar games are ones with all moves matched</source>
         <translation>ähnliche Partien sind solche, bei denen alle Züge übereinstimmen</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="450"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="454"/>
         <source>accept</source>
         <translation>akzeptieren</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="469"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="473"/>
         <source>no</source>
         <translation>nein</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="482"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="486"/>
         <source>Thread number:</source>
         <translation>Anzahl Threads:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="497"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="501"/>
         <source>use for building</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="522"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="526"/>
         <source>Info:</source>
         <translation>Info:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="564"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="568"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="636"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="640"/>
         <source>Always on top</source>
         <translation>immer im Vordergrund</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="185"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="189"/>
         <source>Game conditions:</source>
         <translation>Partiebedingungen:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="202"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="206"/>
         <source>Min length:</source>
         <translation>minimale Länge:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="217"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="221"/>
         <source>plies</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="224"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="228"/>
         <source>Min score:</source>
         <translation>minimale Wertung:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="192"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="196"/>
         <source>accept games without tag Variant. Should check for Standard chess</source>
         <translation>Akzeptiere Partien ohne Variantenkennzeichen. Prüfe auf Standard Schach.</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="195"/>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="199"/>
         <source>Accept missing tag Variant</source>
         <translation>akzeptiere fehlendes Variantenkennzeichen</translation>
     </message>
@@ -2234,22 +2586,22 @@ Turnier beenden?</translation>
         <translation>erledigt</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.cpp" line="358"/>
+        <location filename="../../ui/tools/databasebuilderwidget.cpp" line="370"/>
         <source>Error: different chess type!</source>
         <translation>Fehler: andere Schachvariante!</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.cpp" line="360"/>
+        <location filename="../../ui/tools/databasebuilderwidget.cpp" line="372"/>
         <source>#added games: %1 from %2, period: %3</source>
         <translation type="unfinished">#hinzugefügte Partien: %1 von %2, period: %3</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.cpp" line="369"/>
+        <location filename="../../ui/tools/databasebuilderwidget.cpp" line="381"/>
         <source>#games: %1 of %2, elapsed: %3, speed: %4</source>
         <translation type="unfinished">#Partien: %1 von %2, verstrichen: %3, Geschwindigkeit: %4</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.cpp" line="371"/>
+        <location filename="../../ui/tools/databasebuilderwidget.cpp" line="383"/>
         <source>#games: %1, added: %2, elapsed: %3, speed: %4</source>
         <translation type="unfinished">#Partien: %1, hinzugefügt: %2, verstrichen: %3, Geschwindigkeit: %4</translation>
     </message>
@@ -2300,122 +2652,122 @@ Turnier beenden?</translation>
         <translation>Datenbank anzeigen</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.ui" line="46"/>
+        <location filename="../../ui/tools/databaseviewerwidget.ui" line="50"/>
         <source>Database file:</source>
         <translation>Datenbankdatei:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.ui" line="63"/>
+        <location filename="../../ui/tools/databaseviewerwidget.ui" line="67"/>
         <source>Show tree view</source>
         <translation>zeige Baumansicht</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.ui" line="70"/>
+        <location filename="../../ui/tools/databaseviewerwidget.ui" line="74"/>
         <source>Always on top</source>
         <translation>immer im Vordergrund</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.ui" line="81"/>
+        <location filename="../../ui/tools/databaseviewerwidget.ui" line="85"/>
         <source>Player:</source>
         <translation>Spieler:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.ui" line="91"/>
+        <location filename="../../ui/tools/databaseviewerwidget.ui" line="95"/>
         <source>Limit score:</source>
         <translation>Wertung einschränken:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.ui" line="99"/>
+        <location filename="../../ui/tools/databaseviewerwidget.ui" line="103"/>
         <source>None</source>
         <translation>keine</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.ui" line="104"/>
+        <location filename="../../ui/tools/databaseviewerwidget.ui" line="108"/>
         <source>Any</source>
         <translation>alle</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.ui" line="109"/>
+        <location filename="../../ui/tools/databaseviewerwidget.ui" line="113"/>
         <source>White</source>
         <translation>Weiß</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.ui" line="114"/>
+        <location filename="../../ui/tools/databaseviewerwidget.ui" line="118"/>
         <source>Black</source>
         <translation>Schwarz</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.ui" line="119"/>
+        <location filename="../../ui/tools/databaseviewerwidget.ui" line="123"/>
         <source>Both</source>
         <translation>beide</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.ui" line="127"/>
+        <location filename="../../ui/tools/databaseviewerwidget.ui" line="131"/>
         <source>from:</source>
         <translation>von:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.ui" line="137"/>
+        <location filename="../../ui/tools/databaseviewerwidget.ui" line="141"/>
         <source>Result:</source>
         <translation>Ergebnis:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.ui" line="151"/>
+        <location filename="../../ui/tools/databaseviewerwidget.ui" line="155"/>
         <source>*</source>
         <translation>*</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.ui" line="156"/>
+        <location filename="../../ui/tools/databaseviewerwidget.ui" line="160"/>
         <source>1-0</source>
         <translation>1-0</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.ui" line="161"/>
+        <location filename="../../ui/tools/databaseviewerwidget.ui" line="165"/>
         <source>0.5</source>
         <translation>0.5</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.ui" line="166"/>
+        <location filename="../../ui/tools/databaseviewerwidget.ui" line="170"/>
         <source>0-1</source>
         <translation>0-1</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.ui" line="174"/>
+        <location filename="../../ui/tools/databaseviewerwidget.ui" line="178"/>
         <source>Event:</source>
         <translation>Ereignis:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.ui" line="347"/>
+        <location filename="../../ui/tools/databaseviewerwidget.ui" line="351"/>
         <source>Stats</source>
         <translation>Statistiken</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.ui" line="401"/>
+        <location filename="../../ui/tools/databaseviewerwidget.ui" line="405"/>
         <source>GID:</source>
         <translation>GID:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.ui" line="436"/>
+        <location filename="../../ui/tools/databaseviewerwidget.ui" line="440"/>
         <source>0</source>
         <translation>0</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.cpp" line="106"/>
+        <location filename="../../ui/tools/databaseviewerwidget.cpp" line="136"/>
         <source>Game database</source>
         <translation>Partie Datenbank</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.cpp" line="363"/>
+        <location filename="../../ui/tools/databaseviewerwidget.cpp" line="391"/>
         <source>Loading database...</source>
         <translation>Lade Datenbank...</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.cpp" line="550"/>
+        <location filename="../../ui/tools/databaseviewerwidget.cpp" line="651"/>
         <source>Searching...</source>
         <translation>Suche...</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databaseviewerwidget.cpp" line="586"/>
+        <location filename="../../ui/tools/databaseviewerwidget.cpp" line="687"/>
         <source>Sorting...</source>
         <translation>Sortiere...</translation>
     </message>
@@ -2509,12 +2861,12 @@ Turnier beenden?</translation>
 <context>
     <name>DownloadItem</name>
     <message>
-        <location filename="../../ui/dl/downloadmng.cpp" line="265"/>
+        <location filename="../../ui/dl/downloadmng.cpp" line="259"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadmng.cpp" line="266"/>
+        <location filename="../../ui/dl/downloadmng.cpp" line="260"/>
         <source>Folder is empty</source>
         <translation>Verzeichnis ist leer</translation>
     </message>
@@ -2549,49 +2901,166 @@ Turnier beenden?</translation>
     </message>
 </context>
 <context>
+    <name>DownloadNNNetDlg</name>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.ui" line="164"/>
+        <source>Network name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.ui" line="145"/>
+        <source>network name, e.g., nn-82215d0fd0df.nnue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.ui" line="20"/>
+        <source>Download NNUE networks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.ui" line="29"/>
+        <source>Use NNUE (for setting option Use NNUE)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.ui" line="41"/>
+        <source>To use NNUE, you need a network (a file with extension .nnue), click download
+button to download the default net or select one from the table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.ui" line="49"/>
+        <source>Network folder:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.ui" line="58"/>
+        <source>Engine&apos;s folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.ui" line="65"/>
+        <source>Another folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.ui" line="87"/>
+        <source>Folder:</source>
+        <translation type="unfinished">Verzeichnis:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.ui" line="114"/>
+        <source>Existent networks:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.ui" line="155"/>
+        <source>Download</source>
+        <translation type="unfinished">Download</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.cpp" line="63"/>
+        <source>Select a folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.cpp" line="180"/>
+        <source>Downloading %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.cpp" line="187"/>
+        <source>Downloaded</source>
+        <translation type="unfinished">heruntergeladen</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.cpp" line="187"/>
+        <source>Download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.cpp" line="234"/>
+        <source>%1 exists</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.cpp" line="235"/>
+        <source>%1 not found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.cpp" line="240"/>
+        <source>Network name must not be empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.cpp" line="242"/>
+        <source>The folder must not be empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.cpp" line="258"/>
+        <source>Selected netword: %1 %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dl/downloadnnnetdlg.cpp" line="260"/>
+        <source>(missing)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DownloadNNUETableModel</name>
+    <message>
+        <location filename="../../ui/dl/downloadnnuetablemodel.cpp" line="75"/>
+        <source>name</source>
+        <translation type="unfinished">Name</translation>
+    </message>
+</context>
+<context>
     <name>DownloadSyzygyTableModel</name>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="166"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="168"/>
         <source>downloading rtbw</source>
         <translation>lade rtbw</translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="172"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="174"/>
         <source>downloading rtbz</source>
         <translation>lade rtbz</translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="174"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="176"/>
         <source>, rtbz</source>
         <translation>, rtbz</translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="183"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="185"/>
         <source>downloaded</source>
         <translation>heruntergeladen</translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="186"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="188"/>
         <source>missing rtbz</source>
         <translation>fehlende rtbz</translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="186"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="188"/>
         <source>missing rtbw</source>
         <translation>fehlende rtbw</translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="227"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="229"/>
         <source>name</source>
         <translation>Name</translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="229"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="231"/>
         <source>men</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="231"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="233"/>
         <source>select</source>
         <translation>auswählen</translation>
     </message>
@@ -2780,22 +3249,22 @@ Turnier beenden?</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="389"/>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="672"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="674"/>
         <source>Start</source>
         <translation>Start</translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="411"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="413"/>
         <source>Select Syzygy main folder</source>
         <translation>Wähle Syzygy Hauptverzeichnis</translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="609"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="611"/>
         <source>Downloaded: %1%2; Selected: %3%4</source>
         <translation>heruntergeladen: %1%2; ausgewählt: %3%4</translation>
     </message>
     <message>
-        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="672"/>
+        <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="674"/>
         <source>Stop</source>
         <translation>Stop</translation>
     </message>
@@ -2892,82 +3361,82 @@ Turnier beenden?</translation>
         <translation>Stellung aufbauen</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/editdlg.ui" line="28"/>
+        <location filename="../../ui/dlg/editdlg.ui" line="32"/>
         <source>FEN:</source>
         <translation>FEN:</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/editdlg.ui" line="35"/>
+        <location filename="../../ui/dlg/editdlg.ui" line="39"/>
         <source>Copy, paste or edit</source>
         <translation>kopieren, einfügen oder ändern</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/editdlg.ui" line="45"/>
+        <location filename="../../ui/dlg/editdlg.ui" line="49"/>
         <source>Copy</source>
         <translation>kopieren</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/editdlg.ui" line="90"/>
+        <location filename="../../ui/dlg/editdlg.ui" line="94"/>
         <source>white</source>
         <translation>Weiß</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/editdlg.ui" line="103"/>
+        <location filename="../../ui/dlg/editdlg.ui" line="107"/>
         <source>black</source>
         <translation>Schwarz</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/editdlg.ui" line="110"/>
+        <location filename="../../ui/dlg/editdlg.ui" line="114"/>
         <source>half moves:</source>
         <translation>Halbzüge:</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/editdlg.ui" line="136"/>
+        <location filename="../../ui/dlg/editdlg.ui" line="140"/>
         <source>#moves:</source>
         <translation>#Züge:</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/editdlg.ui" line="176"/>
+        <location filename="../../ui/dlg/editdlg.ui" line="180"/>
         <source>white O-O</source>
         <translation>Weiß O-O</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/editdlg.ui" line="183"/>
+        <location filename="../../ui/dlg/editdlg.ui" line="187"/>
         <source>white O-O-O</source>
         <translation>Weiß O-O-O</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/editdlg.ui" line="190"/>
+        <location filename="../../ui/dlg/editdlg.ui" line="194"/>
         <source>black O-O</source>
         <translation>Schwarz O-O</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/editdlg.ui" line="197"/>
+        <location filename="../../ui/dlg/editdlg.ui" line="201"/>
         <source>black O-O-O</source>
         <translation>Schwarz O-O-O</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/editdlg.ui" line="221"/>
+        <location filename="../../ui/dlg/editdlg.ui" line="225"/>
         <source>Flip vertically</source>
         <translation>umdrehen</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/editdlg.ui" line="228"/>
+        <location filename="../../ui/dlg/editdlg.ui" line="232"/>
         <source>Full board</source>
         <translation>Grundstellung</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/editdlg.ui" line="235"/>
+        <location filename="../../ui/dlg/editdlg.ui" line="239"/>
         <source>Clear all</source>
         <translation>leeren</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/editdlg.ui" line="244"/>
+        <location filename="../../ui/dlg/editdlg.ui" line="248"/>
         <source>Drag pieces from left bar and drop to board to add</source>
         <translation>ziehe Figuren von der linken Seite auf das Board zum Hinzufügen</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/editdlg.ui" line="251"/>
+        <location filename="../../ui/dlg/editdlg.ui" line="255"/>
         <source>Drag pieces from board and drop out side to remove</source>
         <translation>ziehe Figuren vom Board heraus zum Löschen</translation>
     </message>
@@ -3029,37 +3498,37 @@ Turnier beenden?</translation>
 <context>
     <name>EgtbFileTableModel</name>
     <message>
-        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="88"/>
+        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="89"/>
         <source>failed %1</source>
         <translation>fehlgeschlagen %1</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="92"/>
+        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="93"/>
         <source>Good</source>
         <translation>gut</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="198"/>
+        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="199"/>
         <source>Name</source>
         <translation>Name</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="200"/>
+        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="201"/>
         <source>Men</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="202"/>
+        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="203"/>
         <source>Type</source>
         <translation>Typ</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="204"/>
+        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="205"/>
         <source>Size</source>
         <translation>Größe</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="206"/>
+        <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="207"/>
         <source>Checksum</source>
         <translation>Checksumme</translation>
     </message>
@@ -3067,52 +3536,52 @@ Turnier beenden?</translation>
 <context>
     <name>EngineConfigurationTableModel</name>
     <message>
-        <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="143"/>
+        <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="144"/>
         <source>String cannot be empty</source>
         <translation>Zeichenfolge darf nicht leer sein</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="157"/>
+        <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="158"/>
         <source>Name is taken by other configuration</source>
         <translation>Name wird von einer anderen Konfiguration benutzt</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="177"/>
+        <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="178"/>
         <source>Incorrect protocol string</source>
         <translation>falsche Protokollzeichenfolge</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="197"/>
+        <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="198"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="211"/>
+        <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="212"/>
         <source>Name</source>
         <translation>Name</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="213"/>
+        <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="214"/>
         <source>Protocol</source>
         <translation>Protokoll</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="215"/>
+        <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="216"/>
         <source>Elo</source>
         <translation>Elo</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="217"/>
+        <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="218"/>
         <source>Color</source>
         <translation>Farbe</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="219"/>
+        <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="220"/>
         <source>Command</source>
         <translation>Kommando</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="221"/>
+        <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="222"/>
         <source>Working Folder</source>
         <translation>Arbeitsverzeichnis</translation>
     </message>
@@ -3153,64 +3622,74 @@ Turnier beenden?</translation>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../ui/settings/enginemanagementwidget.ui" line="66"/>
+        <location filename="../../ui/settings/enginemanagementwidget.ui" line="77"/>
         <source>Add a new engine</source>
         <translation>neue Engine hinzufügen</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/enginemanagementwidget.ui" line="69"/>
+        <location filename="../../ui/settings/enginemanagementwidget.ui" line="80"/>
         <source>Add</source>
         <translation>hinzufügen</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/enginemanagementwidget.ui" line="83"/>
+        <location filename="../../ui/settings/enginemanagementwidget.ui" line="94"/>
         <source>Remove selected engine(s)</source>
         <translation>entferne ausgewählte Engine(s)</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/enginemanagementwidget.ui" line="86"/>
+        <location filename="../../ui/settings/enginemanagementwidget.ui" line="97"/>
         <source>Remove</source>
         <translation>entfernen</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/enginemanagementwidget.ui" line="100"/>
+        <location filename="../../ui/settings/enginemanagementwidget.ui" line="111"/>
         <source>Configure selected engine(s)</source>
         <translation>konfiguriere ausgewählte Engine(s)</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/enginemanagementwidget.ui" line="103"/>
+        <location filename="../../ui/settings/enginemanagementwidget.ui" line="114"/>
         <source>Configure</source>
         <translation>konfigurieren</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/enginemanagementwidget.ui" line="114"/>
+        <location filename="../../ui/settings/enginemanagementwidget.ui" line="125"/>
         <source>Duplicate selected engines</source>
         <translation>dupliziere ausgewählte Engine</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/enginemanagementwidget.ui" line="117"/>
+        <location filename="../../ui/settings/enginemanagementwidget.ui" line="128"/>
         <source>dup</source>
         <translation>duplizieren</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/enginemanagementwidget.ui" line="124"/>
+        <location filename="../../ui/settings/enginemanagementwidget.ui" line="135"/>
         <source>Update all engines</source>
         <translation>aktualisiere alle Engines</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/enginemanagementwidget.ui" line="127"/>
+        <location filename="../../ui/settings/enginemanagementwidget.ui" line="138"/>
         <source>all</source>
         <translation>alle aktualisieren</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/enginemanagementwidget.ui" line="259"/>
+        <location filename="../../ui/settings/enginemanagementwidget.ui" line="270"/>
         <source>Engine log:</source>
         <translation>Engine Log:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/enginemanagementwidget.cpp" line="143"/>
+        <location filename="../../ui/settings/enginemanagementwidget.cpp" line="152"/>
         <source>Engines (%1):</source>
         <translation>Engines (%1):</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/enginemanagementwidget.cpp" line="210"/>
+        <source>Engine %1 will be deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/enginemanagementwidget.cpp" line="215"/>
+        <source>Are you sure?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3239,52 +3718,51 @@ Turnier beenden?</translation>
         <translation>setze alle Optionen auf Standardwerte zurück</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineoptionwidget.ui" line="53"/>
         <source>Reset</source>
-        <translation>zurücksetzen</translation>
+        <translation type="vanished">zurücksetzen</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineoptionwidget.ui" line="75"/>
+        <location filename="../../ui/settings/engineoptionwidget.ui" line="96"/>
         <source>Charactors using in FEN string</source>
         <translation>Zeichen, die in FEN Zeichenfolge verwendet werden</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineoptionwidget.ui" line="78"/>
+        <location filename="../../ui/settings/engineoptionwidget.ui" line="99"/>
         <source>FEN charators:</source>
         <translation>FEN Zeichen:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineoptionwidget.ui" line="90"/>
+        <location filename="../../ui/settings/engineoptionwidget.ui" line="111"/>
         <source>King, Advisor, Bishop, Rook, Cannon, kNight, Pawn</source>
         <translation>King, Advisor, Bishop, Rook, Cannon, kNight, Pawn</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineoptionwidget.ui" line="93"/>
+        <location filename="../../ui/settings/engineoptionwidget.ui" line="114"/>
         <source>KABRCNP</source>
         <translation>KABRCNP</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineoptionwidget.ui" line="103"/>
+        <location filename="../../ui/settings/engineoptionwidget.ui" line="124"/>
         <source>King, Advisor, Elephant, Rook, Cannon, Horse, Pawn</source>
         <translation>King, Advisor, Elephant, Rook, Cannon, Horse, Pawn</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineoptionwidget.ui" line="106"/>
+        <location filename="../../ui/settings/engineoptionwidget.ui" line="127"/>
         <source>KAERCHP</source>
         <translation>KAERCHP</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineoptionwidget.cpp" line="59"/>
+        <location filename="../../ui/settings/engineoptionwidget.cpp" line="61"/>
         <source>Error:</source>
         <translation>Fehler:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineoptionwidget.cpp" line="59"/>
+        <location filename="../../ui/settings/engineoptionwidget.cpp" line="61"/>
         <source>Cannot parse JSON string, ignored!</source>
         <translation>JSON Zeichenfolge kann nicht analysiert werden, wird ignoriert!</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineoptionwidget.cpp" line="130"/>
+        <location filename="../../ui/settings/engineoptionwidget.cpp" line="147"/>
         <source>Engine options</source>
         <translation>Engine Einstellungen</translation>
     </message>
@@ -3327,35 +3805,76 @@ Turnier beenden?</translation>
         <translation>Kerne:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/engineoveraloptionwidget.cpp" line="49"/>
+        <location filename="../../ui/settings/engineoveraloptionwidget.cpp" line="52"/>
         <source>(%1 men, %2 eg)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ErrorDlg</name>
+    <message>
+        <location filename="../../ui/dlg/errordlg.ui" line="14"/>
+        <source>Errors &amp; important messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ErrorTableModel</name>
+    <message>
+        <location filename="../../ui/dlg/errortablemodel.cpp" line="74"/>
+        <source>time</source>
+        <translation type="unfinished">Zeit</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/errortablemodel.cpp" line="77"/>
+        <source>type</source>
+        <translation type="unfinished">Typ</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/errortablemodel.cpp" line="80"/>
+        <source>msg</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EvalTableModel</name>
     <message>
-        <location filename="../../ui/comm/evaltablemodel.cpp" line="231"/>
+        <location filename="../../ui/comm/evaltablemodel.cpp" line="258"/>
         <source>depth</source>
         <translation>Tiefe</translation>
     </message>
     <message>
-        <location filename="../../ui/comm/evaltablemodel.cpp" line="233"/>
+        <location filename="../../ui/comm/evaltablemodel.cpp" line="260"/>
         <source>score</source>
         <translation>Wertung</translation>
     </message>
     <message>
-        <location filename="../../ui/comm/evaltablemodel.cpp" line="235"/>
+        <location filename="../../ui/comm/evaltablemodel.cpp" line="262"/>
         <source>time</source>
         <translation>Zeit</translation>
     </message>
     <message>
-        <location filename="../../ui/comm/evaltablemodel.cpp" line="237"/>
+        <location filename="../../ui/comm/evaltablemodel.cpp" line="264"/>
         <source>nodes</source>
         <translation>Knoten</translation>
     </message>
     <message>
-        <location filename="../../ui/comm/evaltablemodel.cpp" line="239"/>
+        <location filename="../../ui/comm/evaltablemodel.cpp" line="266"/>
+        <source>wdl</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/comm/evaltablemodel.cpp" line="268"/>
+        <source>nnue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/comm/evaltablemodel.cpp" line="270"/>
+        <source>movesleft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/comm/evaltablemodel.cpp" line="272"/>
         <source>pv</source>
         <translation>Vorschau</translation>
     </message>
@@ -3443,24 +3962,40 @@ Turnier beenden?</translation>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="../../ui/comm/evaltablewidget.cpp" line="566"/>
         <source>0 NPS</source>
-        <translation>0 NPS</translation>
+        <translation type="vanished">0 NPS</translation>
     </message>
     <message>
-        <location filename="../../ui/comm/evaltablewidget.cpp" line="572"/>
         <source>%1 NPS</source>
-        <translation>%1 NPS</translation>
+        <translation type="vanished">%1 NPS</translation>
     </message>
     <message>
-        <location filename="../../ui/comm/evaltablewidget.cpp" line="580"/>
         <source>MPS</source>
-        <translation>MPS</translation>
+        <translation type="vanished">MPS</translation>
     </message>
     <message>
-        <location filename="../../ui/comm/evaltablewidget.cpp" line="585"/>
         <source>KPS</source>
-        <translation>KPS</translation>
+        <translation type="vanished">KPS</translation>
+    </message>
+    <message>
+        <location filename="../../ui/comm/evaltablewidget.cpp" line="582"/>
+        <source>0 N/s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/comm/evaltablewidget.cpp" line="588"/>
+        <source>%1 N/s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/comm/evaltablewidget.cpp" line="596"/>
+        <source>mN/s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/comm/evaltablewidget.cpp" line="601"/>
+        <source>kN/s</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3479,27 +4014,27 @@ Turnier beenden?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/exclusivemovedialog.ui" line="26"/>
+        <location filename="../../ui/dlg/exclusivemovedialog.ui" line="30"/>
         <source>All legal moves:</source>
         <translation>alle legalen Züge:</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/exclusivemovedialog.ui" line="77"/>
+        <location filename="../../ui/dlg/exclusivemovedialog.ui" line="81"/>
         <source>Tick all</source>
         <translation>alle markieren</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/exclusivemovedialog.ui" line="84"/>
+        <location filename="../../ui/dlg/exclusivemovedialog.ui" line="88"/>
         <source>Clear all</source>
         <translation>alle abwählen</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/exclusivemovedialog.ui" line="93"/>
+        <location filename="../../ui/dlg/exclusivemovedialog.ui" line="97"/>
         <source>Unticked moves will be excluded from searching and making.</source>
         <translation>Nicht markierte Züge werden vom Suchen und Ausführen ausgeschlossen.</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/exclusivemovedialog.ui" line="100"/>
+        <location filename="../../ui/dlg/exclusivemovedialog.ui" line="104"/>
         <source>If they are changed, stop engines then search again to take effect.</source>
         <translation type="unfinished">Wenn geändert wurde, Engine stoppen und erneut suchen, um wirksam zu werden.</translation>
     </message>
@@ -3554,79 +4089,79 @@ Turnier beenden?</translation>
 <context>
     <name>IcsBasicCtrlWidget</name>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="324"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="325"/>
         <source>&lt;Human&gt;</source>
         <translation>&lt;Spieler&gt;</translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="380"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="382"/>
         <source>You want to abort this game!
 Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="383"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="385"/>
         <source>You want to resign this game!
 Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="386"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="388"/>
         <source>Confirm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="542"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="544"/>
         <source>Your username is is a registered name and already logged in. Please chose another username then login again</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="544"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="546"/>
         <source>Your username is is a registered name but the password is empty. Please enter the password or chose another username then login again</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="670"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="672"/>
         <source>Host incorrect</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="671"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="673"/>
         <source>Host must be in format host:port, e.g.: freechess.org:5000</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="721"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="723"/>
         <source>Trying to play vs %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="784"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="786"/>
         <source>Disconnect</source>
         <translation>trennen</translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="786"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="788"/>
         <source>Connect</source>
         <translation>verbinden</translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="832"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="834"/>
         <source>Observe game id %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="862"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="864"/>
         <source>Challenge %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="871"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="873"/>
         <source>Tell to %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="897"/>
+        <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="899"/>
         <source>Try to play vs %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3860,7 +4395,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="369"/>
-        <location filename="../../ui/ics/icsctrlwidget.cpp" line="640"/>
+        <location filename="../../ui/ics/icsctrlwidget.cpp" line="553"/>
         <source>rated</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3871,7 +4406,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="383"/>
-        <location filename="../../ui/ics/icsctrlwidget.cpp" line="640"/>
+        <location filename="../../ui/ics/icsctrlwidget.cpp" line="553"/>
         <source>unrated</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3921,17 +4456,17 @@ Are you sure?</source>
         <translation>tippe eine Nachricht, drücke Enter zum Senden</translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsctrlwidget.cpp" line="638"/>
+        <location filename="../../ui/ics/icsctrlwidget.cpp" line="551"/>
         <source>, %1 %2</source>
         <translation>, %1 %2</translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsctrlwidget.cpp" line="644"/>
+        <location filename="../../ui/ics/icsctrlwidget.cpp" line="557"/>
         <source>game %1 (%2%3) is %4!</source>
         <translation>Partie %1 (%2%3) ist %4!</translation>
     </message>
     <message>
-        <location filename="../../ui/ics/icsctrlwidget.cpp" line="924"/>
+        <location filename="../../ui/ics/icsctrlwidget.cpp" line="833"/>
         <source>game %1 is over, result &lt;font color=&apos;red&apos;&gt;%2&lt;/font&gt;</source>
         <translation>Partie %1 ist vorbei, Ergebnis &lt;font color=&apos;red&apos;&gt;%2&lt;/font&gt;</translation>
     </message>
@@ -4262,7 +4797,7 @@ Are you sure?</source>
 <context>
     <name>LcTableModel</name>
     <message>
-        <location filename="../../ui/comm/lctablemodel.cpp" line="74"/>
+        <location filename="../../ui/comm/lctablemodel.cpp" line="86"/>
         <source>move</source>
         <translation>Zug</translation>
     </message>
@@ -4270,236 +4805,390 @@ Are you sure?</source>
 <context>
     <name>LiBot</name>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="243"/>
-        <source>Logged out!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/libot/libot.cpp" line="404"/>
-        <location filename="../../ui/libot/libot.cpp" line="509"/>
-        <source>accepted challenger %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/libot/libot.cpp" line="432"/>
+        <location filename="../../ui/libot/libot.cpp" line="270"/>
         <source>%1 %2, %3</source>
         <translation>%1 %2, %3</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="455"/>
+        <location filename="../../ui/libot/libot.cpp" line="313"/>
         <source>BOT is not accepted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="464"/>
+        <location filename="../../ui/libot/libot.cpp" line="323"/>
         <source>rated/casual is not matched</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="472"/>
+        <location filename="../../ui/libot/libot.cpp" line="331"/>
         <source>side is not matched</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="487"/>
+        <location filename="../../ui/libot/libot.cpp" line="344"/>
         <source>speed is not matched</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="493"/>
-        <source>challenged by &lt;b&gt;%1&lt;/b&gt; color %2 speed %3</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/libot/libot.cpp" line="504"/>
-        <source>challenged by %1, saved into waiting list</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/libot/libot.cpp" line="513"/>
-        <source>Declined %1, %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/libot/libot.cpp" line="523"/>
-        <source>new game started</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/libot/libot.cpp" line="559"/>
-        <source>Timeout, arboted game %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/libot/libot.cpp" line="702"/>
+        <location filename="../../ui/libot/libot.cpp" line="586"/>
         <source>game initialised, %1 vs %2, moves %3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="711"/>
+        <location filename="../../ui/libot/libot.cpp" line="595"/>
         <source>New Lichess game created</source>
         <translation>neue Lichess Partie erstellt</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="733"/>
-        <location filename="../../ui/libot/libot.cpp" line="748"/>
+        <location filename="../../ui/libot/libot.cpp" line="623"/>
+        <location filename="../../ui/libot/libot.cpp" line="638"/>
         <source>%1 move %2 </source>
         <translation>%1 Zug %2 </translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="767"/>
+        <location filename="../../ui/libot/libot.cpp" line="657"/>
         <source>move %1 %2</source>
         <translation>Zug %1 %2</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="582"/>
+        <location filename="../../ui/libot/libot.cpp" line="451"/>
         <source>&lt;b&gt;%1:&lt;/b&gt; %2, room %3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="449"/>
+        <location filename="../../ui/libot/libot.cpp" line="278"/>
+        <source>&lt;b&gt;%1&lt;/b&gt; color %2 speed %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libot.cpp" line="283"/>
+        <source>challenged by %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libot.cpp" line="301"/>
         <source>it is not right variant</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="833"/>
+        <location filename="../../ui/libot/libot.cpp" line="306"/>
+        <source>reached the limit of concurrency of playing games</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libot.cpp" line="358"/>
+        <source>%1 %2%3</source>
+        <translation type="unfinished">%1 %2%3</translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libot.cpp" line="359"/>
+        <source>Accepted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libot.cpp" line="359"/>
+        <source>Declined</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libot.cpp" line="428"/>
+        <source>Timeout, aborted game %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libot.cpp" line="466"/>
+        <source>Over the concurrency limit, aborted the game %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libot.cpp" line="757"/>
         <source>Game finished, %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="844"/>
+        <location filename="../../ui/libot/libot.cpp" line="768"/>
         <source>Failed to query</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="854"/>
+        <location filename="../../ui/libot/libot.cpp" line="778"/>
         <source>Fail to upgrade account to BOT! Stop!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="885"/>
+        <location filename="../../ui/libot/libot.cpp" line="809"/>
         <source>Error: Can&apos;t send move %1 to Lichess server. Retrying...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="897"/>
+        <location filename="../../ui/libot/libot.cpp" line="821"/>
         <source>Error: cannot send move %1. Stopped!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="919"/>
+        <location filename="../../ui/libot/libot.cpp" line="843"/>
         <source>%1 %2</source>
         <translation>%1 %2</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="924"/>
+        <location filename="../../ui/libot/libot.cpp" line="848"/>
         <source>Logged in as &lt;b&gt;&lt;font color=&quot;darkgreen&quot;&gt;%1&lt;/font&gt;&lt;/b&gt;! Waiting for challenges...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="927"/>
+        <location filename="../../ui/libot/libot.cpp" line="851"/>
         <source>Logged in as &lt;b&gt;%1&lt;/b&gt;, requesting to upgrade to BOT account...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="936"/>
+        <location filename="../../ui/libot/libot.cpp" line="860"/>
         <source>Upgraded successfully to BOT account! Waiting for challenges...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="946"/>
+        <location filename="../../ui/libot/libot.cpp" line="870"/>
         <source>OK: sent move %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libot.cpp" line="948"/>
+        <location filename="../../ui/libot/libot.cpp" line="872"/>
         <source>Resent successfully move %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>LiBotBasic</name>
+    <message>
+        <location filename="../../ui/libot/libotbasic.cpp" line="83"/>
+        <source>Stop challenging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotbasic.cpp" line="84"/>
+        <source>Do you want to stop challenging?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotbasic.cpp" line="132"/>
+        <source>auto</source>
+        <translation type="unfinished">auto</translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotbasic.cpp" line="141"/>
+        <source>challenge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotbasic.cpp" line="145"/>
+        <source>challenging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotbasic.cpp" line="307"/>
+        <source>Logged out!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>LibotChallengeDlg</name>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="14"/>
-        <source>Challenge a user</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="26"/>
         <source>Username:</source>
-        <translation>Nutzername:</translation>
+        <translation type="vanished">Nutzername:</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="52"/>
-        <source>rated</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="242"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="252"/>
         <source>chess</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="252"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="262"/>
         <source>chess960</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="275"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="431"/>
         <source>Your side:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ihre Seite:</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="175"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="459"/>
         <source>Random</source>
         <translation type="unfinished">zufällig</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="192"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="476"/>
         <source>white</source>
         <translation>Weiß</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="185"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="469"/>
         <source>black</source>
         <translation>Schwarz</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="74"/>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="100"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="32"/>
+        <source>Player list to be challenged</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="64"/>
+        <source>Usernames:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="163"/>
+        <source>select all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="170"/>
+        <source>unselect all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="287"/>
+        <source>Repeat playing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="393"/>
+        <source>Game parametters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="514"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="540"/>
         <source> s</source>
         <translation> s</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="87"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="527"/>
         <source>Increment:</source>
         <translation>Inkrement:</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotchallengedlg.ui" line="59"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="609"/>
+        <source>Challenge</source>
+        <translation type="unfinished">herausfordern</translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="339"/>
+        <source>Delay between challenges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="342"/>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="362"/>
+        <source>s</source>
+        <translation type="unfinished">s</translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="352"/>
+        <source>Timeout:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="359"/>
+        <source>Timeout for a challenge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="323"/>
+        <source>(repeat after a lap)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="330"/>
+        <source>Delay:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="311"/>
+        <source>Repeat:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="417"/>
+        <source>Rated:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="218"/>
+        <source>Variant:</source>
+        <translation type="unfinished">Variante:</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="obsolete">OK</translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="619"/>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.ui" line="499"/>
         <source>Initial time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.cpp" line="80"/>
+        <source>Challenges by %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.cpp" line="136"/>
+        <source>Error: Player list is empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.cpp" line="138"/>
+        <source>Error: The bot is not logged in yet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengedlg.cpp" line="140"/>
+        <source>Error: None player is selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>LibotChallengerTableModel</name>
+    <message>
+        <location filename="../../ui/libot/libotchallengertablemodel.cpp" line="223"/>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengertablemodel.cpp" line="225"/>
+        <source>Hit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotchallengertablemodel.cpp" line="227"/>
+        <source>Succ</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>LibotGameTableModel</name>
     <message>
-        <location filename="../../ui/libot/libotgametablemodel.cpp" line="121"/>
+        <location filename="../../ui/libot/libotgametablemodel.cpp" line="124"/>
         <source>White</source>
         <translation>Weiß</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotgametablemodel.cpp" line="123"/>
+        <location filename="../../ui/libot/libotgametablemodel.cpp" line="126"/>
         <source>Black</source>
         <translation>Schwarz</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotgametablemodel.cpp" line="125"/>
+        <location filename="../../ui/libot/libotgametablemodel.cpp" line="128"/>
         <source>#len</source>
         <translation type="unfinished">#len</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotgametablemodel.cpp" line="127"/>
+        <location filename="../../ui/libot/libotgametablemodel.cpp" line="130"/>
         <source>Timer</source>
         <translation>Timer</translation>
     </message>
@@ -4573,32 +5262,42 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngmodel.cpp" line="155"/>
+        <location filename="../../ui/libot/libotmngmodel.cpp" line="154"/>
         <source>Name</source>
         <translation>Name</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngmodel.cpp" line="157"/>
+        <location filename="../../ui/libot/libotmngmodel.cpp" line="156"/>
         <source>Token</source>
         <translation>Token</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngmodel.cpp" line="159"/>
+        <location filename="../../ui/libot/libotmngmodel.cpp" line="158"/>
         <source>Engine</source>
         <translation>Engine</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngmodel.cpp" line="161"/>
+        <location filename="../../ui/libot/libotmngmodel.cpp" line="160"/>
+        <source>Timer</source>
+        <translation type="unfinished">Timer</translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotmngmodel.cpp" line="162"/>
+        <source>Challenge</source>
+        <translation type="unfinished">herausfordern</translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotmngmodel.cpp" line="164"/>
         <source>#played</source>
         <translation type="unfinished">#gespielt</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngmodel.cpp" line="163"/>
+        <location filename="../../ui/libot/libotmngmodel.cpp" line="166"/>
         <source>Status</source>
         <translation>Status</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngmodel.cpp" line="165"/>
+        <location filename="../../ui/libot/libotmngmodel.cpp" line="168"/>
         <source>Login/out</source>
         <translation>Login/out</translation>
     </message>
@@ -4611,127 +5310,140 @@ Are you sure?</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="167"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="146"/>
         <source>Show playing games</source>
         <translation>zeige aktive Partien</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="52"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="173"/>
         <source>Concurrency:</source>
         <translation type="unfinished">Parallelität:</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="77"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="50"/>
         <source>Notify new games</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="105"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="78"/>
         <source>Set 0 to ignore</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="92"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="65"/>
         <source>Abort timeout:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="89"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="62"/>
         <source>Set 0 to ignore, bot will be abort if opposites idle at the begining</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="108"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="81"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="216"/>
         <source> s</source>
         <translation> s</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="153"/>
-        <source>Challenge</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="170"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="149"/>
         <source>Show games</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="177"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="156"/>
         <source>Log network input/output to log files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="180"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="159"/>
         <source>log</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="193"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="170"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="186"/>
+        <source>Total concurrent playing games</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="203"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="213"/>
+        <source>Each move, give engine timeleft = real timeleft - margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="206"/>
+        <source>Move margin:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="232"/>
         <source>Accept:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="241"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="280"/>
         <source>blitz</source>
         <translation type="unfinished">blitz</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="262"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="301"/>
         <source>bullet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="227"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="266"/>
         <source>white</source>
         <translation>Weiß</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="248"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="287"/>
         <source>rated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="255"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="294"/>
         <source>ultra bullet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="290"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="329"/>
         <source>black</source>
         <translation>Schwarz</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="269"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="308"/>
         <source>casual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="276"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="315"/>
         <source>rapid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="283"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="322"/>
         <source>classical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="234"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="273"/>
         <source>bots</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="297"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="336"/>
         <source>chess960</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="304"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="343"/>
         <source>chess</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="379"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="418"/>
         <source>Event logs</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4746,42 +5458,31 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.cpp" line="80"/>
-        <source>There is no online libot. Please go online first</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/libot/libotmngwidget.cpp" line="97"/>
-        <source>There are more than one online/selected libots. Please select one first</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/libot/libotmngwidget.cpp" line="102"/>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation type="vanished">Fehler</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.cpp" line="358"/>
+        <location filename="../../ui/libot/libotmngwidget.cpp" line="303"/>
         <source>Error: at least one side must be checked</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.cpp" line="366"/>
+        <location filename="../../ui/libot/libotmngwidget.cpp" line="311"/>
         <source>Error: at least one chess variant must be checked</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.cpp" line="374"/>
+        <location filename="../../ui/libot/libotmngwidget.cpp" line="319"/>
         <source>Error: casual/rate must be checked</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.cpp" line="387"/>
+        <location filename="../../ui/libot/libotmngwidget.cpp" line="332"/>
         <source>Error: at least one speed must be checked</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.cpp" line="399"/>
+        <location filename="../../ui/libot/libotmngwidget.cpp" line="344"/>
         <source>Error: some bots have same tokens</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4844,7 +5545,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/logviewerwidget.ui" line="83"/>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">neu laden</translation>
     </message>
     <message>
         <location filename="../../ui/logviewerwidget.ui" line="114"/>
@@ -4937,76 +5638,73 @@ correspondent board</source>
         <translation>Design</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="95"/>
+        <location filename="../../main/mainwindow.ui" line="101"/>
         <source>Menu color</source>
         <translation>Menüfarbe</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="103"/>
+        <location filename="../../main/mainwindow.ui" line="109"/>
         <source>Custom</source>
         <translation>Eigenes Design</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="110"/>
+        <location filename="../../main/mainwindow.ui" line="116"/>
         <source>Recent Files</source>
         <translation>Benutzte Dateien</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="146"/>
+        <location filename="../../main/mainwindow.ui" line="152"/>
         <source>Edit</source>
         <translation>Bearbeiten</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="17"/>
-        <location filename="../../main/mainwindow.ui" line="158"/>
-        <location filename="../../main/mainwindow.ui" line="553"/>
+        <location filename="../../main/mainwindow.ui" line="167"/>
+        <location filename="../../main/mainwindow.ui" line="538"/>
         <source>Tools</source>
         <translation>Werkzeuge</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="162"/>
+        <location filename="../../main/mainwindow.ui" line="171"/>
         <source>Developers</source>
         <translation>Entwickler</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="178"/>
+        <location filename="../../main/mainwindow.ui" line="188"/>
         <source>Windows</source>
         <translation>Fenster</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="182"/>
+        <location filename="../../main/mainwindow.ui" line="192"/>
         <source>Tool bars</source>
         <translation>Symbolleisten</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="188"/>
+        <location filename="../../main/mainwindow.ui" line="198"/>
         <source>Docks</source>
         <translation>Docks</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="204"/>
+        <location filename="../../main/mainwindow.ui" line="214"/>
         <source>Languages</source>
         <translation>Sprachen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="209"/>
-        <location filename="../../main/mainwindow.ui" line="213"/>
         <source>Server</source>
-        <translation>Server</translation>
+        <translation type="vanished">Server</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="220"/>
         <source>Play mode</source>
-        <translation>Spielmodus</translation>
+        <translation type="vanished">Spielmodus</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="234"/>
-        <location filename="../../main/mainwindow.ui" line="1364"/>
+        <location filename="../../main/mainwindow.ui" line="219"/>
+        <location filename="../../main/mainwindow.ui" line="1338"/>
         <source>Connect</source>
         <translation>Verbindungen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="239"/>
+        <location filename="../../main/mainwindow.ui" line="224"/>
         <source>Tournaments</source>
         <translation>Turniere</translation>
     </message>
@@ -5015,48 +5713,48 @@ correspondent board</source>
         <translation type="vanished">Laden/Speichern</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="277"/>
+        <location filename="../../main/mainwindow.ui" line="262"/>
         <source>Clock</source>
         <translation>Uhr</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="311"/>
+        <location filename="../../main/mainwindow.ui" line="296"/>
         <source>Score graph</source>
         <translatorcomment>Partieprofil</translatorcomment>
         <translation>Wertungsdiagramm</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="329"/>
+        <location filename="../../main/mainwindow.ui" line="314"/>
         <source>Engine info</source>
         <translation>Engine Info</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="338"/>
+        <location filename="../../main/mainwindow.ui" line="323"/>
         <source>Moves</source>
         <translation type="unfinished">Notation</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="467"/>
+        <location filename="../../main/mainwindow.ui" line="452"/>
         <source>?!</source>
         <translation>?!</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="477"/>
+        <location filename="../../main/mainwindow.ui" line="462"/>
         <source>{}</source>
         <translation>{}</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="491"/>
+        <location filename="../../main/mainwindow.ui" line="476"/>
         <source>Engine log</source>
         <translation>Engine Log</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="521"/>
+        <location filename="../../main/mainwindow.ui" line="506"/>
         <source>Books/Egtb</source>
         <translation>Bücher/EGTB</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="530"/>
+        <location filename="../../main/mainwindow.ui" line="515"/>
         <source>Control</source>
         <translation>Steuerung</translation>
     </message>
@@ -5065,750 +5763,873 @@ correspondent board</source>
         <translation type="vanished">Datenbanken</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="571"/>
         <source>Connection</source>
-        <translation>Verbindung</translation>
+        <translation type="vanished">Verbindung</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="582"/>
+        <location filename="../../main/mainwindow.ui" line="556"/>
         <source>Strings, stats</source>
         <translation>Ausgaben, Statistiken</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="612"/>
+        <location filename="../../main/mainwindow.ui" line="586"/>
         <source>Tournament</source>
         <translation>Turnier</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="652"/>
+        <location filename="../../main/mainwindow.ui" line="626"/>
         <source>Tournament result</source>
         <translation>Turnier Ergebnis</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="679"/>
+        <location filename="../../main/mainwindow.ui" line="653"/>
         <source>Pv board</source>
         <translation>Vorschau Board</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="688"/>
+        <location filename="../../main/mainwindow.ui" line="662"/>
         <source>Lichess bots</source>
         <translation>Lichess Bots</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="725"/>
+        <location filename="../../main/mainwindow.ui" line="699"/>
         <source>Internet Chess Server</source>
         <translation>Internet Schach Server</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="752"/>
+        <location filename="../../main/mainwindow.ui" line="726"/>
         <source>Local Network</source>
         <translation>Lokales Netzwerk</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="779"/>
+        <location filename="../../main/mainwindow.ui" line="753"/>
         <source>Broadcast</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Übertragung</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="813"/>
+        <location filename="../../main/mainwindow.ui" line="787"/>
         <source>New Game</source>
         <translation>Neue Partie</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="816"/>
+        <location filename="../../main/mainwindow.ui" line="790"/>
         <source>Ctrl+N</source>
         <translation>Ctrl+N</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="825"/>
+        <location filename="../../main/mainwindow.ui" line="799"/>
         <source>Open Game</source>
         <translation>Öffne Partie</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="828"/>
+        <location filename="../../main/mainwindow.ui" line="802"/>
         <source>Ctrl+O</source>
         <translation>Ctrl+O</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="833"/>
+        <location filename="../../main/mainwindow.ui" line="807"/>
         <source>Exit</source>
         <translation>Exit</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="842"/>
+        <location filename="../../main/mainwindow.ui" line="816"/>
         <source>Copy PGN</source>
         <translation>Kopiere PGN</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="845"/>
+        <location filename="../../main/mainwindow.ui" line="819"/>
         <source>Ctrl+C</source>
         <translation>Ctrl+C</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="850"/>
+        <location filename="../../main/mainwindow.ui" line="824"/>
         <source>Copy FEN</source>
         <translation>Kopiere FEN</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="859"/>
+        <location filename="../../main/mainwindow.ui" line="833"/>
         <source>Paste</source>
         <translation>Einfügen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="862"/>
+        <location filename="../../main/mainwindow.ui" line="836"/>
         <source>Ctrl+V</source>
         <translation>Ctrl+V</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="867"/>
+        <location filename="../../main/mainwindow.ui" line="841"/>
         <source>Copy Image</source>
         <translation>Kopiere Bild</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="876"/>
+        <location filename="../../main/mainwindow.ui" line="850"/>
         <source>Database</source>
         <translation>Öffne Datenbank</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="885"/>
+        <location filename="../../main/mainwindow.ui" line="859"/>
         <source>Opening</source>
         <translation>Öffne Eröffnungsbuch</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="888"/>
+        <location filename="../../main/mainwindow.ui" line="862"/>
         <source>View Opening Book</source>
         <translation>zeige Eröffnungsbuch</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="897"/>
+        <location filename="../../main/mainwindow.ui" line="871"/>
         <source>Edit Board</source>
         <translation>Stellung aufbauen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="900"/>
+        <location filename="../../main/mainwindow.ui" line="874"/>
         <source>Edit board</source>
         <translation>Stellung aufbauen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="909"/>
+        <location filename="../../main/mainwindow.ui" line="883"/>
         <source>Save</source>
         <translation>Speichern</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="912"/>
+        <location filename="../../main/mainwindow.ui" line="886"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="921"/>
+        <location filename="../../main/mainwindow.ui" line="895"/>
         <source>Go first</source>
         <translation>Gehe zum Anfang der Partie</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="924"/>
+        <location filename="../../main/mainwindow.ui" line="898"/>
         <source>go first</source>
         <translation>gehe zum Anfang der Partie</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="927"/>
+        <location filename="../../main/mainwindow.ui" line="901"/>
         <source>Ctrl+Left</source>
         <translation>Ctrl + links</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="936"/>
+        <location filename="../../main/mainwindow.ui" line="910"/>
         <source>Go previous</source>
         <translation>Gehe zum vorherigen Zug</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="939"/>
+        <location filename="../../main/mainwindow.ui" line="913"/>
         <source>go previous</source>
         <translation>gehe zum vorherigen Zug</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="942"/>
+        <location filename="../../main/mainwindow.ui" line="916"/>
         <source>Left</source>
         <translation>links</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="951"/>
+        <location filename="../../main/mainwindow.ui" line="925"/>
         <source>Go next</source>
         <translation>Gehe zum nächsten Zug</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="954"/>
+        <location filename="../../main/mainwindow.ui" line="928"/>
         <source>go next</source>
         <translation>gehe zum nächsten Zug</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="957"/>
+        <location filename="../../main/mainwindow.ui" line="931"/>
         <source>Right</source>
         <translation>rechts</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="966"/>
+        <location filename="../../main/mainwindow.ui" line="940"/>
         <source>Go last</source>
         <translation>Gehe zum Ende der Partie</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="969"/>
+        <location filename="../../main/mainwindow.ui" line="943"/>
         <source>go last</source>
         <translation>gehe zum Ende der Partie</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="972"/>
+        <location filename="../../main/mainwindow.ui" line="946"/>
         <source>Ctrl+Right</source>
         <translation>Ctrl + rechts</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="981"/>
+        <location filename="../../main/mainwindow.ui" line="955"/>
         <source>Rotate</source>
         <translation>drehen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="984"/>
+        <location filename="../../main/mainwindow.ui" line="958"/>
         <source>rotate board</source>
         <translation>Board drehen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="997"/>
+        <location filename="../../main/mainwindow.ui" line="971"/>
         <source>Auto Play</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1000"/>
+        <location filename="../../main/mainwindow.ui" line="974"/>
         <source>auto play</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1009"/>
+        <location filename="../../main/mainwindow.ui" line="983"/>
         <source>Settings</source>
         <translation>Einstellungen...</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1012"/>
+        <location filename="../../main/mainwindow.ui" line="986"/>
         <source>settings</source>
         <translation>Einstellungen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1021"/>
-        <location filename="../../main/mainwindow.ui" line="1024"/>
+        <location filename="../../main/mainwindow.ui" line="995"/>
+        <location filename="../../main/mainwindow.ui" line="998"/>
         <source>New Tournament</source>
         <translation>Neues Turnier</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1027"/>
+        <location filename="../../main/mainwindow.ui" line="1001"/>
         <source>Create tournament</source>
         <translation>erstelle Turnier</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1032"/>
+        <location filename="../../main/mainwindow.ui" line="1006"/>
         <source>Save Theme &amp;&amp; Layout</source>
         <translation>Speichere Design &amp;&amp; Layout</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1035"/>
+        <location filename="../../main/mainwindow.ui" line="1009"/>
         <source>Save theme and layout</source>
         <translation>Speichere Design und Layout</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1044"/>
+        <location filename="../../main/mainwindow.ui" line="1018"/>
         <source>Game Analysis</source>
         <translation>Partie analysieren</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1047"/>
+        <location filename="../../main/mainwindow.ui" line="1021"/>
         <source>Auto analyse game</source>
         <translation>Partie analysieren</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1056"/>
-        <location filename="../../main/mainwindow.ui" line="1059"/>
+        <location filename="../../main/mainwindow.ui" line="1030"/>
+        <location filename="../../main/mainwindow.ui" line="1033"/>
         <source>Stop Analysis</source>
         <translation>Analyse anhalten</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1064"/>
-        <location filename="../../main/mainwindow.ui" line="1067"/>
+        <location filename="../../main/mainwindow.ui" line="1038"/>
+        <location filename="../../main/mainwindow.ui" line="1041"/>
         <source>Open PGN from URL</source>
         <translation>Öffne PGN von URL</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1079"/>
-        <location filename="../../main/mainwindow.ui" line="1082"/>
+        <location filename="../../main/mainwindow.ui" line="1053"/>
+        <location filename="../../main/mainwindow.ui" line="1056"/>
         <source>Always On Top</source>
         <translation>immer im Vordergrund</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1087"/>
-        <location filename="../../main/mainwindow.ui" line="1090"/>
+        <location filename="../../main/mainwindow.ui" line="1061"/>
+        <location filename="../../main/mainwindow.ui" line="1064"/>
         <source>Save As</source>
         <translation>Speichern unter</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1095"/>
-        <location filename="../../main/mainwindow.ui" line="1098"/>
+        <location filename="../../main/mainwindow.ui" line="1069"/>
+        <location filename="../../main/mainwindow.ui" line="1072"/>
         <source>About</source>
         <translation>Über</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1107"/>
-        <location filename="../../main/mainwindow.ui" line="1110"/>
+        <location filename="../../main/mainwindow.ui" line="1081"/>
+        <location filename="../../main/mainwindow.ui" line="1084"/>
         <source>Exclusive Moves</source>
         <translation>exklusive Züge</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1119"/>
-        <location filename="../../main/mainwindow.ui" line="1122"/>
+        <location filename="../../main/mainwindow.ui" line="1093"/>
+        <location filename="../../main/mainwindow.ui" line="1096"/>
         <source>Move Now</source>
         <translation>ziehe jetzt</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1131"/>
-        <location filename="../../main/mainwindow.ui" line="1134"/>
+        <location filename="../../main/mainwindow.ui" line="1105"/>
+        <location filename="../../main/mainwindow.ui" line="1108"/>
         <source>Play</source>
         <translation>Spielen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1143"/>
-        <location filename="../../main/mainwindow.ui" line="1146"/>
+        <location filename="../../main/mainwindow.ui" line="1117"/>
+        <location filename="../../main/mainwindow.ui" line="1120"/>
         <source>Takeback</source>
         <translation>zurücknehmen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1155"/>
+        <location filename="../../main/mainwindow.ui" line="1129"/>
         <source>Game Setup</source>
         <translation>Partie Setup</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1158"/>
+        <location filename="../../main/mainwindow.ui" line="1132"/>
         <source>Setup Game</source>
         <translation>Partie Setup</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1161"/>
+        <location filename="../../main/mainwindow.ui" line="1135"/>
         <source>Ctrl+/</source>
         <translation>Ctrl+/</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1170"/>
-        <location filename="../../main/mainwindow.ui" line="1173"/>
+        <location filename="../../main/mainwindow.ui" line="1144"/>
+        <location filename="../../main/mainwindow.ui" line="1147"/>
         <source>Create Database</source>
         <translation>Erstelle Datenbank</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1182"/>
-        <location filename="../../main/mainwindow.ui" line="1185"/>
-        <source>Create Opening</source>
-        <translation>Erstelle Eröffnungsbuch</translation>
+        <location filename="../../main/mainwindow.ui" line="1606"/>
+        <source>Compute Opening book</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1194"/>
+        <location filename="../../main/mainwindow.ui" line="1609"/>
+        <source>create opening book by computing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1614"/>
+        <source>Stone</source>
+        <translation type="unfinished">Stein</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1617"/>
+        <source>Theme stone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1622"/>
+        <source>Metallic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1625"/>
+        <source>Theme Metallic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1630"/>
+        <source>Gold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1633"/>
+        <source>Theme Gold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Opening</source>
+        <translation type="vanished">Erstelle Eröffnungsbuch</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1168"/>
         <source>View Book</source>
         <translation>Zeige Buch</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1197"/>
+        <location filename="../../main/mainwindow.ui" line="1171"/>
         <source>View opening book</source>
         <translation>Öffne Eröffnungsbuch</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1206"/>
+        <location filename="../../main/mainwindow.ui" line="1180"/>
         <source>Add current game to a book</source>
         <translation>aktuelle Partie zum Eröffnungsbuch hinzufügen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1209"/>
+        <location filename="../../main/mainwindow.ui" line="1183"/>
         <source>Add current game to an opening book</source>
         <translation>aktuelle Partie zum Eröffnungsbuch hinzufügen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1218"/>
-        <location filename="../../main/mainwindow.ui" line="1221"/>
+        <location filename="../../main/mainwindow.ui" line="1192"/>
+        <location filename="../../main/mainwindow.ui" line="1195"/>
         <source>Add current game to a database</source>
         <translation>aktuelle Partie zur Datenbank hinzufügen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1233"/>
-        <location filename="../../main/mainwindow.ui" line="1236"/>
+        <location filename="../../main/mainwindow.ui" line="1207"/>
+        <location filename="../../main/mainwindow.ui" line="1210"/>
         <source>Xiangqi</source>
         <translation>Xiangqi</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1248"/>
-        <location filename="../../main/mainwindow.ui" line="1251"/>
+        <location filename="../../main/mainwindow.ui" line="1222"/>
+        <location filename="../../main/mainwindow.ui" line="1225"/>
         <source>Jeiqi</source>
         <translation>Jeiqi</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1259"/>
-        <location filename="../../main/mainwindow.ui" line="1262"/>
+        <location filename="../../main/mainwindow.ui" line="1233"/>
+        <location filename="../../main/mainwindow.ui" line="1236"/>
         <source>Chess</source>
         <translation>Standard Schach</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1274"/>
+        <location filename="../../main/mainwindow.ui" line="1248"/>
         <source>Chess960</source>
         <translation>Chess 960</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1282"/>
+        <location filename="../../main/mainwindow.ui" line="1256"/>
         <source>CXQ</source>
         <translation>CXQ</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1285"/>
+        <location filename="../../main/mainwindow.ui" line="1259"/>
         <source>Club Xiangqi</source>
         <translation>Club Xiangqi</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1293"/>
+        <location filename="../../main/mainwindow.ui" line="1267"/>
         <source>GameVH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1296"/>
+        <location filename="../../main/mainwindow.ui" line="1270"/>
         <source>Game VH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1304"/>
-        <location filename="../../main/mainwindow.ui" line="1307"/>
+        <location filename="../../main/mainwindow.ui" line="1278"/>
+        <location filename="../../main/mainwindow.ui" line="1281"/>
         <source>MoveSky</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1315"/>
+        <location filename="../../main/mainwindow.ui" line="1289"/>
         <source>Thien thien tuong ky</source>
         <translation>Thien thien tuong ky</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1323"/>
+        <location filename="../../main/mainwindow.ui" line="1297"/>
         <source>Kydao</source>
         <translation>Kydao</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1328"/>
+        <location filename="../../main/mainwindow.ui" line="1302"/>
         <source>Reserve1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1333"/>
+        <location filename="../../main/mainwindow.ui" line="1307"/>
         <source>ServerReserve2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1338"/>
+        <location filename="../../main/mainwindow.ui" line="1312"/>
         <source>ServerReserve3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1343"/>
+        <location filename="../../main/mainwindow.ui" line="1317"/>
         <source>Clear Menu</source>
         <translation type="unfinished">Einträge löschen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1348"/>
+        <location filename="../../main/mainwindow.ui" line="1322"/>
         <source>Benchmark/Cmd</source>
         <translation>Benchmark/Kommando</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1351"/>
+        <location filename="../../main/mainwindow.ui" line="1325"/>
         <source>Benchmark or command</source>
         <translation>Benchmark oder Kommando</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1611"/>
+        <location filename="../../main/mainwindow.ui" line="1460"/>
+        <source>Light Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1476"/>
+        <source>Talkchess Workbench</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1479"/>
+        <source>Theme Talkchess Workbench</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1484"/>
+        <source>Light Marble</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1500"/>
+        <source>Light Red</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1503"/>
+        <source>Theme Light Red</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1585"/>
         <source>Dump</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1616"/>
+        <location filename="../../main/mainwindow.ui" line="1590"/>
         <source>Perft</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1619"/>
+        <location filename="../../main/mainwindow.ui" line="1593"/>
         <source>Computing perft</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1367"/>
+        <location filename="../../main/mainwindow.ui" line="1598"/>
+        <source>Copy UCI position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1601"/>
+        <source>Copy board as a UCI position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1341"/>
         <source>ServerConnect</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="256"/>
+        <location filename="../../main/mainwindow.ui" line="240"/>
         <source>Load Save</source>
         <translation>Laden/Speichern</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1375"/>
+        <location filename="../../main/mainwindow.ui" line="1156"/>
+        <location filename="../../main/mainwindow.ui" line="1159"/>
+        <source>Create Opening book</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1349"/>
         <source>Idle</source>
         <translation>Leerlauf</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1383"/>
-        <location filename="../../main/mainwindow.ui" line="1386"/>
+        <location filename="../../main/mainwindow.ui" line="1357"/>
+        <location filename="../../main/mainwindow.ui" line="1360"/>
         <source>Analyse</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1394"/>
-        <location filename="../../main/mainwindow.ui" line="1397"/>
+        <location filename="../../main/mainwindow.ui" line="1368"/>
+        <location filename="../../main/mainwindow.ui" line="1371"/>
         <source>Play for one side</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1406"/>
-        <location filename="../../main/mainwindow.ui" line="1409"/>
+        <location filename="../../main/mainwindow.ui" line="1380"/>
+        <location filename="../../main/mainwindow.ui" line="1383"/>
         <source>Swap players</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1418"/>
+        <location filename="../../main/mainwindow.ui" line="1392"/>
         <source>Download</source>
         <translation>Download</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1421"/>
+        <location filename="../../main/mainwindow.ui" line="1395"/>
         <source>Download engines, data</source>
         <translation>Download</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1430"/>
+        <location filename="../../main/mainwindow.ui" line="1404"/>
         <source>New Tab</source>
         <translation>Neuer Tab</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1433"/>
+        <location filename="../../main/mainwindow.ui" line="1407"/>
         <source>New Game Tab</source>
         <translation>Neuer Tab</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1438"/>
+        <location filename="../../main/mainwindow.ui" line="1412"/>
         <source>Copy EPD</source>
         <translation>Kopiere EPD</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1441"/>
+        <location filename="../../main/mainwindow.ui" line="1415"/>
         <source>Copy the game as a list of EPD</source>
         <translation>kopiere Partie als Liste von EPD</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1446"/>
+        <location filename="../../main/mainwindow.ui" line="1420"/>
         <source>Flip On/Off All Docks</source>
         <translation>zeige/verberge alle Docks</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1449"/>
+        <location filename="../../main/mainwindow.ui" line="1423"/>
         <source>Show/hide all docks</source>
         <translation>zeige/verberge alle Docks</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1454"/>
+        <location filename="../../main/mainwindow.ui" line="1428"/>
         <source>Close Tab</source>
         <translation>Schließe Tab</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1457"/>
+        <location filename="../../main/mainwindow.ui" line="1431"/>
         <source>Close current tab</source>
         <translation>Schließe aktiven Tab</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1462"/>
+        <location filename="../../main/mainwindow.ui" line="1436"/>
         <source>Plain Color</source>
         <translation>Farbe</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1465"/>
+        <location filename="../../main/mainwindow.ui" line="1439"/>
         <source>Theme Color</source>
         <translation>Design Farbe</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1470"/>
+        <location filename="../../main/mainwindow.ui" line="1444"/>
         <source>Wood</source>
         <translation>Holz</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1473"/>
+        <location filename="../../main/mainwindow.ui" line="1447"/>
         <source>Theme Wood</source>
         <translation>Design Holz</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1478"/>
+        <location filename="../../main/mainwindow.ui" line="1452"/>
         <source>Marble</source>
         <translation>Marmor</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1481"/>
+        <location filename="../../main/mainwindow.ui" line="1455"/>
+        <location filename="../../main/mainwindow.ui" line="1487"/>
         <source>Theme Marble</source>
         <translation>Design Marmor</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1486"/>
         <source>Green</source>
-        <translation>Grün</translation>
+        <translation type="vanished">Grün</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1489"/>
+        <location filename="../../main/mainwindow.ui" line="1463"/>
         <source>Theme Green</source>
         <translation>Design Grün</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1494"/>
+        <location filename="../../main/mainwindow.ui" line="1468"/>
         <source>Ocean</source>
         <translation>Ozean</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1497"/>
+        <location filename="../../main/mainwindow.ui" line="1471"/>
         <source>Theme Ocean</source>
         <translation>Design Ozean</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1502"/>
         <source>Yellow</source>
-        <translation>Gelb</translation>
+        <translation type="vanished">Gelb</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1505"/>
         <source>Theme Yellow</source>
-        <translation>Design Gelb</translation>
+        <translation type="vanished">Design Gelb</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1510"/>
         <source>Zen</source>
-        <translation>Zen</translation>
+        <translation type="vanished">Zen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1513"/>
         <source>Theme Zen</source>
-        <translation>Design Zen</translation>
+        <translation type="vanished">Design Zen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1518"/>
+        <location filename="../../main/mainwindow.ui" line="1492"/>
         <source>Nature</source>
         <translation>Natur</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1521"/>
+        <location filename="../../main/mainwindow.ui" line="1495"/>
         <source>Theme Nature</source>
         <translation>Design Natur</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1526"/>
         <source>Red</source>
-        <translation>Rot</translation>
+        <translation type="vanished">Rot</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1529"/>
         <source>Theme Red</source>
-        <translation>Design Rot</translation>
+        <translation type="vanished">Design Rot</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1537"/>
+        <location filename="../../main/mainwindow.ui" line="1511"/>
         <source>Default</source>
         <translation>Standard</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1540"/>
+        <location filename="../../main/mainwindow.ui" line="1514"/>
         <source>Default menu color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1548"/>
+        <location filename="../../main/mainwindow.ui" line="1522"/>
         <source>Light</source>
         <translation>Hell</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1551"/>
+        <location filename="../../main/mainwindow.ui" line="1525"/>
         <source>Light menu color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1559"/>
+        <location filename="../../main/mainwindow.ui" line="1533"/>
         <source>Dark</source>
         <translation>Dunkel</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1562"/>
+        <location filename="../../main/mainwindow.ui" line="1536"/>
         <source>Dark menu color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1571"/>
+        <location filename="../../main/mainwindow.ui" line="1545"/>
         <source>Playing games</source>
         <translation>aktive Partien</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1574"/>
+        <location filename="../../main/mainwindow.ui" line="1548"/>
         <source>Show all playing games</source>
         <translation>zeige alle aktiven Partien</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1579"/>
+        <location filename="../../main/mainwindow.ui" line="1553"/>
         <source>Tournaments Load/Save</source>
         <translation>Turniere laden/speichern</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1582"/>
+        <location filename="../../main/mainwindow.ui" line="1556"/>
         <source>Load, save, delete tournaments</source>
         <translation>Turniere laden, speichern, löschen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1591"/>
+        <location filename="../../main/mainwindow.ui" line="1565"/>
         <source>Draw</source>
         <translation>Remis</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1594"/>
+        <location filename="../../main/mainwindow.ui" line="1568"/>
         <source>Draw/offer draw</source>
         <translation>Remis/ Remis anbieten</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1603"/>
+        <location filename="../../main/mainwindow.ui" line="1577"/>
         <source>Resign</source>
         <translation>aufgeben</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1606"/>
+        <location filename="../../main/mainwindow.ui" line="1580"/>
         <source>Resign/Abort</source>
         <translation>aufgeben/abbrechen</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.cpp" line="82"/>
+        <location filename="../../main/mainwindow.cpp" line="108"/>
         <source>You dropped a folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.cpp" line="83"/>
+        <location filename="../../main/mainwindow.cpp" line="109"/>
         <source>Do you want to detect all engines in that folder, including sub folder?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.cpp" line="141"/>
-        <location filename="../../main/mainwindow.cpp" line="386"/>
+        <location filename="../../main/mainwindow.cpp" line="167"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.cpp" line="141"/>
+        <location filename="../../main/mainwindow.cpp" line="167"/>
         <source>Dropped file is not recognized. BanksiaGUI accepts engines, images, svg, games (pgn, epd), .bin (Polyglot) or .bgdb</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.cpp" line="261"/>
+        <location filename="../../main/mainwindow.cpp" line="258"/>
         <source>Cannot download PGN from given URL. Please try later!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.cpp" line="308"/>
+        <location filename="../../main/mainwindow.cpp" line="299"/>
         <source>PGN from given URL is downloaded but error!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.cpp" line="368"/>
-        <location filename="../../main/mainwindow.cpp" line="377"/>
+        <location filename="../../main/mainwindow.cpp" line="352"/>
         <source>Cannot show PGN from the given URL. Please try later!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ManuallyAdjudicateDlg</name>
+    <message>
+        <location filename="../../ui/tour/manuallyadjudicatedlg.ui" line="14"/>
+        <source>Manual Adjudication</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/manuallyadjudicatedlg.ui" line="46"/>
+        <source>Adjudicate to result:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/manuallyadjudicatedlg.ui" line="71"/>
+        <source>1-0 (White wins)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/manuallyadjudicatedlg.ui" line="78"/>
+        <source>Draw</source>
+        <translation type="unfinished">Remis</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/manuallyadjudicatedlg.ui" line="88"/>
+        <source>0-1 (Black wins)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/manuallyadjudicatedlg.ui" line="138"/>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/manuallyadjudicatedlg.cpp" line="42"/>
+        <source>Warning: The game is playing. If adjudicate now, it will be terminated immediately.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/manuallyadjudicatedlg.cpp" line="54"/>
+        <source>Warning: The game has not played yet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/manuallyadjudicatedlg.cpp" line="57"/>
+        <source>Info: The game has been played!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5846,112 +6667,212 @@ correspondent board</source>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="82"/>
+        <source>Light marble</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/matselector.ui" line="87"/>
+        <source>Stone</source>
+        <translation type="unfinished">Stein</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/matselector.ui" line="92"/>
         <source>Wood 0</source>
         <translation>Holz 0</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.ui" line="87"/>
+        <location filename="../../ui/settings/matselector.ui" line="97"/>
         <source>Wood 1</source>
         <translation>Holz 1</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.ui" line="92"/>
+        <location filename="../../ui/settings/matselector.ui" line="102"/>
         <source>Wood 2</source>
         <translation>Holz 2</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.ui" line="97"/>
+        <location filename="../../ui/settings/matselector.ui" line="107"/>
+        <source>Pine wood</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/matselector.ui" line="112"/>
         <source>Ocean</source>
         <translation>Ozean</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.ui" line="102"/>
+        <location filename="../../ui/settings/matselector.ui" line="117"/>
         <source>Blue</source>
         <translation>Blau</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.ui" line="107"/>
+        <location filename="../../ui/settings/matselector.ui" line="122"/>
         <source>Water</source>
         <translation>Wasser</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.ui" line="112"/>
+        <location filename="../../ui/settings/matselector.ui" line="127"/>
         <source>Lake</source>
         <translation>See</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.ui" line="134"/>
+        <location filename="../../ui/settings/matselector.ui" line="132"/>
+        <source>Light</source>
+        <translation type="unfinished">Hell</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/matselector.ui" line="137"/>
+        <source>Dark</source>
+        <translation type="unfinished">Dunkel</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/matselector.ui" line="142"/>
+        <source>Light red</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/matselector.ui" line="147"/>
+        <source>Dark red</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/matselector.ui" line="152"/>
+        <source>Light green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/matselector.ui" line="157"/>
+        <source>Dark green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/matselector.ui" line="179"/>
         <source>Click to select</source>
         <translation>klicken zur Auswahl</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.ui" line="159"/>
-        <location filename="../../ui/settings/matselector.ui" line="193"/>
+        <location filename="../../ui/settings/matselector.ui" line="204"/>
+        <location filename="../../ui/settings/matselector.ui" line="238"/>
         <source>Tile</source>
         <translation>kacheln</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.cpp" line="171"/>
+        <location filename="../../ui/settings/matselector.cpp" line="172"/>
         <source>Choose File</source>
         <translation>Datei auswählen</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/matselector.cpp" line="173"/>
         <source>Image Files (*.png *.jpg *.jpeg *.tif *.bmp);; JPEG (*.jpg *.jpeg);; PNG (*.png);; TIFF (*.tif);; All files (*.*)</source>
-        <translation>Bilddateien (*.png *.jpg *.jpeg *.tif *.bmp);; JPEG (*.jpg *.jpeg);; PNG (*.png);; TIFF (*.tif);; alle Dateien (*.*)</translation>
+        <translation type="vanished">Bilddateien (*.png *.jpg *.jpeg *.tif *.bmp);; JPEG (*.jpg *.jpeg);; PNG (*.png);; TIFF (*.tif);; alle Dateien (*.*)</translation>
     </message>
 </context>
 <context>
     <name>Material</name>
     <message>
-        <location filename="../../ui/settings.cpp" line="749"/>
+        <location filename="../../ui/settings.cpp" line="825"/>
         <source>Dark marble</source>
         <translation>Marmor dunkel</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="750"/>
+        <location filename="../../ui/settings.cpp" line="826"/>
         <source>Peach marble</source>
         <translation>Marmor hell</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="751"/>
+        <location filename="../../ui/settings.cpp" line="827"/>
         <source>Bronze marble</source>
         <translation>Marmor bronze</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="752"/>
+        <location filename="../../ui/settings.cpp" line="828"/>
+        <source>light marble</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings.cpp" line="829"/>
+        <source>stone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings.cpp" line="831"/>
         <source>Wood 0</source>
         <translation>Holz 0</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="753"/>
+        <location filename="../../ui/settings.cpp" line="832"/>
         <source>Wood 1</source>
         <translation>Holz 1</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="754"/>
+        <location filename="../../ui/settings.cpp" line="833"/>
         <source>Wood 2</source>
         <translation>Holz 2</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="755"/>
+        <location filename="../../ui/settings.cpp" line="835"/>
+        <source>Pine wood</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings.cpp" line="837"/>
         <source>Ocean</source>
         <translation>Ozean</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="758"/>
+        <location filename="../../ui/settings.cpp" line="840"/>
         <source>Blue</source>
         <translation>Blau</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="759"/>
+        <location filename="../../ui/settings.cpp" line="841"/>
         <source>Water</source>
         <translation>Wasser</translation>
     </message>
     <message>
-        <location filename="../../ui/settings.cpp" line="760"/>
+        <location filename="../../ui/settings.cpp" line="844"/>
+        <location filename="../../ui/settings.cpp" line="846"/>
         <source>Lake</source>
         <translation>See</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings.cpp" line="849"/>
+        <source>Light</source>
+        <translation type="unfinished">Hell</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings.cpp" line="850"/>
+        <source>Dark</source>
+        <translation type="unfinished">Dunkel</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings.cpp" line="852"/>
+        <source>Light Red</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings.cpp" line="853"/>
+        <source>Dark Red</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings.cpp" line="854"/>
+        <source>Light Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings.cpp" line="855"/>
+        <source>Dark Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings.cpp" line="857"/>
+        <source>Metallic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings.cpp" line="858"/>
+        <source>Gold Metal</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6014,20 +6935,33 @@ correspondent board</source>
     <message>
         <location filename="../../ui/dlg/moveevaluationsymboldlg.ui" line="130"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">leeren</translation>
     </message>
 </context>
 <context>
     <name>MoveList</name>
     <message>
-        <location filename="../../ui/comm/movelist.cpp" line="356"/>
+        <location filename="../../ui/comm/movelist.cpp" line="345"/>
         <source>Show comments</source>
         <translation>zeige Kommentare</translation>
     </message>
     <message>
-        <location filename="../../ui/comm/movelist.cpp" line="366"/>
+        <location filename="../../ui/comm/movelist.cpp" line="355"/>
         <source>Show Scores</source>
         <translation>zeige Wertungen</translation>
+    </message>
+</context>
+<context>
+    <name>MultiTimerModel</name>
+    <message>
+        <location filename="../../ui/settings/timecontrolwidget.h" line="42"/>
+        <source>B</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/timecontrolwidget.h" line="42"/>
+        <source>W</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6180,12 +7114,12 @@ correspondent board</source>
         <translation>tippe eine Nachricht, drücke Enter zum Senden</translation>
     </message>
     <message>
-        <location filename="../../ui/net/netwidget.cpp" line="534"/>
+        <location filename="../../ui/net/netwidget.cpp" line="521"/>
         <source>* %1 has joined</source>
         <translation>* %1 ist hinzugekommen</translation>
     </message>
     <message>
-        <location filename="../../ui/net/netwidget.cpp" line="558"/>
+        <location filename="../../ui/net/netwidget.cpp" line="545"/>
         <source>* %1 has left</source>
         <translation>* %1 ist gegangen</translation>
     </message>
@@ -6221,45 +7155,138 @@ correspondent board</source>
 <context>
     <name>OpenURLDlg</name>
     <message>
-        <location filename="../../ui/dlg/openurldlg.ui" line="14"/>
         <source>URL of a PGN game</source>
-        <translation>URL einer PGN Partie</translation>
+        <translation type="vanished">URL einer PGN Partie</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/openurldlg.ui" line="22"/>
         <source>URL:</source>
-        <translation>URL:</translation>
+        <translation type="vanished">URL:</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/openurldlg.ui" line="46"/>
         <source>live PGN, auto update period:</source>
-        <translation>live PGN, Zeitraum automatische Aktualisierung:</translation>
+        <translation type="vanished">live PGN, Zeitraum automatische Aktualisierung:</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/openurldlg.ui" line="59"/>
         <source> s</source>
-        <translation> s</translation>
+        <translation type="vanished"> s</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/openurldlg.ui" line="139"/>
         <source>Stop</source>
-        <translation>Stop</translation>
+        <translation type="vanished">Stop</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/openurldlg.ui" line="155"/>
         <source>Updating a live game...</source>
-        <translation>aktualisiere eine Live Partie...</translation>
+        <translation type="vanished">aktualisiere eine Live Partie...</translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/openurldlg.cpp" line="93"/>
         <source>Error: empty</source>
-        <translation>Fehler: Zeichenfolge ist leer</translation>
+        <translation type="vanished">Fehler: Zeichenfolge ist leer</translation>
+    </message>
+</context>
+<context>
+    <name>OpenUrlGameDlg</name>
+    <message>
+        <location filename="../../ui/dlg/openurlgamedlg.ui" line="14"/>
+        <source>Open PGN games from URLs</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/dlg/openurldlg.cpp" line="94"/>
+        <location filename="../../ui/dlg/openurlgamedlg.ui" line="64"/>
+        <source>URL:</source>
+        <translation type="unfinished">URL:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlgamedlg.ui" line="84"/>
+        <source>start downloading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlgamedlg.ui" line="87"/>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlgamedlg.ui" line="94"/>
+        <source>clear the list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlgamedlg.ui" line="112"/>
+        <source>live PGN, auto update period:</source>
+        <translation type="unfinished">live PGN, Zeitraum automatische Aktualisierung:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlgamedlg.ui" line="125"/>
+        <source> s</source>
+        <translation type="unfinished"> s</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlgamedlg.ui" line="157"/>
+        <source>Always on top</source>
+        <translation type="unfinished">immer im Vordergrund</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlgamedlg.cpp" line="103"/>
         <source>Error: string is not an URL</source>
-        <translatorcomment>Fehler: Zeichenfolge ist keine URL</translatorcomment>
-        <translation></translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlgamedlg.cpp" line="114"/>
+        <source>Remove the URL list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlgamedlg.cpp" line="115"/>
+        <source>Do you want to clean the dropdown list?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlgamedlg.cpp" line="149"/>
+        <source>Error: this url is opening</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenUrlItem</name>
+    <message>
+        <location filename="../../ui/dlg/openurlitem.ui" line="20"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlitem.ui" line="41"/>
+        <source>stop and remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlitem.ui" line="55"/>
+        <source>Updated:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlitem.ui" line="81"/>
+        <source>time left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlitem.ui" line="94"/>
+        <source>update period</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlitem.ui" line="97"/>
+        <source> s</source>
+        <translation type="unfinished"> s</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlitem.ui" line="110"/>
+        <source>download now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/openurlitem.ui" line="116"/>
+        <source>now</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6270,62 +7297,62 @@ correspondent board</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tools/openingviewerwidget.ui" line="49"/>
+        <location filename="../../ui/tools/openingviewerwidget.ui" line="53"/>
         <source>Opening file:</source>
         <translation>Eröffnungsbuch Datei:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/openingviewerwidget.ui" line="70"/>
+        <location filename="../../ui/tools/openingviewerwidget.ui" line="74"/>
         <source>Sides:</source>
         <translation>Seiten:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/openingviewerwidget.ui" line="77"/>
+        <location filename="../../ui/tools/openingviewerwidget.ui" line="81"/>
         <source>White</source>
         <translation>Weiß</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/openingviewerwidget.ui" line="84"/>
+        <location filename="../../ui/tools/openingviewerwidget.ui" line="88"/>
         <source>Black</source>
         <translation>Schwarz</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/openingviewerwidget.ui" line="91"/>
+        <location filename="../../ui/tools/openingviewerwidget.ui" line="95"/>
         <source>Always on top</source>
         <translation>immer im Vordergrund</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/openingviewerwidget.ui" line="113"/>
+        <location filename="../../ui/tools/openingviewerwidget.ui" line="117"/>
         <source>Opening tree:</source>
         <translation>Eröffnungsbaum:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/openingviewerwidget.ui" line="205"/>
+        <location filename="../../ui/tools/openingviewerwidget.ui" line="209"/>
         <source>TextLabel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tools/openingviewerwidget.ui" line="216"/>
+        <location filename="../../ui/tools/openingviewerwidget.ui" line="220"/>
         <source>Collapse all</source>
         <translation>alle einklappen</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/openingviewerwidget.ui" line="225"/>
+        <location filename="../../ui/tools/openingviewerwidget.ui" line="229"/>
         <source>Open line which matched with current game</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tools/openingviewerwidget.ui" line="228"/>
+        <location filename="../../ui/tools/openingviewerwidget.ui" line="232"/>
         <source>Synch game</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tools/openingviewerwidget.cpp" line="145"/>
+        <location filename="../../ui/tools/openingviewerwidget.cpp" line="167"/>
         <source>Book error or wrong format (Polyglot only)</source>
         <translation>Buch Fehler oder falsches Format (nur Polyglot)</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/openingviewerwidget.cpp" line="166"/>
+        <location filename="../../ui/tools/openingviewerwidget.cpp" line="188"/>
         <source>%1, #positions: %2</source>
         <translation>%1, #Positionen: %2</translation>
     </message>
@@ -6333,12 +7360,12 @@ correspondent board</source>
 <context>
     <name>PathEditWidget</name>
     <message>
-        <location filename="../../ui/patheditwidget.ui" line="77"/>
+        <location filename="../../ui/patheditwidget.ui" line="81"/>
         <source>View, edit the file</source>
         <translation>Datei anzeigen, bearbeiten</translation>
     </message>
     <message>
-        <location filename="../../ui/patheditwidget.ui" line="91"/>
+        <location filename="../../ui/patheditwidget.ui" line="95"/>
         <source>Delete file</source>
         <translation>Datei löschen</translation>
     </message>
@@ -6381,7 +7408,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/dev/perftwidget.ui" line="25"/>
         <source>This function is to run frequently engines with parameters such as taking benchmarks or for any purposes. Double click on parameters column and edit to change permanently, edit command line (Cmd) to change temporarily.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diese Funktion dient dazu, häufig Engines mit Parametern wie Benchmarks oder für andere Zwecke auszuführen. Doppelklicken Sie auf die Parameterspalte und bearbeiten Sie sie, um sie dauerhaft zu ändern. Bearbeiten Sie die Befehlszeile (Kommando), um sie vorübergehend zu ändern.</translation>
     </message>
     <message>
         <location filename="../../ui/dev/perftwidget.ui" line="40"/>
@@ -6569,6 +7596,29 @@ correspondent board</source>
     </message>
 </context>
 <context>
+    <name>PlayerLogoWidget</name>
+    <message>
+        <location filename="../../ui/settings/playerlogowidget.ui" line="26"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/playerlogowidget.ui" line="52"/>
+        <source>Logo:</source>
+        <translation type="unfinished">Logo:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/playerlogowidget.ui" line="75"/>
+        <source>Country:</source>
+        <translation type="unfinished">Land:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/playerlogowidget.ui" line="92"/>
+        <source>Name:</source>
+        <translation type="unfinished">Name:</translation>
+    </message>
+</context>
+<context>
     <name>PlayerSelectionWidget</name>
     <message>
         <location filename="../../ui/settings/playerselectionwidget.ui" line="20"/>
@@ -6577,7 +7627,7 @@ correspondent board</source>
     </message>
     <message>
         <location filename="../../ui/settings/playerselectionwidget.ui" line="55"/>
-        <location filename="../../ui/settings/playerselectionwidget.cpp" line="154"/>
+        <location filename="../../ui/settings/playerselectionwidget.cpp" line="176"/>
         <source>White:</source>
         <translation>Weiß:</translation>
     </message>
@@ -6632,14 +7682,37 @@ correspondent board</source>
         <translation>Land:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/playerselectionwidget.cpp" line="126"/>
+        <location filename="../../ui/settings/playerselectionwidget.ui" line="193"/>
+        <source>Logo:</source>
+        <translation type="unfinished">Logo:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/playerselectionwidget.cpp" line="142"/>
         <source>&lt;Human&gt;</source>
         <translation>&lt;Spieler&gt;</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/playerselectionwidget.cpp" line="154"/>
+        <location filename="../../ui/settings/playerselectionwidget.cpp" line="176"/>
         <source>Black:</source>
         <translation>Schwarz:</translation>
+    </message>
+</context>
+<context>
+    <name>PvWidget</name>
+    <message>
+        <location filename="../../ui/dlg/pvwidget.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/pvwidget.ui" line="59"/>
+        <source>white</source>
+        <translation type="unfinished">Weiß</translation>
+    </message>
+    <message>
+        <location filename="../../ui/dlg/pvwidget.ui" line="95"/>
+        <source>black</source>
+        <translation type="unfinished">Schwarz</translation>
     </message>
 </context>
 <context>
@@ -6728,19 +7801,24 @@ correspondent board</source>
 <context>
     <name>Scene</name>
     <message>
-        <location filename="../../graphics/scene.cpp" line="169"/>
+        <location filename="../../graphics/scene.cpp" line="153"/>
         <source>Congraturation</source>
         <translation>Glückwunsch</translation>
     </message>
     <message>
-        <location filename="../../graphics/scene.cpp" line="169"/>
+        <location filename="../../graphics/scene.cpp" line="153"/>
         <source>The engine has resigned!</source>
         <translation>Die Engine hat aufgegeben!</translation>
     </message>
     <message>
-        <location filename="../../graphics/scene.cpp" line="219"/>
+        <location filename="../../graphics/scene.cpp" line="220"/>
         <source>Analysing... %1 of %2</source>
         <translation>Analysiere... %1 von %2</translation>
+    </message>
+    <message>
+        <location filename="../../graphics/scene.cpp" line="226"/>
+        <source>Analysing on fly...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6844,6 +7922,293 @@ Are you sure?</source>
     </message>
 </context>
 <context>
+    <name>SetupClockMoveWidget</name>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="20"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="47"/>
+        <source>General:</source>
+        <translation type="unfinished">Allgemein:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="86"/>
+        <source>score in white&apos;s perspective</source>
+        <translation type="unfinished">Bewertung aus der Perspektive von Weiß</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="89"/>
+        <source>Score in white view</source>
+        <translation type="unfinished">Bewertung aus der Sicht von Weiß</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="625"/>
+        <source>Graph line color for White side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="656"/>
+        <source>Graph line color for Black side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="98"/>
+        <source>Pawn unit</source>
+        <translation type="unfinished">Bauerneinheit</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="105"/>
+        <source>Centipawn</source>
+        <translation type="unfinished">Centipawn</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="120"/>
+        <source>Thinking arrows</source>
+        <translation type="unfinished">Pfeile für Denkvorgang</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="133"/>
+        <source>Legal moves</source>
+        <translation type="unfinished">erlaubte Züge</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="146"/>
+        <source>Move animation</source>
+        <translation type="unfinished">Züge animieren</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="159"/>
+        <source>Move highlight</source>
+        <translation type="unfinished">Züge hervorheben</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="171"/>
+        <source>Gradient</source>
+        <translation type="unfinished">Gradient</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="190"/>
+        <source>Main color</source>
+        <translation type="unfinished">Hauptfarbe</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="215"/>
+        <source>Border color</source>
+        <translation type="unfinished">Randfarbe</translation>
+    </message>
+    <message>
+        <source>Move list:</source>
+        <translation type="obsolete">Zugliste:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="254"/>
+        <source>Move list/PGN:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="299"/>
+        <source>Notation:</source>
+        <translation type="unfinished">Notation:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="330"/>
+        <source>Standard Algebraic</source>
+        <translation type="unfinished">Standard algebraisch</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="335"/>
+        <source>Coordinate</source>
+        <translation type="unfinished">Koordinate</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="340"/>
+        <source>Traditional</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="345"/>
+        <source>Traditional in Chinese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="350"/>
+        <source>Traditional in Vietnamese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="355"/>
+        <source>Traditional in Vietnamese words</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="363"/>
+        <source>Font size:</source>
+        <translation type="unfinished">Fontgröße:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="382"/>
+        <source>Move list font size, 0 for detault</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="413"/>
+        <source>Show:</source>
+        <translation type="unfinished">zeige:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="422"/>
+        <source>comments</source>
+        <translation type="unfinished">Kommentare</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="429"/>
+        <source>score/depth time, wdl...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="432"/>
+        <source>stats</source>
+        <translation type="unfinished">Statistiken</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="445"/>
+        <source>Each move per line</source>
+        <translation type="unfinished">eine Zeile pro Zug</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="472"/>
+        <source>Auto play move period:</source>
+        <translation type="unfinished">Dauer automatische Zugwiedergabe:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="485"/>
+        <source> s</source>
+        <translation type="unfinished"> s</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="521"/>
+        <source>Graph:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="545"/>
+        <source>Text color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="587"/>
+        <source>Line colors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="595"/>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="600"/>
+        <source>White/Black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="605"/>
+        <source>Engine colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="671"/>
+        <source>Win percentage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="686"/>
+        <source>Background color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="726"/>
+        <source>Stats/Engine Info:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="774"/>
+        <source>Move stats bubbles</source>
+        <translation type="unfinished">Zugstatistik Bubbles</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="793"/>
+        <source>Click to pickup color</source>
+        <translation type="unfinished">klicken zur Farbauswahl</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="806"/>
+        <source>Bubble size</source>
+        <translation type="unfinished">Bubble Größe</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="810"/>
+        <source>Small</source>
+        <translation type="unfinished">klein</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="815"/>
+        <source>Medium</source>
+        <translation type="unfinished">mittel</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="820"/>
+        <source>Large</source>
+        <translation type="unfinished">groß</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="828"/>
+        <source>main:</source>
+        <translation type="unfinished">Hauptparameter:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="848"/>
+        <source>2nd:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="900"/>
+        <source>WDL chart:</source>
+        <translation type="unfinished">WDL Diagramm:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="920"/>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="925"/>
+        <source>Stacked area</source>
+        <translation type="unfinished">gestapelter Bereich</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="930"/>
+        <source>Stacked bar</source>
+        <translation type="unfinished">gestapelter Balken</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="1010"/>
+        <source>Custom arrows</source>
+        <translation type="unfinished">eigene Pfeile</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="1059"/>
+        <source>Engine Info font size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupclockmove.ui" line="1066"/>
+        <source>Eval font size, 0 for default size</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>SetupDialog</name>
     <message>
         <location filename="../../ui/settings/setupdialog.ui" line="20"/>
@@ -6856,17 +8221,22 @@ Are you sure?</source>
         <translation>Allgemein</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupdialog.ui" line="66"/>
+        <location filename="../../ui/settings/setupdialog.ui" line="60"/>
+        <source>Move/Stats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupdialog.ui" line="71"/>
         <source>Graphics</source>
         <translation>Design</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupdialog.ui" line="71"/>
+        <location filename="../../ui/settings/setupdialog.ui" line="76"/>
         <source>Engines</source>
         <translation>Engines</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupdialog.ui" line="76"/>
+        <location filename="../../ui/settings/setupdialog.ui" line="81"/>
         <source>Book/Egtb</source>
         <translation>Bücher/EGTB</translation>
     </message>
@@ -6977,389 +8347,366 @@ Are you sure?</source>
         <translation>Allgemein:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="100"/>
         <source>Legal moves</source>
-        <translation>erlaubte Züge</translation>
+        <translation type="vanished">erlaubte Züge</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="274"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="115"/>
         <source>Sound</source>
         <translation>Sound</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="80"/>
         <source>Move animation</source>
-        <translation>Züge animieren</translation>
+        <translation type="vanished">Züge animieren</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="318"/>
         <source>Thinking arrows</source>
-        <translation>Pfeile für Denkvorgang</translation>
+        <translation type="vanished">Pfeile für Denkvorgang</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="188"/>
         <source>Gradient</source>
-        <translation>Gradient</translation>
+        <translation type="vanished">Gradient</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="207"/>
         <source>Main color</source>
-        <translation>Hauptfarbe</translation>
+        <translation type="vanished">Hauptfarbe</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="232"/>
         <source>Border color</source>
-        <translation>Randfarbe</translation>
+        <translation type="vanished">Randfarbe</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="253"/>
         <source>Move highlight</source>
-        <translation>Züge hervorheben</translation>
+        <translation type="vanished">Züge hervorheben</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="161"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="137"/>
         <source>Score indicator</source>
         <translation>Wertungsindikator</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="296"/>
         <source>Pawn unit</source>
-        <translation>Bauerneinheit</translation>
+        <translation type="vanished">Bauerneinheit</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="303"/>
         <source>Centipawn</source>
-        <translation>Centipawn</translation>
+        <translation type="vanished">Centipawn</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="87"/>
         <source>Graph logarithmic scaling</source>
-        <translation>Diagramm logarithmische Skalierung</translation>
+        <translation type="vanished">Diagramm logarithmische Skalierung</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="115"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="161"/>
         <source>Toolbar:</source>
         <translation>Symbolleiste:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="129"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="175"/>
         <source>Default</source>
         <translation>Standard</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="134"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="180"/>
         <source>Transparent</source>
         <translation>transparent</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="139"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="185"/>
         <source>White</source>
         <translation>weiß</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="144"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="190"/>
         <source>Black</source>
         <translation>schwarz</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="149"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="195"/>
         <source>LightGray</source>
         <translation>hellgrau</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="168"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="144"/>
         <source>Score indicator range [-r, r], pawn unit</source>
         <translation>Wertungsindikator Bereich [-r, r], Bauerneinheit</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="325"/>
         <source>score in white&apos;s perspective</source>
-        <translation>Bewertung aus der Perspektive von Weiß</translation>
+        <translation type="vanished">Bewertung aus der Perspektive von Weiß</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="328"/>
         <source>Score in white view</source>
-        <translation>Bewertung aus der Sicht von Weiß</translation>
+        <translation type="vanished">Bewertung aus der Sicht von Weiß</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="359"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="94"/>
+        <source>Two PV boards</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgeneral.ui" line="229"/>
         <source>Clock:</source>
         <translation>Uhr:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="404"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="274"/>
         <source>Clock at:</source>
         <translation>Uhr anzeigen:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="429"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="299"/>
         <source>Above board</source>
         <translation>über dem Board</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="434"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="304"/>
         <source>Under board</source>
         <translation>unter dem Board</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="439"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="309"/>
         <source>A dock panel</source>
         <translation>im Dock Panel</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="447"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="317"/>
         <source>One line</source>
         <translation>eine Zeile</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="454"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="324"/>
         <source>Border</source>
         <translation>Rahmen</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="476"/>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1015"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="346"/>
         <source>Font size:</source>
         <translation>Fontgröße:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="500"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="370"/>
         <source>Normal font size</source>
         <translation>normale Fontgröße</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="522"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="392"/>
         <source>Font size for digit in 2 lines mode</source>
         <translation>Schriftgröße für Ziffer im 2-Zeilen-Modus</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="544"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="414"/>
         <source>Elo</source>
         <translation>Elo</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="566"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="436"/>
         <source>Text colors:</source>
         <translation>Textfarben:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="590"/>
-        <location filename="../../ui/settings/setupgeneral.ui" line="672"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="460"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="542"/>
         <source>Name color</source>
         <translation>Farbe für Namen</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="615"/>
-        <location filename="../../ui/settings/setupgeneral.ui" line="697"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="485"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="567"/>
         <source>Digit color</source>
         <translation>Farbe für Ziffern</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="640"/>
-        <location filename="../../ui/settings/setupgeneral.ui" line="722"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="510"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="592"/>
         <source>Background color</source>
         <translation>Hintergrundfarbe</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="653"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="523"/>
         <source>Highlight:</source>
         <translation>hervorheben:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="750"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="620"/>
         <source>Logo:</source>
         <translation>Logo:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="787"/>
-        <location filename="../../ui/settings/setupgeneral.ui" line="851"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="657"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="721"/>
         <source>width</source>
         <translation>breit</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="806"/>
-        <location filename="../../ui/settings/setupgeneral.ui" line="870"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="676"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="740"/>
         <source>height</source>
         <translation>hoch</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="819"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="689"/>
         <source>Flag:</source>
         <translation>Flagge:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="909"/>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1062"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="881"/>
+        <source>Info/Errors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgeneral.ui" line="903"/>
+        <source>Computing info:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgeneral.ui" line="918"/>
+        <source>Standard format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgeneral.ui" line="923"/>
+        <source>TCEC format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgeneral.ui" line="939"/>
+        <source>(stored as comments)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Move list:</source>
-        <translation>Zugliste:</translation>
+        <translation type="vanished">Zugliste:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="951"/>
         <source>Notation:</source>
-        <translation>Notation:</translation>
+        <translation type="vanished">Notation:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="982"/>
         <source>Standard Algebraic</source>
-        <translation>Standard algebraisch</translation>
+        <translation type="vanished">Standard algebraisch</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="987"/>
         <source>Coordinate</source>
-        <translation>Koordinate</translation>
+        <translation type="vanished">Koordinate</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="992"/>
-        <source>Traditional</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="997"/>
-        <source>Traditional in Chinese</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1002"/>
-        <source>Traditional in Vietnamese</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1007"/>
-        <source>Traditional in Vietnamese words</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1071"/>
         <source>comments</source>
-        <translation>Kommentare</translation>
+        <translation type="vanished">Kommentare</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1078"/>
-        <source>score/depth time, wdl...</source>
+        <source>stats</source>
+        <translation type="vanished">Statistiken</translation>
+    </message>
+    <message>
+        <source>Each move per line</source>
+        <translation type="vanished">eine Zeile pro Zug</translation>
+    </message>
+    <message>
+        <source>Auto play move period:</source>
+        <translation type="vanished">Dauer automatische Zugwiedergabe:</translation>
+    </message>
+    <message>
+        <source> s</source>
+        <translation type="vanished"> s</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgeneral.ui" line="779"/>
+        <source>Stats/Engine Info:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1081"/>
-        <source>stats</source>
-        <translation>Statistiken</translation>
+        <location filename="../../ui/settings/setupgeneral.ui" line="830"/>
+        <source>Configuration files:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1094"/>
-        <source>Each move per line</source>
-        <translation>eine Zeile pro Zug</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1121"/>
-        <source>Auto play move period:</source>
-        <translation>Dauer automatische Zugwiedergabe:</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1134"/>
-        <source> s</source>
-        <translation> s</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1176"/>
         <source>Stats:</source>
-        <translation>Statistiken:</translation>
+        <translation type="vanished">Statistiken:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1224"/>
         <source>Move stats bubbles</source>
-        <translation>Zugstatistik Bubbles</translation>
+        <translation type="vanished">Zugstatistik Bubbles</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1243"/>
         <source>Click to pickup color</source>
-        <translation>klicken zur Farbauswahl</translation>
+        <translation type="vanished">klicken zur Farbauswahl</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1256"/>
         <source>Bubble size</source>
-        <translation>Bubble Größe</translation>
+        <translation type="vanished">Bubble Größe</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1260"/>
         <source>Small</source>
-        <translation>klein</translation>
+        <translation type="vanished">klein</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1265"/>
         <source>Medium</source>
-        <translation>mittel</translation>
+        <translation type="vanished">mittel</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1270"/>
         <source>Large</source>
-        <translation>groß</translation>
+        <translation type="vanished">groß</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1278"/>
         <source>main:</source>
-        <translation>Hauptparameter:</translation>
+        <translation type="vanished">Hauptparameter:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1298"/>
         <source>second:</source>
-        <translation>zweiter Parameter:</translation>
+        <translation type="vanished">zweiter Parameter:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1474"/>
         <source>Custom arrows</source>
-        <translation>eigene Pfeile</translation>
+        <translation type="vanished">eigene Pfeile</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1344"/>
         <source>WDL chart:</source>
-        <translation>WDL Diagramm:</translation>
+        <translation type="vanished">WDL Diagramm:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1364"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="913"/>
         <source>None</source>
         <translation type="unfinished">nichts</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1369"/>
         <source>Stacked area</source>
-        <translation>gestapelter Bereich</translation>
+        <translation type="vanished">gestapelter Bereich</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1374"/>
         <source>Stacked bar</source>
-        <translation>gestapelter Balken</translation>
+        <translation type="vanished">gestapelter Balken</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1545"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="810"/>
         <source>Online game log:</source>
         <translation>Online Partie Log:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1558"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="823"/>
         <source>To save games from ICS, Lichess...</source>
         <translation type="unfinished">Speichern von Partien von ICS, Lichess...</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1572"/>
         <source>Confiuration files:</source>
-        <translation>Konfigurationsdateien:</translation>
+        <translation type="vanished">Konfigurationsdateien:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1587"/>
+        <location filename="../../ui/settings/setupgeneral.ui" line="851"/>
         <source>View/Edit/Delete</source>
         <translation>zeigen/ändern/löschen</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="1565"/>
         <source>Store computing info as comments</source>
-        <translation>speichere berechnete Informationen als Kommentare</translation>
+        <translation type="vanished">speichere berechnete Informationen als Kommentare</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneralwidget.cpp" line="416"/>
+        <location filename="../../ui/settings/setupgeneralwidget.cpp" line="231"/>
         <source>Select a PGN file or enter a new name</source>
         <translation>wähle eine PGN Datei oder gib einen neuen Namen ein</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupgeneralwidget.cpp" line="417"/>
+        <location filename="../../ui/settings/setupgeneralwidget.cpp" line="232"/>
         <source>PGN (*.pgn);;All Files (*.*)</source>
         <translation>PGN (*.pgn);;alle Dateien (*.*)</translation>
     </message>
@@ -7802,6 +9149,29 @@ Are you sure?</source>
     </message>
 </context>
 <context>
+    <name>SetupLogoDlg</name>
+    <message>
+        <location filename="../../ui/settings/setuplogodlg.ui" line="14"/>
+        <source>Setup logos and countries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setuplogodlg.ui" line="26"/>
+        <source>Human (if missing name, logo, country):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setuplogodlg.ui" line="49"/>
+        <source>Engines (if missing logo, country):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setuplogodlg.ui" line="72"/>
+        <source>Remote engines:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>SetupOpeningWidget</name>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="20"/>
@@ -7850,7 +9220,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="175"/>
         <source>Seed:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seed:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="200"/>
@@ -7903,23 +9273,23 @@ Are you sure?</source>
         <translation>Doppelklick zum ändern, drag &amp; drop zum neu ordnen</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupopeningwidget.cpp" line="92"/>
-        <location filename="../../ui/settings/setupopeningwidget.cpp" line="103"/>
+        <location filename="../../ui/settings/setupopeningwidget.cpp" line="95"/>
+        <location filename="../../ui/settings/setupopeningwidget.cpp" line="109"/>
         <source>Cannot add book</source>
         <translation>kann Buch nicht hinzufügen</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupopeningwidget.cpp" line="93"/>
+        <location filename="../../ui/settings/setupopeningwidget.cpp" line="96"/>
         <source>Book may be existant already or broken!</source>
         <translation>Buch kann bereits vorhanden oder defekt sein!</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupopeningwidget.cpp" line="103"/>
+        <location filename="../../ui/settings/setupopeningwidget.cpp" line="109"/>
         <source>Book may be existant already!</source>
         <translation>Buch kann bereits vorhanden sein!</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/setupopeningwidget.cpp" line="191"/>
+        <location filename="../../ui/settings/setupopeningwidget.cpp" line="196"/>
         <source>Multi folders, separated by %1</source>
         <translation>mehrere Verzeichnisse getrennt durch %1</translation>
     </message>
@@ -7927,17 +9297,17 @@ Are you sure?</source>
 <context>
     <name>Shutdown</name>
     <message>
-        <location filename="../../main/basewindow.cpp" line="2301"/>
+        <location filename="../../main/basewindow.cpp" line="2525"/>
         <source>Shutting down computer...</source>
         <translation>Computer herunterfahren...</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="2302"/>
+        <location filename="../../main/basewindow.cpp" line="2526"/>
         <source>%1 seconds to go...</source>
         <translation>%1 noch Sekunden ...</translation>
     </message>
     <message>
-        <location filename="../../main/basewindow.cpp" line="2312"/>
+        <location filename="../../main/basewindow.cpp" line="2536"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
@@ -8082,22 +9452,27 @@ Are you sure?</source>
         <translation type="obsolete">gesamt Endspiele: %1 (%2 Datei%3), men: %4&lt;br/&gt;fehlend: %5 Datei%6</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/syzygyinfodlg.cpp" line="183"/>
+        <location filename="../../ui/settings/syzygyinfodlg.cpp" line="267"/>
         <source>Total endgames: %1 (%2 file%3), men: %4&lt;br/&gt;Missing: %5 file%6</source>
         <translation>gesamt Endspiele: %1 (%2 Datei%3), men: %4&lt;br/&gt;fehlend: %5 Datei%6</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/syzygyinfodlg.cpp" line="192"/>
+        <location filename="../../ui/settings/syzygyinfodlg.cpp" line="276"/>
         <source>&lt;br/&gt;Checksum: failed %1/%2</source>
         <translation>&lt;br/&gt;Checksummme: fehlgeschlagen %1/%2</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/syzygyinfodlg.cpp" line="205"/>
+        <location filename="../../ui/settings/syzygyinfodlg.cpp" line="283"/>
+        <source>&lt;br/&gt;Checking: %1, %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/syzygyinfodlg.cpp" line="295"/>
         <source>Stop</source>
         <translation>Stop</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/syzygyinfodlg.cpp" line="205"/>
+        <location filename="../../ui/settings/syzygyinfodlg.cpp" line="295"/>
         <source>Start</source>
         <translation>Start</translation>
     </message>
@@ -8146,98 +9521,132 @@ Are you sure?</source>
         <translation>Zeitkontrolle:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="69"/>
         <source>Multi timers</source>
-        <translation>Multi Timer</translation>
+        <translation type="vanished">Multi Timer</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="148"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="226"/>
         <source>Infinite</source>
         <translation>unendlich</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="153"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="201"/>
         <source>Depth</source>
         <translation>Tiefe</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="158"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="56"/>
+        <source>normal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="63"/>
+        <source>multi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="70"/>
+        <source>armageddon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="170"/>
+        <source>Result:</source>
+        <translation type="unfinished">Ergebnis:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="178"/>
+        <source>No-special</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="183"/>
+        <source>White must win</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="188"/>
+        <source>Black must win</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="206"/>
         <source>Nodes</source>
         <translation>Knoten</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="163"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="211"/>
         <source>Move time</source>
         <translation>Zugzeit</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="168"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="216"/>
         <source>Standard</source>
         <translation>Standard</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="173"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="221"/>
         <source>All moves</source>
         <translation>alle Züge</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="186"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="239"/>
         <source>Depth:</source>
         <translation>Tiefe:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="193"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="246"/>
         <source>Nodes:</source>
         <translation>Knoten:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="223"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="276"/>
         <source>Time:</source>
         <translation>Zeit:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="265"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="318"/>
         <source>Millisecond</source>
         <translation>Millisekunde(n)</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="270"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="323"/>
         <source>Second</source>
         <translation>Sekunde(n)</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="275"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="328"/>
         <source>Minute</source>
         <translation>Minute(n)</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="280"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="333"/>
         <source>Hour</source>
         <translation>Stunde(n)</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="295"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="348"/>
         <source>For moves:</source>
         <translation>für Züge:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="322"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="375"/>
         <source>Increment:</source>
         <translation>Inkrement:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="335"/>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="365"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="388"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="418"/>
         <source> sec</source>
         <translation> s</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="352"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="405"/>
         <source>Margin per move:</source>
         <translation>Zugabe pro Zug:</translation>
     </message>
     <message>
-        <location filename="../../ui/settings/timecontrolwidget.ui" line="415"/>
+        <location filename="../../ui/settings/timecontrolwidget.ui" line="468"/>
         <source>Warning: Winboard engines don&apos;t support Nodes mode</source>
         <translation>Warnung: Winboard Engines unterstützen den Nodes Modus nicht</translation>
     </message>
@@ -8415,27 +9824,37 @@ Are you sure?</source>
 <context>
     <name>TourCrossTableModel</name>
     <message>
-        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="131"/>
+        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="172"/>
         <source>name</source>
         <translation>Name</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="133"/>
+        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="174"/>
         <source>elo</source>
         <translation>Elo</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="135"/>
+        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="176"/>
+        <source>+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="178"/>
+        <source>-</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="180"/>
         <source>score%</source>
         <translation>Wertung%</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="135"/>
+        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="180"/>
         <source>score</source>
         <translation>Wertung</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="137"/>
+        <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="182"/>
         <source>games</source>
         <translation>Partien</translation>
     </message>
@@ -8443,27 +9862,27 @@ Are you sure?</source>
 <context>
     <name>TourEngineModel</name>
     <message>
-        <location filename="../../ui/tour/tourenginemodel.cpp" line="172"/>
+        <location filename="../../ui/tour/tourenginemodel.cpp" line="199"/>
         <source>Name</source>
         <translation>Name</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourenginemodel.cpp" line="174"/>
+        <location filename="../../ui/tour/tourenginemodel.cpp" line="201"/>
         <source>Elo</source>
         <translation>Elo</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourenginemodel.cpp" line="176"/>
+        <location filename="../../ui/tour/tourenginemodel.cpp" line="203"/>
         <source>G</source>
         <translation>G</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourenginemodel.cpp" line="178"/>
+        <location filename="../../ui/tour/tourenginemodel.cpp" line="205"/>
         <source>Time Id</source>
         <translation>Time Id</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourenginemodel.cpp" line="180"/>
+        <location filename="../../ui/tour/tourenginemodel.cpp" line="207"/>
         <source>Locked</source>
         <translation>gesperrt</translation>
     </message>
@@ -8476,9 +9895,13 @@ Are you sure?</source>
         <translation>Turnier Logs</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourlogdlg.ui" line="35"/>
         <source>Delete all</source>
-        <translation>alle löschen</translation>
+        <translation type="vanished">alle löschen</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourlogdlg.ui" line="35"/>
+        <source>Delete all but game database</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourlogdlg.ui" line="65"/>
@@ -8496,27 +9919,36 @@ Are you sure?</source>
         <translation>Ergebnisse:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourlogdlg.ui" line="112"/>
+        <location filename="../../ui/tour/tourlogdlg.ui" line="95"/>
+        <source>Game to database:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourlogdlg.ui" line="122"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourlogdlg.cpp" line="73"/>
         <source>%1 log files will be deleted</source>
-        <translation>%1 Log Dateien werden gelöscht</translation>
+        <translation type="vanished">%1 Log Dateien werden gelöscht</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourlogdlg.cpp" line="74"/>
         <source>Are you sure?</source>
-        <translation>Sind Sie sicher?</translation>
+        <translation type="vanished">Sind Sie sicher?</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourlogdlg.cpp" line="84"/>
+        <location filename="../../ui/tour/tourlogdlg.cpp" line="78"/>
+        <source>%1 log files will be deleted!
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourlogdlg.cpp" line="88"/>
         <source>No Existent</source>
         <translation>nicht vorhanden</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourlogdlg.cpp" line="84"/>
+        <location filename="../../ui/tour/tourlogdlg.cpp" line="88"/>
         <source>All log files are not existent</source>
         <translation>alle Log Dateien sind nicht vorhanden</translation>
     </message>
@@ -8537,67 +9969,71 @@ Are you sure?</source>
 <context>
     <name>TourResultTableModel</name>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="112"/>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="136"/>
         <source>name</source>
         <translation>Name</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="114"/>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="138"/>
         <source>games</source>
         <translation>Partien</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="116"/>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="140"/>
         <source>wins%</source>
         <translation>Siege%</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="116"/>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="140"/>
         <source>wins</source>
         <translation>Siege</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="118"/>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="142"/>
         <source>draws%</source>
         <translation>Remis%</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="118"/>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="142"/>
         <source>draws</source>
         <translation>Remis</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="120"/>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="144"/>
         <source>losses%</source>
         <translation>Niederlagen%</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="120"/>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="144"/>
         <source>losses</source>
         <translation>Niederlagen</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="123"/>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="147"/>
         <source>score%</source>
         <translation>Wertung%</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="123"/>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="147"/>
         <source>score</source>
         <translation>Wertung</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="125"/>
-        <source>los%</source>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="155"/>
+        <source>+</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="127"/>
-        <source>elo+/-</source>
-        <translation>Elo+/-</translation>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="157"/>
+        <source>-</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="129"/>
+        <source>elo+/-</source>
+        <translation type="vanished">Elo+/-</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="153"/>
         <source>elo</source>
         <translation>Elo</translation>
     </message>
@@ -8610,62 +10046,100 @@ Are you sure?</source>
         <translation>Turnier Ergebnis</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.ui" line="43"/>
         <source>Use percentage for:</source>
-        <translation>nutze Prozentsatz für:</translation>
+        <translation type="vanished">nutze Prozentsatz für:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.ui" line="50"/>
         <source>WDL</source>
-        <translation>WDL</translation>
+        <translation type="vanished">WDL</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.ui" line="57"/>
         <source>scores</source>
-        <translation>Wertungen</translation>
+        <translation type="vanished">Wertungen</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.ui" line="77"/>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="64"/>
+        <source>Score:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="71"/>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="161"/>
+        <source>point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="78"/>
+        <source>% performance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="109"/>
+        <source>WDL:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="116"/>
+        <source>number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="123"/>
+        <source>%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="154"/>
+        <source>Crosstable:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="168"/>
+        <source>details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="191"/>
         <source>copy text</source>
         <translation>Text kopieren</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.ui" line="114"/>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="228"/>
         <source>Result</source>
         <translation>Ergebnis</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.ui" line="143"/>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="257"/>
         <source>Cross</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.ui" line="172"/>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="286"/>
         <source>Tech</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.ui" line="201"/>
+        <location filename="../../ui/tour/tourresultwidget.ui" line="315"/>
         <source>Plain text</source>
         <translation>Text</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.cpp" line="86"/>
+        <location filename="../../ui/tour/tourresultwidget.cpp" line="105"/>
         <source>Stats based on computing moves only, ignored moves with zero node</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.cpp" line="264"/>
+        <location filename="../../ui/tour/tourresultwidget.cpp" line="321"/>
         <source>No tournament</source>
         <translation>kein Turnier</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.cpp" line="273"/>
+        <location filename="../../ui/tour/tourresultwidget.cpp" line="330"/>
         <source>#games: %1/%2</source>
         <translation>#Partien: %1/%2</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresultwidget.cpp" line="275"/>
+        <location filename="../../ui/tour/tourresultwidget.cpp" line="332"/>
         <source>, #fails: %1</source>
         <translation>, #Fehlschläge: %1</translation>
     </message>
@@ -8673,12 +10147,12 @@ Are you sure?</source>
 <context>
     <name>TourTableDelegate</name>
     <message>
-        <location filename="../../ui/tour/tourtablemodel.cpp" line="28"/>
+        <location filename="../../ui/tour/tourtablemodel.cpp" line="33"/>
         <source>playing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourtablemodel.cpp" line="31"/>
+        <location filename="../../ui/tour/tourtablemodel.cpp" line="36"/>
         <source>error</source>
         <translation>Fehler</translation>
     </message>
@@ -8686,12 +10160,12 @@ Are you sure?</source>
 <context>
     <name>TourTableModel</name>
     <message>
-        <location filename="../../ui/tour/tourtablemodel.cpp" line="144"/>
+        <location filename="../../ui/tour/tourtablemodel.cpp" line="178"/>
         <source>players</source>
         <translation>Spieler</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourtablemodel.cpp" line="146"/>
+        <location filename="../../ui/tour/tourtablemodel.cpp" line="180"/>
         <source>status</source>
         <translation>Status</translation>
     </message>
@@ -8699,42 +10173,42 @@ Are you sure?</source>
 <context>
     <name>TourTechResultTableModel</name>
     <message>
-        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="100"/>
+        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="99"/>
         <source>name</source>
         <translation>Name</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="102"/>
+        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="101"/>
         <source>KN/move</source>
         <translation>KN/Zug</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="104"/>
+        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="103"/>
         <source>NPS</source>
         <translation>NPS</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="106"/>
+        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="105"/>
         <source>depths/move</source>
         <translation>Tiefe/Zug</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="108"/>
+        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="107"/>
         <source>time/move</source>
         <translation>Zeit/Zug</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="110"/>
+        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="109"/>
         <source>moves/game</source>
         <translation>Züge/Partie</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="112"/>
+        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="111"/>
         <source>time/game</source>
         <translation>Zeit/Partie</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="114"/>
+        <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="113"/>
         <source>fails</source>
         <translation>Fehlschläge</translation>
     </message>
@@ -8752,159 +10226,206 @@ Are you sure?</source>
         <translation>Rechtsklick für Popup Menü</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.ui" line="104"/>
+        <location filename="../../ui/tour/tourviewwidget.ui" line="116"/>
         <source>Resume</source>
         <translation>fortsetzen</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.ui" line="142"/>
+        <location filename="../../ui/tour/tourviewwidget.ui" line="154"/>
         <source>None</source>
         <translation>nichts</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.ui" line="147"/>
+        <location filename="../../ui/tour/tourviewwidget.ui" line="159"/>
         <source>Open games</source>
         <translation>öffne Partien</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.ui" line="152"/>
+        <location filename="../../ui/tour/tourviewwidget.ui" line="164"/>
         <source>Open &amp; view</source>
         <translation>öffnen &amp; anzeigen</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.ui" line="189"/>
+        <location filename="../../ui/tour/tourviewwidget.ui" line="201"/>
         <source>Concurrency:</source>
         <translation>Parallelität:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.ui" line="202"/>
+        <location filename="../../ui/tour/tourviewwidget.ui" line="214"/>
         <source>number of concurrent games, 0 is to pause</source>
         <translation>Anzahl paralleler Partien, 0 zum Pausieren</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.ui" line="250"/>
+        <location filename="../../ui/tour/tourviewwidget.ui" line="262"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.ui" line="263"/>
+        <location filename="../../ui/tour/tourviewwidget.ui" line="275"/>
         <source>Drag &amp; drop to change item orders; Right click for popup menu</source>
         <translation>drag &amp; drop zum Ändern der Reihenfolge, Rechtsklick für Popup Menü</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="168"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="183"/>
         <source>Error:</source>
         <translation>Fehler:</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="168"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="183"/>
         <source>Cannot parse JSON string, ignored!</source>
         <translation>JSON Zeichenfolge kann nicht analysiert werden - wird ignoriert!</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="246"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="261"/>
         <source>games: %1/%3; timer: %4</source>
         <translation>Partien: %1/%3; Timer: %4</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="264"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="279"/>
         <source> Tournament completed!</source>
         <translation> Turnier abgeschlossen!</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="275"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="290"/>
         <source>No tournament</source>
         <translation>kein Turnier</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="331"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="355"/>
         <source>Tournament in progress</source>
         <translation>Turnier läuft</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="331"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="355"/>
         <source>Error: You can&apos;t do this action when a tournament playing</source>
         <translation>Fehler: Sie können diese Aktion nicht ausführen während ein Turnier läuft</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="340"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="364"/>
         <source>New tournament</source>
         <translation>neues Turnier</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="354"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="373"/>
         <source>Delete all</source>
         <translation>alle löschen</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="358"/>
         <source>All tournament records will be deleted</source>
-        <translation>alle Turnierdatensätze werden gelöscht</translation>
+        <translation type="vanished">alle Turnierdatensätze werden gelöscht</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="358"/>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="374"/>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="399"/>
         <source>Are you sure?</source>
-        <translation>Sind Sie sicher?</translation>
+        <translation type="vanished">Sind Sie sicher?</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="370"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="390"/>
         <source>Reset all to reuse</source>
         <translation>alle zurücksetzen, wieder verwenden</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="374"/>
         <source>All tournament records will be reset</source>
-        <translation>alle Turnierdatensätze werden zurückgesetzt</translation>
+        <translation type="vanished">alle Turnierdatensätze werden zurückgesetzt</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="390"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="412"/>
         <source>Reset selections</source>
         <translation>Auswahl zurücksetzen</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="398"/>
         <source>%1 records will be reset</source>
-        <translation>%1 Datensatz wird zurückgesetzt</translation>
+        <translation type="vanished">%1 Datensatz wird zurückgesetzt</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="413"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="378"/>
+        <source>All tournament records will be deleted!
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="396"/>
+        <source>All tournament records will be reset!
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="421"/>
+        <source>%1 records will be reset!
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="435"/>
         <source>Edit JSON</source>
         <translation>bearbeite JSON</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="418"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="440"/>
         <source>Hide preview board</source>
         <translation>verberge Vorschau Board</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="418"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="440"/>
         <source>Show preview board</source>
         <translation>zeige Vorschau Board</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="443"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="465"/>
         <source>Play %1 selected game%2</source>
         <translation>spiele %1 ausgewählte Partie%2</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="447"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="469"/>
         <source>Play game %1</source>
         <translation>spiele Partie %1</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="483"/>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="500"/>
+        <source>Manually adjudicate game %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="514"/>
         <source>View engine-log of game %1</source>
         <translation>zeige Engine Log von Partie %1</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="533"/>
+        <source>Export PGN of all played games</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="541"/>
+        <source>Save PGN Games</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="543"/>
+        <source>Portable Game Notation (*.pgn);;All Files (*.*)</source>
+        <translation type="unfinished">Portable Game Notation (*.pgn);;alle Dateien (*.*)</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="553"/>
+        <source>Copy PGN of all played games</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="562"/>
+        <source>Copy PGN of game %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>TourWindow</name>
     <message>
-        <location filename="../../main/tourwindow.cpp" line="629"/>
+        <location filename="../../main/tourwindow.cpp" line="624"/>
         <source>Tournament finished</source>
         <translation>Turnier beendet</translation>
+    </message>
+    <message>
+        <location filename="../../main/tourwindow.cpp" line="641"/>
+        <source>You need to play a game in the tournament</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Human</source>
@@ -8939,32 +10460,38 @@ Are you sure?</source>
         <translation>laden</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourneymngdlg.ui" line="100"/>
+        <location filename="../../ui/tour/tourneymngdlg.ui" line="87"/>
         <source>Select a row to save, load or delete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourneymngdlg.cpp" line="245"/>
+        <location filename="../../ui/tour/tourneymngdlg.ui" line="117"/>
+        <source>(to save, select a row in the table first, the click &quot;+&quot; button;
+to load, select a not-empty row in the table then click &quot;Load&quot; button)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourneymngdlg.cpp" line="247"/>
         <source>Delete backup</source>
         <translation>Backup löschen</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourneymngdlg.cpp" line="246"/>
+        <location filename="../../ui/tour/tourneymngdlg.cpp" line="248"/>
         <source>Do you want to delete the selected backup?</source>
         <translation>Möchten Sie das ausgewählte Backup löschen?</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourneymngdlg.cpp" line="364"/>
+        <location filename="../../ui/tour/tourneymngdlg.cpp" line="366"/>
         <source>. Warning: completed tournament</source>
         <translation>. Warnung: abgeschlossenes Turnier</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourneymngdlg.cpp" line="366"/>
+        <location filename="../../ui/tour/tourneymngdlg.cpp" line="368"/>
         <source>Current tournament: %1, %2 engines, games: %3/%4%5</source>
         <translation>Aktuelles Turnier: %1, %2 Engines, Partien: %3/%4%5</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourneymngdlg.cpp" line="375"/>
+        <location filename="../../ui/tour/tourneymngdlg.cpp" line="377"/>
         <source>Current tournament is empty. Warning: cannott save empty tournament</source>
         <translation>Aktuelles Turnier ist leer. Warnung: kann leeres Turniernicht speichern!</translation>
     </message>
@@ -8972,29 +10499,37 @@ Are you sure?</source>
 <context>
     <name>TourneyMngModel</name>
     <message>
-        <location filename="../../ui/tour/tourneymngdlg.cpp" line="173"/>
+        <location filename="../../ui/tour/tourneymngdlg.cpp" line="175"/>
         <source>Type</source>
         <translation>Typ</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourneymngdlg.cpp" line="175"/>
+        <location filename="../../ui/tour/tourneymngdlg.cpp" line="177"/>
         <source>#engines</source>
         <translation>#Engines</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourneymngdlg.cpp" line="177"/>
+        <location filename="../../ui/tour/tourneymngdlg.cpp" line="179"/>
         <source>#games</source>
         <translation>#Partien</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourneymngdlg.cpp" line="179"/>
+        <location filename="../../ui/tour/tourneymngdlg.cpp" line="181"/>
         <source>#played</source>
         <translation>#gespielt</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourneymngdlg.cpp" line="181"/>
+        <location filename="../../ui/tour/tourneymngdlg.cpp" line="183"/>
         <source>Save date</source>
         <translation>gespeichert am</translation>
+    </message>
+</context>
+<context>
+    <name>UiLib</name>
+    <message>
+        <location filename="../../ui/uilib.cpp" line="78"/>
+        <source>All Known Images (*.png *.gif *.jpg *.jpeg *.svg *.bm *.bmp *.tiff);;JPEG (*.jpg *.jpeg);; PNG (*.png);;Scalable Vector Graphics files (*.svg);;All files (*.*)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
