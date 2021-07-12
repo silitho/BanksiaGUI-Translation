@@ -29,10 +29,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>(C) Nguyen Hong Pham, 2019 - 2020</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Home:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -70,6 +66,10 @@
     </message>
     <message>
         <source>https://www.youtube.com/channel/UCwzPwT0syFRiNILDpf6Q0KQ</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(C) Nguyen Hong Pham, 2019 - 2021</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -502,6 +502,18 @@
     </message>
     <message>
         <source>(You could select multi engines)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direction:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>forward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>backward</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1524,7 +1536,7 @@ Cannot add this game to the database</source>
     </message>
     <message>
         <source>FEN:</source>
-        <translation type="unfinished">FEN:</translation>
+        <translation type="obsolete">FEN:</translation>
     </message>
 </context>
 <context>
@@ -1963,7 +1975,7 @@ Stop the tournament?</source>
     </message>
     <message>
         <source>(Warning: A tournament is playing. Editing may affect it)</source>
-        <translation>(Avertissement: Un tournoi est en cours. Le modifier  peut l&apos;affecter)</translation>
+        <translation type="vanished">(Avertissement: Un tournoi est en cours. Le modifier  peut l&apos;affecter)</translation>
     </message>
     <message>
         <source>setup</source>
@@ -2010,16 +2022,13 @@ Stop the tournament?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Reduce conflict between games with GPU engines</source>
+        <source>Warning: Lc0 option VerboseMoveStats &amp; LogLiveStats are on,
+it may create too much data and freeze all sometimes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No GPU concurrence</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(Warning: Lc0 option VerboseMoveStats &amp; LogLiveStats are on
-It may create too much data and freeze all sometimes)</source>
+        <source>Warning: There are games with GPU engines.
+The playing order/concurrency maybe auto adjusted</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2055,6 +2064,793 @@ It may create too much data and freeze all sometimes)</source>
     <message>
         <source>Drag &amp; drop image files here</source>
         <translation>Glisser-déposer les fichiers image ici</translation>
+    </message>
+</context>
+<context>
+    <name>DPACreateNewProjectDlg</name>
+    <message>
+        <source>Create a new Deep Positional Analysis Project</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Project name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Annuler</translation>
+    </message>
+    <message>
+        <source>FEN:</source>
+        <translation type="unfinished">FEN:</translation>
+    </message>
+</context>
+<context>
+    <name>DPAExportDlg</name>
+    <message>
+        <source>Export to Polyglot Opening Book</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Book type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Polyglot</source>
+        <translation type="unfinished">Polyglot</translation>
+    </message>
+    <message>
+        <source>PGN</source>
+        <translation type="unfinished">PGN</translation>
+    </message>
+    <message>
+        <source>EDP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation type="unfinished">Chemin:</translation>
+    </message>
+    <message>
+        <source>Select method:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From ply:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Leaves only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top:</source>
+        <translation type="unfinished">Haut:</translation>
+    </message>
+    <message>
+        <source>Top pecent:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Score &gt;=</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>centipawn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select an opening book file or enter a new name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Polyglot (*.bin);;PGN (*.pgn);;EDP (*.edp);;All Files (*.*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opening book created</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opening book created, total items: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DPAFunctionDlg</name>
+    <message>
+        <source>Functions for active tree</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scores of all nodes will be reset. Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scores of all leave nodes will be reset. Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scores will be reset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear scores of all nodes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear scores of all leaves</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge</source>
+        <translation type="unfinished">Fusionner</translation>
+    </message>
+    <message>
+        <source>Export to Opening books</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DPAMergeDlg</name>
+    <message>
+        <source>Merge current tree</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current tree:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge with:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge trees</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 trees have been mereged, total added nodes: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DPAMergeTableModel</name>
+    <message>
+        <source>selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>nodes</source>
+        <translation type="unfinished">noeuds</translation>
+    </message>
+    <message>
+        <source>variant</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DPANodeTableModel</name>
+    <message>
+        <source>Moves</source>
+        <translation type="unfinished">Coups</translation>
+    </message>
+    <message>
+        <source>Ignored</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Score</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Evaluated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WDL%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Children</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subnodes</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DPANodeWidget</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add all children</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>expand</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select moves to expand current node</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No score</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Node score: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>, WDL: %1 %2 %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1, children: %2, subnodes: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Evaluation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Score only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Score/Depth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The branch %1 has included the root. It is similar to the whole tree!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The branch %1 has %2 nodes, %3 evaluated, %4 outter parents!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Branch info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The branch %1 has included the root. Thus it is similar to delete the whole tree!
+Are you sure to delete the tree?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The branch %1 has %2 nodes, %3 evaluated, %4 outter parents!
+Are you sure to delete it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete a branch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Total %1 nodes of the branch %2 have been deleted!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DPAProjectTableModel</name>
+    <message>
+        <source>active</source>
+        <translation type="unfinished">actif</translation>
+    </message>
+    <message>
+        <source>name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>nodes</source>
+        <translation type="unfinished">noeuds</translation>
+    </message>
+    <message>
+        <source>variant</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DPAProjectWidget</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add current game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New project</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>from:</source>
+        <translation type="unfinished">de:</translation>
+    </message>
+    <message>
+        <source>From ply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>to:</source>
+        <translation type="unfinished">à:</translation>
+    </message>
+    <message>
+        <source>To ply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stats</source>
+        <translation type="unfinished">Statistiques</translation>
+    </message>
+    <message>
+        <source>More...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop expanding</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expand by file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Game, Database, Polyglot book</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Known types (*.pgn *.bgdb *.bin);;Portable Game Notation (*.pgn);;Banksia GUI database (*.bgdb);;Polyglot Opening Book (*.bin);;All Files (*.*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portable Game Notation (*.pgn);;CCF (*.ccf);;MXQ (*.mxq);;XQF (*.xqf);;All Known Files (*.pgn *.ccf *.mxq *.xqf);;All Files (*.*)</source>
+        <translation type="unfinished">Portable Game Notation (*.pgn);;CCF (*.ccf);;MXQ (*.mxq);;XQF (*.xqf);;Tous les fichiers connus (*.pgn *.ccf *.mxq *.xqf);;Tous les fichiers (*.*)</translation>
+    </message>
+    <message>
+        <source>Current game is added, total new nodes: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current game added</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure to delete project %1 and its data?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete a project</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clone project</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The selected project has been cloned</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expanding completed!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expanding by file, games: %1, added nodes: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expanding by data...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DPASetupWidget</name>
+    <message>
+        <source>Expanding:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished">Auto</translation>
+    </message>
+    <message>
+        <source>Top moves</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top percent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max ply:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Limit:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Evaluation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Timer mode:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Depth only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move time only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Depth AND Move time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Depth OR Move time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Second</source>
+        <translation type="unfinished">Seconde</translation>
+    </message>
+    <message>
+        <source>Minute</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hour</source>
+        <translation type="unfinished">Heure</translation>
+    </message>
+    <message>
+        <source>Depth:</source>
+        <translation type="unfinished">Profondeur:</translation>
+    </message>
+</context>
+<context>
+    <name>DPAStatsDlg</name>
+    <message>
+        <source>Root FEN:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max branching:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stats of project %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DPAStatsTableModel</name>
+    <message>
+        <source>Elapsed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nodes</source>
+        <translation type="unfinished">Noeuds</translation>
+    </message>
+    <message>
+        <source>Leaves</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Evaluated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Evaluated leaves</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Average branching factor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max branching factor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Min branching factor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max ply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stopped nodes by users</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multi parent nodes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine hits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine nodes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine computed time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine average move nodes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine average move depth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine average move time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine average move idle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine crashes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error: unreachable nodes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Nom</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished">Valeur</translation>
+    </message>
+</context>
+<context>
+    <name>DPAVerifyDlg</name>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished">Copier</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verify project %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Working, progress: %1%</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DPAVerifyTableModel</name>
+    <message>
+        <source>Unreachable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Broken hashkeys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Broken propagated scores</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Illegal moves</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Erreur</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DPAWidget</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start</source>
+        <translation type="unfinished">Démarrer</translation>
+    </message>
+    <message>
+        <source>0:00</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UCI engines only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine:</source>
+        <translation type="unfinished">Moteur:</translation>
+    </message>
+    <message>
+        <source>Concurrency:</source>
+        <translation type="unfinished">Simultanéité:</translation>
+    </message>
+    <message>
+        <source>Engine info</source>
+        <translation type="unfinished">Info moteur</translation>
+    </message>
+    <message>
+        <source>Project</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Node</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tree</source>
+        <translation type="unfinished">Arbre</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished">Arrêter</translation>
+    </message>
+    <message>
+        <source>No active tree</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Idle:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ready:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expanding:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Evaluating:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 NPM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 NPH</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 NPS</source>
+        <translation type="unfinished">%1 NPS</translation>
+    </message>
+    <message>
+        <source>%1 kNPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 mNPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>nodes: %1, evaluated: %2 of %3 (%4%), max ply: %5, speed: %6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error. Cannot read nodes: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error: cannot read some nodes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot expand</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot expand any more</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Job done</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All nodes are evaluated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Board:</source>
+        <translation type="unfinished">Echiquier:</translation>
+    </message>
+    <message>
+        <source>none</source>
+        <translation type="unfinished">aucun</translation>
+    </message>
+    <message>
+        <source>right side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>left side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>big</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2864,15 +3660,15 @@ button to download the default net or select one from the table</source>
     </message>
     <message>
         <source>black</source>
-        <translation>noirs</translation>
+        <translation type="vanished">noirs</translation>
     </message>
     <message>
         <source>white</source>
-        <translation>blancs</translation>
+        <translation type="vanished">blancs</translation>
     </message>
     <message>
         <source>white O-O</source>
-        <translation>O-O blancs</translation>
+        <translation type="vanished">O-O blancs</translation>
     </message>
     <message>
         <source>Drag pieces from left bar and drop to board to add</source>
@@ -2884,19 +3680,19 @@ button to download the default net or select one from the table</source>
     </message>
     <message>
         <source>white O-O-O</source>
-        <translation>O-O-O blancs</translation>
+        <translation type="vanished">O-O-O blancs</translation>
     </message>
     <message>
         <source>half moves:</source>
-        <translation>demi-coups:</translation>
+        <translation type="vanished">demi-coups:</translation>
     </message>
     <message>
         <source>black O-O</source>
-        <translation>O-O noirs</translation>
+        <translation type="vanished">O-O noirs</translation>
     </message>
     <message>
         <source>#moves:</source>
-        <translation>#coups:</translation>
+        <translation type="vanished">#coups:</translation>
     </message>
     <message>
         <source>Copy, paste or edit</source>
@@ -2904,11 +3700,11 @@ button to download the default net or select one from the table</source>
     </message>
     <message>
         <source>Flip vertically</source>
-        <translation>Retourner verticalement</translation>
+        <translation type="vanished">Retourner verticalement</translation>
     </message>
     <message>
         <source>Clear all</source>
-        <translation>Tout vider</translation>
+        <translation type="vanished">Tout vider</translation>
     </message>
     <message>
         <source>Drag pieces from board and drop out side to remove</source>
@@ -2916,11 +3712,11 @@ button to download the default net or select one from the table</source>
     </message>
     <message>
         <source>black O-O-O</source>
-        <translation>O-O-O noirs</translation>
+        <translation type="vanished">O-O-O noirs</translation>
     </message>
     <message>
         <source>Full board</source>
-        <translation>Echiquier complet</translation>
+        <translation type="vanished">Echiquier complet</translation>
     </message>
 </context>
 <context>
@@ -2964,6 +3760,61 @@ button to download the default net or select one from the table</source>
     <message>
         <source>JSON editor</source>
         <translation>Editeur JSON</translation>
+    </message>
+</context>
+<context>
+    <name>EditWidget</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>white</source>
+        <translation type="unfinished">blancs</translation>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished">noirs</translation>
+    </message>
+    <message>
+        <source>half moves:</source>
+        <translation type="unfinished">demi-coups:</translation>
+    </message>
+    <message>
+        <source>#moves:</source>
+        <translation type="unfinished">#coups:</translation>
+    </message>
+    <message>
+        <source>white O-O</source>
+        <translation type="unfinished">O-O blancs</translation>
+    </message>
+    <message>
+        <source>white O-O-O</source>
+        <translation type="unfinished">O-O-O blancs</translation>
+    </message>
+    <message>
+        <source>black O-O</source>
+        <translation type="unfinished">O-O noirs</translation>
+    </message>
+    <message>
+        <source>black O-O-O</source>
+        <translation type="unfinished">O-O-O noirs</translation>
+    </message>
+    <message>
+        <source>Flip vertically</source>
+        <translation type="unfinished">Retourner verticalement</translation>
+    </message>
+    <message>
+        <source>Flip colours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Origin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear all</source>
+        <translation type="unfinished">Tout vider</translation>
     </message>
 </context>
 <context>
@@ -3039,6 +3890,10 @@ button to download the default net or select one from the table</source>
         <source>Name is taken by other configuration</source>
         <translation>Le nom est pris par une autre configuration</translation>
     </message>
+    <message>
+        <source>GPU</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EngineLogWidget</name>
@@ -3110,24 +3965,28 @@ button to download the default net or select one from the table</source>
         <translation>Configurer moteur(s) sélectionné(s)</translation>
     </message>
     <message>
-        <source>dup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Update all engines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>all</source>
-        <translation type="unfinished">tout</translation>
-    </message>
-    <message>
-        <source>Engine %1 will be deleted</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">tout</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished">Êtes-vous sûr ?</translation>
+        <translation type="obsolete">Êtes-vous sûr ?</translation>
+    </message>
+    <message>
+        <source>Engine %1 will be deleted! Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Combine some engines into a new one</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3204,11 +4063,11 @@ button to download the default net or select one from the table</source>
     </message>
     <message>
         <source>Cores:</source>
-        <translation>Coeurs:</translation>
+        <translation type="vanished">Coeurs:</translation>
     </message>
     <message>
         <source>Ponder:</source>
-        <translation>Réfléchir sur temps adversaire:</translation>
+        <translation type="vanished">Réfléchir sur temps adversaire:</translation>
     </message>
     <message>
         <source>(men: %1, eg: %2)</source>
@@ -3228,6 +4087,26 @@ button to download the default net or select one from the table</source>
     </message>
     <message>
         <source>(%1 men, %2 eg)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CPU cores</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CPU cores:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CPU cores for GPU egines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CPU cores for GPU:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ponder</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3375,19 +4254,19 @@ button to download the default net or select one from the table</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0 N/s</source>
+        <source>0 n/s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%1 N/s</source>
+        <source>%1 n/s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>mN/s</source>
+        <source>Mn/s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>kN/s</source>
+        <source>Kn/s</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3485,6 +4364,14 @@ button to download the default net or select one from the table</source>
     <message>
         <source>Syzygy path:</source>
         <translation type="vanished">Chemin Syzygy:</translation>
+    </message>
+    <message>
+        <source>Edit starting board</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FEN:</source>
+        <translation type="unfinished">FEN:</translation>
     </message>
 </context>
 <context>
@@ -4176,7 +5063,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>game initialised, %1 vs %2, moves %3</source>
-        <translation>partie démarrée, %1 opposé à %2, coups %3</translation>
+        <translation type="vanished">partie démarrée, %1 opposé à %2, coups %3</translation>
     </message>
     <message>
         <source>Timeout, arboted game %1</source>
@@ -4226,6 +5113,10 @@ Are you sure?</source>
         <source>Over the concurrency limit, aborted the game %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>game started, %1 vs %2</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LiBotBasic</name>
@@ -4252,6 +5143,14 @@ Are you sure?</source>
     <message>
         <source>Logged out!</source>
         <translation type="unfinished">Déconnecté!</translation>
+    </message>
+    <message>
+        <source>Complete a lap of challenging. Repeat from begining!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Challenge timeout!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4302,10 +5201,6 @@ Are you sure?</source>
     </message>
     <message>
         <source>chess960</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Usernames:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4386,6 +5281,10 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error: None player is selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shuffle players</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4819,7 +5718,7 @@ l&apos;échiquier correspondant</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Gauche</translation>
+        <translation type="vanished">Gauche</translation>
     </message>
     <message>
         <source>Play</source>
@@ -4887,7 +5786,7 @@ l&apos;échiquier correspondant</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Droit</translation>
+        <translation type="vanished">Droit</translation>
     </message>
     <message>
         <source>Theme</source>
@@ -4903,7 +5802,7 @@ l&apos;échiquier correspondant</translation>
     </message>
     <message>
         <source>Add current game to a book</source>
-        <translation>Ajouter la partie en cours à une bibliothèque</translation>
+        <translation type="vanished">Ajouter la partie en cours à une bibliothèque</translation>
     </message>
     <message>
         <source>rotate board</source>
@@ -5111,7 +6010,7 @@ l&apos;échiquier correspondant</translation>
     </message>
     <message>
         <source>Game Setup</source>
-        <translation>Réglages partie</translation>
+        <translation type="vanished">Réglages partie</translation>
     </message>
     <message>
         <source>Menu color</source>
@@ -5203,7 +6102,7 @@ l&apos;échiquier correspondant</translation>
     </message>
     <message>
         <source>Game Analysis</source>
-        <translation>Analyse de Partie</translation>
+        <translation type="vanished">Analyse de Partie</translation>
     </message>
     <message>
         <source>Save theme and layout</source>
@@ -5255,11 +6154,11 @@ l&apos;échiquier correspondant</translation>
     </message>
     <message>
         <source>Open Game</source>
-        <translation>Ouvrir Partie</translation>
+        <translation type="vanished">Ouvrir Partie</translation>
     </message>
     <message>
         <source>Setup Game</source>
-        <translation>Réglages Partie</translation>
+        <translation type="vanished">Réglages Partie</translation>
     </message>
     <message>
         <source>Theme Red</source>
@@ -5275,7 +6174,7 @@ l&apos;échiquier correspondant</translation>
     </message>
     <message>
         <source>New Game</source>
-        <translation>Nouvelle Partie</translation>
+        <translation type="vanished">Nouvelle Partie</translation>
     </message>
     <message>
         <source>View Book</source>
@@ -5343,7 +6242,7 @@ l&apos;échiquier correspondant</translation>
     </message>
     <message>
         <source>Tournaments Load/Save</source>
-        <translation>Charger/ Enregistrer Tournois</translation>
+        <translation type="vanished">Charger/ Enregistrer Tournois</translation>
     </message>
     <message>
         <source>Create Opening</source>
@@ -5561,6 +6460,58 @@ l&apos;échiquier correspondant</translation>
         <source>Theme Gold</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Demo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create a simple, infinite tournament</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recent Tournaments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation type="unfinished">Réinitialiser</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">Ouvrir</translation>
+    </message>
+    <message>
+        <source>New Tour</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Analysis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Human Game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New human-human game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create a new game</source>
+        <translation type="unfinished">Créer une nouvelle partie</translation>
+    </message>
 </context>
 <context>
     <name>ManuallyAdjudicateDlg</name>
@@ -5707,6 +6658,14 @@ l&apos;échiquier correspondant</translation>
         <source>Stone</source>
         <translation type="unfinished">Pierre</translation>
     </message>
+    <message>
+        <source>Metallic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gold</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Material</name>
@@ -5792,6 +6751,123 @@ l&apos;échiquier correspondant</translation>
     </message>
     <message>
         <source>Gold Metal</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>MixEngineDlg</name>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name of the new combination</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available engines:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Annuler</translation>
+    </message>
+    <message>
+        <source>Create A New Engine Combination</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update</source>
+        <translation type="unfinished">Mettre à jour</translation>
+    </message>
+</context>
+<context>
+    <name>MixEngineTableModel</name>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Nom</translation>
+    </message>
+    <message>
+        <source>From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>MixEngineWidget</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Range by scores</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Range by move order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Range by piece total</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Random</source>
+        <translation type="unfinished">Aléatoire</translation>
+    </message>
+    <message>
+        <source>The highest vote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The lowest vote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The highest score</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The lowest score</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The highest depth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The most nodes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Score in centipawn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One move = two plies</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine total must be from 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Engine total must be from 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Range (from, to) must be set</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sequence</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6594,6 +7670,18 @@ l&apos;échiquier correspondant</translation>
         <source>Analysing on fly...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Demo, win-draw-loss: %1-%2-%3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>, crash: %1-%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>, elo: %1 +%2 -%3 vs %4 +%5 -%6</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SettingFileEditDlg</name>
@@ -6900,6 +7988,66 @@ Après suppression, l&apos;appli sera fermée
         <source>Background color:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>User arrows:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User arrow default color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User arrow color when pressing Ctr button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User arrow color when pressing Shift button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User arrow color when pressing Alt button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Threatened pieces</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User arrows/masks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User masks:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User mask default color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User mask color when pressing Ctr button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User mask color when pressing Shift button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User mask color when pressing Alt button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max lines:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max line number of engine info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Algebraic</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SetupDialog</name>
@@ -7027,11 +8175,11 @@ Après suppression, l&apos;appli sera fermée
     </message>
     <message>
         <source>Large</source>
-        <translation type="vanished">Grande</translation>
+        <translation>Grande</translation>
     </message>
     <message>
         <source>Small</source>
-        <translation type="vanished">Petite</translation>
+        <translation>Petite</translation>
     </message>
     <message>
         <source>Sound</source>
@@ -7119,7 +8267,7 @@ Après suppression, l&apos;appli sera fermée
     </message>
     <message>
         <source>Medium</source>
-        <translation type="vanished">Moyenne</translation>
+        <translation>Moyenne</translation>
     </message>
     <message>
         <source>Clock at:</source>
@@ -7235,7 +8383,7 @@ Après suppression, l&apos;appli sera fermée
     </message>
     <message>
         <source>Score indicator</source>
-        <translation>Indicateur de score</translation>
+        <translation type="vanished">Indicateur de score</translation>
     </message>
     <message>
         <source>Font size for digit in 2 lines mode</source>
@@ -7341,6 +8489,34 @@ Après suppression, l&apos;appli sera fermée
         <source>Two PV boards</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Above &amp; under</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Docking:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tool bar size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Score indicator:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished">Gauche</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished">Droit</translation>
+    </message>
 </context>
 <context>
     <name>SetupGraphicsWidget</name>
@@ -7398,7 +8574,7 @@ Après suppression, l&apos;appli sera fermée
     </message>
     <message>
         <source>Show board coordinate</source>
-        <translation>Montrer coordonnées échiquier</translation>
+        <translation type="vanished">Montrer coordonnées échiquier</translation>
     </message>
     <message>
         <source>In center</source>
@@ -7639,6 +8815,42 @@ Après suppression, l&apos;appli sera fermée
     <message>
         <source> %</source>
         <translation type="unfinished"> %</translation>
+    </message>
+    <message>
+        <source>Kosal (svg)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">Aucun</translation>
+    </message>
+    <message>
+        <source>Board coordinate:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outside, right, bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outside, left, bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outside arround</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside, right, bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside, left, bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside arround</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8222,7 +9434,7 @@ Après suppression, l&apos;appli sera fermée
     </message>
     <message>
         <source>Depth:</source>
-        <translation type="unfinished">Profondeur:</translation>
+        <translation type="obsolete">Profondeur:</translation>
     </message>
     <message>
         <source>Top:</source>
@@ -8272,6 +9484,10 @@ Après suppression, l&apos;appli sera fermée
         <source>EPD (*.epd);;All Files (*.*)</source>
         <translation type="unfinished">EPD (*.epd);;Tous Fichiers (*.*)</translation>
     </message>
+    <message>
+        <source>Max ply:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TourCrossTableModel</name>
@@ -8301,6 +9517,171 @@ Après suppression, l&apos;appli sera fermée
     </message>
     <message>
         <source>-</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TourDemoDlg</name>
+    <message>
+        <source>Demo tournament</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create a simple, quick, infinite tournament</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>At least one engine should be selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop current demo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start demo</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TourEditDlg</name>
+    <message>
+        <source>Edit tournament</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning: all editing here may affect multi games</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge game from another tournament JSON</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Player</source>
+        <translation type="unfinished">Joueur</translation>
+    </message>
+    <message>
+        <source>Replace by:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset games</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove games</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Swap sides</source>
+        <translation type="unfinished">Permuter les camps</translation>
+    </message>
+    <message>
+        <source>Games</source>
+        <translation type="unfinished">Parties</translation>
+    </message>
+    <message>
+        <source>Reset all games</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove all games</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shuffle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open another tournament JSON file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JSON file (*.json);;All Files (*.*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Added games: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot read or parse that JSON file or it has no game!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace player %1 by %2 for all involving games.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All games of the player %1 will be reset.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All games of the player %1 will be removed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All games of the player %1 will be swapped sides
+(including played games).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All games will be reset.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All games will be removed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All games will be swapped sides
+(including played games).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All games will be shuffled randomly.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Effected games: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Source player:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add games</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Successfully add new game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 new games have been added</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error: Cannot add new game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tournament should be roundrobin and not playing</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8527,6 +9908,30 @@ Are you sure?</source>
         <source>% performance</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>full details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Elo offset:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>anchor to:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto update Elo to engines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rated</source>
+        <translation type="unfinished">Classé</translation>
+    </message>
+    <message>
+        <source>-add offset to all-</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TourTableDelegate</name>
@@ -8589,7 +9994,7 @@ Are you sure?</source>
     <name>TourViewWidget</name>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
     <message>
         <source>Form</source>
@@ -8754,6 +10159,19 @@ Are you sure?</source>
 Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open a copy of game %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shuffle games</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All games will be shuffled randomly!
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TourWindow</name>
@@ -8782,11 +10200,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Current tournament: %1, %2 engines, games: %3/%4%5</source>
-        <translation>Tournoi actuel: %1, %2 moteurs, parties: %3/%4%5</translation>
+        <translation type="vanished">Tournoi actuel: %1, %2 moteurs, parties: %3/%4%5</translation>
     </message>
     <message>
         <source>Select a row to save, load or delete</source>
-        <translation>Sélectionnez une ligne pour la sauvegarder, la charger ou la supprimer</translation>
+        <translation type="vanished">Sélectionnez une ligne pour la sauvegarder, la charger ou la supprimer</translation>
     </message>
     <message>
         <source>Remove selected row</source>
@@ -8794,32 +10212,72 @@ Are you sure?</source>
     </message>
     <message>
         <source>. Warning: completed tournament</source>
-        <translation>. Avertissement: tournoi terminé</translation>
+        <translation type="vanished">. Avertissement: tournoi terminé</translation>
     </message>
     <message>
         <source>Current tournament is empty. Warning: cannott save empty tournament</source>
-        <translation>Le tournoi actuel est vide. Avertissement: impossible d&apos;enregistrer un tournoi vide</translation>
+        <translation type="vanished">Le tournoi actuel est vide. Avertissement: impossible d&apos;enregistrer un tournoi vide</translation>
     </message>
     <message>
         <source>Do you want to delete the selected backup?</source>
-        <translation>Voulez-vous supprimer la sauvegarde sélectionnée ?</translation>
+        <translation type="vanished">Voulez-vous supprimer la sauvegarde sélectionnée ?</translation>
     </message>
     <message>
         <source>Ongoing tournaments</source>
-        <translation>Tournois en cours</translation>
+        <translation type="vanished">Tournois en cours</translation>
     </message>
     <message>
         <source>Delete backup</source>
-        <translation>Supprimer la sauvegarde</translation>
+        <translation type="vanished">Supprimer la sauvegarde</translation>
     </message>
     <message>
         <source>Save current tournament</source>
-        <translation>Enregistrer tournoi actuel</translation>
+        <translation type="vanished">Enregistrer tournoi actuel</translation>
     </message>
     <message>
-        <source>(to save, select a row in the table first, the click &quot;+&quot; button;
-to load, select a not-empty row in the table then click &quot;Load&quot; button)</source>
+        <source>Recent tournaments</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max recent files:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove all files but ones with keep</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select a row to remove or load, tick on keep column to keep the it from removing
+Double click on Name/comment to edit, other columns to load</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning: the current tournament is playing. You can&apos;t load any old one!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete all backups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to delete all tournaments?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete a backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to delete the selected tournament?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicate</source>
+        <translation type="unfinished">Dupliquer</translation>
     </message>
 </context>
 <context>
@@ -8842,7 +10300,27 @@ to load, select a not-empty row in the table then click &quot;Load&quot; button)
     </message>
     <message>
         <source>Save date</source>
-        <translation>Enregistrer date</translation>
+        <translation type="vanished">Enregistrer date</translation>
+    </message>
+    <message>
+        <source>ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Created</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Timer</source>
+        <translation type="unfinished">Pendule</translation>
+    </message>
+    <message>
+        <source>Name/comment</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
