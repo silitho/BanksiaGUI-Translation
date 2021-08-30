@@ -1,0 +1,3594 @@
+<!DOCTYPE QPH>
+<QPH language="vi_VN">
+<phrase>
+    <source>Tournament:</source>
+    <target>Thi đấu:</target>
+</phrase>
+<phrase>
+    <source>Sides:</source>
+    <target>Các bên:</target>
+</phrase>
+<phrase>
+    <source>Range:</source>
+    <target>Độ dài:</target>
+</phrase>
+<phrase>
+    <source>Open Game</source>
+    <target>Mở</target>
+</phrase>
+<phrase>
+    <source>game</source>
+    <target>ván </target>
+</phrase>
+<phrase>
+    <source>&lt;Human&gt;</source>
+    <target>&lt;Người&gt;</target>
+</phrase>
+<phrase>
+    <source>Disconnect</source>
+    <target>Cắt kết nối</target>
+</phrase>
+<phrase>
+    <source>Create a new game</source>
+    <target>Tạo ván cờ </target>
+</phrase>
+<phrase>
+    <source>Create a new game</source>
+    <target>Tạo ván cờ mới</target>
+</phrase>
+<phrase>
+    <source>Form</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Go first</source>
+    <target>Đến nước đầu </target>
+</phrase>
+<phrase>
+    <source>Go previous move</source>
+    <target>Đến nước trước</target>
+</phrase>
+<phrase>
+    <source>Go next move</source>
+    <target>Đến nước tiếp</target>
+</phrase>
+<phrase>
+    <source>Go last move</source>
+    <target>Đến nước cuối</target>
+</phrase>
+<phrase>
+    <source>Auto play moves</source>
+    <target>Tự động chơi</target>
+</phrase>
+<phrase>
+    <source>Copy PGN into clipboard</source>
+    <target>Chép PGN vào clipboard</target>
+</phrase>
+<phrase>
+    <source>move</source>
+    <target>nước</target>
+</phrase>
+<phrase>
+    <source>score</source>
+    <target>điểm</target>
+</phrase>
+<phrase>
+    <source>Name</source>
+    <target>Tên</target>
+</phrase>
+<phrase>
+    <source>White</source>
+    <target>Trắng</target>
+</phrase>
+<phrase>
+    <source>Black</source>
+    <target>Đen</target>
+</phrase>
+<phrase>
+    <source>Bubble</source>
+    <target>Bóng</target>
+</phrase>
+<phrase>
+    <source>Path</source>
+    <target>Đường dẫn</target>
+</phrase>
+<phrase>
+    <source>Broadcast games</source>
+    <target>Phát sóng ván cờ</target>
+</phrase>
+<phrase>
+    <source>Name:</source>
+    <target>Tên:</target>
+</phrase>
+<phrase>
+    <source>Error</source>
+    <target>Lỗi</target>
+</phrase>
+<phrase>
+    <source>New</source>
+    <target>Mới</target>
+</phrase>
+<phrase>
+    <source>Resume</source>
+    <target>Tiếp tục</target>
+</phrase>
+<phrase>
+    <source>Opening Book Builder</source>
+    <target>Tạo Cẩm Nang Khai Cuộc</target>
+</phrase>
+<phrase>
+    <source>Input</source>
+    <target>Đầu vào</target>
+</phrase>
+<phrase>
+    <source>Database:</source>
+    <target>CSDL:</target>
+</phrase>
+<phrase>
+    <source>Browser...</source>
+    <target>Xem...</target>
+</phrase>
+<phrase>
+    <source>Output</source>
+    <target>Đầu ra</target>
+</phrase>
+<phrase>
+    <source>Database Builder</source>
+    <target>Tạo Cơ Sở Dữ Liệu</target>
+</phrase>
+<phrase>
+    <source>Event</source>
+    <target>Sự Kiện</target>
+</phrase>
+<phrase>
+    <source>Edit board</source>
+    <target>Soạn bàn cờ</target>
+</phrase>
+<phrase>
+    <source>Color:</source>
+    <target>Mầu:</target>
+</phrase>
+<phrase>
+    <source>Copy</source>
+    <target>Chép</target>
+</phrase>
+<phrase>
+    <source>Path:</source>
+    <target>Đường dẫn:</target>
+</phrase>
+<phrase>
+    <source>Confirm</source>
+    <target>Khẳng định</target>
+</phrase>
+<phrase>
+    <source>Challenge</source>
+    <target>Thách thức</target>
+</phrase>
+<phrase>
+    <source>from:</source>
+    <target>từ:</target>
+</phrase>
+<phrase>
+    <source>rated</source>
+    <target>tính điểm</target>
+</phrase>
+<phrase>
+    <source>Timer:</source>
+    <target>Đồng hồ:</target>
+</phrase>
+<phrase>
+    <source>to:</source>
+    <target>tới:</target>
+</phrase>
+<phrase>
+    <source>close</source>
+    <target>đóng</target>
+</phrase>
+<phrase>
+    <source>Games</source>
+    <target>Ván cờ</target>
+</phrase>
+<phrase>
+    <source>Players</source>
+    <target>Người chơi</target>
+</phrase>
+<phrase>
+    <source>Length</source>
+    <target>Dài</target>
+</phrase>
+<phrase>
+    <source>Reason</source>
+    <target>Lý do</target>
+</phrase>
+<phrase>
+    <source>Clock:</source>
+    <target>Đồng hồ:</target>
+</phrase>
+<phrase>
+    <source>Centipawn</source>
+    <target>phần trăm Chốt</target>
+</phrase>
+<phrase>
+    <source>Nodes</source>
+    <target>Các nút</target>
+</phrase>
+<phrase>
+    <source>Nodes:</source>
+    <target>Các nút:</target>
+</phrase>
+<phrase>
+    <source>Second</source>
+    <target>Giây</target>
+</phrase>
+<phrase>
+    <source>Time:</source>
+    <target>Thời gian:</target>
+</phrase>
+<phrase>
+    <source>Human</source>
+    <target>Người</target>
+</phrase>
+<phrase>
+    <source>Type</source>
+    <target>Kiểu</target>
+</phrase>
+<phrase>
+    <source>Engine:</source>
+    <target>Động cơ:</target>
+</phrase>
+<phrase>
+    <source>Auto</source>
+    <target>Tự động</target>
+</phrase>
+<phrase>
+    <source>password</source>
+    <target>mật khẩu</target>
+</phrase>
+<phrase>
+    <source>Password</source>
+    <target>Mật khẩu</target>
+</phrase>
+<phrase>
+    <source>Auto:</source>
+    <target>Tự động:</target>
+</phrase>
+<phrase>
+    <source>Player:</source>
+    <target>Kỳ thủ:</target>
+</phrase>
+<phrase>
+    <source>All engines</source>
+    <target>Tất cả động cơ</target>
+</phrase>
+<phrase>
+    <source>Save...</source>
+    <target>Lưu...</target>
+</phrase>
+<phrase>
+    <source>Graphics</source>
+    <target>Đồ hoạ</target>
+</phrase>
+<phrase>
+    <source>General</source>
+    <target>Chung</target>
+</phrase>
+<phrase>
+    <source>Engines</source>
+    <target>Các động cơ</target>
+</phrase>
+<phrase>
+    <source>Settings</source>
+    <target>Thiết lập</target>
+</phrase>
+<phrase>
+    <source>Board</source>
+    <target>Bàn cờ</target>
+</phrase>
+<phrase>
+    <source>Background</source>
+    <target>Nền</target>
+</phrase>
+<phrase>
+    <source>Pieces</source>
+    <target>Quân cờ</target>
+</phrase>
+<phrase>
+    <source>Load</source>
+    <target>Tải</target>
+</phrase>
+<phrase>
+    <source>Remove selected row</source>
+    <target>Xoá dòng chọn</target>
+</phrase>
+<phrase>
+    <source>Start</source>
+    <target>Bắt đầu</target>
+</phrase>
+<phrase>
+    <source>Stop</source>
+    <target>Dừng</target>
+</phrase>
+<phrase>
+    <source>No tournament</source>
+    <target>Không thi đấu</target>
+</phrase>
+<phrase>
+    <source>Delete all</source>
+    <target>Xoá tất</target>
+</phrase>
+<phrase>
+    <source>Error:</source>
+    <target>Lỗi:</target>
+</phrase>
+<phrase>
+    <source>Concurrency:</source>
+    <target>Chạy cùng lúc:</target>
+</phrase>
+<phrase>
+    <source>Try to play vs %1</source>
+    <target>Thử chơi với %1</target>
+</phrase>
+<phrase>
+    <source>Trying to play vs %1</source>
+    <target>Đang thử chơi với %1</target>
+</phrase>
+<phrase>
+    <source>Challenge %1</source>
+    <target>Thách thức %1</target>
+</phrase>
+<phrase>
+    <source>connect</source>
+    <target>kết nối</target>
+</phrase>
+<phrase>
+    <source>Events</source>
+    <target>Sự kiện</target>
+</phrase>
+<phrase>
+    <source>Custom</source>
+    <target>Tuỳ chọn</target>
+</phrase>
+<phrase>
+    <source>Click to select</source>
+    <target>Bấm để chọn</target>
+</phrase>
+<phrase>
+    <source>Lake</source>
+    <target>Hồ</target>
+</phrase>
+<phrase>
+    <source>Tile</source>
+    <target>Lợp ngói</target>
+</phrase>
+<phrase>
+    <source>Water</source>
+    <target>Nước</target>
+</phrase>
+<phrase>
+    <source>Wood 0</source>
+    <target>Gỗ 0</target>
+</phrase>
+<phrase>
+    <source>Wood 1</source>
+    <target>Gỗ 1</target>
+</phrase>
+<phrase>
+    <source>Wood 2</source>
+    <target>Gỗ 2</target>
+</phrase>
+<phrase>
+    <source>Country:</source>
+    <target>Nước:</target>
+</phrase>
+<phrase>
+    <source>Black:</source>
+    <target>Đen:</target>
+</phrase>
+<phrase>
+    <source>White:</source>
+    <target>Trắng:</target>
+</phrase>
+<phrase>
+    <source>black color</source>
+    <target>mầu bên đen</target>
+</phrase>
+<phrase>
+    <source>Color pickup</source>
+    <target>Chọn màu</target>
+</phrase>
+<phrase>
+    <source>white color</source>
+    <target>màu bên trắng</target>
+</phrase>
+<phrase>
+    <source>set defaults</source>
+    <target>đặt ngầm định</target>
+</phrase>
+<phrase>
+    <source>Locked</source>
+    <target>Khoá</target>
+</phrase>
+<phrase>
+    <source>status</source>
+    <target>trạng thái</target>
+</phrase>
+<phrase>
+    <source>Your side:</source>
+    <target>Bên của bạn:</target>
+</phrase>
+<phrase>
+    <source>increment:</source>
+    <target>tăng:</target>
+</phrase>
+<phrase>
+    <source>Hour</source>
+    <target>Giờ</target>
+</phrase>
+<phrase>
+    <source>Increment:</source>
+    <target>Tăng:</target>
+</phrase>
+<phrase>
+    <source>All moves</source>
+    <target>Mọi nước</target>
+</phrase>
+<phrase>
+    <source>Depth</source>
+    <target>Sâu</target>
+</phrase>
+<phrase>
+    <source>Minute</source>
+    <target>Phút</target>
+</phrase>
+<phrase>
+    <source>Standard</source>
+    <target>Chuẩn</target>
+</phrase>
+<phrase>
+    <source>Large</source>
+    <target>Lớn</target>
+</phrase>
+<phrase>
+    <source>Medium</source>
+    <target>Trung</target>
+</phrase>
+<phrase>
+    <source>Border color</source>
+    <target>Màu biên</target>
+</phrase>
+<phrase>
+    <source>Flag:</source>
+    <target>Cờ:</target>
+</phrase>
+<phrase>
+    <source>height</source>
+    <target>cao</target>
+</phrase>
+<phrase>
+    <source>Logo:</source>
+    <target>Biểu tượng:</target>
+</phrase>
+<phrase>
+    <source>error</source>
+    <target>lỗi</target>
+</phrase>
+<phrase>
+    <source>downloaded</source>
+    <target>đã tải</target>
+</phrase>
+<phrase>
+    <source>downloading</source>
+    <target>đang tải</target>
+</phrase>
+<phrase>
+    <source>none</source>
+    <target>không</target>
+</phrase>
+<phrase>
+    <source>Active</source>
+    <target>Tích cực</target>
+</phrase>
+<phrase>
+    <source>R</source>
+    <target>Kq</target>
+</phrase>
+<phrase>
+    <source>Date</source>
+    <target>Ngày</target>
+</phrase>
+<phrase>
+    <source>Folder is empty</source>
+    <target>Thư mục rỗng</target>
+</phrase>
+<phrase>
+    <source>Save to folder:</source>
+    <target>Lưu xuống thư mục:</target>
+</phrase>
+<phrase>
+    <source>Auto add after downlloading</source>
+    <target>Tự động kích hoạt sau khi tải</target>
+</phrase>
+<phrase>
+    <source>nodes</source>
+    <target>nút</target>
+</phrase>
+<phrase>
+    <source>pv</source>
+    <target>pv</target>
+</phrase>
+<phrase>
+    <source>time</source>
+    <target>thời gian</target>
+</phrase>
+<phrase>
+    <source>depth</source>
+    <target>sâu</target>
+</phrase>
+<phrase>
+    <source>OK</source>
+    <target>Đồng ý</target>
+</phrase>
+<phrase>
+    <source>Draw:</source>
+    <target>Hoà:</target>
+</phrase>
+<phrase>
+    <source>Resign:</source>
+    <target>Xin thua:</target>
+</phrase>
+<phrase>
+    <source>Side:</source>
+    <target>Bên:</target>
+</phrase>
+<phrase>
+    <source>Two sides</source>
+    <target>Hai bên:</target>
+</phrase>
+<phrase>
+    <source>EPD</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Event:</source>
+    <target>Sự kiện:</target>
+</phrase>
+<phrase>
+    <source>Depth:</source>
+    <target>Sâu:</target>
+</phrase>
+<phrase>
+    <source>Play</source>
+    <target>Chơi</target>
+</phrase>
+<phrase>
+    <source>auto</source>
+    <target>tự động</target>
+</phrase>
+<phrase>
+    <source>Control</source>
+    <target>Điều khiển</target>
+</phrase>
+<phrase>
+    <source>Log</source>
+    <target>Log</target>
+</phrase>
+<phrase>
+    <source>Resullt</source>
+    <target>Kết quả</target>
+</phrase>
+<phrase>
+    <source>Promotion</source>
+    <target>Phong cấp</target>
+</phrase>
+<phrase>
+    <source>About</source>
+    <target>Về chương trình</target>
+</phrase>
+<phrase>
+    <source>Auto check for newer versions</source>
+    <target>Tự động kiểm tra phiên bản mới</target>
+</phrase>
+<phrase>
+    <source>Support:</source>
+    <target>Thông tin, thắc mắc:</target>
+</phrase>
+<phrase>
+    <source>Site:</source>
+    <target>Địa điểm:</target>
+</phrase>
+<phrase>
+    <source>Games:</source>
+    <target>Ván cờ:</target>
+</phrase>
+<phrase>
+    <source>Download</source>
+    <target>Tải</target>
+</phrase>
+<phrase>
+    <source>Game databases</source>
+    <target>CSDL cờ</target>
+</phrase>
+<phrase>
+    <source>Opening books</source>
+    <target>Khai cuộc</target>
+</phrase>
+<phrase>
+    <source>Success</source>
+    <target>Thành công</target>
+</phrase>
+<phrase>
+    <source>Update all lists</source>
+    <target>Cập nhật mọi danh sách</target>
+</phrase>
+<phrase>
+    <source>Always on top</source>
+    <target>Luôn trên đỉnh</target>
+</phrase>
+<phrase>
+    <source>All lists are updated!</source>
+    <target>Mọi danh sách đã được cập nhật!</target>
+</phrase>
+<phrase>
+    <source>Cannot update the lists. Please try later!</source>
+    <target>Không thể cập nhật các danh sách. Hãy thử sau!</target>
+</phrase>
+<phrase>
+    <source>(if you are an author of chess engines/data and want to publish them on this system, contact us)</source>
+    <target>(nếu bạn là chủ các động cơ cờ/dữ liệu và muốn phát hành chúng ở đây, hãy liên lạc với chúng tôi)</target>
+</phrase>
+<phrase>
+    <source>Show</source>
+    <target>Xem</target>
+</phrase>
+<phrase>
+    <source>For moves:</source>
+    <target>Cho số nước:</target>
+</phrase>
+<phrase>
+    <source>Infinite</source>
+    <target>Vô hạn</target>
+</phrase>
+<phrase>
+    <source>Millisecond</source>
+    <target>Milli giây</target>
+</phrase>
+<phrase>
+    <source>Move time</source>
+    <target>Thời gian mỗi nước đi</target>
+</phrase>
+<phrase>
+    <source>Multi timers</source>
+    <target>Đa đồng hồ</target>
+</phrase>
+<phrase>
+    <source> sec</source>
+    <target> giây</target>
+</phrase>
+<phrase>
+    <source>Time control:</source>
+    <target>Đồng hồ chơi:</target>
+</phrase>
+<phrase>
+    <source>Margin per move:</source>
+    <target>Dư cho mỗi nước</target>
+</phrase>
+<phrase>
+    <source>playing</source>
+    <target>đang chơi</target>
+</phrase>
+<phrase>
+    <source>None</source>
+    <target>Không</target>
+</phrase>
+<phrase>
+    <source>Piece style:</source>
+    <target>Kiểu quân:</target>
+</phrase>
+<phrase>
+    <source>In center</source>
+    <target>Ở trung tâm</target>
+</phrase>
+<phrase>
+    <source>Piece material:</source>
+    <target>Chất liệu quân:</target>
+</phrase>
+<phrase>
+    <source>Background:</source>
+    <target>Nền:</target>
+</phrase>
+<phrase>
+    <source>Black cell</source>
+    <target>Ô đen</target>
+</phrase>
+<phrase>
+    <source>Board:</source>
+    <target>Bàn cờ:</target>
+</phrase>
+<phrase>
+    <source>Centre</source>
+    <target>Trung tâm</target>
+</phrase>
+<phrase>
+    <source>default</source>
+    <target>ngầm định</target>
+</phrase>
+<phrase>
+    <source>default</source>
+    <target>ngầm định</target>
+</phrase>
+<phrase>
+    <source>Opacity:</source>
+    <target>Trong suốt:</target>
+</phrase>
+<phrase>
+    <source>Piece:</source>
+    <target>Quân:</target>
+</phrase>
+<phrase>
+    <source>Shadow</source>
+    <target>Bóng đổ</target>
+</phrase>
+<phrase>
+    <source>White cell</source>
+    <target>Ô trắng</target>
+</phrase>
+<phrase>
+    <source>Base</source>
+    <target>Nền bàn cờ</target>
+</phrase>
+<phrase>
+    <source>Auto resize board</source>
+    <target>Tự động chỉnh kích cỡ bàn cờ</target>
+</phrase>
+<phrase>
+    <source>Draw color</source>
+    <target>Mầu hoà</target>
+</phrase>
+<phrase>
+    <source>Losing color</source>
+    <target>Màu thua</target>
+</phrase>
+<phrase>
+    <source>Openings:</source>
+    <target>Khai cuộc:</target>
+</phrase>
+<phrase>
+    <source>Small</source>
+    <target>Nhỏ</target>
+</phrase>
+<phrase>
+    <source>Winning color</source>
+    <target>Màu thắng</target>
+</phrase>
+<phrase>
+    <source>Add opening:</source>
+    <target>Thêm khai cuộc:</target>
+</phrase>
+<phrase>
+    <source>Engine moves</source>
+    <target>Nước đi của máy tính</target>
+</phrase>
+<phrase>
+    <source>Human moves</source>
+    <target>Nước đi của người</target>
+</phrase>
+<phrase>
+    <source>Long</source>
+    <target>Dài</target>
+</phrase>
+<phrase>
+    <source>Normal games</source>
+    <target>Ván thường</target>
+</phrase>
+<phrase>
+    <source>Cores:</source>
+    <target>Số core:</target>
+</phrase>
+<phrase>
+    <source>Hash size:</source>
+    <target>Cỡ bảng hash:</target>
+</phrase>
+<phrase>
+    <source>Overall options</source>
+    <target>Lựa chọn tổng thể</target>
+</phrase>
+<phrase>
+    <source>(men: %1, eg: %2)</source>
+    <target>(bộ nhớ: %1, tàn cuộc: %2)</target>
+</phrase>
+<phrase>
+    <source>Ponder:</source>
+    <target>Nghĩ trước:</target>
+</phrase>
+<phrase>
+    <source>Engine options</source>
+    <target>Các lựa chọn của động cơ</target>
+</phrase>
+<phrase>
+    <source>Configure</source>
+    <target>Cấu hình</target>
+</phrase>
+<phrase>
+    <source>Add</source>
+    <target>Thêm</target>
+</phrase>
+<phrase>
+    <source>Add a new engine</source>
+    <target>Thêm một động cơ mới</target>
+</phrase>
+<phrase>
+    <source>Remove</source>
+    <target>Loại bỏ</target>
+</phrase>
+<phrase>
+    <source>Command</source>
+    <target>Lệnh</target>
+</phrase>
+<phrase>
+    <source>Color</source>
+    <target>Màu</target>
+</phrase>
+<phrase>
+    <source>String cannot be empty</source>
+    <target>Xâu không thể trống</target>
+</phrase>
+<phrase>
+    <source>Working Folder</source>
+    <target>Thư mục làm việc</target>
+</phrase>
+<phrase>
+    <source>Size</source>
+    <target>Cỡ</target>
+</phrase>
+<phrase>
+    <source>Men</source>
+    <target>Số quân</target>
+</phrase>
+<phrase>
+    <source>7 men</source>
+    <target>7 quân</target>
+</phrase>
+<phrase>
+    <source>6 men</source>
+    <target>6 quân</target>
+</phrase>
+<phrase>
+    <source>5 men</source>
+    <target>5 quân</target>
+</phrase>
+<phrase>
+    <source>4 men</source>
+    <target>4 quân</target>
+</phrase>
+<phrase>
+    <source>all</source>
+    <target>tất</target>
+</phrase>
+<phrase>
+    <source>cores:</source>
+    <target>số lõi:</target>
+</phrase>
+<phrase>
+    <source>trying</source>
+    <target>đang thử</target>
+</phrase>
+<phrase>
+    <source>unrated</source>
+    <target>không tính điểm</target>
+</phrase>
+<phrase>
+    <source>Player</source>
+    <target>Người chơi</target>
+</phrase>
+<phrase>
+    <source>sucessed</source>
+    <target>đã thành công</target>
+</phrase>
+<phrase>
+    <source>Rated</source>
+    <target>Tính điểm</target>
+</phrase>
+<phrase>
+    <source>failed</source>
+    <target>không được</target>
+</phrase>
+<phrase>
+    <source>Created at</source>
+    <target>Tạo lúc</target>
+</phrase>
+<phrase>
+    <source>go last</source>
+    <target>về cuối</target>
+</phrase>
+<phrase>
+    <source>Go last</source>
+    <target>Về cuối</target>
+</phrase>
+<phrase>
+    <source>go next</source>
+    <target>tiếp</target>
+</phrase>
+<phrase>
+    <source>Go next</source>
+    <target>Tiếp</target>
+</phrase>
+<phrase>
+    <source>Languages</source>
+    <target>Ngôn ngữ</target>
+</phrase>
+<phrase>
+    <source>Nature</source>
+    <target>Tự nhiên</target>
+</phrase>
+<phrase>
+    <source>Takeback</source>
+    <target>Đi lại</target>
+</phrase>
+<phrase>
+    <source>Wood</source>
+    <target>Gỗ</target>
+</phrase>
+<phrase>
+    <source>Resign/Abort</source>
+    <target>Nhận thua/Bỏ cuộc</target>
+</phrase>
+<phrase>
+    <source>Resign</source>
+    <target>Nhận thua</target>
+</phrase>
+<phrase>
+    <source>name</source>
+    <target>tên</target>
+</phrase>
+<phrase>
+    <source>select</source>
+    <target>chọn</target>
+</phrase>
+<phrase>
+    <source>men</source>
+    <target>quân</target>
+</phrase>
+<phrase>
+    <source>missing rtbw</source>
+    <target>thiếu rbw</target>
+</phrase>
+<phrase>
+    <source>missing rtbz</source>
+    <target>thiếu rtbz</target>
+</phrase>
+<phrase>
+    <source>Normal</source>
+    <target>Thường</target>
+</phrase>
+<phrase>
+    <source>Show:</source>
+    <target>Xem:</target>
+</phrase>
+<phrase>
+    <source>Tech</source>
+    <target>Kỹ thuật</target>
+</phrase>
+<phrase>
+    <source>Tournament result</source>
+    <target>Kết quả thi đấu</target>
+</phrase>
+<phrase>
+    <source>Use percent</source>
+    <target>Hiện phần trăm</target>
+</phrase>
+<phrase>
+    <source>copy text</source>
+    <target>chép văn bản</target>
+</phrase>
+<phrase>
+    <source>Game:</source>
+    <target>Ván cờ:</target>
+</phrase>
+<phrase>
+    <source>Ocean</source>
+    <target>Đại dương</target>
+</phrase>
+<phrase>
+    <source>Delete file</source>
+    <target>Xoá file</target>
+</phrase>
+<phrase>
+    <source>Are you sure?</source>
+    <target>Bạn chắc không?</target>
+</phrase>
+<phrase>
+    <source>Folder:</source>
+    <target>Thư mục:</target>
+</phrase>
+<phrase>
+    <source>Main:</source>
+    <target>Chính:</target>
+</phrase>
+<phrase>
+    <source>Short</source>
+    <target>Ngắn</target>
+</phrase>
+<phrase>
+    <source>Sentence:</source>
+    <target>Câu:</target>
+</phrase>
+<phrase>
+    <source>Simple sound</source>
+    <target>Âm đơn giản</target>
+</phrase>
+<phrase>
+    <source>Language:</source>
+    <target>Ngôn ngữ:</target>
+</phrase>
+<phrase>
+    <source>Sound Configuration</source>
+    <target>Cấu hình âm thanh</target>
+</phrase>
+<phrase>
+    <source>Timer</source>
+    <target>Đồng hồ</target>
+</phrase>
+<phrase>
+    <source>Close Tab</source>
+    <target>Đóng tab</target>
+</phrase>
+<phrase>
+    <source>Dark</source>
+    <target>Tối</target>
+</phrase>
+<phrase>
+    <source>Dark menu color</source>
+    <target>Menu mầu tối</target>
+</phrase>
+<phrase>
+    <source>Default menu color</source>
+    <target>Menu mầu ngầm định</target>
+</phrase>
+<phrase>
+    <source>Draw</source>
+    <target>Hoà</target>
+</phrase>
+<phrase>
+    <source>Draw/offer draw</source>
+    <target>Hoà/Đề nghị hoà</target>
+</phrase>
+<phrase>
+    <source>English</source>
+    <target>Tiếng Anh</target>
+</phrase>
+<phrase>
+    <source>Marble</source>
+    <target>Đá</target>
+</phrase>
+<phrase>
+    <source>Red</source>
+    <target>Đỏ</target>
+</phrase>
+<phrase>
+    <source>Save As</source>
+    <target>Lưu thành</target>
+</phrase>
+<phrase>
+    <source>Setup Game</source>
+    <target>Thiết lập Ván cờ</target>
+</phrase>
+<phrase>
+    <source>Swap players</source>
+    <target>Tráo kỳ thủ</target>
+</phrase>
+<phrase>
+    <source>Vietnamese</source>
+    <target>Tiếng Việt</target>
+</phrase>
+<phrase>
+    <source>Analyse</source>
+    <target>Phân tích</target>
+</phrase>
+<phrase>
+    <source>Always On Top</source>
+    <target>Luôn trên đỉnh</target>
+</phrase>
+<phrase>
+    <source>Engines (%1):</source>
+    <target>Các động cơ (%1):</target>
+</phrase>
+<phrase>
+    <source>Engine log:</source>
+    <target>Log động cơ:</target>
+</phrase>
+<phrase>
+    <source>Remove selected engine(s)</source>
+    <target>Loại bỏ các động cơ chọn</target>
+</phrase>
+<phrase>
+    <source>hash size</source>
+    <target>kích cỡ hash</target>
+</phrase>
+<phrase>
+    <source>settings</source>
+    <target>các thiết lập</target>
+</phrase>
+<phrase>
+    <source>side</source>
+    <target>bên</target>
+</phrase>
+<phrase>
+    <source>add an engine</source>
+    <target>thêm một động cơ</target>
+</phrase>
+<phrase>
+    <source>cores/threads</source>
+    <target>số core</target>
+</phrase>
+<phrase>
+    <source>engine list</source>
+    <target>danh sách động cơ</target>
+</phrase>
+<phrase>
+    <source>reload engine</source>
+    <target>tải lại động cơ</target>
+</phrase>
+<phrase>
+    <source>active</source>
+    <target>kích hoạt</target>
+</phrase>
+<phrase>
+    <source>games</source>
+    <target>ván cờ</target>
+</phrase>
+<phrase>
+    <source>Time Id</source>
+    <target>Id đồng hồ</target>
+</phrase>
+<phrase>
+    <source>depths/move</source>
+    <target>sâu/nước</target>
+</phrase>
+<phrase>
+    <source>time/move</source>
+    <target>thời gian/nước</target>
+</phrase>
+<phrase>
+    <source>moves/game</source>
+    <target>nước/ván</target>
+</phrase>
+<phrase>
+    <source>time/game</source>
+    <target>thời gian/ván</target>
+</phrase>
+<phrase>
+    <source>fails</source>
+    <target>hỏng</target>
+</phrase>
+<phrase>
+    <source>NPS</source>
+    <target>nốt/giây</target>
+</phrase>
+<phrase>
+    <source>KN/move</source>
+    <target>Kilo nốt/nước</target>
+</phrase>
+<phrase>
+    <source>Results and Stats</source>
+    <target>Kết quả và thống kê</target>
+</phrase>
+<phrase>
+    <source>Collecting data...</source>
+    <target>Đang thu thập dữ liệu...</target>
+</phrase>
+<phrase>
+    <source>Open &amp; view</source>
+    <target>Mở và xem</target>
+</phrase>
+<phrase>
+    <source>Play game %1</source>
+    <target>Chơi ván %1</target>
+</phrase>
+<phrase>
+    <source>Play %1 selected game%2</source>
+    <target>Chơi %1 ván được chọn</target>
+</phrase>
+<phrase>
+    <source>Reset to reuse</source>
+    <target>Khởi động để dùng lại</target>
+</phrase>
+<phrase>
+    <source>Tournament in progress</source>
+    <target>Đang thi đấu</target>
+</phrase>
+<phrase>
+    <source> Tournament completed!</source>
+    <target> Thi đấu đã xong</target>
+</phrase>
+<phrase>
+    <source>Engine/human to play</source>
+    <target>Máy/người</target>
+</phrase>
+<phrase>
+    <source>guest</source>
+    <target>khách</target>
+</phrase>
+<phrase>
+    <source>registered</source>
+    <target>đăng ký</target>
+</phrase>
+<phrase>
+    <source>standard</source>
+    <target>cờ chuẩn</target>
+</phrase>
+<phrase>
+    <source>Host:</source>
+    <target>Địa chỉ:</target>
+</phrase>
+<phrase>
+    <source>A newer version has been released</source>
+    <target>Một phiên bản mới đã được phát hành</target>
+</phrase>
+<phrase>
+    <source>New version</source>
+    <target>Phiên bản mới</target>
+</phrase>
+<phrase>
+    <source>Download at:</source>
+    <target>Tải tại</target>
+</phrase>
+<phrase>
+    <source>human</source>
+    <target>người</target>
+</phrase>
+<phrase>
+    <source>engines</source>
+    <target>động cơ</target>
+</phrase>
+<phrase>
+    <source>wining color</source>
+    <target>màu thắng</target>
+</phrase>
+<phrase>
+    <source>draw color</source>
+    <target>màu hoà</target>
+</phrase>
+<phrase>
+    <source>Bubble:</source>
+    <target>Bong bóng:</target>
+</phrase>
+<phrase>
+    <source>Endgame list:</source>
+    <target>Các tàn cuộc:</target>
+</phrase>
+<phrase>
+    <source>Refresh</source>
+    <target>Làm tươi</target>
+</phrase>
+<phrase>
+    <source>selected sides</source>
+    <target>các bên lựa chọn</target>
+</phrase>
+<phrase>
+    <source>Auto play</source>
+    <target>Tự chơi</target>
+</phrase>
+<phrase>
+    <source>Show endgame moves</source>
+    <target>Xem nước đi tàn cuộc</target>
+</phrase>
+<phrase>
+    <source>Connect</source>
+    <target>Kết nối</target>
+</phrase>
+<phrase>
+    <source>New Tournament</source>
+    <target>Thi Đấu Mới</target>
+</phrase>
+<phrase>
+    <source>Create tournament</source>
+    <target>Tạo Thi Đấu</target>
+</phrase>
+<phrase>
+    <source>Create Database</source>
+    <target>Tạo CSDL</target>
+</phrase>
+<phrase>
+    <source>Create Opening</source>
+    <target>Tạo Khai Cuộc</target>
+</phrase>
+<phrase>
+    <source>View Book</source>
+    <target>Xem Khai Cuộc</target>
+</phrase>
+<phrase>
+    <source>black</source>
+    <target>đen</target>
+</phrase>
+<phrase>
+    <source>length</source>
+    <target>dài</target>
+</phrase>
+<phrase>
+    <source>Add time:</source>
+    <target>Thêm thời gian:</target>
+</phrase>
+<phrase>
+    <source>Create a game</source>
+    <target>Tạo ván mới</target>
+</phrase>
+<phrase>
+    <source>wins</source>
+    <target>thắng</target>
+</phrase>
+<phrase>
+    <source>wins%</source>
+    <target>thắng%</target>
+</phrase>
+<phrase>
+    <source>draws</source>
+    <target>hoà</target>
+</phrase>
+<phrase>
+    <source>draws%</source>
+    <target>hoà%</target>
+</phrase>
+<phrase>
+    <source>losses</source>
+    <target>thua</target>
+</phrase>
+<phrase>
+    <source>losses%</source>
+    <target>thua%</target>
+</phrase>
+<phrase>
+    <source>type</source>
+    <target>kiểu</target>
+</phrase>
+<phrase>
+    <source>size</source>
+    <target>kích thước</target>
+</phrase>
+<phrase>
+    <source>downloading rtbw</source>
+    <target>đang tải rtbw</target>
+</phrase>
+<phrase>
+    <source>downloading rtbz</source>
+    <target>đang tải rtbz</target>
+</phrase>
+<phrase>
+    <source>Downloaded</source>
+    <target>Đã tải</target>
+</phrase>
+<phrase>
+    <source>Source:</source>
+    <target>Nguồn:</target>
+</phrase>
+<phrase>
+    <source>Syzygy folders:</source>
+    <target>Các thư mục Syzygy:</target>
+</phrase>
+<phrase>
+    <source>Main folder to store Syzygy endgames</source>
+    <target>Thư mục chính chứa tàn cuộc Syzygy</target>
+</phrase>
+<phrase>
+    <source>include downloaded</source>
+    <target>cả đã tải</target>
+</phrase>
+<phrase>
+    <source>Select:</source>
+    <target>Chọn:</target>
+</phrase>
+<phrase>
+    <source>all 3 men</source>
+    <target>tất cả 3 quân</target>
+</phrase>
+<phrase>
+    <source>all 4 men</source>
+    <target>tất cả 4 quân</target>
+</phrase>
+<phrase>
+    <source>all 4 men</source>
+    <target>tất cả 4 quân</target>
+</phrase>
+<phrase>
+    <source>all 5 men</source>
+    <target>tất cả 5 quân</target>
+</phrase>
+<phrase>
+    <source>all 6 men</source>
+    <target>tất cả 6 quân</target>
+</phrase>
+<phrase>
+    <source>all 7 men</source>
+    <target>tất cả 7 quân</target>
+</phrase>
+<phrase>
+    <source>top 1 of 7 men</source>
+    <target>Top 1 của 7 quân</target>
+</phrase>
+<phrase>
+    <source>deselect all</source>
+    <target>bỏ chọn</target>
+</phrase>
+<phrase>
+    <source>Select Syzygy main folder</source>
+    <target>Chọn thư mục Syzygy chính</target>
+</phrase>
+<phrase>
+    <source>Downloaded: %1%2; Selected: %3%4</source>
+    <target>Đã tải: %1%2; Đã chọn: %3%4</target>
+</phrase>
+<phrase>
+    <source>win:</source>
+    <target>thắng:</target>
+</phrase>
+<phrase>
+    <source>draw:</source>
+    <target>hoà:</target>
+</phrase>
+<phrase>
+    <source>loss:</source>
+    <target>thua:</target>
+</phrase>
+<phrase>
+    <source>win</source>
+    <target>thắng</target>
+</phrase>
+<phrase>
+    <source>draw</source>
+    <target>hoà</target>
+</phrase>
+<phrase>
+    <source>loss</source>
+    <target>thua</target>
+</phrase>
+<phrase>
+    <source>Create New or Add to Existent Opening Book</source>
+    <target>Tạo mới hoặc Thêm vào Khai cuộc có sẵn</target>
+</phrase>
+<phrase>
+    <source>Book file:</source>
+    <target>File khai cuộc:</target>
+</phrase>
+<phrase>
+    <source>Rule:</source>
+    <target>Luật:</target>
+</phrase>
+<phrase>
+    <source>min game length (ply)</source>
+    <target>độ dài (nửa nước) tối thiểu</target>
+</phrase>
+<phrase>
+    <source>min player score</source>
+    <target>điểm ít nhất của kỳ thủ</target>
+</phrase>
+<phrase>
+    <source>repeat at least</source>
+    <target>lặp tối thiểu</target>
+</phrase>
+<phrase>
+    <source>no result:</source>
+    <target>không kết quả</target>
+</phrase>
+<phrase>
+    <source>ignore</source>
+    <target>bỏ qua</target>
+</phrase>
+<phrase>
+    <source>Add to:</source>
+    <target>Thêm đến:</target>
+</phrase>
+<phrase>
+    <source>Missing database file; </source>
+    <target>Thiếu file CSDL;</target>
+</phrase>
+<phrase>
+    <source>Missing opening book file; </source>
+    <target>Thiếu file Khai cuộc;</target>
+</phrase>
+<phrase>
+    <source>Process</source>
+    <target>Xử lý</target>
+</phrase>
+<phrase>
+    <source>Cancel</source>
+    <target>Bỏ</target>
+</phrase>
+<phrase>
+    <source>Done</source>
+    <target>Xong</target>
+</phrase>
+<phrase>
+    <source>Factor:</source>
+    <target>Hệ số:</target>
+</phrase>
+<phrase>
+    <source>Add to length (ply):</source>
+    <target>Thêm đến nước (nửa nước):</target>
+</phrase>
+<phrase>
+    <source>Game added to the opening book!</source>
+    <target>Ván cờ đã được thêm vào cẩm nang khai cuộc</target>
+</phrase>
+<phrase>
+    <source>Cannot add the game to the opening book!</source>
+    <target>Không thể thêm ván cờ này vào cẩm nang khai cuộc</target>
+</phrase>
+<phrase>
+    <source>#games: %2, %1period: %3, speed: %4</source>
+    <target>#ván: %2, %1thời gian: %3, tốc độ: %4</target>
+</phrase>
+<phrase>
+    <source>#nodes: %1, period: %2, speed: %3</source>
+    <target>#nút: %1, thời gian: %2, tốc độ: %3</target>
+</phrase>
+<phrase>
+    <source>Clear</source>
+    <target>Xoá</target>
+</phrase>
+<phrase>
+    <source>Reload</source>
+    <target>Tải lại</target>
+</phrase>
+<phrase>
+    <source>Update</source>
+    <target>Cập nhật</target>
+</phrase>
+<phrase>
+    <source>Click OK to update</source>
+    <target>Bấm OK để cập nhật</target>
+</phrase>
+<phrase>
+    <source>JSON editor</source>
+    <target>Soạn thảo JSON</target>
+</phrase>
+<phrase>
+    <source>Auto update board</source>
+    <target>Tự động cập nhật ván cờ</target>
+</phrase>
+<phrase>
+    <source>Inclusive searching moves</source>
+    <target>Tìm kiếm bao gồm những nước</target>
+</phrase>
+<phrase>
+    <source>All legal moves:</source>
+    <target>Tất cả các nước hợp lệ</target>
+</phrase>
+<phrase>
+    <source>Tick all</source>
+    <target>Đánh dấu tất</target>
+</phrase>
+<phrase>
+    <source>Clear all</source>
+    <target>Xoá tất</target>
+</phrase>
+<phrase>
+    <source>Unticked moves will be excluded from searching and making.</source>
+    <target>Các nước bỏ chọn sẽ không được tìm kiếm và đi</target>
+</phrase>
+<phrase>
+    <source>If they are changed, stop engines then search again to take effect.</source>
+    <target>Nếu có thay đổi, hãy dừng các động cơ rồi cho tìm kiếm lại.</target>
+</phrase>
+<phrase>
+    <source>All moves are unticked!</source>
+    <target>Tất cả các nước bị bỏ chọn!</target>
+</phrase>
+<phrase>
+    <source>Game setup</source>
+    <target>Thiết lập ván cờ</target>
+</phrase>
+<phrase>
+    <source>New tab</source>
+    <target>Tab mới</target>
+</phrase>
+<phrase>
+    <source>Syzygy path:</source>
+    <target>Thư mục Syzygy:</target>
+</phrase>
+<phrase>
+    <source>General settings</source>
+    <target>Thiết lập chung</target>
+</phrase>
+<phrase>
+    <source>Overide settings</source>
+    <target>Thiết lập đè</target>
+</phrase>
+<phrase>
+    <source>You want to abort this game!
+Are you sure?</source>
+    <target>Bạn muốn bỏ ván cờ này
+Bạn có chắc không?</target>
+</phrase>
+<phrase>
+    <source>You want to resign this game!
+Are you sure?</source>
+    <target>Bạn muốn nhận thua ván cờ này
+Bạn có chắc không?</target>
+</phrase>
+<phrase>
+    <source>Your username is is a registered name and already logged in. Please chose another username then login again</source>
+    <target>Tên đăng nhập của bạn là tên đã đăng ký và đang đăng nhập. Hãy chọn tên khác và đăng nhập lại</target>
+</phrase>
+<phrase>
+    <source>Your username is is a registered name but the password is empty. Please enter the password or chose another username then login again</source>
+    <target>Tên đăng nhập của bạn là tên đã đăng ký nhưng phần mật khẩu lại để trống. Hãy nhập mật khẩu hoặc chọn tên khác và đăng nhập lại</target>
+</phrase>
+<phrase>
+    <source>Host incorrect</source>
+    <target>Địa chỉ không đúng</target>
+</phrase>
+<phrase>
+    <source>Host must be in format host:port, e.g.: freechess.org:5000</source>
+    <target>Địa chỉ phải ở dạng host:port, ví dụ: freechess.org:5000</target>
+</phrase>
+<phrase>
+    <source>Observe game id %1</source>
+    <target>Xem ván cờ với id %1</target>
+</phrase>
+<phrase>
+    <source>Tell to %1</source>
+    <target>Tell (nói) với %1</target>
+</phrase>
+<phrase>
+    <source>Auto seek</source>
+    <target>Tự động seek</target>
+</phrase>
+<phrase>
+    <source>Challenge to:</source>
+    <target>Thách thức:</target>
+</phrase>
+<phrase>
+    <source>Auto seek period:</source>
+    <target>Chu kỳ tự động seek:</target>
+</phrase>
+<phrase>
+    <source> s</source>
+    <target> giây</target>
+</phrase>
+<phrase>
+    <source>Score range:</source>
+    <target>Vùng điểm:</target>
+</phrase>
+<phrase>
+    <source>any</source>
+    <target>bất kỳ</target>
+</phrase>
+<phrase>
+    <source> m</source>
+    <target> phút</target>
+</phrase>
+<phrase>
+    <source>Formula:</source>
+    <target>Công thức:</target>
+</phrase>
+<phrase>
+    <source>lightning</source>
+    <target>chớp</target>
+</phrase>
+<phrase>
+    <source>update, period:</source>
+    <target>cập nhật chu kỳ:</target>
+</phrase>
+<phrase>
+    <source>watching</source>
+    <target>đang xem</target>
+</phrase>
+<phrase>
+    <source>yes</source>
+    <target>có</target>
+</phrase>
+<phrase>
+    <source>no</source>
+    <target>không</target>
+</phrase>
+<phrase>
+    <source>private</source>
+    <target>riêng</target>
+</phrase>
+<phrase>
+    <source>Choose File</source>
+    <target>Chọn File</target>
+</phrase>
+<phrase>
+    <source>Image Files (*.png *.jpg *.jpeg *.tif *.bmp);; JPEG (*.jpg *.jpeg);; PNG (*.png);; TIFF (*.tif);; All files (*.*)</source>
+    <target>Các Files Ảnh (*.png *.jpg *.jpeg *.tif *.bmp);; JPEG (*.jpg *.jpeg);; PNG (*.png);; TIFF (*.tif);; All files (*.*)</target>
+</phrase>
+<phrase>
+    <source>Plain color</source>
+    <target>Mầu đơn</target>
+</phrase>
+<phrase>
+    <source>Dark marble</source>
+    <target>Đá xẫm</target>
+</phrase>
+<phrase>
+    <source>Peach marble</source>
+    <target>Đá hồng</target>
+</phrase>
+<phrase>
+    <source>Bronze marble</source>
+    <target>Đá đồng</target>
+</phrase>
+<phrase>
+    <source>Merge Openings</source>
+    <target>Kết hợp các cẩm nang</target>
+</phrase>
+<phrase>
+    <source>min player Elo</source>
+    <target>Elo kỳ thủ ít nhất</target>
+</phrase>
+<phrase>
+    <source>Add values together</source>
+    <target>Cộng các giá trị với nhau</target>
+</phrase>
+<phrase>
+    <source>Priority to 1st book</source>
+    <target>Ưu tiên cẩm nang trước</target>
+</phrase>
+<phrase>
+    <source>Priority to 2nd book</source>
+    <target>Ưu tiên cẩm nang sau</target>
+</phrase>
+<phrase>
+    <source>Reset all to a fix value</source>
+    <target>Đưa về một giá trị cố định</target>
+</phrase>
+<phrase>
+    <source>Take:</source>
+    <target>Lấy:</target>
+</phrase>
+<phrase>
+    <source>for black</source>
+    <target>cho đen</target>
+</phrase>
+<phrase>
+    <source> plies</source>
+    <target>các nửa nước</target>
+</phrase>
+<phrase>
+    <source>Random +/-:</source>
+    <target>Ngẫu nhiên +/-</target>
+</phrase>
+<phrase>
+    <source>Accept duplicated last positions</source>
+    <target>Chấp nhận trùng thế cờ cuối</target>
+</phrase>
+<phrase>
+    <source>Duplicated pos</source>
+    <target>Trùng thế cờ cuối</target>
+</phrase>
+<phrase>
+    <source>Game result factors (0 = ignored):</source>
+    <target>Hệ số kết quả (0 là bỏ qua)</target>
+</phrase>
+<phrase>
+    <source>Select opening file</source>
+    <target>Chọn file cẩm nang</target>
+</phrase>
+<phrase>
+    <source>Select folder of opening files to merge</source>
+    <target>Chọn thư mục của các cẩm nang</target>
+</phrase>
+<phrase>
+    <source>Select database file</source>
+    <target>Chọn file CSDL</target>
+</phrase>
+<phrase>
+    <source>Must select sides; </source>
+    <target>Phải chọn bên;</target>
+</phrase>
+<phrase>
+    <source>Game-length &gt;= 0; </source>
+    <target>Độ dài ván cờ &gt;= 0</target>
+</phrase>
+<phrase>
+    <source>Add-to-length &gt;= 0; </source>
+    <target>Thêm cho đến độ dài &gt;= 0;</target>
+</phrase>
+<phrase>
+    <source>At least one factor &gt; 0; </source>
+    <target>ít nhất một hệ số phải &gt; 0;</target>
+</phrase>
+<phrase>
+    <source>Missing book file folder; </source>
+    <target>Thiếu thư mục các cẩm nang;</target>
+</phrase>
+<phrase>
+    <source>Error: one or two files are not found, corrupted or encrypted</source>
+    <target>Lỗi: thiếu hoặc hỏng hoặc bị mã hoá một hoặc hai file</target>
+</phrase>
+<phrase>
+    <source>Error: books are not same format</source>
+    <target>Lỗi: các cẩm nang không cùng định dạng</target>
+</phrase>
+<phrase>
+    <source>Error: output book is not same extension with input books</source>
+    <target>Lỗi: đầu ra của file cẩm nang không cùng đuôi với đầu vào</target>
+</phrase>
+<phrase>
+    <source>Tasks:</source>
+    <target>Nhiệm vụ:</target>
+</phrase>
+<phrase>
+    <source>Create New Database</source>
+    <target>Tạo CSDL mới</target>
+</phrase>
+<phrase>
+    <source>Tree</source>
+    <target>Cây</target>
+</phrase>
+<phrase>
+    <source>Merge</source>
+    <target>Kết hợp</target>
+</phrase>
+<phrase>
+    <source>Database file:</source>
+    <target>File CSDL:</target>
+</phrase>
+<phrase>
+    <source>file will be created/changed</source>
+    <target>file sẽ được tạo/thay đổi</target>
+</phrase>
+<phrase>
+    <source>2nd Database file:</source>
+    <target>File CSDL 2:</target>
+</phrase>
+<phrase>
+    <source>this file will not be changed</source>
+    <target>file này sẽ không bị thay đổi</target>
+</phrase>
+<phrase>
+    <source>Add tree</source>
+    <target>Thêm cây</target>
+</phrase>
+<phrase>
+    <source>Thread number:</source>
+    <target>Số luồng:</target>
+</phrase>
+<phrase>
+    <source>use for building</source>
+    <target>dùng để tạo</target>
+</phrase>
+<phrase>
+    <source>Info:</source>
+    <target>Thông tin:</target>
+</phrase>
+<phrase>
+    <source>Similar games are ones with all moves matched</source>
+    <target>Ván tương tự là những ván có mọi nước đi giống nhau</target>
+</phrase>
+<phrase>
+    <source>accept</source>
+    <target>chấp nhận</target>
+</phrase>
+<phrase>
+    <source>Chess variant:</source>
+    <target>Biến cờ:</target>
+</phrase>
+<phrase>
+    <source>Similar games:</source>
+    <target>Các ván tương tự:</target>
+</phrase>
+<phrase>
+    <source>To do:</source>
+    <target>Phải làm:</target>
+</phrase>
+<phrase>
+    <source>A SVG file contains all piece images:</source>
+    <target>Một File SVG chứa hình mọi quân cờ:</target>
+</phrase>
+<phrase>
+    <source>Multi files, one piece image per file</source>
+    <target>Nhiều file, mỗi file chứa hình một quân cờ</target>
+</phrase>
+<phrase>
+    <source>Game folder:</source>
+    <target>Thư mục ván cờ:</target>
+</phrase>
+<phrase>
+    <source>including sub folders</source>
+    <target>bao gồm các thư mục con</target>
+</phrase>
+<phrase>
+    <source>Min length:</source>
+    <target>Dài ít nhất:</target>
+</phrase>
+<phrase>
+    <source>plies</source>
+    <target>nửa nước</target>
+</phrase>
+<phrase>
+    <source>Min score:</source>
+    <target>Điểm ít nhất:</target>
+</phrase>
+<phrase>
+    <source>Missing database file;</source>
+    <target>Thiếu file CSDL;</target>
+</phrase>
+<phrase>
+    <source>Missing game folder</source>
+    <target>Thiếu thư mục ván cờ</target>
+</phrase>
+<phrase>
+    <source>Error: different chess type!</source>
+    <target>Lỗi: biến cờ khác!</target>
+</phrase>
+<phrase>
+    <source>#added games: %1 from %2, period: %3</source>
+    <target>#số ván đã thêm: %1 từ %2, thời gian: %3</target>
+</phrase>
+<phrase>
+    <source>#games: %1 of %2, elapsed: %3, speed: %4</source>
+    <target>#ván: %1 của %2, thời gian: %3, tốc độ: %4</target>
+</phrase>
+<phrase>
+    <source>#games: %1, added: %2, elapsed: %3, speed: %4</source>
+    <target>#ván: %1, đã thêm: %2, thời gian: %3, tốc độ: %4</target>
+</phrase>
+<phrase>
+    <source>Open PGN from URL</source>
+    <target>Mở PGN từ địa chỉ</target>
+</phrase>
+<phrase>
+    <source>Stop Analysis</source>
+    <target>Dừng Phân tích</target>
+</phrase>
+<phrase>
+    <source>Game Analysis</source>
+    <target>Phân tích Ván cờ</target>
+</phrase>
+<phrase>
+    <source>Auto analyse game</source>
+    <target>Tự động Phân tích Ván cờ</target>
+</phrase>
+<phrase>
+    <source>Move Now</source>
+    <target>Đi ngay</target>
+</phrase>
+<phrase>
+    <source>Game Setup</source>
+    <target>Thiết lập Ván cờ</target>
+</phrase>
+<phrase>
+    <source>View opening book</source>
+    <target>Xem Cẩm nang Khai cuộc</target>
+</phrase>
+<phrase>
+    <source>Add current game to a book</source>
+    <target>Thêm ván cờ hiện tại vào cẩm nang</target>
+</phrase>
+<phrase>
+    <source>Add current game to an opening book</source>
+    <target>Thêm ván cờ hiện tại vào cẩm nang</target>
+</phrase>
+<phrase>
+    <source>Add current game to a database</source>
+    <target>Thêm ván cờ hiện tại vào một CSDL</target>
+</phrase>
+<phrase>
+    <source>Chess</source>
+    <target>Cờ Vua</target>
+</phrase>
+<phrase>
+    <source>Play for one side</source>
+    <target>Chơi một bên</target>
+</phrase>
+<phrase>
+    <source>Download engines, data</source>
+    <target>Tải động cơ, dữ liệu</target>
+</phrase>
+<phrase>
+    <source>Copy the game as a list of EPD</source>
+    <target>Chép ván cờ dạng nhiều EPD</target>
+</phrase>
+<phrase>
+    <source>Green</source>
+    <target>Xanh cây</target>
+</phrase>
+<phrase>
+    <source>Yellow</source>
+    <target>Vàng</target>
+</phrase>
+<phrase>
+    <source>Default</source>
+    <target>Ngầm định</target>
+</phrase>
+<phrase>
+    <source>Light</source>
+    <target>Sáng</target>
+</phrase>
+<phrase>
+    <source>Light menu color</source>
+    <target>Menu mầu sáng</target>
+</phrase>
+<phrase>
+    <source>Playing games</source>
+    <target>Các ván đang chơi</target>
+</phrase>
+<phrase>
+    <source>Traditional</source>
+    <target>Truyền thống</target>
+</phrase>
+<phrase>
+    <source>Timer id:</source>
+    <target>Id đồng hồ:</target>
+</phrase>
+<phrase>
+    <source>Email:</source>
+    <target>Thư:</target>
+</phrase>
+<phrase>
+    <source>All games</source>
+    <target>Mọi ván</target>
+</phrase>
+<phrase>
+    <source>Max</source>
+    <target>Nhiều nhất</target>
+</phrase>
+<phrase>
+    <source>Games/row:</source>
+    <target>Ván/hàng:</target>
+</phrase>
+<phrase>
+    <source> pawns</source>
+    <target> chốt</target>
+</phrase>
+<phrase>
+    <source>Double click to open a game</source>
+    <target>Bấm kép để mở ván cờ</target>
+</phrase>
+<phrase>
+    <source>Highlight boards with scores from</source>
+    <target>Làm sáng bàn cờ với điểm tối thiểu từ</target>
+</phrase>
+<phrase>
+    <source>Working folder:</source>
+    <target>Thư mục làm việc:</target>
+</phrase>
+<phrase>
+    <source>Engine file:</source>
+    <target>File động cơ:</target>
+</phrase>
+<phrase>
+    <source>Main folder:</source>
+    <target>Thư mục chính:</target>
+</phrase>
+<phrase>
+    <source>learn</source>
+    <target>học</target>
+</phrase>
+<phrase>
+    <source>winrate</source>
+    <target>tỷ lệ thắng</target>
+</phrase>
+<phrase>
+    <source>comment</source>
+    <target>chú thích</target>
+</phrase>
+<phrase>
+    <source>lost</source>
+    <target>thua</target>
+</phrase>
+<phrase>
+    <source>idle</source>
+    <target>không làm gì</target>
+</phrase>
+<phrase>
+    <source>analyse</source>
+    <target>phân tích</target>
+</phrase>
+<phrase>
+    <source>play for a side</source>
+    <target>chơi một bên</target>
+</phrase>
+<phrase>
+    <source>At</source>
+    <target>Tại</target>
+</phrase>
+<phrase>
+    <source>Info</source>
+    <target>Thông tin</target>
+</phrase>
+<phrase>
+    <source>Enter a command then press enter to send</source>
+    <target>Nhập vào một lệnh rồi bấm phím Enter để gửi đi</target>
+</phrase>
+<phrase>
+    <source>Show comments</source>
+    <target>Hiện chú thích</target>
+</phrase>
+<phrase>
+    <source>Show Scores</source>
+    <target>Hiện điểm</target>
+</phrase>
+<phrase>
+    <source>Move increase time for remote engines</source>
+    <target>Tăng thời gian mỗi nước cho máy ở xa</target>
+</phrase>
+<phrase>
+    <source>Local net players</source>
+    <target>Người chơi mạng</target>
+</phrase>
+<phrase>
+    <source>Auto close completed games</source>
+    <target>Tự động đóng khi ván cờ xong</target>
+</phrase>
+<phrase>
+    <source>Player for passive games/created by other computers</source>
+    <target>Người chơi thụ động từ máy ở xa</target>
+</phrase>
+<phrase>
+    <source>Net users</source>
+    <target>Người chơi mạng</target>
+</phrase>
+<phrase>
+    <source>Net games</source>
+    <target>Ván mạng</target>
+</phrase>
+<phrase>
+    <source>Type a message then enter to send</source>
+    <target>Nhập vào một thông báo rồi bấm Enter để gửi đi</target>
+</phrase>
+<phrase>
+    <source>* %1 has joined</source>
+    <target>* %1 đã gia nhập</target>
+</phrase>
+<phrase>
+    <source>* %1 has left</source>
+    <target>* %1 đã rời đi</target>
+</phrase>
+<phrase>
+    <source>Reset</source>
+    <target>Khởi tạo lại</target>
+</phrase>
+<phrase>
+    <source>Syzygy Info</source>
+    <target>Thông tin về Syzygy</target>
+</phrase>
+<phrase>
+    <source>Checksum threads:</source>
+    <target>Số luồng checksum:</target>
+</phrase>
+<phrase>
+    <source>Total endgames: %1 (%2 file%3), mem: %4&lt;br/&gt;Missing: %5 file%6</source>
+    <target>Tổng tàn cuộc: %1 (%2 file%3), quân: %4&lt;br/&gt;Thiếu: %5 file%6</target>
+</phrase>
+<phrase>
+    <source>&lt;br/&gt;Checksum: failed %1/%2</source>
+    <target>&lt;br/&gt;Checksum: sai %1/%2</target>
+</phrase>
+<phrase>
+    <source>One</source>
+    <target>Một</target>
+</phrase>
+<phrase>
+    <source>Detecting...</source>
+    <target>Đang xác định...</target>
+</phrase>
+<phrase>
+    <source>Add Engine</source>
+    <target>Thêm Động cơ</target>
+</phrase>
+<phrase>
+    <source>Add/Edit Engine</source>
+    <target>Thêm/Sửa Động cơ</target>
+</phrase>
+<phrase>
+    <source>Drag and drop file, folder here</source>
+    <target>Kéo thả file, thư mục vào đây</target>
+</phrase>
+<phrase>
+    <source>Detect:</source>
+    <target>Xác định:</target>
+</phrase>
+<phrase>
+    <source>Engines can be in their own sub folders</source>
+    <target>Các động cơ có thể nằm trong các thư mục con</target>
+</phrase>
+<phrase>
+    <source>All engines in a main folder</source>
+    <target>Tất cả các động cơ nằm trong thư mục chính</target>
+</phrase>
+<phrase>
+    <source>Could be more than total of cores</source>
+    <target>Con số có thể lớn hơn số lõi thực sự</target>
+</phrase>
+<phrase>
+    <source>(detect multi engines at once)</source>
+    <target>(xác định nhiều động cơ cùng lúc)</target>
+</phrase>
+<phrase>
+    <source>Protocol:</source>
+    <target>Định dạng:</target>
+</phrase>
+<phrase>
+    <source>Name of the engine, let empty for auto detecting</source>
+    <target>Tên của động cơ, để trống nếu muốn tự động điền vào</target>
+</phrase>
+<phrase>
+    <source>Let empty for auto detecting</source>
+    <target>Để trống nếu muốn tự động điền vào</target>
+</phrase>
+<phrase>
+    <source>Init strings:</source>
+    <target>Chuỗi khởi động:</target>
+</phrase>
+<phrase>
+    <source>Auto detect</source>
+    <target>Tự động xác định</target>
+</phrase>
+<phrase>
+    <source>Modify Engine</source>
+    <target>Sửa đổi Động cơ</target>
+</phrase>
+<phrase>
+    <source>Error: This engine doesn&apos;t support any protocol!</source>
+    <target>Lỗi: Động cơ này không theo định đạng nào nào!</target>
+</phrase>
+<phrase>
+    <source>Error: This engine doesn&apos;t support any protocol!</source>
+    <target>Lỗi: Động cơ này không theo định đạng nào!</target>
+</phrase>
+<phrase>
+    <source>Error: This engine doesn&apos;t support the selected protocol!</source>
+    <target>Lỗi: Động cơ này không theo định đạng đã chọn!</target>
+</phrase>
+<phrase>
+    <source>Error: The folder is empty!</source>
+    <target>Lỗi: Thư mục rỗng!</target>
+</phrase>
+<phrase>
+    <source>Error: Duplicated name</source>
+    <target>Lỗi: Tên trùng</target>
+</phrase>
+<phrase>
+    <source>This name is already existent</source>
+    <target>Tên đã tồn tại</target>
+</phrase>
+<phrase>
+    <source>Value</source>
+    <target>Giá trị</target>
+</phrase>
+<phrase>
+    <source>Range</source>
+    <target>Phạm vi</target>
+</phrase>
+<phrase>
+    <source>Edit JSON</source>
+    <target>Soạn JSON</target>
+</phrase>
+<phrase>
+    <source>Duplicate Engine</source>
+    <target>Nhân đôi Động cơ</target>
+</phrase>
+<phrase>
+    <source>New name:</source>
+    <target>Tên mới:</target>
+</phrase>
+<phrase>
+    <source>Pickup color</source>
+    <target>Chọn màu</target>
+</phrase>
+<phrase>
+    <source>Duplicate</source>
+    <target>Nhân đôi</target>
+</phrase>
+<phrase>
+    <source>Congraturation</source>
+    <target>Chúc mừng</target>
+</phrase>
+<phrase>
+    <source>The engine has resigned!</source>
+    <target>Động cơ đã đăng ký!</target>
+</phrase>
+<phrase>
+    <source>Analysing... %1 of %2</source>
+    <target>Đang phân tích... %1 của %2</target>
+</phrase>
+<phrase>
+    <source>Shutting down computer...</source>
+    <target>Đang tắt máy tính...</target>
+</phrase>
+<phrase>
+    <source>%1 seconds to go...</source>
+    <target>Còn %1 giây...</target>
+</phrase>
+<phrase>
+    <source>copy</source>
+    <target>sao chép</target>
+</phrase>
+<phrase>
+    <source>Dialog</source>
+    <target>Hộp thoại</target>
+</phrase>
+<phrase>
+    <source>Incorrect protocol string</source>
+    <target>Xâu giao thức sai</target>
+</phrase>
+<phrase>
+    <source>Name is taken by other configuration</source>
+    <target>Tên đã được dùng trong cấu hình khác</target>
+</phrase>
+<phrase>
+    <source>live</source>
+    <target>sống</target>
+</phrase>
+<phrase>
+    <source>result</source>
+    <target>kết quả</target>
+</phrase>
+<phrase>
+    <source>owner</source>
+    <target>chủ nhân</target>
+</phrase>
+<phrase>
+    <source>live/moves</source>
+    <target>sống/dài</target>
+</phrase>
+<phrase>
+    <source>date</source>
+    <target>ngày</target>
+</phrase>
+<phrase>
+    <source>Create a new game</source>
+    <target>Tạo ván cờ mới</target>
+</phrase>
+<phrase>
+    <source>Do you want to close all local network games then log out?</source>
+    <target>Bạn có muốn bỏ tất cả các ván cờ trên mạng nội bộ rồi đăng xuất?</target>
+</phrase>
+<phrase>
+    <source>You are playing some local network games</source>
+    <target>Bạn đang chơi vài ván cờ trên mạng nội bộ</target>
+</phrase>
+<phrase>
+    <source>Game database</source>
+    <target>Cơ sở dữ liệu ván cờ</target>
+</phrase>
+<phrase>
+    <source>check as [-range, range]</source>
+    <target>kiểm tra [-range, range]</target>
+</phrase>
+<phrase>
+    <source>Check draw in the range</source>
+    <target>Kiểm tra hoà trong phạm vi</target>
+</phrase>
+<phrase>
+    <source>Check in ply range</source>
+    <target>Kiểm tra trong phạm vi nửa nước</target>
+</phrase>
+<phrase>
+    <source>Draw if exceeds</source>
+    <target>Hoà nếu vượt quá</target>
+</phrase>
+<phrase>
+    <source>Last side</source>
+    <target>Bên đi cuối</target>
+</phrase>
+<phrase>
+    <source>Max game length:</source>
+    <target>Độ dài tối đa:</target>
+</phrase>
+<phrase>
+    <source>Book error</source>
+    <target>Lỗi cẩm nang</target>
+</phrase>
+<phrase>
+    <source>Any</source>
+    <target>Bất kỳ</target>
+</phrase>
+<phrase>
+    <source>Both</source>
+    <target>Cả hai</target>
+</phrase>
+<phrase>
+    <source>Database Viewer</source>
+    <target>Xem CSDL</target>
+</phrase>
+<phrase>
+    <source>Game database</source>
+    <target>CSDL ván cờ</target>
+</phrase>
+<phrase>
+    <source>Limit score:</source>
+    <target>Giới hạn điểm:</target>
+</phrase>
+<phrase>
+    <source>Loading database...</source>
+    <target>Đang tải CSDL...</target>
+</phrase>
+<phrase>
+    <source>Result:</source>
+    <target>Kết quả:</target>
+</phrase>
+<phrase>
+    <source>Searching...</source>
+    <target>Đang tìm...</target>
+</phrase>
+<phrase>
+    <source>Show tree view</source>
+    <target>Xem dạng cây</target>
+</phrase>
+<phrase>
+    <source>Sorting...</source>
+    <target>Đang sắp xếp...</target>
+</phrase>
+<phrase>
+    <source>Stats</source>
+    <target>Thống kê</target>
+</phrase>
+<phrase>
+    <source>There are more than one games. Please select one first</source>
+    <target>Có nhiều ván cờ. Hãy chọn một đã</target>
+</phrase>
+<phrase>
+    <source>There is no game</source>
+    <target>Không có ván cờ nào</target>
+</phrase>
+<phrase>
+    <source>Challenge a user</source>
+    <target>Thách thức một người</target>
+</phrase>
+<phrase>
+    <source>Initial time:</source>
+    <target>Thời gian bắt đầu:</target>
+</phrase>
+<phrase>
+    <source>Random</source>
+    <target>Ngẫu nhiên</target>
+</phrase>
+<phrase>
+    <source>Username:</source>
+    <target>Tên đăng nhập:</target>
+</phrase>
+<phrase>
+    <source>File will be deleted</source>
+    <target>File sẽ biij xoá</target>
+</phrase>
+<phrase>
+    <source>Path is empty</source>
+    <target>Đường dẫn trống</target>
+</phrase>
+<phrase>
+    <source>Path is not exist or not a file</source>
+    <target>Đường dẫn không tồn tại hoặc không phải là file</target>
+</phrase>
+<phrase>
+    <source>Plain</source>
+    <target>Đơn giản</target>
+</phrase>
+<phrase>
+    <source>Alternate</source>
+    <target>Thay thế</target>
+</phrase>
+<phrase>
+    <source>Common</source>
+    <target>Chung</target>
+</phrase>
+<phrase>
+    <source>Historical</source>
+    <target>Lịch sử</target>
+</phrase>
+<phrase>
+    <source>Background material:</source>
+    <target>Vật liệu nền:</target>
+</phrase>
+<phrase>
+    <source>Board material:</source>
+    <target>Vật liệu bàn:</target>
+</phrase>
+<phrase>
+    <source>Board opacity:</source>
+    <target>Độ trong suốt bàn cờ:</target>
+</phrase>
+<phrase>
+    <source>Custom background image:</source>
+    <target>Ảnh nền tự chọn:</target>
+</phrase>
+<phrase>
+    <source>Custom board image</source>
+    <target>Ảnh bàn cờ tự chọn:</target>
+</phrase>
+<phrase>
+    <source>Show board coordinate</source>
+    <target>Xem toạ độ bàn cờ</target>
+</phrase>
+<phrase>
+    <source>Show board grid</source>
+    <target>Xem đường kẻ bàn cờ</target>
+</phrase>
+<phrase>
+    <source>Panel bk</source>
+    <target>Tấm nền</target>
+</phrase>
+<phrase>
+    <source>Scale:</source>
+    <target>Thu phóng:</target>
+</phrase>
+<phrase>
+    <source>Show board base</source>
+    <target>Xem nền bàn cờ</target>
+</phrase>
+<phrase>
+    <source>Show board coordinate</source>
+    <target>Xem toạ độ bàn cờ</target>
+</phrase>
+<phrase>
+    <source>App bk</source>
+    <target>Nền ứng dụng</target>
+</phrase>
+<phrase>
+    <source>Custom image</source>
+    <target>Ảnh tự chọn</target>
+</phrase>
+<phrase>
+    <source>Voice:</source>
+    <target>Dọng:</target>
+</phrase>
+<phrase>
+    <source>Test:</source>
+    <target>Kiểm tra:</target>
+</phrase>
+<phrase>
+    <source>Tournament games</source>
+    <target>Ván thi đấu</target>
+</phrase>
+<phrase>
+    <source>Test sound</source>
+    <target>Thử âm thanh</target>
+</phrase>
+<phrase>
+    <source>Speech engine:</source>
+    <target>Động cơ nói:</target>
+</phrase>
+<phrase>
+    <source>Speech</source>
+    <target>Nói</target>
+</phrase>
+<phrase>
+    <source>Rate:</source>
+    <target>Tỷ số:</target>
+</phrase>
+<phrase>
+    <source>%1: engine or human; %2 moving piece; %3 from cell; %4 to cell; %5 promote</source>
+    <target>%1: động cơ hoặc người; %2 đang đi quân; %3 từ ôl; %4 đến ô; phong cấp %5</target>
+</phrase>
+<phrase>
+    <source>score%</source>
+    <target>điểm%</target>
+</phrase>
+<phrase>
+    <source>Cross</source>
+    <target>Bảng chéo</target>
+</phrase>
+<phrase>
+    <source>scores</source>
+    <target>điểm</target>
+</phrase>
+<phrase>
+    <source>Use percentage for:</source>
+    <target>Dùng phần trăm cho:</target>
+</phrase>
+<phrase>
+    <source>WDL</source>
+    <target>ThắngHoàThua</target>
+</phrase>
+<phrase>
+    <source>, #fails: %1</source>
+    <target>, #hỏng: %1</target>
+</phrase>
+<phrase>
+    <source>Plain text</source>
+    <target>Văn bản đơn</target>
+</phrase>
+<phrase>
+    <source>Stats based on computing moves only, ignored moves with zero node</source>
+    <target>Số liệu chỉ dựa trên nước do động cơ tính; không tính nước không có nút nào</target>
+</phrase>
+<phrase>
+    <source>Tournament finished</source>
+    <target>Đã đấu xong</target>
+</phrase>
+<phrase>
+    <source>#engines</source>
+    <target>#động cơ</target>
+</phrase>
+<phrase>
+    <source>#games</source>
+    <target>#ván cờ</target>
+</phrase>
+<phrase>
+    <source>#played</source>
+    <target>#đã chơi</target>
+</phrase>
+<phrase>
+    <source>Save date</source>
+    <target>Ngày lưu</target>
+</phrase>
+<phrase>
+    <source>Index:</source>
+    <target>Chỉ số:</target>
+</phrase>
+<phrase>
+    <source>Configuration files</source>
+    <target>Các file cấu hình</target>
+</phrase>
+<phrase>
+    <source>Browser</source>
+    <target>Xem</target>
+</phrase>
+<phrase>
+    <source>Copy path to clipboard</source>
+    <target>Chép đường dẫn vào clipboard</target>
+</phrase>
+<phrase>
+    <source>Delete ticked files</source>
+    <target>Xoá file đã đánh dấu</target>
+</phrase>
+<phrase>
+    <source>Download:</source>
+    <target>Tải xuống:</target>
+</phrase>
+<phrase>
+    <source>Files Deleting</source>
+    <target>File đang bị xoá</target>
+</phrase>
+<phrase>
+    <source>Init file:</source>
+    <target>Khởi động file:</target>
+</phrase>
+<phrase>
+    <source>JSON files:</source>
+    <target>File JSON:</target>
+</phrase>
+<phrase>
+    <source>Management:</source>
+    <target>Quản lý:</target>
+</phrase>
+<phrase>
+    <source>Playing:</source>
+    <target>Đang chơi:</target>
+</phrase>
+<phrase>
+    <source>%1 file%2 will be deleted
+After deleting, the app will be closed
+Are you sure?</source>
+    <target>%1 file sẽ bị xoá
+Xoá xong chương trình sẽ đóng lại
+Bạn chắc không?</target>
+</phrase>
+<phrase>
+    <source>Layout file:</source>
+    <target>File định hình:</target>
+</phrase>
+<phrase>
+    <source>Book/Egtb</source>
+    <target>Cẩm nang/Tàn cuộc</target>
+</phrase>
+<phrase>
+    <source>Bubble size</source>
+    <target>Cỡ bong bóng</target>
+</phrase>
+<phrase>
+    <source>Clock at:</source>
+    <target>Đồng hồ tại:</target>
+</phrase>
+<phrase>
+    <source>Click to pickup color</source>
+    <target>Bấm để chọn mầu</target>
+</phrase>
+<phrase>
+    <source>comments</source>
+    <target>chú thích</target>
+</phrase>
+<phrase>
+    <source>Confiuration files:</source>
+    <target>Các file cấu hình:</target>
+</phrase>
+<phrase>
+    <source>Coordinate</source>
+    <target>Toạ độ</target>
+</phrase>
+<phrase>
+    <source>Custom arrows</source>
+    <target>Mũi tên tuỳ chọn</target>
+</phrase>
+<phrase>
+    <source>Digit color</source>
+    <target>Mầu số</target>
+</phrase>
+<phrase>
+    <source>Each move per line</source>
+    <target>Mỗi nước một dòng</target>
+</phrase>
+<phrase>
+    <source>Font size:</source>
+    <target>Cỡ font:</target>
+</phrase>
+<phrase>
+    <source>Font size for digit in 2 lines mode</source>
+    <target>Cỡ font cho số khi hai dòng</target>
+</phrase>
+<phrase>
+    <source>General:</source>
+    <target>Chung:</target>
+</phrase>
+<phrase>
+    <source>Highlight:</source>
+    <target>Nhấn mạnh:</target>
+</phrase>
+<phrase>
+    <source>Legal moves</source>
+    <target>Nước đúng luật</target>
+</phrase>
+<phrase>
+    <source>Main color</source>
+    <target>Mầu chính</target>
+</phrase>
+<phrase>
+    <source>main:</source>
+    <target>chính:</target>
+</phrase>
+<phrase>
+    <source>Move animation</source>
+    <target>Hoạt hình nước đi</target>
+</phrase>
+<phrase>
+    <source>Move highlight</source>
+    <target>Nhấn mạnh nước</target>
+</phrase>
+<phrase>
+    <source>Move list:</source>
+    <target>Các nước:</target>
+</phrase>
+<phrase>
+    <source>Move stats bubbles</source>
+    <target>Bong bóng thống kê nước</target>
+</phrase>
+<phrase>
+    <source>Name color</source>
+    <target>Tên mầu</target>
+</phrase>
+<phrase>
+    <source>Name color</source>
+    <target>Mầu tên</target>
+</phrase>
+<phrase>
+    <source>Normal font size</source>
+    <target>Cỡ phong chuẩn</target>
+</phrase>
+<phrase>
+    <source>Notation:</source>
+    <target>Chuẩn:</target>
+</phrase>
+<phrase>
+    <source>One line</source>
+    <target>Một dòng</target>
+</phrase>
+<phrase>
+    <source>Online game log:</source>
+    <target>Log cho ván cờ online:</target>
+</phrase>
+<phrase>
+    <source>Pawn unit</source>
+    <target>Đơn vị Chốt</target>
+</phrase>
+<phrase>
+    <source>PGN (*.pgn);;All Files (*.*)</source>
+    <target>PGN (*.pgn);;Mọi File (*.*)</target>
+</phrase>
+<phrase>
+    <source>Score in white view</source>
+    <target>Điểm theo trắng</target>
+</phrase>
+<phrase>
+    <source>score in white&apos;s perspective</source>
+    <target>Điểm theo cái nhìn của bên Trắng</target>
+</phrase>
+<phrase>
+    <source>Score indicator</source>
+    <target>Chỉ thị điểm</target>
+</phrase>
+<phrase>
+    <source>second:</source>
+    <target>thứ hai:</target>
+</phrase>
+<phrase>
+    <source>score/depth time, wdl...</source>
+    <target>điểm/sâu thờigian, thắnghoàthua</target>
+</phrase>
+<phrase>
+    <source>Syzgzy Folders:</source>
+    <target>Thư mục Syzygy:</target>
+</phrase>
+<phrase>
+    <source>Work from ply:</source>
+    <target>Kiểm tra từ ply:</target>
+</phrase>
+<phrase>
+    <source>Start checking from this ply</source>
+    <target>Bắt đầu kiểm tra từ ply</target>
+</phrase>
+<phrase>
+    <source>Start checking from this ply</source>
+    <target>Bắt đầu kiểm tra từ ply này</target>
+</phrase>
+<phrase>
+    <source>Cannot paste</source>
+    <target>Không thể dán</target>
+</phrase>
+<phrase>
+    <source>Cannot open game</source>
+    <target>Không thể mở ván cờ</target>
+</phrase>
+<phrase>
+    <source>Cannot create a new tab!</source>
+    <target>Không thể mở tab mới!</target>
+</phrase>
+<phrase>
+    <source>Save Game</source>
+    <target>Lưu Ván cờ</target>
+</phrase>
+<phrase>
+    <source>Bad: cannot detect chess board</source>
+    <target>Lỗi: không thể nhận dạng được bàn cờ</target>
+</phrase>
+<phrase>
+    <source>Good connection</source>
+    <target>Kết nối tốt</target>
+</phrase>
+<phrase>
+    <source>Engines:</source>
+    <target>Các động cơ:</target>
+</phrase>
+<phrase>
+    <source>For a pair:</source>
+    <target>Với một cặp ván:</target>
+</phrase>
+<phrase>
+    <source>Locked side</source>
+    <target>Khoá bên</target>
+</phrase>
+<phrase>
+    <source>No special</source>
+    <target>Không đặc biệt</target>
+</phrase>
+<phrase>
+    <source>Results:</source>
+    <target>Kết quả:</target>
+</phrase>
+<phrase>
+    <source>(Warning: A tournament is playing. Editing may affect it)</source>
+    <target>(Cảnh báo: đang thi đấu. Soạn sửa có thể gây ảnh hưởng)</target>
+</phrase>
+<phrase>
+    <source>Configuration</source>
+    <target>Cấu hình</target>
+</phrase>
+<phrase>
+    <source>Drag &amp; drop image files here</source>
+    <target>Kéo và thả file hình vào đây</target>
+</phrase>
+<phrase>
+    <source>Good</source>
+    <target>Tốt</target>
+</phrase>
+<phrase>
+    <source>click to pickup temporally color</source>
+    <target>bấm để chọn mầu tạm thời</target>
+</phrase>
+<phrase>
+    <source>show board for pv moves</source>
+    <target>hiện bàn cờ để xem các nước pv</target>
+</phrase>
+<phrase>
+    <source>show move stats table</source>
+    <target>hiện bảng thống kê nước đi</target>
+</phrase>
+<phrase>
+    <source>Add current game to book</source>
+    <target>Thếm ván cờ hiện tại vào cẩm nang</target>
+</phrase>
+<phrase>
+    <source>Best move, click to play</source>
+    <target>Nước tốt nhất, bấm vào để đi</target>
+</phrase>
+<phrase>
+    <source>bubble</source>
+    <target>bong bóng</target>
+</phrase>
+<phrase>
+    <source>Different chess variant</source>
+    <target>Khác loại cờ</target>
+</phrase>
+<phrase>
+    <source>Double click to &quot;move&quot; colunm to play, others to edit</source>
+    <target>Bấm kép vào cột &quot;nước đi&quot; để đi, cột khác để sửa</target>
+</phrase>
+<phrase>
+    <source>Opening book settings</source>
+    <target>Mở Thiết lập cẩm nang</target>
+</phrase>
+<phrase>
+    <source>&lt;font color=&quot;darkgreen&quot;&gt;%1 has joined&lt;/font&gt;</source>
+    <target>&lt;font color=&quot;darkgreen&quot;&gt;%1 đã gia nhập&lt;/font&gt;</target>
+</phrase>
+<phrase>
+    <source>&lt;font color=&quot;indianred&quot;&gt;%1 has left&lt;/font&gt;</source>
+    <target>&lt;font color=&quot;indianred&quot;&gt;%1 đã bỏ đi&lt;/font&gt;</target>
+</phrase>
+<phrase>
+    <source>auto login when starting up</source>
+    <target>tự động đăng nhập khi khởi động</target>
+</phrase>
+<phrase>
+    <source>Broadcasted (not live) %1.</source>
+    <target>Đã phát sóng (không phải cờ sống) %1.</target>
+</phrase>
+<phrase>
+    <source>Broadcasting (live) %1...</source>
+    <target>Đang phát sóng (cờ sống) %1.</target>
+</phrase>
+<phrase>
+    <source>Cannot connect, please try later</source>
+    <target>Không thể kết nối, xin thử lại sau</target>
+</phrase>
+<phrase>
+    <source>Double click to open, right click for menu</source>
+    <target>Bấm kép để mở, chuột phải cho menu</target>
+</phrase>
+<phrase>
+    <source>Login</source>
+    <target>Đăng nhập</target>
+</phrase>
+<phrase>
+    <source>Logout</source>
+    <target>Đăng xuất</target>
+</phrase>
+<phrase>
+    <source>Open game %1</source>
+    <target>Mở ván cờ %1</target>
+</phrase>
+<phrase>
+    <source>Preview game %1</source>
+    <target>Xem qua ván cờ %1</target>
+</phrase>
+<phrase>
+    <source>Refresh the game list</source>
+    <target>Làm mới danh sách ván cờ</target>
+</phrase>
+<phrase>
+    <source>Remove game %1</source>
+    <target>Bỏ ván cờ %1</target>
+</phrase>
+<phrase>
+    <source>Stopped broadcasting!</source>
+    <target>Ngừng phát sóng cờ!</target>
+</phrase>
+<phrase>
+    <source>Your name as an owner/publisher</source>
+    <target>Tên bạn cho chủ/người phát hành</target>
+</phrase>
+<phrase>
+    <source>Your name to broadcast as a game owner/publisher</source>
+    <target>Tên bạn đóng vai trò người chủ/phát hành khi phát sóng</target>
+</phrase>
+<phrase>
+    <source>Your name as an owner/publisher</source>
+    <target>Tên bạn cho người chủ/phát hành</target>
+</phrase>
+<phrase>
+    <source>Your name as an owner/publisher</source>
+    <target>Tên bạn như người chủ/phát hành</target>
+</phrase>
+<phrase>
+    <source>Broadcast</source>
+    <target>Phát sóng cờ</target>
+</phrase>
+<phrase>
+    <source>Broadcast current game</source>
+    <target>Phát sóng ván cờ hiện tại</target>
+</phrase>
+<phrase>
+    <source>#moves:</source>
+    <target>#nước:</target>
+</phrase>
+<phrase>
+    <source>black O-O</source>
+    <target>đen O-O</target>
+</phrase>
+<phrase>
+    <source>black O-O-O</source>
+    <target>đen O-O-O</target>
+</phrase>
+<phrase>
+    <source>white O-O-O</source>
+    <target>trắng O-O-O</target>
+</phrase>
+<phrase>
+    <source>white O-O</source>
+    <target>trắng O-O</target>
+</phrase>
+<phrase>
+    <source>half moves:</source>
+    <target>nưả nước:</target>
+</phrase>
+<phrase>
+    <source>Full board</source>
+    <target>Nước</target>
+</phrase>
+<phrase>
+    <source>Flip vertically</source>
+    <target>Lật ngược</target>
+</phrase>
+<phrase>
+    <source>Copy, paste or edit</source>
+    <target>Chép, dán hoặc soạn</target>
+</phrase>
+<phrase>
+    <source>Drag pieces from board and drop out side to remove</source>
+    <target>Xoá: kéo quân cờ từ bàn và thả bên ngoài</target>
+</phrase>
+<phrase>
+    <source>Drag pieces from left bar and drop to board to add</source>
+    <target>Để thêm: kéo quân cờ từ thanh bên trái và thả vào bàn cờ</target>
+</phrase>
+<phrase>
+    <source>Idle</source>
+    <target>Nghỉ</target>
+</phrase>
+<phrase>
+    <source>Load, save, delete tournaments</source>
+    <target>Tải, lưu, xoá thi đấu</target>
+</phrase>
+<phrase>
+    <source>New Tab</source>
+    <target>Tab mới</target>
+</phrase>
+<phrase>
+    <source>New Game Tab</source>
+    <target>Ván cờ và tab mới</target>
+</phrase>
+<phrase>
+    <source>Plain Color</source>
+    <target>Màu Đơn</target>
+</phrase>
+<phrase>
+    <source>Show all playing games</source>
+    <target>Xem các ván cờ đang chơi</target>
+</phrase>
+<phrase>
+    <source>You dropped a folder</source>
+    <target>Bạn đã thả một thư mục</target>
+</phrase>
+<phrase>
+    <source>Cannot download PGN from given URL. Please try later!</source>
+    <target>Không thể tải PGN từ địa chỉ đó. Hãy thử lại sau!</target>
+</phrase>
+<phrase>
+    <source>Cannot show PGN from the given URL. Please try later!</source>
+    <target>Không thể xem PGN từ địa chỉ đó. Hãy thử lại sau!</target>
+</phrase>
+<phrase>
+    <source>Close current tab</source>
+    <target>Đóng tab hiện tại</target>
+</phrase>
+<phrase>
+    <source>Dropped file is not recognized. BanksiaGUI accepts engines, images, svg, games (pgn, epd), .bin (Polyglot) or .bgdb</source>
+    <target>Không hiểu file được thả. BanksiaGUI hiểu được các động cơ, ảnh, svg, ván cờ (PGN, EDP), bin (Polyglot) hoặc .bgdb</target>
+</phrase>
+<phrase>
+    <source>Exclusive Moves</source>
+    <target>Không tính nước</target>
+</phrase>
+<phrase>
+    <source>Play mode</source>
+    <target>Chế độ chơi</target>
+</phrase>
+<phrase>
+    <source>Tournaments Load/Save</source>
+    <target>Tải/Lưu các Thi đấu</target>
+</phrase>
+<phrase>
+    <source>Do you want to detect all engines in that folder, including sub folder?</source>
+    <target>Bạn có muốn tìm tất cả các động cơ trong thư mục này, kể cả trong các thư mục con?</target>
+</phrase>
+<phrase>
+    <source>PGN from given URL is downloaded but error!</source>
+    <target>PGN từ địa chỉ đó đã được tải xuống nhưng bị lỗi!</target>
+</phrase>
+<phrase>
+    <source>! (Good)</source>
+    <target>! (Tốt)</target>
+</phrase>
+<phrase>
+    <source>‼ (Brilliant)</source>
+    <target>!! (Xuất sắc)</target>
+</phrase>
+<phrase>
+    <source>!? (Interesting)</source>
+    <target>!? (Hay)</target>
+</phrase>
+<phrase>
+    <source>? (Mistake)</source>
+    <target>? (Lỗi)</target>
+</phrase>
+<phrase>
+    <source>?! (Dubious)</source>
+    <target>?! (Dở)</target>
+</phrase>
+<phrase>
+    <source>?? (Blunder)</source>
+    <target>?? (Kém)</target>
+</phrase>
+<phrase>
+    <source>Comments:</source>
+    <target>Chú thích:</target>
+</phrase>
+<phrase>
+    <source>Move: </source>
+    <target>Nước đi:</target>
+</phrase>
+<phrase>
+    <source>Move Evaluation Symbols &amp; comment</source>
+    <target>Các ký hiệu bình luận nước đi và chú thích</target>
+</phrase>
+<phrase>
+    <source>Error: empty</source>
+    <target>Lỗi: trống</target>
+</phrase>
+<phrase>
+    <source>Error: string is not an URL</source>
+    <target>Lỗi: xâu này không phải địa chỉ</target>
+</phrase>
+<phrase>
+    <source>live PGN, auto update period:</source>
+    <target>PGN sống, tự động cập nhật:</target>
+</phrase>
+<phrase>
+    <source>Updating a live game...</source>
+    <target>Cập nhật cờ sống...</target>
+</phrase>
+<phrase>
+    <source>URL of a PGN game</source>
+    <target>Địa chỉ của một ván cờ PGN</target>
+</phrase>
+<phrase>
+    <source>URL:</source>
+    <target>Địa chỉ:</target>
+</phrase>
+<phrase>
+    <source>Cannot create</source>
+    <target>Không thể tạo</target>
+</phrase>
+<phrase>
+    <source>Game is empty!
+Cannot add this game to the database</source>
+    <target>Ván cờ trống!
+Không thể thêm ván này vào CSDL</target>
+</phrase>
+<phrase>
+    <source>Cannot read or parse this pgn!</source>
+    <target>Không thể đọc hay phân tích cái file PGN này!</target>
+</phrase>
+<phrase>
+    <source>Cannot read or parse this game!</source>
+    <target>Không thể đọc hay phân tích cái file này!</target>
+</phrase>
+<phrase>
+    <source>There is not any editable book</source>
+    <target>Không có cẩm nang nào cho thêm, sửa</target>
+</phrase>
+<phrase>
+    <source>Game is empty or not from starting position!
+Cannot add this game to opening books</source>
+    <target>Ván cờ trống hoặc không bắt đầu từ ban đầu!
+Không thể thêm ván cờ này vào các cẩm nang</target>
+</phrase>
+<phrase>
+    <source>Cannot add game to opening book</source>
+    <target>Không thể thêm ván cờ này vào các cẩm nang</target>
+</phrase>
+<phrase>
+    <source>Game is empty!
+Cannot analyse this game</source>
+    <target>Ván cờ trống! Không thể phân tích ván cờ này</target>
+</phrase>
+<phrase>
+    <source>Layout %1</source>
+    <target>Bố trí %1</target>
+</phrase>
+<phrase>
+    <source>Theme %1</source>
+    <target>Chủ đề %1</target>
+</phrase>
+<phrase>
+    <source>Chess960 All Positions</source>
+    <target>Chess960 Tất Cả Thế Cờ Đầu</target>
+</phrase>
+<phrase>
+    <source>Win%</source>
+    <target>Thắng%</target>
+</phrase>
+<phrase>
+    <source>undefined</source>
+    <target>không định nghĩa</target>
+</phrase>
+<phrase>
+    <source>Swap sides</source>
+    <target>Hoán bên</target>
+</phrase>
+<phrase>
+    <source>Site to write to PGN file</source>
+    <target>Nơi chơi để lưu ra PGN</target>
+</phrase>
+<phrase>
+    <source>Event to write to PGN file</source>
+    <target>Sự kiện để lưu ra PGN</target>
+</phrase>
+<phrase>
+    <source>Adjudication:</source>
+    <target>Xét xử:</target>
+</phrase>
+<phrase>
+    <source>Double click remove</source>
+    <target>Bấm kép để loại</target>
+</phrase>
+<phrase>
+    <source>Copy selected engines or all</source>
+    <target>Sao chép các động cơ được chọn hoặc tất cả</target>
+</phrase>
+<phrase>
+    <source>Remove selected engines or all</source>
+    <target>Bỏ các động cơ được chọn hoặc tất cả</target>
+</phrase>
+<phrase>
+    <source>Double click to pickup engines</source>
+    <target>Bấm kép để chọn động cơ</target>
+</phrase>
+<phrase>
+    <source>setup</source>
+    <target>thiết lập</target>
+</phrase>
+<phrase>
+    <source>Shutdown computer when tournament finished</source>
+    <target>Tắt máy tính khi Thi đấu xong</target>
+</phrase>
+<phrase>
+    <source>Shutdown after</source>
+    <target>Tắt máy sau</target>
+</phrase>
+<phrase>
+    <source>Cannot parse JSON string, ignored!</source>
+    <target>Không thể phân tích chuỗi JSON, bỏ qua!</target>
+</phrase>
+<phrase>
+    <source>Participants (%1):</source>
+    <target>Các động sẽ chơi (%1):</target>
+</phrase>
+<phrase>
+    <source>(empty)</source>
+    <target>(trống)</target>
+</phrase>
+<phrase>
+    <source>(#books: %1)</source>
+    <target>(#cẩm nang: %1)</target>
+</phrase>
+<phrase>
+    <source>(no log)</source>
+    <target>(không log)</target>
+</phrase>
+<phrase>
+    <source>A tournament is playing
+Stop the tournament?</source>
+    <target>Một Thi đấu đang chơi
+Dừng Thi đấu này?</target>
+</phrase>
+<phrase>
+    <source>One participant must be ticked as the gauntlet</source>
+    <target>Phải chọn một động cơ làm người chơi chính</target>
+</phrase>
+<phrase>
+    <source>Generating match list...</source>
+    <target>Đang tạo danh sách các ván thi đấu...</target>
+</phrase>
+<phrase>
+    <source>Swiss rounds:</source>
+    <target>Vòng Thuỵ Sĩ:</target>
+</phrase>
+<phrase>
+    <source>Engine&apos;s side</source>
+    <target>Bên động cơ</target>
+</phrase>
+<phrase>
+    <source>Send strings directly to engines (enter to send)</source>
+    <target>Gửi xâu thẳng đến động cơ (bấm Enter để gửi)</target>
+</phrase>
+<phrase>
+    <source>Save Theme &amp;&amp; Layout</source>
+    <target>Lưu Chủ đề &amp;&amp; Bố trí</target>
+</phrase>
+<phrase>
+    <source>Save theme and layout</source>
+    <target>Lưu chủ đề và bố trí</target>
+</phrase>
+<phrase>
+    <source>Theme Color</source>
+    <target>Chủ đề Màu</target>
+</phrase>
+<phrase>
+    <source>Theme Wood</source>
+    <target>Chủ đề Gỗ</target>
+</phrase>
+<phrase>
+    <source>Theme Marble</source>
+    <target>Chủ đề Đá</target>
+</phrase>
+<phrase>
+    <source>Theme Green</source>
+    <target>Chủ đề Xanh</target>
+</phrase>
+<phrase>
+    <source>Theme Ocean</source>
+    <target>Chủ đề Đại dương</target>
+</phrase>
+<phrase>
+    <source>Theme Yellow</source>
+    <target>Chủ đề Vàng</target>
+</phrase>
+<phrase>
+    <source>Zen</source>
+    <target>Thiền</target>
+</phrase>
+<phrase>
+    <source>Theme Zen</source>
+    <target>Chủ đề Thiền</target>
+</phrase>
+<phrase>
+    <source>Theme Nature</source>
+    <target>Chủ đề Thiên nhiên</target>
+</phrase>
+<phrase>
+    <source>Theme Red</source>
+    <target>Chủ đề Đỏ</target>
+</phrase>
+<phrase>
+    <source>Docks</source>
+    <target>Neo đậu</target>
+</phrase>
+<phrase>
+    <source>Flip On/Off All Docks</source>
+    <target>Đảo Ngược Tất Cả Neo Đậu</target>
+</phrase>
+<phrase>
+    <source>Show/hide all docks</source>
+    <target>Bật/tắt tất cả các neo đậu</target>
+</phrase>
+<phrase>
+    <source>Show/hide all docks</source>
+    <target>Bật/tắt tất cả các neo đậu</target>
+</phrase>
+<phrase>
+    <source>Remove Theme %1</source>
+    <target>Loại bỏ Chủ đề %1</target>
+</phrase>
+<phrase>
+    <source>Layout</source>
+    <target>Bố trí</target>
+</phrase>
+<phrase>
+    <source>Save/Delete Theme and Layout</source>
+    <target>Lưu/Xoá Chủ đề và Bố trí</target>
+</phrase>
+<phrase>
+    <source>Remove Layout %1</source>
+    <target>Loại bỏ Bố trí %1</target>
+</phrase>
+<phrase>
+    <source>Warning: Winboard engines don&apos;t support Nodes mode</source>
+    <target>Lưu ý: các động cơ Winboard không dùng được chế độ Nodes</target>
+</phrase>
+<phrase>
+    <source>Tournament Logs</source>
+    <target>Logs Thi đấu</target>
+</phrase>
+<phrase>
+    <source>Tournament Logs</source>
+    <target>Logs Thi đấu</target>
+</phrase>
+<phrase>
+    <source>Update All Engines Options</source>
+    <target>Cập nhật Lựa chọn Của Tất cả Động cơ</target>
+</phrase>
+<phrase>
+    <source>All engines will be run to update their option lists</source>
+    <target>Tất cả các động cơ sẽ được chạy để cập nhật danh sách lựa chọn</target>
+</phrase>
+<phrase>
+    <source>Syzygy Folders:</source>
+    <target>Thư mục Syzygy:</target>
+</phrase>
+<phrase>
+    <source>Ply range:</source>
+    <target>Khoảng nửa nước:</target>
+</phrase>
+<phrase>
+    <source>mode</source>
+    <target>chế độ</target>
+</phrase>
+<phrase>
+    <source>Reset to defaults</source>
+    <target>Đặt lại về ngầm định</target>
+</phrase>
+<phrase>
+    <source>Adjudication Configuration</source>
+    <target>Thiết lập cho Xét xử</target>
+</phrase>
+<phrase>
+    <source>accept games without tag Variant. Should check for Standard chess</source>
+    <target>chấp nhận ván cờ thiếu thẻ Variant. Phải chọn cho Cờ chuẩn</target>
+</phrase>
+<phrase>
+    <source>accept games without tag Variant. Should check for Standard chess</source>
+    <target>chấp nhận ván cờ thiếu thẻ Variant. Nên chọn cho Cờ chuẩn</target>
+</phrase>
+<phrase>
+    <source>Accept missing tag Variant</source>
+    <target>Lấy cả ván thiếu thẻ Variant</target>
+</phrase>
+<phrase>
+    <source>Save Log</source>
+    <target>Lưu Log</target>
+</phrase>
+<phrase>
+    <source>Error or insufficient privileges: The log could not be saved to file &quot;%1&quot;.</source>
+    <target>Lỗi hoặc thếu quyền: Không thể lưu log xuống file &quot;%1&quot;.</target>
+</phrase>
+<phrase>
+    <source>Fix permissions / redo or try to save to other file.</source>
+    <target>Sửa quyền rồi làm lại hoặc lưu ra file khác.</target>
+</phrase>
+<phrase>
+    <source>Time out: The log could not be saved to file &quot;%1&quot;</source>
+    <target>Hết giờ: Không thể lưu log xuống file &quot;%1&quot;.</target>
+</phrase>
+<phrase>
+    <source>Redo or try to save to other file.</source>
+    <target>Làm lại hoặc lưu ra file khác.</target>
+</phrase>
+<phrase>
+    <source>The file &quot;%1&quot; could not be saved.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Sound</source>
+    <target>Âm thanh</target>
+</phrase>
+<phrase>
+    <source>Thinking arrows</source>
+    <target>Mũi tên nghĩ</target>
+</phrase>
+<phrase>
+    <source>Above board</source>
+    <target>Tên bàn cờ</target>
+</phrase>
+<phrase>
+    <source>Under board</source>
+    <target>Dưới bàn cờ</target>
+</phrase>
+<phrase>
+    <source>A dock panel</source>
+    <target>Một bảng</target>
+</phrase>
+<phrase>
+    <source>Text colors:</source>
+    <target>Mầu chữ:</target>
+</phrase>
+<phrase>
+    <source>Background color</source>
+    <target>Màu nền</target>
+</phrase>
+<phrase>
+    <source>Text colors:</source>
+    <target>Màu chữ:</target>
+</phrase>
+<phrase>
+    <source>width</source>
+    <target>rộng</target>
+</phrase>
+<phrase>
+    <source>Standard Algebraic</source>
+    <target>Chuẩn Đại số</target>
+</phrase>
+<phrase>
+    <source>Traditional in Chinese</source>
+    <target>Chữ Trung truyền thống</target>
+</phrase>
+<phrase>
+    <source>Traditional in Vietnamese</source>
+    <target>Việt truyền thống</target>
+</phrase>
+<phrase>
+    <source>Traditional in Vietnamese words</source>
+    <target>Từ Việt truyền thống</target>
+</phrase>
+<phrase>
+    <source>stats</source>
+    <target>thống kê</target>
+</phrase>
+<phrase>
+    <source>Auto play move period:</source>
+    <target>Chu kỳ tự động chạy nước:</target>
+</phrase>
+<phrase>
+    <source>Stats:</source>
+    <target>Thống kê:</target>
+</phrase>
+<phrase>
+    <source>WDL chart:</source>
+    <target>Đồ thị WDL:</target>
+</phrase>
+<phrase>
+    <source>To save games from ICS, Lichess...</source>
+    <target>Để lưu ván cờ của ICS, Lichess...</target>
+</phrase>
+<phrase>
+    <source>View/Edit/Delete</source>
+    <target>Xem/Sửa/Xoá</target>
+</phrase>
+<phrase>
+    <source>Store computing info as comments</source>
+    <target>Lưu thông tin tính toán như chú thích</target>
+</phrase>
+<phrase>
+    <source>Select a PGN file or enter a new name</source>
+    <target>Chọn file PGN hoặc nhập vào tên mới</target>
+</phrase>
+<phrase>
+    <source>Graph logarithmic scaling</source>
+    <target>Đồ thị dạng Logarithm</target>
+</phrase>
+<phrase>
+    <source>Browse</source>
+    <target>Xem</target>
+</phrase>
+<phrase>
+    <source>Books/Egtbs</source>
+    <target>Cẩm nagn/Tàn cuộc</target>
+</phrase>
+<phrase>
+    <source>Auto play opening book moves</source>
+    <target>Tự đông chơi khai cuộc</target>
+</phrase>
+<phrase>
+    <source>Bubble size:</source>
+    <target>Kích cỡ bóng:</target>
+</phrase>
+<phrase>
+    <source>Show 2nd param</source>
+    <target>Hiện tham số thứ 2</target>
+</phrase>
+<phrase>
+    <source>Online book/egtb</source>
+    <target>Cẩm nang/tàn cuộc online</target>
+</phrase>
+<phrase>
+    <source>Double click to edit, drag / drop to re-order</source>
+    <target>Bấm kép để soạn, kéo/thả để đổi thứ tự</target>
+</phrase>
+<phrase>
+    <source>Cannot add book</source>
+    <target>Không thể thêm cẩm nang</target>
+</phrase>
+<phrase>
+    <source>Book may be existant already or broken!</source>
+    <target>Cẩm nang có thể đã tồn tại hoặc bị hỏng!</target>
+</phrase>
+<phrase>
+    <source>Book may be existant already!</source>
+    <target>Cẩm nang có thể đã tồn tại!</target>
+</phrase>
+<phrase>
+    <source>Multi folders, separated by %1</source>
+    <target>Đa thư mục, cách bởi dấu %1</target>
+</phrase>
+</QPH>
