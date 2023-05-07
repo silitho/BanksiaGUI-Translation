@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="de_DE">
+<TS version="2.1" language="vi_VN">
 <context>
     <name>AboutBanksiaDlg</name>
     <message>
         <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="20"/>
         <source>About</source>
-        <translation>Über</translation>
+        <translation>Về chương trình</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="118"/>
@@ -21,17 +21,17 @@
     <message>
         <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="155"/>
         <source>Auto check for newer versions</source>
-        <translation>automatisch nach neuer Version suchen</translation>
+        <translation>Tự động kiểm tra phiên bản mới</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="183"/>
         <source>Support:</source>
-        <translation></translation>
+        <translation>Thông tin, thắc mắc:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="203"/>
         <source>Home:</source>
-        <translation></translation>
+        <translation>Trang nhà:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="216"/>
@@ -41,7 +41,7 @@
     <message>
         <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="233"/>
         <source>Email:</source>
-        <translation>E-Mail:</translation>
+        <translation>Thư:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="246"/>
@@ -66,16 +66,16 @@
     <message>
         <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="306"/>
         <source>https://banksiagui.com/download/</source>
-        <translation type="unfinished">https://banksiagui.com/download/</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Forums:</source>
-        <translation type="vanished">Forum:</translation>
+        <translation type="vanished">Diễn đàn:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="330"/>
         <source>It is a freeware, based on our open source:</source>
-        <translation>Freeware basierend auf der Open Source Software:</translation>
+        <translation>Đây là trình miễn phí, xây dựng dựa trên mã nguồn mở của chúng tôi:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="343"/>
@@ -85,14 +85,13 @@
     <message>
         <location filename="../../ui/dlg/aboutbanksiadlg.ui" line="360"/>
         <source>Credits:</source>
-        <translation>Anerkennung:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dlg/aboutbanksiadlg.cpp" line="23"/>
         <source>The latest:
 %1</source>
-        <translation>Neuste Version:
-%1</translation>
+        <translation>Mới nhất: %1</translation>
     </message>
 </context>
 <context>
@@ -100,7 +99,7 @@
     <message>
         <location filename="../../ui/dlg/aboutdialog.ui" line="20"/>
         <source>About</source>
-        <translation>Über</translation>
+        <translation>Về chương trình</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/aboutdialog.ui" line="118"/>
@@ -115,17 +114,17 @@
     <message>
         <location filename="../../ui/dlg/aboutdialog.ui" line="155"/>
         <source>Auto check for newer versions</source>
-        <translation type="unfinished">automatisch nach neuer Version suchen</translation>
+        <translation type="unfinished">Tự động kiểm tra phiên bản mới</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/aboutdialog.ui" line="183"/>
         <source>Support:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Thông tin, thắc mắc:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/aboutdialog.ui" line="203"/>
         <source>Home:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Trang nhà:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/aboutdialog.ui" line="216"/>
@@ -135,7 +134,7 @@
     <message>
         <location filename="../../ui/dlg/aboutdialog.ui" line="233"/>
         <source>Email:</source>
-        <translation type="unfinished">E-Mail:</translation>
+        <translation type="unfinished">Thư:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/aboutdialog.ui" line="246"/>
@@ -155,26 +154,21 @@
     <message>
         <location filename="../../ui/dlg/aboutdialog.ui" line="297"/>
         <source>Credits:</source>
-        <translation type="unfinished">Anerkennung:</translation>
-    </message>
-    <message>
-        <source>Activate</source>
-        <translation type="vanished">aktivieren</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="vanished">kopieren</translation>
+        <translation type="vanished">Chép</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Fehler</translation>
+        <translation type="vanished">Lỗi</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/aboutdialog.cpp" line="83"/>
         <source>The latest:
 %1</source>
-        <translation type="unfinished">Neuste Version:
-%1</translation>
+        <translation type="unfinished">Mới nhất: %1</translation>
     </message>
 </context>
 <context>
@@ -182,57 +176,57 @@
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="14"/>
         <source>Playing games</source>
-        <translation>aktive Partien</translation>
+        <translation>Các ván đang chơi</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="32"/>
         <source>Normal</source>
-        <translation>normal</translation>
+        <translation>Thường</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="48"/>
         <source>Tournament</source>
-        <translation>Turnier</translation>
+        <translation>Thi đấu</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="58"/>
         <source>Show:</source>
-        <translation>zeige:</translation>
+        <translation>Xem:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="72"/>
         <source>All games</source>
-        <translation>alle Partien</translation>
+        <translation>Mọi ván</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="77"/>
         <source>Max</source>
-        <translation>maximal</translation>
+        <translation>Nhiều nhất</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="98"/>
         <source>Games/row:</source>
-        <translation>Partien/Zeile:</translation>
+        <translation>Ván/hàng:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="121"/>
         <source>Always on top</source>
-        <translation>immer im Vordergrund</translation>
+        <translation>Luôn trên đỉnh</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="145"/>
         <source>Highlight boards with scores from</source>
-        <translation>hervorheben von Partien mit Wertung von</translation>
+        <translation>Làm sáng bàn cờ với điểm tối thiểu từ</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="158"/>
         <source> pawns</source>
-        <translation> Bauern</translation>
+        <translation> chốt</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/activegamewidget.ui" line="205"/>
         <source>Double click to open a game</source>
-        <translation>Doppelklick zum Öffnen der Partie</translation>
+        <translation>Bấm kép để mở ván cờ</translation>
     </message>
 </context>
 <context>
@@ -240,174 +234,169 @@
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="17"/>
         <source>Add/Edit Engine</source>
-        <translation>Engine hinzufügen/ändern</translation>
+        <translation>Thêm/Sửa Động cơ</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="20"/>
         <source>Drag and drop file, folder here</source>
-        <translation></translation>
+        <translation>Kéo thả file, thư mục vào đây</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="37"/>
         <source>Detect:</source>
-        <translation></translation>
+        <translation>Xác định:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="47"/>
         <source>One</source>
-        <translation></translation>
+        <translation>Một</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="57"/>
         <source>Engines can be in their own sub folders</source>
-        <translation></translation>
+        <translation>Các động cơ có thể nằm trong các thư mục con</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="60"/>
         <source>All engines in a main folder</source>
-        <translation></translation>
+        <translation>Tất cả các động cơ nằm trong thư mục chính</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="93"/>
         <source>Main folder:</source>
-        <translation></translation>
+        <translation>Thư mục chính:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="123"/>
         <source>Concurrency:</source>
-        <translation>Parallelität:</translation>
+        <translation>Chạy cùng lúc:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="139"/>
         <source>Could be more than total of cores</source>
-        <translation></translation>
+        <translation>Con số có thể lớn hơn số lõi thực sự</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="155"/>
         <source>(detect multi engines at once)</source>
-        <translation></translation>
+        <translation>(xác định nhiều động cơ cùng lúc)</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="185"/>
         <source>Protocol:</source>
-        <translation>Protokoll:</translation>
+        <translation>Định dạng:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="228"/>
         <source>Engine file:</source>
-        <translation>Engine Datei:</translation>
+        <translation>File động cơ:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="258"/>
         <source>Name:</source>
-        <translation>Name:</translation>
+        <translation>Tên:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="268"/>
         <source>Name of the engine, let empty for auto detecting</source>
-        <translation></translation>
+        <translation>Tên của động cơ, để trống nếu muốn tự động điền vào</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="271"/>
         <source>Let empty for auto detecting</source>
-        <translation></translation>
+        <translation>Để trống nếu muốn tự động điền vào</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="288"/>
         <source>Working folder:</source>
-        <translation>Arbeitsverzeichnis:</translation>
+        <translation>Thư mục làm việc:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="318"/>
         <source>Logo:</source>
-        <translation>Logo:</translation>
+        <translation>Biểu tượng:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="348"/>
         <source>Color:</source>
-        <translation>Farbe:</translation>
+        <translation>Mầu:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="389"/>
         <source>Country:</source>
-        <translation>Land:</translation>
+        <translation>Nước:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="447"/>
         <source>Init strings:</source>
-        <translation></translation>
+        <translation>Chuỗi khởi động:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.ui" line="475"/>
         <source>Detecting...</source>
-        <translation></translation>
+        <translation>Đang xác định...</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="52"/>
         <source>Auto detect</source>
-        <translation></translation>
+        <translation>Tự động xác định</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="62"/>
         <source>Modify Engine</source>
-        <translation>Engine ändern</translation>
+        <translation>Sửa đổi Động cơ</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="86"/>
         <source>Add Engine</source>
-        <translation>Engine hinzufügen</translation>
+        <translation>Thêm Động cơ</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="215"/>
         <source>Error: This engine doesn&apos;t support any protocol!</source>
-        <translation></translation>
+        <translation>Lỗi: Động cơ này không theo định đạng nào nào!</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="217"/>
         <source>Error: This engine doesn&apos;t support the selected protocol!</source>
-        <translation></translation>
+        <translation>Lỗi: Động cơ này không theo định đạng đã chọn!</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="480"/>
         <source>Error: The folder is empty!</source>
-        <translation></translation>
+        <translation>Lỗi: Thư mục rỗng!</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="512"/>
         <source>Error: Duplicated name</source>
-        <translation></translation>
+        <translation>Lỗi: Tên trùng</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/addenginedialog.cpp" line="512"/>
         <source>This name is already existent</source>
-        <translation>Dieser Name existiert bereits</translation>
+        <translation>Tên đã tồn tại</translation>
     </message>
 </context>
 <context>
     <name>AddGame2DbDlg</name>
     <message>
+        <location filename="../../ui/tools/addgame2dbdlg.cpp" line="21"/>
+        <source>Game database</source>
+        <translation>Cơ sở dữ liệu ván cờ</translation>
+    </message>
+    <message>
         <location filename="../../ui/tools/addgame2dbdlg.ui" line="14"/>
         <source>Add current game to a database</source>
-        <translation>aktuelle Partie zur Datenbank hinzufügen</translation>
+        <translation>Thêm ván cờ hiện tại vào một CSDL</translation>
     </message>
     <message>
         <location filename="../../ui/tools/addgame2dbdlg.ui" line="26"/>
         <source>Db path:</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <location filename="../../ui/tools/addgame2dbdlg.cpp" line="21"/>
-        <source>Game database</source>
-        <translation>Partie Datenbank</translation>
-    </message>
 </context>
 <context>
     <name>AdjudicationDlg</name>
-    <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="14"/>
-        <source>Adjudication Configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <location filename="../../ui/tour/adjudicationdlg.ui" line="41"/>
         <source>By endgame tablebases:</source>
@@ -416,117 +405,45 @@
     <message>
         <location filename="../../ui/tour/adjudicationdlg.ui" line="75"/>
         <source>Syzygy Folders:</source>
-        <translation>Syzygy Verzeichnisse:</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="89"/>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="101"/>
-        <source>set 0 to ignore, draw when game lengths exceed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="92"/>
-        <source>Max game length:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="104"/>
-        <source> plies</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="125"/>
-        <source>Draw if exceeds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="174"/>
-        <source>Draw by engine scores:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="204"/>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="371"/>
-        <source>mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Thư mục Syzygy:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/adjudicationdlg.ui" line="226"/>
         <location filename="../../ui/tour/adjudicationdlg.ui" line="238"/>
         <source>Start checking from this ply</source>
-        <translation type="unfinished"></translation>
+        <translation>Bắt đầu kiểm tra từ ply</translation>
     </message>
     <message>
         <location filename="../../ui/tour/adjudicationdlg.ui" line="229"/>
         <source>Work from ply:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiểm tra từ ply:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/adjudicationdlg.ui" line="248"/>
         <source>Check in ply range</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiểm tra trong phạm vi nửa nước</translation>
     </message>
     <message>
         <location filename="../../ui/tour/adjudicationdlg.ui" line="251"/>
         <location filename="../../ui/tour/adjudicationdlg.ui" line="454"/>
         <source>Ply range:</source>
-        <translation type="unfinished"></translation>
+        <translation>Khoảng nửa nước:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/adjudicationdlg.ui" line="258"/>
         <source>Check draw in the range</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiểm tra hoà trong phạm vi</translation>
     </message>
     <message>
         <location filename="../../ui/tour/adjudicationdlg.ui" line="286"/>
         <source>Score range:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vùng điểm:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/adjudicationdlg.ui" line="295"/>
         <location filename="../../ui/tour/adjudicationdlg.ui" line="402"/>
         <source> centipawn</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="325"/>
-        <source>check as [-range, range]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="341"/>
-        <source>Resign by engine scores:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="393"/>
-        <source>Score threshold:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="447"/>
-        <source>score must be negative, check as &lt; score</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="463"/>
-        <source>Check resign in the range</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="491"/>
-        <source>Side:</source>
-        <translation>Seite:</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="500"/>
-        <source>Last side</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="507"/>
-        <source>Two sides</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tour/adjudicationdlg.ui" line="529"/>
@@ -559,6 +476,26 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="625"/>
+        <source>OK</source>
+        <translation>Đồng ý</translation>
+    </message>
+    <message>
+        <source>Resign:</source>
+        <translation type="vanished">Xin thua:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="204"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="371"/>
+        <source>mode</source>
+        <translation>chế độ</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="393"/>
+        <source>Score threshold:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../ui/tour/adjudicationdlg.ui" line="590"/>
         <source>(Ref: Q: 9, R: 5, B: 3, N: 3, P: 1)</source>
         <translation type="unfinished"></translation>
@@ -566,12 +503,81 @@
     <message>
         <location filename="../../ui/tour/adjudicationdlg.ui" line="615"/>
         <source>Reset to defaults</source>
-        <translation>auf Standard zurücksetzen</translation>
+        <translation>Đặt lại về ngầm định</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/adjudicationdlg.ui" line="625"/>
-        <source>OK</source>
-        <translation>OK</translation>
+        <source>Draw:</source>
+        <translation type="vanished">Hoà:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="325"/>
+        <source>check as [-range, range]</source>
+        <translation>kiểm tra [-range, range]</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="447"/>
+        <source>score must be negative, check as &lt; score</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="500"/>
+        <source>Last side</source>
+        <translation>Bên đi cuối</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="507"/>
+        <source>Two sides</source>
+        <translation>Hai bên:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="491"/>
+        <source>Side:</source>
+        <translation>Bên:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="14"/>
+        <source>Adjudication Configuration</source>
+        <translation>Thiết lập cho Xét xử</translation>
+    </message>
+    <message>
+        <source>Syzgzy Folders:</source>
+        <translation type="vanished">Thư mục Syzygy:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="89"/>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="101"/>
+        <source>set 0 to ignore, draw when game lengths exceed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="92"/>
+        <source>Max game length:</source>
+        <translation>Độ dài tối đa:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="104"/>
+        <source> plies</source>
+        <translation>các nửa nước</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="125"/>
+        <source>Draw if exceeds</source>
+        <translation>Hoà nếu vượt quá</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="174"/>
+        <source>Draw by engine scores:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="341"/>
+        <source>Resign by engine scores:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/adjudicationdlg.ui" line="463"/>
+        <source>Check resign in the range</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tour/adjudicationdlg.cpp" line="114"/>
@@ -589,7 +595,7 @@
     <message>
         <location filename="../../ui/dlg/analysedlg.ui" line="14"/>
         <source>Analyse Current Game</source>
-        <translation>analysiere aktive Partie</translation>
+        <translation>Phân Tích Ván Cờ Hiện Tại</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/analysedlg.ui" line="52"/>
@@ -614,37 +620,37 @@
     <message>
         <location filename="../../ui/dlg/analysedlg.ui" line="194"/>
         <source>Sides:</source>
-        <translation>Seiten:</translation>
+        <translation>Các bên:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/analysedlg.ui" line="203"/>
         <source>white</source>
-        <translation>Weiß</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dlg/analysedlg.ui" line="213"/>
         <source>black</source>
-        <translation>Schwarz</translation>
+        <translation>đen</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/analysedlg.ui" line="238"/>
         <source>Range:</source>
-        <translation>Bereich:</translation>
+        <translation>Độ dài:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/analysedlg.ui" line="245"/>
         <source>all moves</source>
-        <translation>alle Züge</translation>
+        <translation>tất cả các nước</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/analysedlg.ui" line="260"/>
         <source>From (plies):</source>
-        <translation>von (plies):</translation>
+        <translation>Từ (nửa nước):</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/analysedlg.ui" line="283"/>
         <source>To:</source>
-        <translation>bis:</translation>
+        <translation>Đến:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/analysedlg.ui" line="324"/>
@@ -669,12 +675,12 @@
     <message>
         <location filename="../../ui/dlg/analysedlg.ui" line="464"/>
         <source>Start</source>
-        <translation>Start</translation>
+        <translation>Bắt đầu</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/analysedlg.cpp" line="92"/>
         <source>Available engines (%1):</source>
-        <translation>verfügbare Engines (%1):</translation>
+        <translation>Các động cơ hiện hữu (%1):</translation>
     </message>
 </context>
 <context>
@@ -682,88 +688,88 @@
     <message>
         <location filename="../../main/basewindow.cpp" line="926"/>
         <source>Layout %1</source>
-        <translation>Layout %1</translation>
+        <translation>Bố trí %1</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="928"/>
         <source>Theme %1</source>
-        <translation>Design %1</translation>
+        <translation>Chủ đề %1</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Fehler</translation>
+        <translation type="vanished">Lỗi</translation>
     </message>
     <message>
         <source>Game is empty!
 Cannot add this game to the database</source>
-        <translation type="vanished">Partie ist leer!
-Kann diese Partie nicht zur Datenbank hinzufügen.</translation>
+        <translation type="vanished">Ván cờ trống!
+Không thể thêm ván này vào CSDL</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="1882"/>
         <source>Open Game</source>
-        <translation>Öffne Partie</translation>
+        <translation>Mở</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="1885"/>
         <source>Portable Game Notation (*.pgn);;All Files (*.*)</source>
-        <translation>Portable Game Notation (*.pgn);;alle Dateien (*.*)</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="1887"/>
         <source>Portable Game Notation (*.pgn);;CCF (*.ccf);;MXQ (*.mxq);;XQF (*.xqf);;All Known Files (*.pgn *.ccf *.mxq *.xqf);;All Files (*.*)</source>
-        <translation>Portable Game Notation (*.pgn);;CCF (*.ccf);;MXQ (*.mxq);;XQF (*.xqf);;alle bekannten Dateien (*.pgn *.ccf *.mxq *.xqf);;alle Dateien (*.*)</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Cannot open game</source>
-        <translation type="vanished">kann Partie nicht öffnen</translation>
+        <translation type="vanished">Không thể mở ván cờ</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="1898"/>
         <source>Cannot read or parse this pgn!</source>
-        <translation>Kann dieses pgn nicht lesen oder analysieren!</translation>
+        <translation>Không thể đọc hay phân tích cái file PGN này!</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="2002"/>
         <source>Save Game</source>
-        <translation>Speichere Partie</translation>
+        <translation>Lưu Ván cờ</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="2004"/>
         <source>Portable Game Notation (*.pgn);;Extended Position Description (*.epd);;All Files (*.*)</source>
-        <translation>Portable Game Notation (*.pgn);;Extended Position Description (*.epd);;alle Dateien (*.*)</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Cannot create</source>
-        <translation type="vanished">kann nicht erstellen</translation>
+        <translation type="vanished">Không thể tạo</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="2145"/>
         <source>Cannot create a new tab!</source>
-        <translation>Kann keinen neuen Tab erstellen!</translation>
+        <translation>Không thể mở tab mới!</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="2160"/>
         <source>game</source>
-        <translation>Partie</translation>
+        <translation>ván </translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="2160"/>
         <source>FEN</source>
-        <translation>FEN</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Cannot paste</source>
-        <translation type="vanished">kann nicht einfügen</translation>
+        <translation type="vanished">Không thể dán</translation>
     </message>
     <message>
         <source>Score graph</source>
-        <translation type="obsolete">Wertungsdiagramm</translation>
+        <translation type="obsolete">Đồ thị điểm</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="316"/>
         <source>Engine info</source>
-        <translation type="unfinished">Engine Info</translation>
+        <translation type="unfinished">Thông tin động cơ</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="324"/>
@@ -773,7 +779,7 @@ Kann diese Partie nicht zur Datenbank hinzufügen.</translation>
     <message>
         <location filename="../../main/basewindow.cpp" line="333"/>
         <source>Tournament</source>
-        <translation type="unfinished">Turnier</translation>
+        <translation type="unfinished">Thi đấu</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="341"/>
@@ -783,42 +789,42 @@ Kann diese Partie nicht zur Datenbank hinzufügen.</translation>
     <message>
         <location filename="../../main/basewindow.cpp" line="353"/>
         <source>Local Network</source>
-        <translation type="unfinished">Lokales Netzwerk</translation>
+        <translation type="unfinished">Mạng nội bộ</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="365"/>
         <source>Clock</source>
-        <translation type="unfinished">Uhr</translation>
+        <translation type="unfinished">Đồng hồ</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="394"/>
         <source>Strings, stats</source>
-        <translation type="unfinished">Ausgaben, Statistiken</translation>
+        <translation type="unfinished">Xâu, thống kê</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="401"/>
         <source>Engine log</source>
-        <translation type="unfinished">Engine Log</translation>
+        <translation type="unfinished">Log động cơ</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="415"/>
         <source>Moves</source>
-        <translation type="unfinished">Notation</translation>
+        <translation type="unfinished">Các nước đi</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="424"/>
         <source>Books/Egtb</source>
-        <translation type="unfinished">Bücher/EGTB</translation>
+        <translation type="unfinished">Khai/Tàn cuộc</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="439"/>
         <source>Internet Chess Server</source>
-        <translation type="unfinished">Internet Schach Server</translation>
+        <translation type="unfinished">Máy chủ cờ ICS</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="448"/>
         <source>Lichess bots</source>
-        <translation type="unfinished">Lichess Bots</translation>
+        <translation type="unfinished">Robot cho Lichess</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="464"/>
@@ -844,28 +850,29 @@ Cannot add this game to the database</source>
     <message>
         <location filename="../../main/basewindow.cpp" line="2163"/>
         <source>Cannot read or parse this game!</source>
-        <translation>Kann diese Partie nicht lesen oder analysieren!</translation>
+        <translation>Không thể đọc hay phân tích cái file này!</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="2545"/>
         <source>There is not any editable book</source>
-        <translation type="unfinished"></translation>
+        <translation>Không có cẩm nang nào cho thêm, sửa</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="2549"/>
         <source>Game is empty or not from starting position!
 Cannot add this game to opening books</source>
-        <translation type="unfinished"></translation>
+        <translation>Ván cờ trống hoặc không bắt đầu từ ban đầu!
+Không thể thêm ván cờ này vào các cẩm nang</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="2560"/>
         <source>Cannot add game to opening book</source>
-        <translation>kann Partie nicht zum Eröffnungsbuch hinzufügen</translation>
+        <translation>Không thể thêm ván cờ này vào các cẩm nang</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="2561"/>
         <source>Error:</source>
-        <translation>Fehler:</translation>
+        <translation>Lỗi:</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="2970"/>
@@ -882,24 +889,23 @@ Cannot add this game to opening books</source>
     <message>
         <source>Game is empty!
 Cannot analyse this game</source>
-        <translation type="vanished">Partie ist leer!
-Kann diese Partie nicht analysieren.</translation>
+        <translation type="vanished">Ván cờ trống! Không thể phân tích ván cờ này</translation>
     </message>
 </context>
 <context>
     <name>BasicChartWidget</name>
     <message>
         <source>move</source>
-        <translation type="obsolete">Zug</translation>
+        <translation type="obsolete">nước</translation>
     </message>
     <message>
         <source>score</source>
-        <translation type="obsolete">Wertung</translation>
+        <translation type="obsolete">điểm</translation>
     </message>
     <message>
         <location filename="../../ui/comm/chartwidget.cpp" line="679"/>
         <source>Score graph</source>
-        <translation type="unfinished">Wertungsdiagramm</translation>
+        <translation type="unfinished">Đồ thị điểm</translation>
     </message>
     <message>
         <location filename="../../ui/comm/chartwidget.cpp" line="680"/>
@@ -932,57 +938,42 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/net/basicnetwidget.cpp" line="96"/>
         <source>&lt;Human&gt;</source>
-        <translation>&lt;Spieler&gt;</translation>
+        <translation>&lt;Người&gt;</translation>
     </message>
     <message>
         <location filename="../../ui/net/basicnetwidget.cpp" line="266"/>
         <source>You are playing some local network games</source>
-        <translation>Sie spielen einige Partien im lokalen Netzwerk</translation>
+        <translation>Bạn đang chơi vài ván cờ trên mạng nội bộ</translation>
     </message>
     <message>
         <location filename="../../ui/net/basicnetwidget.cpp" line="267"/>
         <source>Do you want to close all local network games then log out?</source>
-        <translation>Möchten Sie alle Partien im lokalen Netzwerk schließen und sich dann abmelden?</translation>
+        <translation>Bạn có muốn bỏ tất cả các ván cờ trên mạng nội bộ rồi đăng xuất?</translation>
     </message>
     <message>
         <location filename="../../ui/net/basicnetwidget.cpp" line="291"/>
         <source>Disconnect</source>
-        <translation>trennen</translation>
+        <translation>Cắt kết nối</translation>
     </message>
     <message>
         <location filename="../../ui/net/basicnetwidget.cpp" line="291"/>
         <source>Connect</source>
-        <translation>verbinden</translation>
+        <translation>Kết nối</translation>
     </message>
     <message>
         <location filename="../../ui/net/basicnetwidget.cpp" line="307"/>
         <source>&lt;b&gt;&lt;font color=%1&gt;%2:&lt;/font&gt;&lt;/b&gt; %3</source>
-        <translation>&lt;b&gt;&lt;font color=%1&gt;%2:&lt;/font&gt;&lt;/b&gt; %3</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/net/basicnetwidget.cpp" line="383"/>
         <source>Create a new game</source>
-        <translation>erstelle neue Partie</translation>
+        <translation>Tạo ván cờ </translation>
     </message>
     <message>
         <location filename="../../ui/net/basicnetwidget.cpp" line="391"/>
         <source>Create a new game vs %1</source>
-        <translation>erstelle neue Partie vs %1</translation>
-    </message>
-</context>
-<context>
-    <name>BenchmarkDlg</name>
-    <message>
-        <source>Run Engines With Parameters</source>
-        <translation type="vanished">Engines mit Parametern ausführen</translation>
-    </message>
-    <message>
-        <source>Run</source>
-        <translation type="vanished">ausführen</translation>
-    </message>
-    <message>
-        <source>Output:</source>
-        <translation type="vanished">Ausgabe:</translation>
+        <translation>Tạo ván cờ mới chống lại %1</translation>
     </message>
 </context>
 <context>
@@ -990,17 +981,17 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/dev/benchmarkenginetablemodel.cpp" line="112"/>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation type="unfinished">Tên</translation>
     </message>
     <message>
         <location filename="../../ui/dev/benchmarkenginetablemodel.cpp" line="114"/>
         <source>Parameters</source>
-        <translation>Parameter</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dev/benchmarkenginetablemodel.cpp" line="116"/>
         <source>Cmd</source>
-        <translation>Kommando</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1008,58 +999,58 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="14"/>
         <source>Run benchmark/command</source>
-        <translation>Benchmark/Kommando ausführen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="27"/>
         <source>This function is to run frequently engines with parameters such as taking benchmarks or for any purposes. Double click on parameters column and edit to change permanently, edit command line (Cmd) to change temporarily.</source>
-        <translation type="unfinished">Diese Funktion dient dazu, häufig Engines mit Parametern wie Benchmarks oder für andere Zwecke auszuführen. Doppelklicken Sie auf die Parameterspalte und bearbeiten Sie sie, um sie dauerhaft zu ändern. Bearbeiten Sie die Befehlszeile (Kommando), um sie vorübergehend zu ändern.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="58"/>
         <source>Cmd:</source>
-        <translation>Kommando:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="65"/>
         <source>Command to run, edit for temporary change</source>
-        <translation>Befehl zum Ausführen, bearbeiten für vorübergehende Änderung</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="76"/>
         <location filename="../../ui/dev/benchmarkwidget.cpp" line="144"/>
         <source>Run</source>
-        <translation>ausführen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="96"/>
         <source>Always on top</source>
-        <translation>immer im Vordergrund</translation>
+        <translation type="unfinished">Luôn trên đỉnh</translation>
     </message>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="111"/>
         <source>Output:</source>
-        <translation>Ausgabe:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="118"/>
         <source>Copy output to clipboard</source>
-        <translation>kopiere Ausgabe in dieZwischenablage</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="132"/>
         <source>Clear output</source>
-        <translation>Ausgabe leeren</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.ui" line="135"/>
         <source>clear</source>
-        <translation>leeren</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dev/benchmarkwidget.cpp" line="144"/>
         <source>Stop</source>
-        <translation>Stop</translation>
+        <translation type="unfinished">Dừng</translation>
     </message>
 </context>
 <context>
@@ -1072,17 +1063,17 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="59"/>
         <source>Auto update board</source>
-        <translation>Board automatisch aktualisieren</translation>
+        <translation>Tự động cập nhật ván cờ</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="62"/>
         <source>auto</source>
-        <translation>auto</translation>
+        <translation>tự động</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="85"/>
         <source>Go first</source>
-        <translation>Gehe zum Anfang der Partie</translation>
+        <translation>Đến nước đầu </translation>
     </message>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="88"/>
@@ -1090,37 +1081,37 @@ Kann diese Partie nicht analysieren.</translation>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="116"/>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="130"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="99"/>
         <source>Go previous move</source>
-        <translation>Gehe zum vorherigen Zug</translation>
+        <translation>Đến nước trước</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="113"/>
         <source>Go next move</source>
-        <translation>Gehe zum nächsten Zug</translation>
+        <translation>Đến nước tiếp</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="127"/>
         <source>Go last move</source>
-        <translation>Gehe zum Ende der Partie</translation>
+        <translation>Đến nước cuối</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="141"/>
         <source>Auto play moves</source>
-        <translation>Züge automatisch spielen</translation>
+        <translation>Tự động chơi</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="159"/>
         <source>0/1</source>
-        <translation>0/1</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dlg/boardviewwidget.ui" line="179"/>
         <source>Copy PGN into clipboard</source>
-        <translation>Kopiere PGN in die Zwischenablage</translation>
+        <translation>Chép PGN vào clipboard</translation>
     </message>
 </context>
 <context>
@@ -1128,52 +1119,52 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tools/bookaddcurrentgamedialog.ui" line="14"/>
         <source>Add game to opening books</source>
-        <translation>Partie zum Eröffnungsbuch hinzufügen</translation>
+        <translation>Thêm ván cờ vào cẩm nang khai cuộc</translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookaddcurrentgamedialog.ui" line="22"/>
         <source>Add to book:</source>
-        <translation>Hinzufügen zum Buch:</translation>
+        <translation>Thêm vào cẩm nang:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookaddcurrentgamedialog.ui" line="45"/>
         <source>Add to length (ply):</source>
-        <translation>hinzufügen zur Länge (ply):</translation>
+        <translation>Thêm đến nước (nửa nước):</translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookaddcurrentgamedialog.ui" line="82"/>
         <source>Factor:</source>
-        <translation>Faktor:</translation>
+        <translation>Hệ số:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookaddcurrentgamedialog.ui" line="121"/>
         <source>White</source>
-        <translation>Weiß</translation>
+        <translation>Trắng</translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookaddcurrentgamedialog.ui" line="131"/>
         <source>Black</source>
-        <translation>Schwarz</translation>
+        <translation>Đen</translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookaddcurrentgamedialog.ui" line="153"/>
         <source>Side:</source>
-        <translation>Seite:</translation>
+        <translation>Bên:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookaddcurrentgamedialog.cpp" line="115"/>
         <source>Game added to the opening book!</source>
-        <translation>Partie zum Eröffnungsbuch hinzugefügt!</translation>
+        <translation>Ván cờ đã được thêm vào cẩm nang khai cuộc</translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookaddcurrentgamedialog.cpp" line="120"/>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation>Lỗi</translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookaddcurrentgamedialog.cpp" line="120"/>
         <source>Cannot add the game to the opening book!</source>
-        <translation>Kann Partie nicht zum Eröffnungsbuch hinzufügen!</translation>
+        <translation>Không thể thêm ván cờ này vào cẩm nang khai cuộc</translation>
     </message>
 </context>
 <context>
@@ -1186,7 +1177,7 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tools/bookcomputingwidget.ui" line="66"/>
         <source>Variant:</source>
-        <translation type="unfinished">Variante:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookcomputingwidget.ui" line="84"/>
@@ -1196,12 +1187,12 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tools/bookcomputingwidget.ui" line="108"/>
         <source>Chess</source>
-        <translation type="unfinished">Standard Schach</translation>
+        <translation type="unfinished">Cờ Vua</translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookcomputingwidget.ui" line="121"/>
         <source>Chess960</source>
-        <translation type="unfinished">Chess 960</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookcomputingwidget.ui" line="146"/>
@@ -1232,7 +1223,7 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tools/bookcomputingwidget.ui" line="225"/>
         <source>Engine:</source>
-        <translation type="unfinished">Engine:</translation>
+        <translation type="unfinished">Động cơ:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookcomputingwidget.ui" line="263"/>
@@ -1262,12 +1253,12 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tools/bookcomputingwidget.ui" line="373"/>
         <source>Always on top</source>
-        <translation type="unfinished">immer im Vordergrund</translation>
+        <translation type="unfinished">Luôn trên đỉnh</translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookcomputingwidget.ui" line="416"/>
         <source>0/0</source>
-        <translation type="unfinished">0/0</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookcomputingwidget.cpp" line="38"/>
@@ -1277,7 +1268,7 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tools/bookcomputingwidget.cpp" line="97"/>
         <source>Resume</source>
-        <translation type="unfinished">fortsetzen</translation>
+        <translation type="unfinished">Tiếp tục</translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookcomputingwidget.cpp" line="98"/>
@@ -1287,17 +1278,17 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tools/bookcomputingwidget.cpp" line="240"/>
         <source>Start</source>
-        <translation type="unfinished">Start</translation>
+        <translation type="unfinished">Bắt đầu</translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookcomputingwidget.cpp" line="240"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dừng</translation>
     </message>
     <message>
         <location filename="../../ui/tools/bookcomputingwidget.cpp" line="240"/>
         <source>Done</source>
-        <translation type="unfinished">erledigt</translation>
+        <translation type="unfinished">Xong</translation>
     </message>
 </context>
 <context>
@@ -1305,53 +1296,53 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="475"/>
         <source>move</source>
-        <translation>Zug</translation>
+        <translation>nước</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="477"/>
         <source>score</source>
-        <translation>Wertung</translation>
+        <translation>điểm</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="484"/>
         <source>learn</source>
-        <translation>lernen</translation>
+        <translation>học</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="486"/>
         <source>winrate</source>
-        <translation>Gewinnrate</translation>
+        <translation>tỷ lệ thắng</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="486"/>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="501"/>
         <source>comment</source>
-        <translation>Kommentar</translation>
+        <translation>chú thích</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="494"/>
         <source>active</source>
-        <translation>aktiv</translation>
+        <translation>kích hoạt</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="505"/>
         <source>win%</source>
-        <translation>Sieg%</translation>
+        <translation>thắng%</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="506"/>
         <source>win</source>
-        <translation>Sieg</translation>
+        <translation>thắng</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="507"/>
         <source>draw</source>
-        <translation>Remis</translation>
+        <translation>hoà</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovetablemodel.cpp" line="508"/>
         <source>lost</source>
-        <translation>Niederlage</translation>
+        <translation>thua</translation>
     </message>
 </context>
 <context>
@@ -1364,42 +1355,42 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/comm/bookmovewidget.ui" line="43"/>
         <source>active</source>
-        <translation>aktiv</translation>
+        <translation>kích hoạt</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovewidget.ui" line="62"/>
         <source>Best move, click to play</source>
-        <translation>bester Zug, klicken, um diesen zu spielen</translation>
+        <translation>Nước tốt nhất, bấm vào để đi</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovewidget.ui" line="116"/>
         <source>Add current game to book</source>
-        <translation>aktuelle Partie zum Eröffnungsbuch hinzufügen</translation>
+        <translation>Thếm ván cờ hiện tại vào cẩm nang</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovewidget.ui" line="133"/>
         <source>Opening book settings</source>
-        <translation>Bücher/EGTB Einstellungen</translation>
+        <translation>Mở Thiết lập cẩm nang</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovewidget.ui" line="157"/>
         <source>bubble</source>
-        <translation>Bubble</translation>
+        <translation>bong bóng</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovewidget.ui" line="182"/>
         <source>Double click to &quot;move&quot; colunm to play, others to edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Bấm kép vào cột &quot;nước đi&quot; để đi, cột khác để sửa</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovewidget.cpp" line="224"/>
         <source>Book error</source>
-        <translation>Buch Fehler</translation>
+        <translation>Lỗi cẩm nang</translation>
     </message>
     <message>
         <location filename="../../ui/comm/bookmovewidget.cpp" line="228"/>
         <source>Different chess variant</source>
-        <translation>andere Schachvariante</translation>
+        <translation>Khác loại cờ</translation>
     </message>
 </context>
 <context>
@@ -1407,32 +1398,32 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/settings/booktablemodel.cpp" line="296"/>
         <source>Active</source>
-        <translation>aktiv</translation>
+        <translation>Tích cực</translation>
     </message>
     <message>
         <location filename="../../ui/settings/booktablemodel.cpp" line="298"/>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation>Tên</translation>
     </message>
     <message>
         <location filename="../../ui/settings/booktablemodel.cpp" line="300"/>
         <source>White</source>
-        <translation>Weiß</translation>
+        <translation>Trắng</translation>
     </message>
     <message>
         <location filename="../../ui/settings/booktablemodel.cpp" line="302"/>
         <source>Black</source>
-        <translation>Schwarz</translation>
+        <translation>Đen</translation>
     </message>
     <message>
         <location filename="../../ui/settings/booktablemodel.cpp" line="304"/>
         <source>Bubble</source>
-        <translation>Bubble</translation>
+        <translation>Bóng</translation>
     </message>
     <message>
         <location filename="../../ui/settings/booktablemodel.cpp" line="310"/>
         <source>Path</source>
-        <translation>Pfad</translation>
+        <translation>Đường dẫn</translation>
     </message>
 </context>
 <context>
@@ -1449,7 +1440,7 @@ Kann diese Partie nicht analysieren.</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="obsolete">auto</translation>
+        <translation type="obsolete">Tự động</translation>
     </message>
     <message>
         <location filename="../../ui/libot/bottimerdlg.ui" line="27"/>
@@ -1462,147 +1453,147 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="14"/>
         <source>Broadcast games</source>
-        <translation type="unfinished"></translation>
+        <translation>Phát sóng ván cờ</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="40"/>
         <source>Name:</source>
-        <translation>Name:</translation>
+        <translation>Tên:</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="47"/>
         <source>Your name as an owner/publisher</source>
-        <translation>Ihr Name als Inhaber/Herausgeber</translation>
+        <translation>Tên bạn cho chủ/người phát hành</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="53"/>
         <source>Your name to broadcast as a game owner/publisher</source>
-        <translation type="unfinished">Ihr Name als Inhaber/Herausgeber</translation>
+        <translation>Tên bạn đóng vai trò người chủ/phát hành khi phát sóng</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="63"/>
         <source>auto login when starting up</source>
-        <translation>automatisches Login beim Start</translation>
+        <translation>tự động đăng nhập khi khởi động</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="66"/>
         <source>auto</source>
-        <translation>auto</translation>
+        <translation>tự động</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="79"/>
         <source>Refresh the game list</source>
-        <translation type="unfinished">aktualisiere Partieliste</translation>
+        <translation>Làm mới danh sách ván cờ</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="82"/>
         <source>Connect</source>
-        <translation>verbinden</translation>
+        <translation>Kết nối</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="120"/>
         <source>live</source>
-        <translation>live</translation>
+        <translation>sống</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="133"/>
         <source>Broadcast current game</source>
-        <translation>übertrage aktuelle Partie</translation>
+        <translation>Phát sóng ván cờ hiện tại</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="136"/>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="532"/>
         <source>Broadcast</source>
-        <translation>Übertragung</translation>
+        <translation>Phát sóng cờ</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="175"/>
         <source>Double click to open, right click for menu</source>
-        <translation>Doppelklick zum Öffnen, Rechtsklick für Menü</translation>
+        <translation>Bấm kép để mở, chuột phải cho menu</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="201"/>
         <source>Chat:</source>
-        <translation>Chat:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.ui" line="211"/>
         <source>Type a message then enter to send</source>
-        <translation>tippe eine Nachricht, drücke Enter zum Senden</translation>
+        <translation>Nhập vào một thông báo rồi bấm Enter để gửi đi</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Fehler</translation>
+        <translation type="vanished">Lỗi</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="231"/>
         <source>Cannot connect, please try later</source>
-        <translation>kann keine Verbindung herstellen, bitte versuchen Sie es später</translation>
+        <translation>Không thể kết nối, xin thử lại sau</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="231"/>
         <source>Error Broadcasting</source>
-        <translation>Fehler bei der Übertragung</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="286"/>
         <source>Stopped broadcasting!</source>
-        <translation>Übertragung eingestellt!</translation>
+        <translation>Ngừng phát sóng cờ!</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="317"/>
         <source>Broadcasting (live) %1...</source>
-        <translation>übertrage (live) %1...</translation>
+        <translation>Đang phát sóng (cờ sống) %1.</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="319"/>
         <source>Broadcasted (not live) %1.</source>
-        <translation>übertragen (nicht live) %1.</translation>
+        <translation>Đã phát sóng (không phải cờ sống) %1.</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="439"/>
         <source>&lt;font color=&quot;darkgreen&quot;&gt;%1 has joined&lt;/font&gt;</source>
-        <translation>&lt;font color=&quot;darkgreen&quot;&gt;%1 ist hinzugekommen&lt;/font&gt;</translation>
+        <translation>&lt;font color=&quot;darkgreen&quot;&gt;%1 đã gia nhập&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="441"/>
         <source>&lt;font color=&quot;indianred&quot;&gt;%1 has left&lt;/font&gt;</source>
-        <translation>&lt;font color=&quot;indianred&quot;&gt;%1 ist gegangen&lt;/font&gt;</translation>
+        <translation>&lt;font color=&quot;indianred&quot;&gt;%1 đã bỏ đi&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="507"/>
         <source>&lt;b&gt;%1&lt;/b&gt;: %2</source>
-        <translation>&lt;b&gt;%1&lt;/b&gt;: %2</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="515"/>
         <source>Logout</source>
-        <translation>Logout</translation>
+        <translation>Đăng xuất</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="515"/>
         <source>Login</source>
-        <translation>Login</translation>
+        <translation>Đăng nhập</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="532"/>
         <source>Stop</source>
-        <translation>Stop</translation>
+        <translation>Dừng</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="594"/>
         <source>Remove game %1</source>
-        <translation>entferne Partie %1</translation>
+        <translation>Bỏ ván cờ %1</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="607"/>
         <source>Open game %1</source>
-        <translation>öffne Partie %1</translation>
+        <translation>Mở ván cờ %1</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastwidget.cpp" line="613"/>
         <source>Preview game %1</source>
-        <translation>Vorschau Partie %1</translation>
+        <translation>Xem qua ván cờ %1</translation>
     </message>
 </context>
 <context>
@@ -1610,37 +1601,37 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/broadcast/broadcastinggametablemodel.cpp" line="62"/>
         <source>live</source>
-        <translation>live</translation>
+        <translation>sống</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastinggametablemodel.cpp" line="99"/>
         <source>white</source>
-        <translation>Weiß</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastinggametablemodel.cpp" line="101"/>
         <source>black</source>
-        <translation>Schwarz</translation>
+        <translation>đen</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastinggametablemodel.cpp" line="103"/>
         <source>result</source>
-        <translation>Ergebnis</translation>
+        <translation>kết quả</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastinggametablemodel.cpp" line="107"/>
         <source>live/moves</source>
-        <translation>live/Züge</translation>
+        <translation>sống/dài</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastinggametablemodel.cpp" line="109"/>
         <source>owner</source>
-        <translation>Inhaber</translation>
+        <translation>chủ nhân</translation>
     </message>
     <message>
         <location filename="../../ui/broadcast/broadcastinggametablemodel.cpp" line="111"/>
         <source>date</source>
-        <translation>Datum</translation>
+        <translation>ngày</translation>
     </message>
 </context>
 <context>
@@ -1648,17 +1639,17 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="270"/>
         <source>New</source>
-        <translation>neu</translation>
+        <translation>Mới</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="271"/>
         <source>Stop</source>
-        <translation>stop</translation>
+        <translation>Dừng</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="272"/>
         <source>Resume</source>
-        <translation>fortsetzen</translation>
+        <translation>Tiếp tục</translation>
     </message>
 </context>
 <context>
@@ -1666,42 +1657,36 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="26"/>
         <source>Opening Book Builder</source>
-        <translation>Eröffnungsbuch Builder</translation>
+        <translation>Tạo Cẩm Nang Khai Cuộc</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="57"/>
         <source>Task:</source>
-        <translation>Aufgabe:</translation>
+        <translation>Nhiệm vụ:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="82"/>
         <source>Create New or Add to Existent Opening Book</source>
-        <translation>Neu erstellen oder zum vorhandenen Eröffnungsbuch hinzufügen</translation>
+        <translation>Tạo mới hoặc Thêm vào Khai cuộc có sẵn</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="87"/>
         <source>Create New Opening Book (overwrite existant one)</source>
-        <translation>Neues Eröffnungsbuch erstellen (vorhandenes überschreiben)</translation>
+        <translation>Tạo mới (ghi đè lên cái có sẵn)</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="92"/>
-        <source>Merge Openings</source>
-        <translation>Mische Eröffnungen</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="97"/>
-        <source>Convert</source>
-        <translation>konvertieren</translation>
+        <source>Merge Openings (Polyglot only)</source>
+        <translation type="vanished">Kết hợp các Khai cuộc với nhau (chỉ cho Polyglot)</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="121"/>
         <source>Input</source>
-        <translation>Eingabe</translation>
+        <translation>Đầu vào</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="128"/>
         <source>Database:</source>
-        <translation>Datenbank:</translation>
+        <translation>CSDL:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="143"/>
@@ -1709,131 +1694,146 @@ Kann diese Partie nicht analysieren.</translation>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="373"/>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="836"/>
         <source>Browser...</source>
-        <translation>Browser...</translation>
+        <translation>Xem...</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="152"/>
         <source>From book folder:</source>
-        <translation>von Buchverzeichnis:</translation>
+        <translation>Từ thư mục Cẩm nang:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="173"/>
         <source>Game conditions:</source>
-        <translation>Partiebedingungen:</translation>
+        <translation>Điều kiện ván cờ:</translation>
+    </message>
+    <message>
+        <source>min player score</source>
+        <translation type="vanished">điểm ít nhất của kỳ thủ</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="92"/>
+        <source>Merge Openings</source>
+        <translation>Kết hợp các cẩm nang</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="97"/>
+        <source>Convert</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="204"/>
         <source>min player Elo</source>
-        <translation>minimales Spieler Elo</translation>
+        <translation>Elo kỳ thủ ít nhất</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="234"/>
         <source>min game length (ply)</source>
-        <translation>minimale Partielänge (ply)</translation>
+        <translation>độ dài (nửa nước) tối thiểu</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="264"/>
         <source>repeat at least</source>
-        <translation>wiederhole mindestens</translation>
+        <translation>lặp tối thiểu</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="280"/>
         <source>Output</source>
-        <translation>Ausgabe</translation>
+        <translation>Đầu ra</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="287"/>
         <source>Book format:</source>
-        <translation>Buchformat:</translation>
+        <translation>Dạng Khai cuộc</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="299"/>
         <source>Polyglot</source>
-        <translation>Polyglot</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="306"/>
         <source>PGN</source>
-        <translation>PGN</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="313"/>
         <source>EPD</source>
-        <translation>EPD</translation>
+        <translation></translation>
     </message>
     <message>
-        <source>MoonRiver</source>
-        <translation type="vanished">MoonRiver</translation>
+        <location filename="../../ui/tools/buildopeningwidget.ui" line="326"/>
+        <source>MoonRiver (mrob)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="342"/>
         <source>Obk</source>
-        <translation>Obk</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="351"/>
         <source>Book file:</source>
-        <translation>Buchdatei:</translation>
+        <translation>File khai cuộc:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="382"/>
         <source>Rule:</source>
-        <translation>Regel:</translation>
+        <translation>Luật:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="398"/>
         <source>Add values together</source>
-        <translation type="unfinished"></translation>
+        <translation>Cộng các giá trị với nhau</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="403"/>
         <source>Take the best</source>
-        <translation type="unfinished"></translation>
+        <translation>Lấy cái cao nhất</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="408"/>
         <source>Priority to 1st book</source>
-        <translation type="unfinished"></translation>
+        <translation>Ưu tiên cẩm nang trước</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="413"/>
         <source>Priority to 2nd book</source>
-        <translation type="unfinished"></translation>
+        <translation>Ưu tiên cẩm nang sau</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="418"/>
         <source>Reset all to a fix value</source>
-        <translation type="unfinished"></translation>
+        <translation>Đưa về một giá trị cố định</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="451"/>
         <source>Take:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lấy:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="469"/>
         <source>for white</source>
-        <translation>für Weiß</translation>
+        <translation>cho trắng</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="476"/>
         <source>for black</source>
-        <translation>für Schwarz</translation>
+        <translation>cho đen</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="522"/>
         <source> plies</source>
-        <translation type="unfinished"></translation>
+        <translation>các nửa nước</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="532"/>
         <source>Random +/-:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ngẫu nhiên +/-</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="552"/>
         <source>Accept duplicated last positions</source>
-        <translation type="unfinished"></translation>
+        <translation>Chấp nhận trùng thế cờ cuối</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="555"/>
@@ -1843,208 +1843,207 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="824"/>
         <source>From book file:</source>
-        <translation>von Buchdatei:</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicated pos</source>
+        <translation type="vanished">Trùng thế cờ cuối</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="613"/>
         <source>Game result factors (0 = ignored):</source>
-        <translation>Partieergebnis Faktoren (0 = ignorieren):</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tools/buildopeningwidget.ui" line="326"/>
-        <source>MoonRiver (mrob)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hệ số kết quả (0 là bỏ qua)</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="637"/>
         <source>win:</source>
-        <translation>Sieg:</translation>
+        <translation>thắng:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="662"/>
         <source>draw:</source>
-        <translation>Remis:</translation>
+        <translation>hoà:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="707"/>
         <source>loss:</source>
-        <translation>Niederlage:</translation>
+        <translation>thua:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="732"/>
         <source>no result:</source>
-        <translation>kein Ergebnis:</translation>
+        <translation>không kết quả</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="743"/>
         <source>ignore</source>
-        <translation>ignorieren</translation>
+        <translation>bỏ qua</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="748"/>
         <source>win</source>
-        <translation>Sieg</translation>
+        <translation>thắng</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="753"/>
         <source>draw</source>
-        <translation>Remis</translation>
+        <translation>hoà</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="758"/>
         <source>loss</source>
-        <translation>Niederlage</translation>
+        <translation>thua</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="802"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Đồng ý</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="504"/>
         <source>Add to:</source>
-        <translation>hinzufügen zu:</translation>
+        <translation>Thêm đến:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.ui" line="105"/>
         <source>Always on top</source>
-        <translation>immer im Vordergrund</translation>
+        <translation type="unfinished">Luôn trên đỉnh</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="38"/>
         <source>Select opening file</source>
-        <translation>wähle Eröffnungsbuchdatei</translation>
+        <translation>Chọn file cẩm nang</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="43"/>
         <source>Select folder of opening files to merge</source>
-        <translation>wähle Verzeichnis der Eröffnungsbuchdateien zum Mischen</translation>
+        <translation>Chọn thư mục của các cẩm nang</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="49"/>
         <source>Select Polyglot or PGN file to convert=</source>
-        <translation>wähle Polyglot oder PGN Datei zum konvertieren =</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="50"/>
         <source>Polyglot Bin Files (*.bin);;PGN Files (*.pgn);;All files (*.*)</source>
-        <translation>Polyglot Bin Dateien (*.bin);;PGN Dateien (*.pgn);;alle Dateien (*.*)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="60"/>
         <source>Select database file</source>
-        <translation>wähle Datenbankdatei</translation>
+        <translation>Chọn file CSDL</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="370"/>
         <source>PGN Files (*.pgn);;All files (*.*)</source>
-        <translation>PGN (*.pgn);;alle Dateien (*.*)</translation>
+        <translation>File PGN (*.pgn);;All files (*.*)</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="373"/>
         <source>EPD Files (*.epd);;All files (*.*)</source>
-        <translation>EPD (*.epd);;alle Dateien (*.*)</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="511"/>
         <source>Missing opening book file; </source>
-        <translation>fehlende Eröffnungsbuchdatei; </translation>
+        <translation>Thiếu file Khai cuộc;</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="519"/>
         <source>Missing database file; </source>
-        <translation>fehlende Datenbankdatei; </translation>
+        <translation>Thiếu file CSDL;</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="524"/>
         <source>Must select sides; </source>
-        <translation>Seiten müssen ausgewählt werden; </translation>
+        <translation>Phải chọn bên;</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="530"/>
         <source>Game-length &gt;= 0; </source>
-        <translation>Partie-Länge &gt;=0; </translation>
+        <translation>Độ dài ván cờ &gt;= 0</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="534"/>
         <source>Add-to-length &gt;= 0; </source>
-        <translation>hinzufügen-zu-Länge &gt;=0; </translation>
+        <translation>Thêm cho đến độ dài &gt;= 0;</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="540"/>
         <source>At least one factor &gt; 0; </source>
-        <translation>mindestens ein Faktor&gt; 0; </translation>
+        <translation>ít nhất một hệ số phải &gt; 0;</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="550"/>
         <source>Missing book file folder; </source>
-        <translation>fehlendes Eröffnungsbuchverzeichnis; </translation>
+        <translation>Thiếu thư mục các cẩm nang;</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="562"/>
         <source>Missing input book file (.bin or .pgn); </source>
-        <translation>fehlende Eingabe-Buchdatei (.bin oder .pgn); </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="566"/>
         <source>Accept only Polyglot (.bin) or PGN (.pgn); </source>
-        <translation>akzeptiere nur Polyglot (.bin) oder PGN (.pgn); </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="578"/>
         <source>Process</source>
-        <translation>bearbeiten</translation>
+        <translation>Xử lý</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="578"/>
         <source>Cancel</source>
-        <translation>abbrechen</translation>
+        <translation>Bỏ</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="578"/>
         <source>Done</source>
-        <translation>erledigt</translation>
+        <translation>Xong</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="647"/>
         <source>Error: one or two files are not found, corrupted or encrypted</source>
-        <translation>Fehler: eine oder zwei Dateien wurden nicht gefunden, sind beschädigt oder verschlüsselt</translation>
+        <translation>Lỗi: thiếu hoặc hỏng hoặc bị mã hoá một hoặc hai file</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="648"/>
         <source>Error: books are not same format</source>
-        <translation>Fehler: Bücher sind nicht im selben Format</translation>
+        <translation>Lỗi: các cẩm nang không cùng định dạng</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="649"/>
         <source>Error: output book is not same extension with input books</source>
-        <translation>Fehler: Ausgabe-Buch ist nicht im selben Format wie Eingabe-Buch</translation>
+        <translation>Lỗi: đầu ra của file cẩm nang không cùng đuôi với đầu vào</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="743"/>
         <source>#nodes: %1, period: %2, speed: %3</source>
-        <translation>#Knoten: %1, period: %2, Geschwindigkeit: %3</translation>
+        <translation>#nút: %1, thời gian: %2, tốc độ: %3</translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="751"/>
         <source>%1#added: %2, period: %3, speed: %4</source>
-        <translation type="unfinished">%1#hinzugefügt: %2, period: %3, Geschwindigkeit: %4</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tools/buildopeningwidget.cpp" line="761"/>
         <source>#games: %2, %1period: %3, speed: %4</source>
-        <translation>#Partien: %2, %1period: %3, Geschwindigkeit: %4</translation>
+        <translation>#ván: %2, %1thời gian: %3, tốc độ: %4</translation>
     </message>
 </context>
 <context>
     <name>ChartWidget</name>
     <message>
         <source>move</source>
-        <translation type="vanished">Zug</translation>
+        <translation type="vanished">nước</translation>
     </message>
     <message>
         <source>score</source>
-        <translation type="vanished">Wertung</translation>
+        <translation type="vanished">điểm</translation>
     </message>
 </context>
 <context>
@@ -2052,17 +2051,17 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/dlg/chess960positionselectordlg.ui" line="14"/>
         <source>Chess960 All Positions</source>
-        <translation>Chess960 alle Stellungen</translation>
+        <translation>Chess960 Tất Cả Thế Cờ Đầu</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/chess960positionselectordlg.ui" line="45"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Đồng ý</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/chess960positionselectordlg.ui" line="55"/>
         <source>Cancel</source>
-        <translation>Abbruch</translation>
+        <translation>Bỏ</translation>
     </message>
 </context>
 <context>
@@ -2075,12 +2074,12 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/dlg/chess960positionselectorwidget.ui" line="84"/>
         <source>SID:</source>
-        <translation>SID:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dlg/chess960positionselectorwidget.ui" line="104"/>
         <source>Random</source>
-        <translation>zufällig</translation>
+        <translation>Ngẫu nhiên</translation>
     </message>
     <message>
         <source>FEN:</source>
@@ -2092,27 +2091,27 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/dlg/chess960positiontablemodel.cpp" line="70"/>
         <source>SID</source>
-        <translation>SID</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dlg/chess960positiontablemodel.cpp" line="72"/>
         <source>Opening</source>
-        <translation>Eröffnung</translation>
+        <translation>Khai cuộc</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/chess960positiontablemodel.cpp" line="74"/>
         <source>Win%</source>
-        <translation>Sieg%</translation>
+        <translation>Thắng%</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/chess960positiontablemodel.cpp" line="76"/>
         <source>Draw%</source>
-        <translation>Remis%</translation>
+        <translation>Hoà%</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/chess960positiontablemodel.cpp" line="78"/>
         <source>FEN</source>
-        <translation>FEN</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2135,15 +2134,15 @@ Kann diese Partie nicht analysieren.</translation>
     <name>ConnectToolBar</name>
     <message>
         <source>idle</source>
-        <translation type="vanished">Leerlauf</translation>
+        <translation type="vanished">không làm gì</translation>
     </message>
     <message>
         <source>analyse</source>
-        <translation type="vanished">analysiere</translation>
+        <translation type="vanished">phân tích</translation>
     </message>
     <message>
         <source>play for a side</source>
-        <translation type="vanished">spiele für eine Seite</translation>
+        <translation type="vanished">chơi một bên</translation>
     </message>
 </context>
 <context>
@@ -2151,12 +2150,12 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../main/connectwindow.cpp" line="470"/>
         <source>Bad: cannot detect chess board</source>
-        <translation>Schlecht: Schachbrett kann nicht erkannt werden</translation>
+        <translation>Lỗi: không thể nhận dạng được bàn cờ</translation>
     </message>
     <message>
         <location filename="../../main/connectwindow.cpp" line="470"/>
         <source>Good connection</source>
-        <translation>Gute Verbindung</translation>
+        <translation>Kết nối tốt</translation>
     </message>
 </context>
 <context>
@@ -2170,23 +2169,23 @@ Kann diese Partie nicht analysieren.</translation>
         <location filename="../../ui/connect/connectxqserverwidget.ui" line="42"/>
         <location filename="../../ui/connect/connectxqserverwidget.cpp" line="203"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kết nối</translation>
     </message>
     <message>
         <location filename="../../ui/connect/connectxqserverwidget.ui" line="50"/>
         <source>CXQ</source>
-        <translation type="unfinished">CXQ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/connect/connectxqserverwidget.ui" line="62"/>
         <source>none</source>
-        <translation type="unfinished">keine</translation>
+        <translation type="unfinished">không</translation>
     </message>
     <message>
         <location filename="../../ui/connect/connectxqserverwidget.ui" line="67"/>
         <location filename="../../ui/connect/connectxqserverwidget.ui" line="135"/>
         <source>auto</source>
-        <translation type="unfinished">auto</translation>
+        <translation type="unfinished">tự động</translation>
     </message>
     <message>
         <location filename="../../ui/connect/connectxqserverwidget.ui" line="72"/>
@@ -2207,12 +2206,12 @@ Kann diese Partie nicht analysieren.</translation>
         <location filename="../../ui/connect/connectxqserverwidget.ui" line="88"/>
         <location filename="../../ui/connect/connectxqserverwidget.ui" line="153"/>
         <source> s</source>
-        <translation type="unfinished"> s</translation>
+        <translation type="unfinished"> giây</translation>
     </message>
     <message>
         <location filename="../../ui/connect/connectxqserverwidget.ui" line="101"/>
         <source>copy</source>
-        <translation type="unfinished">kopieren</translation>
+        <translation type="unfinished">sao chép</translation>
     </message>
     <message>
         <location filename="../../ui/connect/connectxqserverwidget.ui" line="128"/>
@@ -2243,7 +2242,7 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/connect/connectxqserverwidget.cpp" line="203"/>
         <source>Disconnect</source>
-        <translation type="unfinished">trennen</translation>
+        <translation type="unfinished">Cắt kết nối</translation>
     </message>
 </context>
 <context>
@@ -2251,12 +2250,12 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/net/connection.cpp" line="77"/>
         <source>undefined</source>
-        <translation>undefiniert</translation>
+        <translation>không định nghĩa</translation>
     </message>
     <message>
         <location filename="../../ui/net/connection.cpp" line="78"/>
         <source>unknown</source>
-        <translation>unbekannt</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2264,183 +2263,231 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="14"/>
         <source>New tournament</source>
-        <translation>Neues Turnier</translation>
+        <translation>Thi đấu mới</translation>
+    </message>
+    <message>
+        <source>Tournament:</source>
+        <translation type="vanished">Thi đấu:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="88"/>
         <source>Type:</source>
-        <translation>Typ:</translation>
+        <translation>Kiểu:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="323"/>
         <source>Round Robin</source>
-        <translation>Round Robin</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="328"/>
         <source>Knockout</source>
-        <translation>Knockout</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="333"/>
         <source>Swiss</source>
-        <translation>Swiss</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="338"/>
         <source>Gauntlet</source>
-        <translation>Gauntlet</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="95"/>
         <source>Swiss rounds:</source>
-        <translation>Swiss Runden:</translation>
+        <translation>Vòng Thuỵ Sĩ:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="135"/>
         <source>Games/pair:</source>
-        <translation>Partien/Paarung:</translation>
+        <translation>Ván/cặp:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="163"/>
         <source>Swap sides</source>
-        <translation>tausche Seiten</translation>
+        <translation>Hoán bên</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="185"/>
         <source>Concurrency:</source>
-        <translation>Parallelität:</translation>
+        <translation>Chạy cùng lúc:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="213"/>
         <source>Shuffle:</source>
-        <translation>mischen:</translation>
+        <translation>Tráo:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="233"/>
         <source>None</source>
-        <translation type="unfinished">nichts</translation>
+        <translation>Không</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="238"/>
         <source>Players</source>
-        <translation>Spieler</translation>
+        <translation>Người chơi</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="243"/>
         <source>Games</source>
-        <translation>Partien</translation>
+        <translation>Ván cờ</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="248"/>
         <source>Carousel</source>
-        <translation>Karussell</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="271"/>
         <source>Site:</source>
-        <translation>Austragungsort:</translation>
+        <translation>Địa điểm:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="278"/>
         <source>Site to write to PGN file</source>
-        <translation>Austragungsort für PGN Datei</translation>
+        <translation>Nơi chơi để lưu ra PGN</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="288"/>
         <source>Event:</source>
-        <translation>Ereignis:</translation>
+        <translation>Sự kiện:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="295"/>
         <source>Event to write to PGN file</source>
-        <translation>Ereignis für PGN Datei</translation>
+        <translation>Sự kiện để lưu ra PGN</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="472"/>
         <source>Openings:</source>
-        <translation>Eröffnungen:</translation>
+        <translation>Khai cuộc:</translation>
+    </message>
+    <message>
+        <source>Depth:</source>
+        <translation type="vanished">Sâu:</translation>
+    </message>
+    <message>
+        <source>Top:</source>
+        <translation type="obsolete">Đầu:</translation>
+    </message>
+    <message>
+        <source>FEN:</source>
+        <translation type="vanished">FEN:</translation>
+    </message>
+    <message>
+        <source>For a pair:</source>
+        <translation type="vanished">Với một cặp ván:</translation>
+    </message>
+    <message>
+        <source>No special</source>
+        <translation type="vanished">Không đặc biệt</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="479"/>
         <source>Adjudication:</source>
-        <translation type="unfinished">Entscheidung:</translation>
+        <translation>Xét xử:</translation>
+    </message>
+    <message>
+        <source>Configuration</source>
+        <translation type="vanished">Cấu hình</translation>
+    </message>
+    <message>
+        <source>Syzygy path:</source>
+        <translation type="vanished">Thư mục Syzygy:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/createtourwidget.ui" line="535"/>
+        <source>Logs:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Engines:</source>
+        <translation type="vanished">Các động cơ:</translation>
+    </message>
+    <message>
+        <source>Games:</source>
+        <translation type="vanished">Ván cờ:</translation>
+    </message>
+    <message>
+        <source>Results:</source>
+        <translation type="vanished">Kết quả:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/createtourwidget.ui" line="805"/>
+        <source>Locked side</source>
+        <translation>Khoá bên</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/createtourwidget.ui" line="832"/>
+        <source>Double click remove</source>
+        <translation>Bấm kép để loại</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/createtourwidget.ui" line="897"/>
+        <source>Copy selected engines or all</source>
+        <translation>Sao chép các động cơ được chọn hoặc tất cả</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/createtourwidget.ui" line="911"/>
+        <source>Remove selected engines or all</source>
+        <translation>Bỏ các động cơ được chọn hoặc tất cả</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/createtourwidget.ui" line="966"/>
+        <source>Human</source>
+        <translation type="unfinished">Người</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/createtourwidget.ui" line="998"/>
+        <source>Double click to pickup engines</source>
+        <translation>Bấm kép để chọn động cơ</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/createtourwidget.ui" line="734"/>
+        <source>Play</source>
+        <translation>Chơi</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="498"/>
         <location filename="../../ui/tour/createtourwidget.ui" line="554"/>
         <location filename="../../ui/tour/createtourwidget.ui" line="603"/>
         <source>setup</source>
-        <translation>Setup</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="535"/>
-        <source>Logs:</source>
-        <translation>Logs:</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="734"/>
-        <source>Play</source>
-        <translation>spielen</translation>
+        <translation>thiết lập</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="744"/>
         <source>Shutdown computer when tournament finished</source>
-        <translation>Computer herunterfahren wenn Turnier beendet wurde</translation>
+        <translation>Tắt máy tính khi Thi đấu xong</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="747"/>
         <source>Shutdown after</source>
-        <translation>danach herunterfahren</translation>
+        <translation>Tắt máy sau</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.ui" line="754"/>
         <source>Start</source>
-        <translation>Start</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="805"/>
-        <source>Locked side</source>
-        <translation>gesperrte Seite</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="832"/>
-        <source>Double click remove</source>
-        <translation>Doppelklick zum Entfernen</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="897"/>
-        <source>Copy selected engines or all</source>
-        <translation>kopiere ausgewählte Engines oder alle</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="911"/>
-        <source>Remove selected engines or all</source>
-        <translation>entferne ausgewählte Engines oder alle</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="966"/>
-        <source>Human</source>
-        <translation type="unfinished">Mensch</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/createtourwidget.ui" line="998"/>
-        <source>Double click to pickup engines</source>
-        <translation>Doppelklick um Engines aufzunehmen</translation>
+        <translation>Bắt đầu</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="77"/>
         <source>Error:</source>
-        <translation>Fehler:</translation>
+        <translation>Lỗi:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="77"/>
         <source>Cannot parse JSON string, ignored!</source>
-        <translation>JSON Zeichenfolge kann nicht analysiert werden, wird ignoriert!</translation>
+        <translation>Không thể phân tích chuỗi JSON, bỏ qua!</translation>
+    </message>
+    <message>
+        <source>PGN (*.pgn);;All Files (*.*)</source>
+        <translation type="vanished">PGN (*.pgn);;Mọi File (*.*)</translation>
     </message>
     <message>
         <source>Available engines (%1):</source>
-        <translation type="vanished">verfügbare Engines (%1):</translation>
+        <translation type="vanished">Các động cơ hiện hữu (%1):</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="193"/>
@@ -2450,12 +2497,12 @@ Kann diese Partie nicht analysieren.</translation>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="194"/>
         <source>Participants (%1):</source>
-        <translation>Teilnehmer (%1):</translation>
+        <translation>Các động sẽ chơi (%1):</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="215"/>
         <source>#games: %1 %2</source>
-        <translation type="unfinished">#Partien: %1 %2</translation>
+        <translation type="unfinished">#ván: %1 %2</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="218"/>
@@ -2466,40 +2513,40 @@ Kann diese Partie nicht analysieren.</translation>
         <location filename="../../ui/tour/createtourwidget.cpp" line="362"/>
         <location filename="../../ui/tour/createtourwidget.cpp" line="375"/>
         <source>(empty)</source>
-        <translation>(leer)</translation>
+        <translation>(trống)</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="362"/>
         <source>(#books: %1)</source>
-        <translation>(#Bücher: %1)</translation>
+        <translation>(#cẩm nang: %1)</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="375"/>
         <source>(#funcs: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="387"/>
         <source>(no log)</source>
-        <translation>(kein Log)</translation>
+        <translation>(không log)</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="387"/>
         <source>(#logs: %1)</source>
-        <translation>(#Logs: %1)</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="537"/>
         <location filename="../../ui/tour/createtourwidget.cpp" line="549"/>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation>Lỗi</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="538"/>
         <source>A tournament is playing
 Stop the tournament?</source>
-        <translation>Ein Turnier läuft.
-Turnier beenden?</translation>
+        <translation>Một Thi đấu đang chơi
+Dừng Thi đấu này?</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="550"/>
@@ -2520,16 +2567,16 @@ The playing order/concurrency maybe auto adjusted</source>
     </message>
     <message>
         <source>One participant must be ticked as the gauntlet</source>
-        <translation type="vanished">ein Teilnehmer muss für Gauntlet markiert werden</translation>
+        <translation type="vanished">Phải chọn một động cơ làm người chơi chính</translation>
     </message>
     <message>
         <location filename="../../ui/tour/createtourwidget.cpp" line="559"/>
         <source>Generating match list...</source>
-        <translation>Erzeuge Turnierliste...</translation>
+        <translation>Đang tạo danh sách các ván thi đấu...</translation>
     </message>
     <message>
         <source>(Warning: A tournament is playing. Editing may affect it)</source>
-        <translation type="vanished">(Warnung: Ein Turnier wird gespielt. Die Bearbeitung kann sich darauf auswirken.)</translation>
+        <translation type="vanished">(Cảnh báo: đang thi đấu. Soạn sửa có thể gây ảnh hưởng)</translation>
     </message>
 </context>
 <context>
@@ -2537,32 +2584,32 @@ The playing order/concurrency maybe auto adjusted</source>
     <message>
         <location filename="../../ui/settings/custompieceselectordlg.ui" line="14"/>
         <source>Custom pieces</source>
-        <translation>eigene Figuren</translation>
+        <translation>Tuỳ chọn quân cờ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/custompieceselectordlg.ui" line="38"/>
         <source>A SVG file contains all piece images:</source>
-        <translation>eine SVG Datei enthält alle Figurenbilder:</translation>
+        <translation>Một File SVG chứa hình mọi quân cờ:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/custompieceselectordlg.ui" line="75"/>
         <source>Path:</source>
-        <translation>Pfad:</translation>
+        <translation>Đường dẫn:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/custompieceselectordlg.ui" line="107"/>
         <source>Multi files, one piece image per file</source>
-        <translation>mehrere Dateien, ein Figurenbild pro Datei</translation>
+        <translation>Nhiều file, mỗi file chứa hình một quân cờ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/custompieceselectordlg.ui" line="149"/>
         <source>white</source>
-        <translation>Weiß</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/settings/custompieceselectordlg.ui" line="159"/>
         <source>black</source>
-        <translation>Schwarz</translation>
+        <translation>đen</translation>
     </message>
 </context>
 <context>
@@ -2570,7 +2617,7 @@ The playing order/concurrency maybe auto adjusted</source>
     <message>
         <location filename="../../ui/settings/custompieceselectorwidget.ui" line="32"/>
         <source>Drag &amp; drop image files here</source>
-        <translation>drag &amp; drop Bilddateien hierher</translation>
+        <translation>Kéo và thả file hình vào đây</translation>
     </message>
 </context>
 <context>
@@ -2583,7 +2630,7 @@ The playing order/concurrency maybe auto adjusted</source>
     <message>
         <location filename="../../ui/dpa/dpabackupdlg.ui" line="35"/>
         <source>Load</source>
-        <translation type="unfinished">laden</translation>
+        <translation type="unfinished">Tải</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpabackupdlg.ui" line="84"/>
@@ -2593,7 +2640,7 @@ The playing order/concurrency maybe auto adjusted</source>
     <message>
         <location filename="../../ui/dpa/dpabackupdlg.ui" line="104"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bỏ</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpabackupdlg.cpp" line="20"/>
@@ -2659,7 +2706,7 @@ The playing order/concurrency maybe auto adjusted</source>
     <message>
         <location filename="../../ui/dpa/dpacreatenewprojectdlg.ui" line="127"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bỏ</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpacreatenewprojectdlg.ui" line="155"/>
@@ -2695,12 +2742,12 @@ The playing order/concurrency maybe auto adjusted</source>
     <message>
         <location filename="../../ui/dpa/dpaexportdlg.ui" line="38"/>
         <source>Polyglot</source>
-        <translation type="unfinished">Polyglot</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpaexportdlg.ui" line="43"/>
         <source>PGN</source>
-        <translation type="unfinished">PGN</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpaexportdlg.ui" line="48"/>
@@ -2710,7 +2757,7 @@ The playing order/concurrency maybe auto adjusted</source>
     <message>
         <location filename="../../ui/dpa/dpaexportdlg.ui" line="71"/>
         <source>Path:</source>
-        <translation type="unfinished">Pfad:</translation>
+        <translation type="unfinished">Đường dẫn:</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpaexportdlg.ui" line="94"/>
@@ -2730,7 +2777,7 @@ The playing order/concurrency maybe auto adjusted</source>
     <message>
         <location filename="../../ui/dpa/dpaexportdlg.ui" line="161"/>
         <source>Top:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Đầu:</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpaexportdlg.ui" line="210"/>
@@ -2788,7 +2835,7 @@ The playing order/concurrency maybe auto adjusted</source>
     <message>
         <location filename="../../ui/dpa/dpafunctiondlg.ui" line="30"/>
         <source>Merge</source>
-        <translation type="unfinished">mischen</translation>
+        <translation type="unfinished">Kết hợp</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpafunctiondlg.ui" line="40"/>
@@ -2891,7 +2938,7 @@ The playing order/concurrency maybe auto adjusted</source>
     <message>
         <location filename="../../ui/dpa/dpagraphviewer.ui" line="145"/>
         <source>Always on top</source>
-        <translation type="unfinished">immer im Vordergrund</translation>
+        <translation type="unfinished">Luôn trên đỉnh</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpagraphviewer.cpp" line="64"/>
@@ -2975,12 +3022,12 @@ The playing order/concurrency maybe auto adjusted</source>
     <message>
         <location filename="../../ui/dpa/dpamergetablemodel.cpp" line="120"/>
         <source>name</source>
-        <translation type="unfinished">Name</translation>
+        <translation type="unfinished">tên</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpamergetablemodel.cpp" line="122"/>
         <source>nodes</source>
-        <translation type="unfinished">Knoten</translation>
+        <translation type="unfinished">nút</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpamergetablemodel.cpp" line="124"/>
@@ -2993,7 +3040,7 @@ The playing order/concurrency maybe auto adjusted</source>
     <message>
         <location filename="../../ui/dpa/dpanodetablemodel.cpp" line="197"/>
         <source>Moves</source>
-        <translation type="unfinished">Notation</translation>
+        <translation type="unfinished">Các nước đi</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpanodetablemodel.cpp" line="199"/>
@@ -3172,17 +3219,17 @@ Are you sure to delete it?</source>
     <message>
         <location filename="../../ui/dpa/dpaprojecttablemodel.cpp" line="110"/>
         <source>active</source>
-        <translation type="unfinished">aktiv</translation>
+        <translation type="unfinished">kích hoạt</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpaprojecttablemodel.cpp" line="112"/>
         <source>name</source>
-        <translation type="unfinished">Name</translation>
+        <translation type="unfinished">tên</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpaprojecttablemodel.cpp" line="114"/>
         <source>nodes</source>
-        <translation type="unfinished">Knoten</translation>
+        <translation type="unfinished">nút</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpaprojecttablemodel.cpp" line="116"/>
@@ -3210,7 +3257,7 @@ Are you sure to delete it?</source>
     <message>
         <location filename="../../ui/dpa/dpaprojectwidget.ui" line="141"/>
         <source>from:</source>
-        <translation type="unfinished">von:</translation>
+        <translation type="unfinished">từ:</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpaprojectwidget.ui" line="148"/>
@@ -3220,7 +3267,7 @@ Are you sure to delete it?</source>
     <message>
         <location filename="../../ui/dpa/dpaprojectwidget.ui" line="158"/>
         <source>to:</source>
-        <translation type="unfinished">bis:</translation>
+        <translation type="unfinished">tới:</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpaprojectwidget.ui" line="165"/>
@@ -3230,7 +3277,7 @@ Are you sure to delete it?</source>
     <message>
         <location filename="../../ui/dpa/dpaprojectwidget.ui" line="181"/>
         <source>Stats</source>
-        <translation type="unfinished">Statistiken</translation>
+        <translation type="unfinished">Thống kê</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpaprojectwidget.ui" line="188"/>
@@ -3275,7 +3322,7 @@ Are you sure to delete it?</source>
     <message>
         <location filename="../../ui/dpa/dpaprojectwidget.cpp" line="176"/>
         <source>Portable Game Notation (*.pgn);;CCF (*.ccf);;MXQ (*.mxq);;XQF (*.xqf);;All Known Files (*.pgn *.ccf *.mxq *.xqf);;All Files (*.*)</source>
-        <translation type="unfinished">Portable Game Notation (*.pgn);;CCF (*.ccf);;MXQ (*.mxq);;XQF (*.xqf);;alle bekannten Dateien (*.pgn *.ccf *.mxq *.xqf);;alle Dateien (*.*)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpaprojectwidget.cpp" line="234"/>
@@ -3338,7 +3385,7 @@ Are you sure to delete it?</source>
     <message>
         <location filename="../../ui/dpa/dpasetupwidget.ui" line="72"/>
         <source>Auto</source>
-        <translation type="unfinished">auto</translation>
+        <translation type="unfinished">Tự động</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpasetupwidget.ui" line="114"/>
@@ -3403,22 +3450,22 @@ Are you sure to delete it?</source>
     <message>
         <location filename="../../ui/dpa/dpasetupwidget.ui" line="404"/>
         <source>Second</source>
-        <translation type="unfinished">Sekunde(n)</translation>
+        <translation type="unfinished">Giây</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpasetupwidget.ui" line="409"/>
         <source>Minute</source>
-        <translation type="unfinished">Minute(n)</translation>
+        <translation type="unfinished">Phút</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpasetupwidget.ui" line="414"/>
         <source>Hour</source>
-        <translation type="unfinished">Stunde(n)</translation>
+        <translation type="unfinished">Giờ</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpasetupwidget.ui" line="443"/>
         <source>Depth:</source>
-        <translation type="unfinished">Tiefe:</translation>
+        <translation type="unfinished">Sâu:</translation>
     </message>
 </context>
 <context>
@@ -3446,7 +3493,7 @@ Are you sure to delete it?</source>
     <message>
         <location filename="../../ui/dpa/dpastatsdlg.ui" line="172"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation type="unfinished">Đồng ý</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpastatsdlg.cpp" line="14"/>
@@ -3464,7 +3511,7 @@ Are you sure to delete it?</source>
     <message>
         <location filename="../../ui/dpa/dpastatstablemodel.cpp" line="15"/>
         <source>Nodes</source>
-        <translation type="unfinished">Knoten</translation>
+        <translation type="unfinished">Các nút</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpastatstablemodel.cpp" line="16"/>
@@ -3559,12 +3606,12 @@ Are you sure to delete it?</source>
     <message>
         <location filename="../../ui/dpa/dpastatstablemodel.cpp" line="148"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tên</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpastatstablemodel.cpp" line="148"/>
         <source>Value</source>
-        <translation type="unfinished">Wert</translation>
+        <translation type="unfinished">Giá trị</translation>
     </message>
 </context>
 <context>
@@ -3580,12 +3627,12 @@ Are you sure to delete it?</source>
     <message>
         <location filename="../../ui/dpa/dpaverifydlg.ui" line="39"/>
         <source>Copy</source>
-        <translation type="unfinished">kopieren</translation>
+        <translation type="unfinished">Chép</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpaverifydlg.ui" line="59"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation type="unfinished">Đồng ý</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpaverifydlg.cpp" line="16"/>
@@ -3623,7 +3670,7 @@ Are you sure to delete it?</source>
     <message>
         <location filename="../../ui/dpa/dpaverifytablemodel.cpp" line="116"/>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation type="unfinished">Lỗi</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpaverifytablemodel.cpp" line="116"/>
@@ -3642,12 +3689,12 @@ Are you sure to delete it?</source>
         <location filename="../../ui/dpa/dpawidget.ui" line="56"/>
         <location filename="../../ui/dpa/dpawidget.cpp" line="255"/>
         <source>Start</source>
-        <translation type="unfinished">Start</translation>
+        <translation type="unfinished">Bắt đầu</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpawidget.ui" line="63"/>
         <source>0:00</source>
-        <translation type="unfinished">0:00</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpawidget.ui" line="70"/>
@@ -3658,22 +3705,22 @@ Are you sure to delete it?</source>
     <message>
         <location filename="../../ui/dpa/dpawidget.ui" line="73"/>
         <source>Engine:</source>
-        <translation type="unfinished">Engine:</translation>
+        <translation type="unfinished">Động cơ:</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpawidget.ui" line="96"/>
         <source>Concurrency:</source>
-        <translation type="unfinished">Parallelität:</translation>
+        <translation type="unfinished">Chạy cùng lúc:</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpawidget.ui" line="113"/>
         <source>Board:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bàn cờ:</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpawidget.ui" line="121"/>
         <source>none</source>
-        <translation type="unfinished">keine</translation>
+        <translation type="unfinished">không</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpawidget.ui" line="126"/>
@@ -3694,7 +3741,7 @@ Are you sure to delete it?</source>
         <location filename="../../ui/dpa/dpawidget.ui" line="144"/>
         <location filename="../../ui/dpa/dpawidget.cpp" line="193"/>
         <source>Engine info</source>
-        <translation type="unfinished">Engine Info</translation>
+        <translation type="unfinished">Thông tin động cơ</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpawidget.ui" line="187"/>
@@ -3709,12 +3756,12 @@ Are you sure to delete it?</source>
     <message>
         <location filename="../../ui/dpa/dpawidget.ui" line="197"/>
         <source>Tree</source>
-        <translation type="unfinished">Baum</translation>
+        <translation type="unfinished">Cây</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpawidget.cpp" line="257"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dừng</translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpawidget.cpp" line="283"/>
@@ -3764,7 +3811,7 @@ Are you sure to delete it?</source>
     <message>
         <location filename="../../ui/dpa/dpawidget.cpp" line="351"/>
         <source>%1 NPS</source>
-        <translation type="unfinished">%1 NPS</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dpa/dpawidget.cpp" line="355"/>
@@ -3817,235 +3864,235 @@ Are you sure to delete it?</source>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="20"/>
         <source>Database Builder</source>
-        <translation>Datenbank Builder</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="54"/>
-        <source>Chess variant:</source>
-        <translation>Schachvariante:</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="91"/>
-        <source>Xiangqi</source>
-        <translation>Xiangqi</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="98"/>
-        <source>Jeiqi</source>
-        <translation>Jeiqi</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="105"/>
-        <source>Standard</source>
-        <translation>Standard</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="112"/>
-        <source>Chess960</source>
-        <translation>Chess 960</translation>
+        <translation>Tạo Cơ Sở Dữ Liệu</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="590"/>
         <source>Tasks:</source>
-        <translation>Aufgabe:</translation>
+        <translation>Nhiệm vụ:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="605"/>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="609"/>
         <source>Create New Database</source>
-        <translation>erstelle neue Datenbank</translation>
+        <translation>Tạo CSDL mới</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="614"/>
         <source>Tree</source>
-        <translation>Baum</translation>
+        <translation>Cây</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="619"/>
         <source>Merge</source>
-        <translation>mischen</translation>
+        <translation>Kết hợp</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="148"/>
-        <source>Input</source>
-        <translation>Eingabe</translation>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="277"/>
+        <source>Database file:</source>
+        <translation>File CSDL:</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="161"/>
-        <source>Game folder:</source>
-        <translation>Partieverzeichnis:</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="173"/>
-        <source>including sub folders</source>
-        <translation>Unterverzeichnisse einbeziehen</translation>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="295"/>
+        <source>file will be created/changed</source>
+        <translation>file sẽ được tạo/thay đổi</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="180"/>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="302"/>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="330"/>
         <source>Browser...</source>
-        <translation>Browser...</translation>
+        <translation>Xem...</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="270"/>
-        <source>Output</source>
-        <translation>Ausgabe</translation>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="105"/>
+        <source>Standard</source>
+        <translation>Chuẩn</translation>
     </message>
     <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="277"/>
-        <source>Database file:</source>
-        <translation>Datenbankdatei:</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="295"/>
-        <source>file will be created/changed</source>
-        <translation>Datei wird erstellt/geändert</translation>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="112"/>
+        <source>Chess960</source>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="311"/>
         <source>2nd Database file:</source>
-        <translation>zweite Datenbankdatei:</translation>
+        <translation>File CSDL 2:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="323"/>
         <source>this file will not be changed</source>
-        <translation>Datei wird nicht geändert</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="339"/>
-        <source>To do:</source>
-        <translation>zu tun:</translation>
+        <translation>file này sẽ không bị thay đổi</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="379"/>
         <source>Add tree</source>
-        <translation>Baum hinzufügen</translation>
+        <translation>Thêm cây</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="395"/>
         <source>Remove</source>
-        <translation>entfernen</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="408"/>
-        <source>Similar games:</source>
-        <translation>ähnliche Partien:</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="421"/>
-        <source>Similar games are ones with all moves matched</source>
-        <translation>ähnliche Partien sind solche, bei denen alle Züge übereinstimmen</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="454"/>
-        <source>accept</source>
-        <translation>akzeptieren</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="473"/>
-        <source>no</source>
-        <translation>nein</translation>
+        <translation>Loại bỏ</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="486"/>
         <source>Thread number:</source>
-        <translation>Anzahl Threads:</translation>
+        <translation>Số luồng:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="501"/>
         <source>use for building</source>
-        <translation type="unfinished"></translation>
+        <translation>dùng để tạo</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="526"/>
         <source>Info:</source>
-        <translation>Info:</translation>
+        <translation>Thông tin:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="568"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Đồng ý</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="640"/>
         <source>Always on top</source>
-        <translation>immer im Vordergrund</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="189"/>
-        <source>Game conditions:</source>
-        <translation>Partiebedingungen:</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="206"/>
-        <source>Min length:</source>
-        <translation>minimale Länge:</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="221"/>
-        <source>plies</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/tools/databasebuilderwidget.ui" line="228"/>
-        <source>Min score:</source>
-        <translation>minimale Wertung:</translation>
+        <translation type="unfinished">Luôn trên đỉnh</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="196"/>
         <source>accept games without tag Variant. Should check for Standard chess</source>
-        <translation>Akzeptiere Partien ohne Variantenkennzeichen. Prüfe auf Standard Schach.</translation>
+        <translation>chấp nhận ván cờ thiếu thẻ Variant. Nên chọn cho Cờ chuẩn</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.ui" line="199"/>
         <source>Accept missing tag Variant</source>
-        <translation>akzeptiere fehlendes Variantenkennzeichen</translation>
+        <translation>Lấy cả ván thiếu thẻ Variant</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="421"/>
+        <source>Similar games are ones with all moves matched</source>
+        <translation>Ván tương tự là những ván có mọi nước đi giống nhau</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="454"/>
+        <source>accept</source>
+        <translation>chấp nhận</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="473"/>
+        <source>no</source>
+        <translation>không</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="91"/>
+        <source>Xiangqi</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="98"/>
+        <source>Jeiqi</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="54"/>
+        <source>Chess variant:</source>
+        <translation>Biến cờ:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="408"/>
+        <source>Similar games:</source>
+        <translation>Các ván tương tự:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="339"/>
+        <source>To do:</source>
+        <translation>Phải làm:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="270"/>
+        <source>Output</source>
+        <translation>Đầu ra</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="148"/>
+        <source>Input</source>
+        <translation>Đầu vào</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="161"/>
+        <source>Game folder:</source>
+        <translation>Thư mục ván cờ:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="173"/>
+        <source>including sub folders</source>
+        <translation>bao gồm các thư mục con</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="189"/>
+        <source>Game conditions:</source>
+        <translation>Điều kiện ván cờ:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="206"/>
+        <source>Min length:</source>
+        <translation>Dài ít nhất:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="221"/>
+        <source>plies</source>
+        <translation>nửa nước</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tools/databasebuilderwidget.ui" line="228"/>
+        <source>Min score:</source>
+        <translation>Điểm ít nhất:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.cpp" line="220"/>
         <source>Missing database file;</source>
-        <translation>fehlende Datenbankdatei; </translation>
+        <translation>Thiếu file CSDL;</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.cpp" line="235"/>
         <source>Missing game folder</source>
-        <translation>fehlendes Partieverzeichnis</translation>
+        <translation>Thiếu thư mục ván cờ</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.cpp" line="250"/>
         <source>Process</source>
-        <translation>bearbeiten</translation>
+        <translation>Xử lý</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.cpp" line="250"/>
         <source>Cancel</source>
-        <translation>Abbruch</translation>
+        <translation>Bỏ</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.cpp" line="250"/>
         <source>Done</source>
-        <translation>erledigt</translation>
+        <translation>Xong</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.cpp" line="370"/>
         <source>Error: different chess type!</source>
-        <translation>Fehler: andere Schachvariante!</translation>
+        <translation>Lỗi: biến cờ khác!</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.cpp" line="372"/>
         <source>#added games: %1 from %2, period: %3</source>
-        <translation type="unfinished">#hinzugefügte Partien: %1 von %2, period: %3</translation>
+        <translation>#số ván đã thêm: %1 từ %2, thời gian: %3</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.cpp" line="381"/>
         <source>#games: %1 of %2, elapsed: %3, speed: %4</source>
-        <translation type="unfinished">#Partien: %1 von %2, verstrichen: %3, Geschwindigkeit: %4</translation>
+        <translation>#ván: %1 của %2, thời gian: %3, tốc độ: %4</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasebuilderwidget.cpp" line="383"/>
         <source>#games: %1, added: %2, elapsed: %3, speed: %4</source>
-        <translation type="unfinished">#Partien: %1, hinzugefügt: %2, verstrichen: %3, Geschwindigkeit: %4</translation>
+        <translation>#ván: %1, đã thêm: %2, thời gian: %3, tốc độ: %4</translation>
     </message>
 </context>
 <context>
@@ -4053,37 +4100,37 @@ Are you sure to delete it?</source>
     <message>
         <location filename="../../ui/tools/databasetablemodel.cpp" line="225"/>
         <source>id</source>
-        <translation>Id</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasetablemodel.cpp" line="227"/>
         <source>White</source>
-        <translation>Weiß</translation>
+        <translation>Trắng</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasetablemodel.cpp" line="231"/>
         <source>R</source>
-        <translation>Ergebnis</translation>
+        <translation>Kq</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasetablemodel.cpp" line="233"/>
         <source>Black</source>
-        <translation>Schwarz</translation>
+        <translation>Đen</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasetablemodel.cpp" line="237"/>
         <source>plies</source>
-        <translation type="unfinished"></translation>
+        <translation>nửa nước</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasetablemodel.cpp" line="239"/>
         <source>Date</source>
-        <translation>Datum</translation>
+        <translation>Ngày</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databasetablemodel.cpp" line="241"/>
         <source>Event</source>
-        <translation>Ereignis</translation>
+        <translation>Sự Kiện</translation>
     </message>
 </context>
 <context>
@@ -4091,127 +4138,127 @@ Are you sure to delete it?</source>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="26"/>
         <source>Database Viewer</source>
-        <translation>Datenbank anzeigen</translation>
+        <translation>Xem CSDL</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="50"/>
         <source>Database file:</source>
-        <translation>Datenbankdatei:</translation>
+        <translation>File CSDL:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="67"/>
         <source>Show tree view</source>
-        <translation>zeige Baumansicht</translation>
+        <translation>Xem dạng cây</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="74"/>
         <source>Always on top</source>
-        <translation>immer im Vordergrund</translation>
+        <translation>Luôn trên đỉnh</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="85"/>
         <source>Player:</source>
-        <translation>Spieler:</translation>
+        <translation>Kỳ thủ:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="95"/>
         <source>Limit score:</source>
-        <translation>Wertung einschränken:</translation>
+        <translation>Giới hạn điểm:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="103"/>
         <source>None</source>
-        <translation>keine</translation>
+        <translation>Không</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="108"/>
         <source>Any</source>
-        <translation>alle</translation>
+        <translation>Bất kỳ</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="113"/>
         <source>White</source>
-        <translation>Weiß</translation>
+        <translation>Trắng</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="118"/>
         <source>Black</source>
-        <translation>Schwarz</translation>
+        <translation>Đen</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="123"/>
         <source>Both</source>
-        <translation>beide</translation>
+        <translation>Cả hai</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="131"/>
         <source>from:</source>
-        <translation>von:</translation>
+        <translation>từ:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="141"/>
         <source>Result:</source>
-        <translation>Ergebnis:</translation>
+        <translation>Kết quả:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="155"/>
         <source>*</source>
-        <translation>*</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="160"/>
         <source>1-0</source>
-        <translation>1-0</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="165"/>
         <source>0.5</source>
-        <translation>0.5</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="170"/>
         <source>0-1</source>
-        <translation>0-1</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="178"/>
         <source>Event:</source>
-        <translation>Ereignis:</translation>
+        <translation>Sự kiện:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="351"/>
         <source>Stats</source>
-        <translation>Statistiken</translation>
+        <translation>Thống kê</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="405"/>
         <source>GID:</source>
-        <translation>GID:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.ui" line="440"/>
         <source>0</source>
-        <translation>0</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.cpp" line="135"/>
         <source>Game database</source>
-        <translation>Partie Datenbank</translation>
+        <translation>Cơ sở dữ liệu ván cờ</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.cpp" line="387"/>
         <source>Loading database...</source>
-        <translation>Lade Datenbank...</translation>
+        <translation>Đang tải CSDL...</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.cpp" line="568"/>
         <source>Searching...</source>
-        <translation>Suche...</translation>
+        <translation>Đang tìm...</translation>
     </message>
     <message>
         <location filename="../../ui/tools/databaseviewerwidget.cpp" line="603"/>
         <source>Sorting...</source>
-        <translation>Sortiere...</translation>
+        <translation>Đang sắp xếp...</translation>
     </message>
 </context>
 <context>
@@ -4219,22 +4266,22 @@ Are you sure to delete it?</source>
     <message>
         <location filename="../../ui/dl/downloadmng.cpp" line="123"/>
         <source>none</source>
-        <translation>keine</translation>
+        <translation>không</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadmng.cpp" line="124"/>
         <source>downloaded</source>
-        <translation>heruntergeladen</translation>
+        <translation>đã tải</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadmng.cpp" line="125"/>
         <source>downloading</source>
-        <translation>wird heruntergeladen</translation>
+        <translation>đang tải</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadmng.cpp" line="126"/>
         <source>error</source>
-        <translation>Fehler</translation>
+        <translation>lỗi</translation>
     </message>
 </context>
 <context>
@@ -4242,62 +4289,62 @@ Are you sure to delete it?</source>
     <message>
         <location filename="../../ui/dl/downloaddlg.ui" line="20"/>
         <source>Download</source>
-        <translation>Download</translation>
+        <translation>Tải</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloaddlg.ui" line="28"/>
         <source>Always on top</source>
-        <translation>immer im Vordergrund</translation>
+        <translation>Luôn trên đỉnh</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloaddlg.ui" line="35"/>
         <source>Update all lists</source>
-        <translation>aktualisiere alle Listen</translation>
+        <translation>Cập nhật mọi danh sách</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloaddlg.ui" line="61"/>
         <source>Engines</source>
-        <translation>Engines</translation>
+        <translation>Các động cơ</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloaddlg.ui" line="66"/>
         <source>Game databases</source>
-        <translation>Partien Datenbank</translation>
+        <translation>CSDL cờ</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloaddlg.ui" line="71"/>
         <source>Opening books</source>
-        <translation>Eröffnungsbücher</translation>
+        <translation>Khai cuộc</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloaddlg.ui" line="76"/>
         <source>Syzygy</source>
-        <translation>Syzygy</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloaddlg.ui" line="92"/>
         <source>(if you are an author of chess engines/data and want to publish them on this system, contact us)</source>
-        <translation>(wenn Sie Autor von Schach-Engines /-Daten sind und diese auf diesem System veröffentlichen möchten, kontaktieren Sie uns)</translation>
+        <translation>(nếu bạn là chủ các động cơ cờ/dữ liệu và muốn phát hành chúng ở đây, hãy liên lạc với chúng tôi)</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloaddlg.cpp" line="63"/>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation>Lỗi</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloaddlg.cpp" line="63"/>
         <source>Cannot update the lists. Please try later!</source>
-        <translation>Die Listen können nicht aktualisiert werden. Bitte versuche es später!</translation>
+        <translation>Không thể cập nhật các danh sách. Hãy thử sau!</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloaddlg.cpp" line="76"/>
         <source>Success</source>
-        <translation>Erfolg</translation>
+        <translation>Thành công</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloaddlg.cpp" line="76"/>
         <source>All lists are updated!</source>
-        <translation>Alle Listen wurden aktualisiert!</translation>
+        <translation>Mọi danh sách đã được cập nhật!</translation>
     </message>
 </context>
 <context>
@@ -4305,12 +4352,12 @@ Are you sure to delete it?</source>
     <message>
         <location filename="../../ui/dl/downloadmng.cpp" line="282"/>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation>Lỗi</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadmng.cpp" line="283"/>
         <source>Folder is empty</source>
-        <translation>Verzeichnis ist leer</translation>
+        <translation>Thư mục rỗng</translation>
     </message>
 </context>
 <context>
@@ -4324,22 +4371,22 @@ Are you sure to delete it?</source>
         <location filename="../../ui/dl/downloaditemwidget.ui" line="41"/>
         <location filename="../../ui/dl/downloaditemwidget.cpp" line="66"/>
         <source>Download</source>
-        <translation>Download</translation>
+        <translation>Tải</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloaditemwidget.ui" line="48"/>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation>Lỗi</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloaditemwidget.cpp" line="80"/>
         <source>Stop</source>
-        <translation>stop</translation>
+        <translation>Dừng</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloaditemwidget.cpp" line="88"/>
         <source>Show</source>
-        <translation>zeige</translation>
+        <translation>Xem</translation>
     </message>
 </context>
 <context>
@@ -4388,7 +4435,7 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/dl/downloadnnnetdlg.ui" line="87"/>
         <source>Folder:</source>
-        <translation type="unfinished">Verzeichnis:</translation>
+        <translation type="unfinished">Thư mục:</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadnnnetdlg.ui" line="114"/>
@@ -4398,7 +4445,7 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/dl/downloadnnnetdlg.ui" line="155"/>
         <source>Download</source>
-        <translation type="unfinished">Download</translation>
+        <translation type="unfinished">Tải</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadnnnetdlg.cpp" line="63"/>
@@ -4413,7 +4460,7 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/dl/downloadnnnetdlg.cpp" line="187"/>
         <source>Downloaded</source>
-        <translation type="unfinished">heruntergeladen</translation>
+        <translation type="unfinished">Đã tải</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadnnnetdlg.cpp" line="187"/>
@@ -4456,7 +4503,7 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/dl/downloadnnuetablemodel.cpp" line="75"/>
         <source>name</source>
-        <translation type="unfinished">Name</translation>
+        <translation type="unfinished">tên</translation>
     </message>
 </context>
 <context>
@@ -4464,47 +4511,47 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="168"/>
         <source>downloading rtbw</source>
-        <translation>lade rtbw</translation>
+        <translation>đang tải rtbw</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="174"/>
         <source>downloading rtbz</source>
-        <translation>lade rtbz</translation>
+        <translation>đang tải rtbz</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="176"/>
         <source>, rtbz</source>
-        <translation>, rtbz</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="185"/>
         <source>downloaded</source>
-        <translation>heruntergeladen</translation>
+        <translation>đã tải</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="188"/>
         <source>missing rtbz</source>
-        <translation>fehlende rtbz</translation>
+        <translation>thiếu rtbz</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="188"/>
         <source>missing rtbw</source>
-        <translation>fehlende rtbw</translation>
+        <translation>thiếu rbw</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="229"/>
         <source>name</source>
-        <translation>Name</translation>
+        <translation>tên</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="231"/>
         <source>men</source>
-        <translation type="unfinished"></translation>
+        <translation>quân</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="233"/>
         <source>select</source>
-        <translation>auswählen</translation>
+        <translation>chọn</translation>
     </message>
 </context>
 <context>
@@ -4517,198 +4564,198 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="43"/>
         <source>Source:</source>
-        <translation>Quelle:</translation>
+        <translation>Nguồn:</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="59"/>
         <source>ftp.chessdb.cn</source>
-        <translation>ftp.chessdb.cn</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="67"/>
         <source>Concurrency:</source>
-        <translation>Parallelität:</translation>
+        <translation>Chạy cùng lúc:</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="108"/>
         <source>Syzygy folders:</source>
-        <translation>Syzygy Verzeichnisse:</translation>
+        <translation>Các thư mục Syzygy:</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="127"/>
         <source>Main folder to store Syzygy endgames</source>
-        <translation>Hauptverzeichnis für Syzygy Endspiele</translation>
+        <translation>Thư mục chính chứa tàn cuộc Syzygy</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="138"/>
         <source>Show:</source>
-        <translation>zeige:</translation>
+        <translation>Xem:</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="145"/>
         <source>3 men</source>
-        <translation type="unfinished"></translation>
+        <translation>3 quân</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="148"/>
         <source>3</source>
-        <translation>3</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="158"/>
         <source>4 men</source>
-        <translation type="unfinished"></translation>
+        <translation>4 quân</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="161"/>
         <source>4</source>
-        <translation>4</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="171"/>
         <source>5 men</source>
-        <translation type="unfinished"></translation>
+        <translation>5 quân</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="174"/>
         <source>5</source>
-        <translation>5</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="184"/>
         <source>6 men</source>
-        <translation type="unfinished"></translation>
+        <translation>6 quân</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="187"/>
         <source>6</source>
-        <translation>6</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="197"/>
         <source>7 men</source>
-        <translation type="unfinished"></translation>
+        <translation>7 quân</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="200"/>
         <source>7</source>
-        <translation>7</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="210"/>
         <source>include downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>cả đã tải</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="213"/>
         <source>Downloaded</source>
-        <translation>heruntergeladen</translation>
+        <translation>Đã tải</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="269"/>
         <source>Select:</source>
-        <translation>auswählen:</translation>
+        <translation>Chọn:</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="277"/>
         <source>none</source>
-        <translation>keine</translation>
+        <translation>không</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="282"/>
         <source>all</source>
-        <translation>alle</translation>
+        <translation>tất</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="287"/>
         <source>all 3 men</source>
-        <translation type="unfinished"></translation>
+        <translation>tất cả 3 quân</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="292"/>
         <source>all 4 men</source>
-        <translation type="unfinished"></translation>
+        <translation>tất cả 4 quân</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="297"/>
         <source>all 5 men</source>
-        <translation type="unfinished"></translation>
+        <translation>tất cả 5 quân</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="302"/>
         <source>all 6 men</source>
-        <translation type="unfinished"></translation>
+        <translation>tất cả 6 quân</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="307"/>
         <source>all 7 men</source>
-        <translation type="unfinished"></translation>
+        <translation>tất cả 7 quân</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="312"/>
         <source>top 1 of 7 men</source>
-        <translation type="unfinished"></translation>
+        <translation>Top 1 của 7 quân</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="317"/>
         <source>top 3 of 7 men</source>
-        <translation type="unfinished"></translation>
+        <translation>Top 3 của 7 quân</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="322"/>
         <source>top 10 of 7 men</source>
-        <translation type="unfinished"></translation>
+        <translation>Top 10 của 7 quân</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="327"/>
         <source>top 100 of 7 men</source>
-        <translation type="unfinished"></translation>
+        <translation>Top 100 của 7 quân</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="332"/>
         <source>top 200 of 7 men</source>
-        <translation type="unfinished"></translation>
+        <translation>Top 200 của 7 quân</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="337"/>
         <source>top 300 of 7 men</source>
-        <translation type="unfinished"></translation>
+        <translation>Top 300 của 7 quân</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="342"/>
         <source>deselect all</source>
-        <translation>alle abwählen</translation>
+        <translation>bỏ chọn</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="350"/>
         <source>rtbw</source>
-        <translation>rtbw</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="360"/>
         <source>rtbz</source>
-        <translation>rtbz</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.ui" line="389"/>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="675"/>
         <source>Start</source>
-        <translation>Start</translation>
+        <translation>Bắt đầu</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="413"/>
         <source>Select Syzygy main folder</source>
-        <translation>Wähle Syzygy Hauptverzeichnis</translation>
+        <translation>Chọn thư mục Syzygy chính</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="612"/>
         <source>Downloaded: %1%2; Selected: %3%4</source>
-        <translation>heruntergeladen: %1%2; ausgewählt: %3%4</translation>
+        <translation>Đã tải: %1%2; Đã chọn: %3%4</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadsyzygywidget.cpp" line="675"/>
         <source>Stop</source>
-        <translation>Stop</translation>
+        <translation>Dừng</translation>
     </message>
 </context>
 <context>
@@ -4716,27 +4763,27 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/dl/downloadtablemodel.cpp" line="84"/>
         <source>name</source>
-        <translation>Name</translation>
+        <translation>tên</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadtablemodel.cpp" line="86"/>
         <source>ver</source>
-        <translation>Version</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadtablemodel.cpp" line="88"/>
         <source>elo</source>
-        <translation>Elo</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadtablemodel.cpp" line="90"/>
         <source>size</source>
-        <translation>Größe</translation>
+        <translation>kích thước</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadtablemodel.cpp" line="92"/>
         <source>type</source>
-        <translation>Typ</translation>
+        <translation>kiểu</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadtablemodel.cpp" line="94"/>
@@ -4746,7 +4793,7 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/dl/downloadtablemodel.cpp" line="96"/>
         <source>status</source>
-        <translation>Status</translation>
+        <translation>trạng thái</translation>
     </message>
 </context>
 <context>
@@ -4759,17 +4806,21 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/dl/downloadwidget.ui" line="75"/>
         <source>Save to folder:</source>
-        <translation>in Verzeichnis speichern:</translation>
+        <translation>Lưu xuống thư mục:</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadwidget.ui" line="87"/>
         <source>Browser...</source>
-        <translation>Browser...</translation>
+        <translation>Xem...</translation>
     </message>
     <message>
         <location filename="../../ui/dl/downloadwidget.ui" line="105"/>
         <source>Auto add after downloading</source>
-        <translation>nach dem Herunterladen automatisch hinzufügen</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto add after downlloading</source>
+        <translation type="vanished">Tự động kích hoạt sau khi tải</translation>
     </message>
 </context>
 <context>
@@ -4777,27 +4828,27 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/settings/duplicateenginedlg.ui" line="20"/>
         <source>Duplicate Engine</source>
-        <translation>Engine duplizieren</translation>
+        <translation>Nhân đôi Động cơ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/duplicateenginedlg.ui" line="42"/>
         <source>New name:</source>
-        <translation>neuer Name:</translation>
+        <translation>Tên mới:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/duplicateenginedlg.ui" line="68"/>
         <source>Color:</source>
-        <translation>Farbe:</translation>
+        <translation>Mầu:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/duplicateenginedlg.ui" line="99"/>
         <source>Pickup color</source>
-        <translation>Farbe auswählen</translation>
+        <translation>Chọn màu</translation>
     </message>
     <message>
         <location filename="../../ui/settings/duplicateenginedlg.ui" line="145"/>
         <source>Duplicate</source>
-        <translation>duplizieren</translation>
+        <translation>Nhân đôi</translation>
     </message>
 </context>
 <context>
@@ -4805,7 +4856,7 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="20"/>
         <source>Edit board</source>
-        <translation>Stellung aufbauen</translation>
+        <translation>Soạn bàn cờ</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="32"/>
@@ -4815,66 +4866,62 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="39"/>
         <source>Copy, paste or edit</source>
-        <translation>kopieren, einfügen oder ändern</translation>
+        <translation>Chép, dán hoặc soạn</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="49"/>
         <source>Copy</source>
-        <translation>kopieren</translation>
-    </message>
-    <message>
-        <source>white</source>
-        <translation type="vanished">Weiß</translation>
+        <translation>Chép</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="vanished">Schwarz</translation>
+        <translation type="vanished">đen</translation>
     </message>
     <message>
         <source>half moves:</source>
-        <translation type="vanished">Halbzüge:</translation>
+        <translation type="vanished">nưả nước:</translation>
     </message>
     <message>
         <source>#moves:</source>
-        <translation type="vanished">#Züge:</translation>
+        <translation type="vanished">#nước:</translation>
     </message>
     <message>
         <source>white O-O</source>
-        <translation type="vanished">Weiß O-O</translation>
+        <translation type="vanished">trắng O-O</translation>
     </message>
     <message>
         <source>white O-O-O</source>
-        <translation type="vanished">Weiß O-O-O</translation>
+        <translation type="vanished">trắng O-O-O</translation>
     </message>
     <message>
         <source>black O-O</source>
-        <translation type="vanished">Schwarz O-O</translation>
+        <translation type="vanished">đen O-O</translation>
     </message>
     <message>
         <source>black O-O-O</source>
-        <translation type="vanished">Schwarz O-O-O</translation>
+        <translation type="vanished">đen O-O-O</translation>
     </message>
     <message>
         <source>Flip vertically</source>
-        <translation type="vanished">umdrehen</translation>
+        <translation type="vanished">Lật ngược</translation>
     </message>
     <message>
         <source>Full board</source>
-        <translation type="vanished">Grundstellung</translation>
+        <translation type="vanished">Nước</translation>
     </message>
     <message>
         <source>Clear all</source>
-        <translation type="vanished">leeren</translation>
+        <translation type="vanished">Xoá tất</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="68"/>
         <source>Drag pieces from left bar and drop to board to add</source>
-        <translation>ziehe Figuren von der linken Seite auf das Board zum Hinzufügen</translation>
+        <translation>Để thêm: kéo quân cờ từ thanh bên trái và thả vào bàn cờ</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editdlg.ui" line="75"/>
         <source>Drag pieces from board and drop out side to remove</source>
-        <translation>ziehe Figuren vom Board heraus zum Löschen</translation>
+        <translation>Xoá: kéo quân cờ từ bàn và thả bên ngoài</translation>
     </message>
 </context>
 <context>
@@ -4882,53 +4929,53 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/dlg/editjsondlg.ui" line="14"/>
         <source>JSON editor</source>
-        <translation>JSON Editor</translation>
+        <translation>Soạn thảo JSON</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editjsondlg.ui" line="37"/>
         <source>Path:</source>
-        <translation>Pfad:</translation>
+        <translation>Đường dẫn:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editjsondlg.ui" line="51"/>
         <location filename="../../ui/dlg/editjsondlg.ui" line="75"/>
         <source>Copy</source>
-        <translation>kopieren</translation>
+        <translation>Chép</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editjsondlg.ui" line="68"/>
         <source>JSON:</source>
-        <translation>JSON:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editjsondlg.ui" line="82"/>
         <source>Clear</source>
-        <translation>leeren</translation>
+        <translation>Xoá</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editjsondlg.ui" line="89"/>
         <source>Reload</source>
-        <translation>neu laden</translation>
+        <translation>Tải lại</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editjsondlg.ui" line="113"/>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation>Lỗi</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editjsondlg.ui" line="120"/>
         <source>Click OK to update</source>
-        <translation>OK klicken zum Aktualisieren</translation>
+        <translation>Bấm OK để cập nhật</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editjsondlg.cpp" line="27"/>
         <source>Update</source>
-        <translation>aktualisieren</translation>
+        <translation>Cập nhật</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editjsondlg.cpp" line="43"/>
         <source>Save</source>
-        <translation>Speichern</translation>
+        <translation>Lưu</translation>
     </message>
 </context>
 <context>
@@ -4941,47 +4988,47 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/dlg/editwidget.ui" line="89"/>
         <source>white</source>
-        <translation type="unfinished">Weiß</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editwidget.ui" line="102"/>
         <source>black</source>
-        <translation type="unfinished">Schwarz</translation>
+        <translation type="unfinished">đen</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editwidget.ui" line="109"/>
         <source>half moves:</source>
-        <translation type="unfinished">Halbzüge:</translation>
+        <translation type="unfinished">nưả nước:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editwidget.ui" line="135"/>
         <source>#moves:</source>
-        <translation type="unfinished">#Züge:</translation>
+        <translation type="unfinished">#nước:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editwidget.ui" line="184"/>
         <source>white O-O</source>
-        <translation type="unfinished">Weiß O-O</translation>
+        <translation type="unfinished">trắng O-O</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editwidget.ui" line="191"/>
         <source>white O-O-O</source>
-        <translation type="unfinished">Weiß O-O-O</translation>
+        <translation type="unfinished">trắng O-O-O</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editwidget.ui" line="198"/>
         <source>black O-O</source>
-        <translation type="unfinished">Schwarz O-O</translation>
+        <translation type="unfinished">đen O-O</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editwidget.ui" line="205"/>
         <source>black O-O-O</source>
-        <translation type="unfinished">Schwarz O-O-O</translation>
+        <translation type="unfinished">đen O-O-O</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editwidget.ui" line="229"/>
         <source>Flip vertically</source>
-        <translation type="unfinished">umdrehen</translation>
+        <translation type="unfinished">Lật ngược</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/editwidget.ui" line="236"/>
@@ -4996,7 +5043,7 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/dlg/editwidget.ui" line="250"/>
         <source>Clear all</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Xoá tất</translation>
     </message>
 </context>
 <context>
@@ -5004,37 +5051,37 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="89"/>
         <source>failed %1</source>
-        <translation>fehlgeschlagen %1</translation>
+        <translation>hỏng %1</translation>
     </message>
     <message>
         <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="93"/>
         <source>Good</source>
-        <translation>gut</translation>
+        <translation>Tốt</translation>
     </message>
     <message>
         <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="199"/>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation>Tên</translation>
     </message>
     <message>
         <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="201"/>
         <source>Men</source>
-        <translation type="unfinished"></translation>
+        <translation>Số quân</translation>
     </message>
     <message>
         <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="203"/>
         <source>Type</source>
-        <translation>Typ</translation>
+        <translation>Kiểu</translation>
     </message>
     <message>
         <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="205"/>
         <source>Size</source>
-        <translation>Größe</translation>
+        <translation>Cỡ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/egtbfiletablemodel.cpp" line="207"/>
         <source>Checksum</source>
-        <translation>Checksumme</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -5050,11 +5097,11 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="156"/>
         <source>String cannot be empty</source>
-        <translation>Zeichenfolge darf nicht leer sein</translation>
+        <translation>Xâu không thể trống</translation>
     </message>
     <message>
         <source>Name is taken by other configuration</source>
-        <translation type="vanished">Name wird von einer anderen Konfiguration benutzt</translation>
+        <translation type="vanished">Tên đã được dùng trong cấu hình khác</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="170"/>
@@ -5064,22 +5111,22 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="190"/>
         <source>Incorrect protocol string</source>
-        <translation>falsche Protokollzeichenfolge</translation>
+        <translation>Xâu giao thức sai</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="215"/>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation>Lỗi</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="229"/>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation>Tên</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="231"/>
         <source>Protocol</source>
-        <translation>Protokoll</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="233"/>
@@ -5089,22 +5136,22 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="235"/>
         <source>Elo</source>
-        <translation>Elo</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="237"/>
         <source>Color</source>
-        <translation>Farbe</translation>
+        <translation>Màu</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="239"/>
         <source>Command</source>
-        <translation>Kommando</translation>
+        <translation>Lệnh</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineconfigurationtablemodel.cpp" line="241"/>
         <source>Working Folder</source>
-        <translation>Arbeitsverzeichnis</translation>
+        <translation>Thư mục làm việc</translation>
     </message>
 </context>
 <context>
@@ -5117,22 +5164,22 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/comm/enginelogwidget.ui" line="47"/>
         <source>Engine&apos;s side</source>
-        <translation>Engine Seite</translation>
+        <translation>Bên động cơ</translation>
     </message>
     <message>
         <location filename="../../ui/comm/enginelogwidget.ui" line="60"/>
         <source>Send strings directly to engines (enter to send)</source>
-        <translation>sende Zeichenfolgen direkt an Engines (Enter zum Senden)</translation>
+        <translation>Gửi xâu thẳng đến động cơ (bấm Enter để gửi)</translation>
     </message>
     <message>
         <location filename="../../ui/comm/enginelogwidget.cpp" line="88"/>
         <source>white</source>
-        <translation>Weiß</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/comm/enginelogwidget.cpp" line="88"/>
         <source>black</source>
-        <translation>Schwarz</translation>
+        <translation>đen</translation>
     </message>
 </context>
 <context>
@@ -5145,32 +5192,32 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/settings/enginemanagementwidget.ui" line="77"/>
         <source>Add a new engine</source>
-        <translation>neue Engine hinzufügen</translation>
+        <translation>Thêm một động cơ mới</translation>
     </message>
     <message>
         <location filename="../../ui/settings/enginemanagementwidget.ui" line="80"/>
         <source>Add</source>
-        <translation>hinzufügen</translation>
+        <translation>Thêm</translation>
     </message>
     <message>
         <location filename="../../ui/settings/enginemanagementwidget.ui" line="94"/>
         <source>Remove selected engine(s)</source>
-        <translation>entferne ausgewählte Engine(s)</translation>
+        <translation>Loại bỏ các động cơ chọn</translation>
     </message>
     <message>
         <location filename="../../ui/settings/enginemanagementwidget.ui" line="97"/>
         <source>Remove</source>
-        <translation>entfernen</translation>
+        <translation>Loại bỏ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/enginemanagementwidget.ui" line="111"/>
         <source>Configure selected engine(s)</source>
-        <translation>konfiguriere ausgewählte Engine(s)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/enginemanagementwidget.ui" line="114"/>
         <source>Configure</source>
-        <translation>konfigurieren</translation>
+        <translation>Cấu hình</translation>
     </message>
     <message>
         <location filename="../../ui/settings/enginemanagementwidget.ui" line="125"/>
@@ -5180,30 +5227,26 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/settings/enginemanagementwidget.ui" line="139"/>
         <source>Duplicate selected engines</source>
-        <translation>dupliziere ausgewählte Engine</translation>
-    </message>
-    <message>
-        <source>dup</source>
-        <translation type="vanished">duplizieren</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/enginemanagementwidget.ui" line="153"/>
         <source>Update all engines</source>
-        <translation>aktualisiere alle Engines</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>all</source>
-        <translation type="vanished">alle aktualisieren</translation>
+        <translation type="vanished">tất</translation>
     </message>
     <message>
         <location filename="../../ui/settings/enginemanagementwidget.ui" line="304"/>
         <source>Engine log:</source>
-        <translation>Engine Log:</translation>
+        <translation>Log động cơ:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/enginemanagementwidget.cpp" line="158"/>
         <source>Engines (%1):</source>
-        <translation>Engines (%1):</translation>
+        <translation>Các động cơ (%1):</translation>
     </message>
     <message>
         <location filename="../../ui/settings/enginemanagementwidget.cpp" line="221"/>
@@ -5215,23 +5258,27 @@ button to download the default net or select one from the table</source>
         <source>Warning</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Are you sure?</source>
+        <translation type="obsolete">Bạn chắc không?</translation>
+    </message>
 </context>
 <context>
     <name>EngineOptionModel</name>
     <message>
         <location filename="../../ui/settings/engineoptionmodel.cpp" line="118"/>
         <source>Name</source>
-        <translation>Parameter</translation>
+        <translation>Tên</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoptionmodel.cpp" line="120"/>
         <source>Value</source>
-        <translation>Wert</translation>
+        <translation>Giá trị</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoptionmodel.cpp" line="122"/>
         <source>Range</source>
-        <translation>Bereich</translation>
+        <translation>Phạm vi</translation>
     </message>
 </context>
 <context>
@@ -5239,21 +5286,21 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.ui" line="65"/>
         <source>Reset all options to default values</source>
-        <translation>setze alle Optionen auf Standardwerte zurück</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="vanished">zurücksetzen</translation>
+        <translation type="vanished">Khởi tạo lại</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.ui" line="111"/>
         <source>Charactors using in FEN string</source>
-        <translation>Zeichen, die in FEN Zeichenfolge verwendet werden</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.ui" line="114"/>
         <source>FEN charators:</source>
-        <translation>FEN Zeichen:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.ui" line="126"/>
@@ -5266,37 +5313,29 @@ button to download the default net or select one from the table</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>King, Advisor, Bishop, Rook, Cannon, kNight, Pawn</source>
-        <translation type="vanished">King, Advisor, Bishop, Rook, Cannon, kNight, Pawn</translation>
-    </message>
-    <message>
         <location filename="../../ui/settings/engineoptionwidget.ui" line="142"/>
         <source>KABRCNP</source>
-        <translation>KABRCNP</translation>
-    </message>
-    <message>
-        <source>King, Advisor, Elephant, Rook, Cannon, Horse, Pawn</source>
-        <translation type="vanished">King, Advisor, Elephant, Rook, Cannon, Horse, Pawn</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.ui" line="129"/>
         <source>KAERCHP</source>
-        <translation>KAERCHP</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.cpp" line="61"/>
         <source>Error:</source>
-        <translation>Fehler:</translation>
+        <translation>Lỗi:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.cpp" line="61"/>
         <source>Cannot parse JSON string, ignored!</source>
-        <translation>JSON Zeichenfolge kann nicht analysiert werden, wird ignoriert!</translation>
+        <translation>Không thể phân tích chuỗi JSON, bỏ qua!</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoptionwidget.cpp" line="168"/>
         <source>Engine options</source>
-        <translation>Engine Einstellungen</translation>
+        <translation>Các lựa chọn của động cơ</translation>
     </message>
 </context>
 <context>
@@ -5309,7 +5348,7 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/settings/engineoveraloptionwidget.ui" line="38"/>
         <source>Overall options</source>
-        <translation>allgemeine Einstellungen</translation>
+        <translation>Lựa chọn tổng thể</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoveraloptionwidget.ui" line="60"/>
@@ -5339,26 +5378,30 @@ button to download the default net or select one from the table</source>
     </message>
     <message>
         <source>Ponder:</source>
-        <translation type="vanished">Ponder:</translation>
+        <translation type="vanished">Nghĩ trước:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoveraloptionwidget.ui" line="192"/>
         <source>Hash size:</source>
-        <translation>Hash Größe:</translation>
+        <translation>Cỡ bảng hash:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoveraloptionwidget.ui" line="211"/>
         <source> MB</source>
-        <translation> MB</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoveraloptionwidget.ui" line="159"/>
         <source>Syzygy:</source>
-        <translation>Syzygy:</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Cores:</source>
-        <translation type="vanished">Kerne:</translation>
+        <translation type="vanished">Số core:</translation>
+    </message>
+    <message>
+        <source>(men: %1, eg: %2)</source>
+        <translation type="vanished">(bộ nhớ: %1, tàn cuộc: %2)</translation>
     </message>
     <message>
         <location filename="../../ui/settings/engineoveraloptionwidget.cpp" line="57"/>
@@ -5379,12 +5422,12 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/dlg/errortablemodel.cpp" line="74"/>
         <source>time</source>
-        <translation type="unfinished">Zeit</translation>
+        <translation type="unfinished">thời gian</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/errortablemodel.cpp" line="77"/>
         <source>type</source>
-        <translation type="unfinished">Typ</translation>
+        <translation type="unfinished">kiểu</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/errortablemodel.cpp" line="80"/>
@@ -5397,22 +5440,22 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/comm/evaltablemodel.cpp" line="294"/>
         <source>depth</source>
-        <translation>Tiefe</translation>
+        <translation>sâu</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablemodel.cpp" line="296"/>
         <source>score</source>
-        <translation>Wertung</translation>
+        <translation>điểm</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablemodel.cpp" line="298"/>
         <source>time</source>
-        <translation>Zeit</translation>
+        <translation>thời gian</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablemodel.cpp" line="300"/>
         <source>nodes</source>
-        <translation>Knoten</translation>
+        <translation>nút</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablemodel.cpp" line="302"/>
@@ -5437,7 +5480,7 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/comm/evaltablemodel.cpp" line="310"/>
         <source>pv</source>
-        <translation>Vorschau</translation>
+        <translation>pv</translation>
     </message>
 </context>
 <context>
@@ -5445,93 +5488,81 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="82"/>
         <source>click to pickup temporally color</source>
-        <translation type="unfinished"></translation>
+        <translation>bấm để chọn mầu tạm thời</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="122"/>
         <source>side</source>
-        <translation>Seite</translation>
+        <translation>bên</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="138"/>
         <source>active</source>
-        <translation>aktiv</translation>
+        <translation>kích hoạt</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="160"/>
         <source>engine list</source>
-        <translation>Engine Liste</translation>
+        <translation>danh sách động cơ</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="179"/>
         <source>cores/threads</source>
-        <translation>Kerne/Threads</translation>
+        <translation>số core</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="182"/>
         <source> u</source>
-        <translation> u</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="201"/>
         <source>hash size</source>
-        <translation>Hash Größe</translation>
+        <translation>kích cỡ hash</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="204"/>
         <source> MB</source>
-        <translation> MB</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="240"/>
         <source>stats</source>
-        <translation type="unfinished">Statistiken</translation>
+        <translation type="unfinished">thống kê</translation>
+    </message>
+    <message>
+        <source>show move stats table</source>
+        <translation type="vanished">hiện bảng thống kê nước đi</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="247"/>
         <source>add an engine</source>
-        <translation>füge eine Engine hinzu</translation>
+        <translation>thêm một động cơ</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="264"/>
         <source>show board for pv moves</source>
-        <translation>zeige Board für Vorschau</translation>
+        <translation>hiện bàn cờ để xem các nước pv</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="284"/>
         <source>reload engine</source>
-        <translation>Engine neu laden</translation>
+        <translation>tải lại động cơ</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="301"/>
         <source>settings</source>
-        <translation>Einstellungen</translation>
+        <translation>các thiết lập</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="318"/>
         <source>close</source>
-        <translation>schließen</translation>
+        <translation>đóng</translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.ui" line="324"/>
         <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
-        <source>0 NPS</source>
-        <translation type="vanished">0 NPS</translation>
-    </message>
-    <message>
-        <source>%1 NPS</source>
-        <translation type="vanished">%1 NPS</translation>
-    </message>
-    <message>
-        <source>MPS</source>
-        <translation type="vanished">MPS</translation>
-    </message>
-    <message>
-        <source>KPS</source>
-        <translation type="vanished">KPS</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/comm/evaltablewidget.cpp" line="409"/>
@@ -5572,42 +5603,42 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/dlg/exclusivemovedialog.ui" line="20"/>
         <source>Inclusive searching moves</source>
-        <translation type="unfinished"></translation>
+        <translation>Tìm kiếm bao gồm những nước</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/exclusivemovedialog.ui" line="30"/>
         <source>All legal moves:</source>
-        <translation>alle legalen Züge:</translation>
+        <translation>Tất cả các nước hợp lệ</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/exclusivemovedialog.ui" line="81"/>
         <source>Tick all</source>
-        <translation>alle markieren</translation>
+        <translation>Đánh dấu tất</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/exclusivemovedialog.ui" line="88"/>
         <source>Clear all</source>
-        <translation>alle abwählen</translation>
+        <translation>Xoá tất</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/exclusivemovedialog.ui" line="97"/>
         <source>Unticked moves will be excluded from searching and making.</source>
-        <translation>Nicht markierte Züge werden vom Suchen und Ausführen ausgeschlossen.</translation>
+        <translation>Các nước bỏ chọn sẽ không được tìm kiếm và đi</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/exclusivemovedialog.ui" line="104"/>
         <source>If they are changed, stop engines then search again to take effect.</source>
-        <translation type="unfinished">Wenn geändert wurde, Engine stoppen und erneut suchen, um wirksam zu werden.</translation>
+        <translation>Nếu có thay đổi, hãy dừng các động cơ rồi cho tìm kiếm lại.</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/exclusivemovedialog.cpp" line="140"/>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation>Lỗi</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/exclusivemovedialog.cpp" line="140"/>
         <source>All moves are unticked!</source>
-        <translation>Alle Züge sind nicht markiert!</translation>
+        <translation>Tất cả các nước bị bỏ chọn!</translation>
     </message>
 </context>
 <context>
@@ -5623,12 +5654,12 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/settings/gamesetupdialog.ui" line="20"/>
         <source>Game setup</source>
-        <translation>Partie Setup</translation>
+        <translation>Thiết lập ván cờ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/gamesetupdialog.ui" line="86"/>
         <source>New tab</source>
-        <translation>neuer Tab</translation>
+        <translation>Tab mới</translation>
     </message>
     <message>
         <location filename="../../ui/settings/gamesetupdialog.ui" line="109"/>
@@ -5644,17 +5675,41 @@ button to download the default net or select one from the table</source>
         <location filename="../../ui/settings/gamesetupdialog.ui" line="212"/>
         <location filename="../../ui/settings/gamesetupdialog.ui" line="364"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Overide settings</source>
+        <translation type="vanished">Thiết lập đè</translation>
+    </message>
+    <message>
+        <source>ponder</source>
+        <translation type="vanished">nghĩ trước</translation>
+    </message>
+    <message>
+        <source>cores:</source>
+        <translation type="vanished">số lõi:</translation>
+    </message>
+    <message>
+        <source>memory(MB):</source>
+        <translation type="vanished">bộ nhớ (MB):</translation>
+    </message>
+    <message>
+        <source>Syzygy path:</source>
+        <translation type="vanished">Thư mục Syzygy:</translation>
+    </message>
+    <message>
+        <source>Browser...</source>
+        <translation type="vanished">Xem...</translation>
     </message>
     <message>
         <location filename="../../ui/settings/gamesetupdialog.ui" line="358"/>
         <source>General settings</source>
-        <translation>allgemeine Einstellungen</translation>
+        <translation>Thiết lập chung</translation>
     </message>
     <message>
         <location filename="../../ui/settings/gamesetupdialog.ui" line="388"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Đồng ý</translation>
     </message>
 </context>
 <context>
@@ -5662,79 +5717,81 @@ button to download the default net or select one from the table</source>
     <message>
         <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="323"/>
         <source>&lt;Human&gt;</source>
-        <translation>&lt;Spieler&gt;</translation>
+        <translation>&lt;Người&gt;</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="380"/>
         <source>You want to abort this game!
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn muốn bỏ ván cờ này
+Bạn có chắc không?</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="383"/>
         <source>You want to resign this game!
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn muốn nhận thua ván cờ này
+Bạn có chắc không?</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="386"/>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Khẳng định</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="542"/>
         <source>Your username is is a registered name and already logged in. Please chose another username then login again</source>
-        <translation type="unfinished"></translation>
+        <translation>Tên đăng nhập của bạn là tên đã đăng ký và đang đăng nhập. Hãy chọn tên khác và đăng nhập lại</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="544"/>
         <source>Your username is is a registered name but the password is empty. Please enter the password or chose another username then login again</source>
-        <translation type="unfinished"></translation>
+        <translation>Tên đăng nhập của bạn là tên đã đăng ký nhưng phần mật khẩu lại để trống. Hãy nhập mật khẩu hoặc chọn tên khác và đăng nhập lại</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="670"/>
         <source>Host incorrect</source>
-        <translation type="unfinished"></translation>
+        <translation>Địa chỉ không đúng</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="671"/>
         <source>Host must be in format host:port, e.g.: freechess.org:5000</source>
-        <translation type="unfinished"></translation>
+        <translation>Địa chỉ phải ở dạng host:port, ví dụ: freechess.org:5000</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="721"/>
         <source>Trying to play vs %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang thử chơi với %1</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="784"/>
         <source>Disconnect</source>
-        <translation>trennen</translation>
+        <translation>Cắt kết nối</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="786"/>
         <source>Connect</source>
-        <translation>verbinden</translation>
+        <translation>Kết nối</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="832"/>
         <source>Observe game id %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Xem ván cờ với id %1</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="862"/>
         <source>Challenge %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Thách thức %1</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="871"/>
         <source>Tell to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tell (nói) với %1</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsbasicctrlwidget.cpp" line="897"/>
         <source>Try to play vs %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Thử chơi với %1</translation>
     </message>
 </context>
 <context>
@@ -5742,98 +5799,98 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="20"/>
         <source>Challenge/Seek</source>
-        <translation>herausfordern/suchen</translation>
+        <translation>Thách thức/Tìm chơi</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="55"/>
         <source>Challenge</source>
-        <translation>herausfordern</translation>
+        <translation>Thách thức</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="65"/>
         <source>Seek</source>
-        <translation>Suche</translation>
+        <translation>Seek</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="72"/>
         <source>Auto seek</source>
-        <translation>automatische Suche</translation>
+        <translation>Tự động seek</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="95"/>
         <source>Challenge to:</source>
-        <translation>herausfordern:</translation>
+        <translation>Thách thức:</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="127"/>
         <source>Auto seek period:</source>
-        <translation>Zeitraum:</translation>
+        <translation>Chu kỳ tự động seek:</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="136"/>
         <location filename="../../ui/ics/icschallengedlg.ui" line="341"/>
         <source> s</source>
-        <translation> s</translation>
+        <translation> giây</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="167"/>
         <source>rated</source>
-        <translation type="unfinished"></translation>
+        <translation>tính điểm</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="177"/>
         <source>Score range:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vùng điểm:</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="186"/>
         <source>from:</source>
-        <translation>von:</translation>
+        <translation>từ:</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="209"/>
         <source>to:</source>
-        <translation>bis:</translation>
+        <translation>tới:</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="247"/>
         <source>Your side:</source>
-        <translation>Ihre Seite:</translation>
+        <translation>Bên của bạn:</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="266"/>
         <source>white</source>
-        <translation>Weiß</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="276"/>
         <source>black</source>
-        <translation>Schwarz</translation>
+        <translation>đen</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="283"/>
         <source>any</source>
-        <translation type="unfinished"></translation>
+        <translation>bất kỳ</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="309"/>
         <source>Timer:</source>
-        <translation>Timer:</translation>
+        <translation>Đồng hồ:</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="318"/>
         <source> m</source>
-        <translation> m</translation>
+        <translation> phút</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="334"/>
         <source>increment:</source>
-        <translation>Inkrement:</translation>
+        <translation>tăng:</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icschallengedlg.ui" line="376"/>
         <source>Formula:</source>
-        <translation>Formel:</translation>
+        <translation>Công thức:</translation>
     </message>
 </context>
 <context>
@@ -5846,62 +5903,66 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="76"/>
         <source>Host:</source>
-        <translation>Host:</translation>
+        <translation>Địa chỉ:</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="119"/>
         <source>Username, let empty to log as a guest</source>
-        <translation>Nutzername; leer lassen für Login als Gast</translation>
+        <translation>Tên đăng nhập, để trống để làm khách</translation>
+    </message>
+    <message>
+        <source>User name, letter only. Let empty to log in as Guest</source>
+        <translation type="vanished">Tên đăng nhập, chỉ chử; để trống để làm khách</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="125"/>
         <source>User name, letters only. Let empty to log in as a Guest</source>
-        <translation>Nutzername, nur Buchstaben; leer lassen für Login als Gast</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="141"/>
         <source>Password</source>
-        <translation>Passwort</translation>
+        <translation>Mật khẩu</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="150"/>
         <source>password</source>
-        <translation>Passwort</translation>
+        <translation>mật khẩu</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="160"/>
         <source>Connect</source>
-        <translation>verbinden</translation>
+        <translation>Kết nối</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="180"/>
         <source>Engine/human to play</source>
-        <translation>Engine/Spieler zum Spielen</translation>
+        <translation>Máy/người</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="187"/>
         <source>Challenge/Seek</source>
-        <translation>herausfordern/suchen</translation>
+        <translation>Thách thức/Tìm chơi</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="194"/>
         <source>Stop your auto seeking</source>
-        <translation>automatische Suche stoppen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="197"/>
         <source>Stop seeking</source>
-        <translation>Suche stoppen</translation>
+        <translation>Dừng seeking</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="219"/>
         <source>Engine:</source>
-        <translation>Engine:</translation>
+        <translation>Động cơ:</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="226"/>
         <source>Auto</source>
-        <translation>auto</translation>
+        <translation>Tự động</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="238"/>
@@ -5912,12 +5973,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="241"/>
         <source>update, period:</source>
-        <translation type="unfinished"></translation>
+        <translation>cập nhật chu kỳ:</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="251"/>
         <source>s</source>
-        <translation>s</translation>
+        <translation>giây</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="264"/>
@@ -5927,7 +5988,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="267"/>
         <source>open games</source>
-        <translation>öffne Partien</translation>
+        <translation>mở ván</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="274"/>
@@ -5937,7 +5998,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="277"/>
         <source>close</source>
-        <translation>schließen</translation>
+        <translation>đóng</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="329"/>
@@ -5947,99 +6008,99 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="341"/>
         <source>blitz</source>
-        <translation>blitz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="348"/>
         <source>guest</source>
-        <translation>Gast</translation>
+        <translation>khách</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="355"/>
         <source>registered</source>
-        <translation type="unfinished"></translation>
+        <translation>đăng ký</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="362"/>
         <source>standard</source>
-        <translation>standard</translation>
+        <translation>cờ chuẩn</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="369"/>
         <location filename="../../ui/ics/icsctrlwidget.cpp" line="553"/>
         <source>rated</source>
-        <translation type="unfinished"></translation>
+        <translation>tính điểm</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="376"/>
         <source>lightning</source>
-        <translation type="unfinished"></translation>
+        <translation>chớp</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="383"/>
         <location filename="../../ui/ics/icsctrlwidget.cpp" line="553"/>
         <source>unrated</source>
-        <translation type="unfinished"></translation>
+        <translation>không tính điểm</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="411"/>
         <source>Games</source>
-        <translation>Partien</translation>
+        <translation>Ván cờ</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="449"/>
         <source>Players</source>
-        <translation>Spieler</translation>
+        <translation>Người chơi</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="487"/>
         <source>Seekings</source>
-        <translation>Suchen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="542"/>
         <source>tell</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="547"/>
         <source>say</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="552"/>
         <source>shout</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="557"/>
         <source>cshout</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="584"/>
         <source>Enter a message then press enter to send</source>
-        <translation>gib eine Nachricht ein, drücke Enter zum Senden</translation>
+        <translation>Nhập vào một thông tin rồi bấm phím Enter để gửi đi</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.ui" line="590"/>
         <source>type a message, press enter to send</source>
-        <translation>tippe eine Nachricht, drücke Enter zum Senden</translation>
+        <translation>Nhập vào một thông tin rồi bấm phím Enter để gửi đi</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.cpp" line="551"/>
         <source>, %1 %2</source>
-        <translation>, %1 %2</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.cpp" line="557"/>
         <source>game %1 (%2%3) is %4!</source>
-        <translation>Partie %1 (%2%3) ist %4!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsctrlwidget.cpp" line="833"/>
         <source>game %1 is over, result &lt;font color=&apos;red&apos;&gt;%2&lt;/font&gt;</source>
-        <translation>Partie %1 ist vorbei, Ergebnis &lt;font color=&apos;red&apos;&gt;%2&lt;/font&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6047,68 +6108,68 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsgametablemodel.cpp" line="107"/>
         <source>yes</source>
-        <translation>ja</translation>
+        <translation>có</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsgametablemodel.cpp" line="107"/>
         <source>no</source>
-        <translation>nein</translation>
+        <translation>không</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsgametablemodel.cpp" line="119"/>
         <source>private</source>
-        <translation type="unfinished"></translation>
+        <translation>riêng</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsgametablemodel.cpp" line="123"/>
         <source>playing</source>
-        <translation type="unfinished"></translation>
+        <translation>đang chơi</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsgametablemodel.cpp" line="123"/>
         <source>watching</source>
-        <translation type="unfinished"></translation>
+        <translation>đang xem</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsgametablemodel.cpp" line="177"/>
         <source>Id</source>
-        <translation>Id</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsgametablemodel.cpp" line="179"/>
         <location filename="../../ui/ics/icsgametablemodel.cpp" line="183"/>
         <source>Elo</source>
-        <translation>Elo</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsgametablemodel.cpp" line="181"/>
         <source>White</source>
-        <translation>Weiß</translation>
+        <translation>Trắng</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsgametablemodel.cpp" line="185"/>
         <source>Black</source>
-        <translation>Schwarz</translation>
+        <translation>Đen</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsgametablemodel.cpp" line="187"/>
         <source>Timer</source>
-        <translation>Timer</translation>
+        <translation>Đồng hồ</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsgametablemodel.cpp" line="189"/>
         <source>Rated</source>
-        <translation type="unfinished"></translation>
+        <translation>Tính điểm</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsgametablemodel.cpp" line="191"/>
         <source>Type</source>
-        <translation>Typ</translation>
+        <translation>Kiểu</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsgametablemodel.cpp" line="193"/>
         <source>Length</source>
-        <translation>Länge</translation>
+        <translation>Dài</translation>
     </message>
 </context>
 <context>
@@ -6116,17 +6177,17 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsplayertablemodel.cpp" line="95"/>
         <source>Player</source>
-        <translation>Spieler</translation>
+        <translation>Người chơi</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsplayertablemodel.cpp" line="97"/>
         <source>Elo</source>
-        <translation>Elo</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsplayertablemodel.cpp" line="99"/>
         <source>Type</source>
-        <translation>Typ</translation>
+        <translation>Kiểu</translation>
     </message>
 </context>
 <context>
@@ -6134,57 +6195,57 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsresulttableviewmodel.cpp" line="63"/>
         <source>yes</source>
-        <translation>ja</translation>
+        <translation>có</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsresulttableviewmodel.cpp" line="63"/>
         <source>no</source>
-        <translation>nein</translation>
+        <translation>không</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsresulttableviewmodel.cpp" line="127"/>
         <source>White</source>
-        <translation>Weiß</translation>
+        <translation>Trắng</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsresulttableviewmodel.cpp" line="129"/>
         <source>Result</source>
-        <translation>Ergebnis</translation>
+        <translation>Kết </translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsresulttableviewmodel.cpp" line="131"/>
         <source>Black</source>
-        <translation>Schwarz</translation>
+        <translation>Đen</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsresulttableviewmodel.cpp" line="133"/>
         <source>Rated</source>
-        <translation type="unfinished"></translation>
+        <translation>Tính điểm</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsresulttableviewmodel.cpp" line="135"/>
         <source>Type</source>
-        <translation>Typ</translation>
+        <translation>Kiểu</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsresulttableviewmodel.cpp" line="137"/>
         <source>Length</source>
-        <translation>Länge</translation>
+        <translation>Dài</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsresulttableviewmodel.cpp" line="139"/>
         <source>Timer</source>
-        <translation>Timer</translation>
+        <translation>Đồng hồ</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsresulttableviewmodel.cpp" line="141"/>
         <source>At</source>
-        <translation type="unfinished"></translation>
+        <translation>Tại</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsresulttableviewmodel.cpp" line="143"/>
         <source>Reason</source>
-        <translation>Grund</translation>
+        <translation>Lý do</translation>
     </message>
 </context>
 <context>
@@ -6197,12 +6258,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsresultwidget.ui" line="37"/>
         <source>Clear all</source>
-        <translation type="unfinished">leeren</translation>
+        <translation>Xoá tất</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsresultwidget.ui" line="59"/>
         <source>Info</source>
-        <translation>Info</translation>
+        <translation>Thông tin</translation>
     </message>
 </context>
 <context>
@@ -6210,57 +6271,57 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icsseekingplayertablemodel.cpp" line="41"/>
         <source>trying</source>
-        <translation type="unfinished"></translation>
+        <translation>đang thử</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsseekingplayertablemodel.cpp" line="41"/>
         <source>failed</source>
-        <translation type="unfinished"></translation>
+        <translation>không được</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsseekingplayertablemodel.cpp" line="41"/>
         <source>sucessed</source>
-        <translation type="unfinished"></translation>
+        <translation>đã thành công</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsseekingplayertablemodel.cpp" line="64"/>
         <source>rated</source>
-        <translation type="unfinished"></translation>
+        <translation>tính điểm</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsseekingplayertablemodel.cpp" line="64"/>
         <source>unrated</source>
-        <translation type="unfinished"></translation>
+        <translation>không tính điểm</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsseekingplayertablemodel.cpp" line="118"/>
         <source>Player</source>
-        <translation>Spieler</translation>
+        <translation>Người chơi</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsseekingplayertablemodel.cpp" line="120"/>
         <source>Elo</source>
-        <translation>Elo</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsseekingplayertablemodel.cpp" line="122"/>
         <source>Rated</source>
-        <translation type="unfinished"></translation>
+        <translation>Tính điểm</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsseekingplayertablemodel.cpp" line="124"/>
         <source>Type</source>
-        <translation>Typ</translation>
+        <translation>Kiểu</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsseekingplayertablemodel.cpp" line="126"/>
         <source>Timer</source>
-        <translation>Timer</translation>
+        <translation>Đồng hồ</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icsseekingplayertablemodel.cpp" line="128"/>
         <source>Created at</source>
-        <translation>erstellt am</translation>
+        <translation>Tạo lúc</translation>
     </message>
 </context>
 <context>
@@ -6273,7 +6334,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icstelnet.ui" line="47"/>
         <source>Enter a command then press enter to send</source>
-        <translation>Geben Sie einen Befehl ein und drücken Sie zum Senden die Eingabetaste</translation>
+        <translation>Nhập vào một lệnh rồi bấm phím Enter để gửi đi</translation>
     </message>
 </context>
 <context>
@@ -6324,16 +6385,16 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/ics/icswidget.ui" line="39"/>
         <source>Control</source>
-        <translation>Steuerung</translation>
+        <translation>Điều khiển</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icswidget.ui" line="44"/>
         <source>Result</source>
-        <translation>Ergebnis</translation>
+        <translation type="unfinished">Kết </translation>
     </message>
     <message>
         <source>Resullt</source>
-        <translation type="vanished">Ergebnis</translation>
+        <translation type="vanished">Kết quả</translation>
     </message>
     <message>
         <location filename="../../ui/ics/icswidget.ui" line="49"/>
@@ -6351,7 +6412,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/comm/imgviewerwidget.ui" line="58"/>
         <source>Right click for popup menu</source>
-        <translation type="unfinished">Rechtsklick für Popup Menü</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/comm/imgviewerwidget.cpp" line="37"/>
@@ -6432,12 +6493,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/comm/jeiqipieceselectdialog.ui" line="14"/>
         <source>Promotion</source>
-        <translation type="unfinished"></translation>
+        <translation>Phong cấp</translation>
     </message>
     <message>
         <location filename="../../ui/comm/jeiqipieceselectdialog.cpp" line="49"/>
         <source>Random</source>
-        <translation type="unfinished">zufällig</translation>
+        <translation type="unfinished">Ngẫu nhiên</translation>
     </message>
 </context>
 <context>
@@ -6453,7 +6514,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/comm/lctablemodel.cpp" line="86"/>
         <source>move</source>
-        <translation>Zug</translation>
+        <translation>nước</translation>
     </message>
 </context>
 <context>
@@ -6461,7 +6522,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libot.cpp" line="319"/>
         <source>%1 %2, %3</source>
-        <translation>%1 %2, %3</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/libot/libot.cpp" line="362"/>
@@ -6486,16 +6547,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libot.cpp" line="695"/>
         <source>New Lichess game created</source>
-        <translation>neue Lichess Partie erstellt</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/libot/libot.cpp" line="792"/>
         <source>%1 move %2 </source>
-        <translation>%1 Zug %2 </translation>
-    </message>
-    <message>
-        <source>move %1 %2</source>
-        <translation type="vanished">Zug %1 %2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/libot/libot.cpp" line="327"/>
@@ -6520,7 +6577,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libot.cpp" line="405"/>
         <source>%1 %2%3</source>
-        <translation type="unfinished">%1 %2%3</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/libot/libot.cpp" line="406"/>
@@ -6580,7 +6637,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libot.cpp" line="1023"/>
         <source>%1 %2</source>
-        <translation>%1 %2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/libot/libot.cpp" line="1028"/>
@@ -6608,7 +6665,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotbasic.cpp" line="158"/>
         <source>auto</source>
-        <translation type="unfinished">auto</translation>
+        <translation type="unfinished">tự động</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotbasic.cpp" line="167"/>
@@ -6644,8 +6701,16 @@ Are you sure?</source>
 <context>
     <name>LibotChallengeDlg</name>
     <message>
+        <source>Challenge a user</source>
+        <translation type="vanished">Thách thức một người</translation>
+    </message>
+    <message>
         <source>Username:</source>
-        <translation type="vanished">Nutzername:</translation>
+        <translation type="vanished">Tên đăng nhập:</translation>
+    </message>
+    <message>
+        <source>rated</source>
+        <translation type="vanished">tính điểm</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotchallengedlg.ui" line="347"/>
@@ -6660,22 +6725,22 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotchallengedlg.ui" line="526"/>
         <source>Your side:</source>
-        <translation type="unfinished">Ihre Seite:</translation>
+        <translation>Bên của bạn:</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotchallengedlg.ui" line="557"/>
         <source>Random</source>
-        <translation type="unfinished">zufällig</translation>
+        <translation>Ngẫu nhiên</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotchallengedlg.ui" line="574"/>
         <source>white</source>
-        <translation>Weiß</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotchallengedlg.ui" line="567"/>
         <source>black</source>
-        <translation>Schwarz</translation>
+        <translation>đen</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotchallengedlg.ui" line="56"/>
@@ -6716,12 +6781,12 @@ Are you sure?</source>
         <location filename="../../ui/libot/libotchallengedlg.ui" line="612"/>
         <location filename="../../ui/libot/libotchallengedlg.ui" line="638"/>
         <source> s</source>
-        <translation> s</translation>
+        <translation> giây</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotchallengedlg.ui" line="625"/>
         <source>Increment:</source>
-        <translation>Inkrement:</translation>
+        <translation>Tăng:</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotchallengedlg.ui" line="699"/>
@@ -6736,7 +6801,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotchallengedlg.ui" line="799"/>
         <source>Challenge</source>
-        <translation type="unfinished">herausfordern</translation>
+        <translation type="unfinished">Thách thức</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotchallengedlg.ui" line="434"/>
@@ -6747,7 +6812,7 @@ Are you sure?</source>
         <location filename="../../ui/libot/libotchallengedlg.ui" line="437"/>
         <location filename="../../ui/libot/libotchallengedlg.ui" line="457"/>
         <source>s</source>
-        <translation type="unfinished">s</translation>
+        <translation type="unfinished">giây</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotchallengedlg.ui" line="447"/>
@@ -6782,21 +6847,21 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotchallengedlg.ui" line="310"/>
         <source>Variant:</source>
-        <translation type="unfinished">Variante:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="obsolete">OK</translation>
+        <translation type="obsolete">Đồng ý</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotchallengedlg.ui" line="809"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bỏ</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotchallengedlg.ui" line="597"/>
         <source>Initial time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Thời gian bắt đầu:</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotchallengedlg.cpp" line="69"/>
@@ -6834,7 +6899,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotchallengertablemodel.cpp" line="147"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tên</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotchallengertablemodel.cpp" line="151"/>
@@ -6849,7 +6914,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotchallengertablemodel.cpp" line="155"/>
         <source>WDL</source>
-        <translation type="unfinished">WDL</translation>
+        <translation type="unfinished">ThắngHoàThua</translation>
     </message>
 </context>
 <context>
@@ -6867,7 +6932,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotchatdlg.ui" line="45"/>
         <source>Player</source>
-        <translation type="unfinished">Spieler</translation>
+        <translation type="unfinished">Người chơi</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotchatdlg.ui" line="55"/>
@@ -6902,12 +6967,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotchatdlg.ui" line="213"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation type="unfinished">Đồng ý</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotchatdlg.ui" line="236"/>
         <source>Clear all</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Xoá tất</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotchatdlg.ui" line="243"/>
@@ -6953,22 +7018,22 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotgametablemodel.cpp" line="124"/>
         <source>White</source>
-        <translation>Weiß</translation>
+        <translation>Trắng</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotgametablemodel.cpp" line="126"/>
         <source>Black</source>
-        <translation>Schwarz</translation>
+        <translation>Đen</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotgametablemodel.cpp" line="128"/>
         <source>#len</source>
-        <translation type="unfinished">#len</translation>
+        <translation>#dài</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotgametablemodel.cpp" line="130"/>
         <source>Timer</source>
-        <translation>Timer</translation>
+        <translation>Đồng hồ</translation>
     </message>
 </context>
 <context>
@@ -6986,22 +7051,22 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotgamewidget.ui" line="83"/>
         <source>Chat:</source>
-        <translation>Chat:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotgamewidget.cpp" line="96"/>
         <source>There is no game</source>
-        <translation type="unfinished"></translation>
+        <translation>Không có ván cờ nào</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotgamewidget.cpp" line="101"/>
         <source>There are more than one games. Please select one first</source>
-        <translation type="unfinished"></translation>
+        <translation>Có nhiều ván cờ. Hãy chọn một đã</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotgamewidget.cpp" line="106"/>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation>Lỗi</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotgamewidget.cpp" line="117"/>
@@ -7085,7 +7150,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotmngmodel.cpp" line="54"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Đồng ý</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotmngmodel.cpp" line="68"/>
@@ -7095,27 +7160,27 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotmngmodel.cpp" line="151"/>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation>Tên</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotmngmodel.cpp" line="153"/>
         <source>Token</source>
-        <translation>Token</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotmngmodel.cpp" line="155"/>
         <source>Engine</source>
-        <translation>Engine</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotmngmodel.cpp" line="157"/>
         <source>Timer</source>
-        <translation type="unfinished">Timer</translation>
+        <translation type="unfinished">Đồng hồ</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotmngmodel.cpp" line="159"/>
         <source>Challenge</source>
-        <translation type="unfinished">herausfordern</translation>
+        <translation type="unfinished">Thách thức</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotmngmodel.cpp" line="161"/>
@@ -7125,17 +7190,17 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotmngmodel.cpp" line="163"/>
         <source>#played</source>
-        <translation type="unfinished">#gespielt</translation>
+        <translation>#đã chơi</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotmngmodel.cpp" line="165"/>
         <source>Status</source>
-        <translation>Status</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotmngmodel.cpp" line="167"/>
         <source>Login/out</source>
-        <translation>Login/out</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7148,12 +7213,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotmngwidget.ui" line="153"/>
         <source>Show playing games</source>
-        <translation>zeige aktive Partien</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotmngwidget.ui" line="180"/>
         <source>Concurrency:</source>
-        <translation type="unfinished">Parallelität:</translation>
+        <translation>Chạy cùng lúc:</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotmngwidget.ui" line="50"/>
@@ -7171,6 +7236,12 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="177"/>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="193"/>
+        <source>Total concurrent playing games</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../ui/libot/libotmngwidget.ui" line="62"/>
         <source>Set 0 to ignore, bot will be abort if opposites idle at the begining</source>
         <translation type="unfinished"></translation>
@@ -7179,12 +7250,11 @@ Are you sure?</source>
         <location filename="../../ui/libot/libotmngwidget.ui" line="81"/>
         <location filename="../../ui/libot/libotmngwidget.ui" line="223"/>
         <source> s</source>
-        <translation> s</translation>
+        <translation> giây</translation>
     </message>
     <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="133"/>
-        <source>Chat setup</source>
-        <translation type="unfinished"></translation>
+        <source>Challenge</source>
+        <translation type="vanished">Thách thức</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotmngwidget.ui" line="156"/>
@@ -7199,12 +7269,6 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotmngwidget.ui" line="166"/>
         <source>log</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="177"/>
-        <location filename="../../ui/libot/libotmngwidget.ui" line="193"/>
-        <source>Total concurrent playing games</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7226,7 +7290,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotmngwidget.ui" line="287"/>
         <source>blitz</source>
-        <translation type="unfinished">blitz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotmngwidget.ui" line="308"/>
@@ -7236,12 +7300,17 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotmngwidget.ui" line="273"/>
         <source>white</source>
-        <translation>Weiß</translation>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../../ui/libot/libotmngwidget.ui" line="133"/>
+        <source>Chat setup</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotmngwidget.ui" line="294"/>
         <source>rated</source>
-        <translation type="unfinished"></translation>
+        <translation>tính điểm</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotmngwidget.ui" line="301"/>
@@ -7251,7 +7320,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotmngwidget.ui" line="336"/>
         <source>black</source>
-        <translation>Schwarz</translation>
+        <translation>đen</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotmngwidget.ui" line="315"/>
@@ -7300,7 +7369,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Fehler</translation>
+        <translation type="vanished">Lỗi</translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotmngwidget.cpp" line="317"/>
@@ -7338,7 +7407,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/libot/libotwidget.ui" line="39"/>
         <source>Bots</source>
-        <translation>Bots</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/libot/libotwidget.ui" line="44"/>
@@ -7376,7 +7445,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/logviewerwidget.ui" line="57"/>
         <source>Game:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ván cờ:</translation>
     </message>
     <message>
         <location filename="../../ui/logviewerwidget.ui" line="80"/>
@@ -7386,12 +7455,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/logviewerwidget.ui" line="83"/>
         <source>Reload</source>
-        <translation type="unfinished">neu laden</translation>
+        <translation>Tải lại</translation>
     </message>
     <message>
         <location filename="../../ui/logviewerwidget.ui" line="114"/>
         <source>Always on top</source>
-        <translation>immer im Vordergrund</translation>
+        <translation>Luôn trên đỉnh</translation>
     </message>
     <message>
         <location filename="../../ui/logviewerwidget.ui" line="132"/>
@@ -7403,12 +7472,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/logviewerwidget.ui" line="140"/>
         <source>white</source>
-        <translation>Weiß</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/logviewerwidget.ui" line="150"/>
         <source>black</source>
-        <translation>Schwarz</translation>
+        <translation>đen</translation>
     </message>
     <message>
         <location filename="../../ui/logviewerwidget.ui" line="160"/>
@@ -7433,7 +7502,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/logviewerwidget.ui" line="224"/>
         <source>Copy text log to clipboard</source>
-        <translation>kopiere Text in dieZwischenablage</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/logviewerwidget.ui" line="286"/>
@@ -7454,7 +7523,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/logviewerwidget.cpp" line="478"/>
         <source>Log %1</source>
-        <translation>Log %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/logviewerwidget.cpp" line="483"/>
@@ -7466,346 +7535,536 @@ correspondent board</source>
     <name>MainWindow</name>
     <message>
         <source>MainWindow</source>
-        <translation type="vanished">Hauptfenster</translation>
+        <translation type="vanished">Cửa sổ chính</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="77"/>
         <source>File</source>
-        <translation>Datei</translation>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Chess variant</source>
+        <translation type="vanished">Loại cờ</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="81"/>
         <source>Theme</source>
-        <translation>Design</translation>
+        <translation>Chủ đề</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="90"/>
         <source>Menu color</source>
-        <translation>Menüfarbe</translation>
+        <translation>Mầu menu</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="98"/>
         <source>Custom</source>
-        <translation>Eigenes Design</translation>
+        <translation>Tuỳ chọn</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="105"/>
         <source>Recent Files</source>
-        <translation>Benutzte Dateien</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="138"/>
         <source>Edit</source>
-        <translation>Bearbeiten</translation>
+        <translation>Soạn</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="17"/>
         <location filename="../../main/mainwindow.ui" line="160"/>
         <location filename="../../main/mainwindow.ui" line="294"/>
         <source>Tools</source>
-        <translation>Werkzeuge</translation>
+        <translation>Công cụ</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="164"/>
         <source>Developers</source>
-        <translation>Entwickler</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="181"/>
         <source>Windows</source>
-        <translation>Fenster</translation>
+        <translation>Cửa sổ</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="185"/>
         <source>Tool bars</source>
-        <translation>Symbolleisten</translation>
+        <translation>Thanh công cụ</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="191"/>
         <source>Docks</source>
-        <translation>Docks</translation>
+        <translation>Neo đậu</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="209"/>
         <source>Languages</source>
-        <translation>Sprachen</translation>
+        <translation>Ngôn ngữ</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="vanished">Server</translation>
+        <translation type="vanished">Máy chủ</translation>
     </message>
     <message>
         <source>Play mode</source>
-        <translation type="vanished">Spielmodus</translation>
+        <translation type="vanished">Chế độ chơi</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="214"/>
         <location filename="../../main/mainwindow.ui" line="879"/>
         <source>Connect</source>
-        <translation>Verbindungen</translation>
+        <translation>Kết nối</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="219"/>
         <source>Tournaments</source>
-        <translation>Turniere</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Load/Save</source>
-        <translation type="vanished">Laden/Speichern</translation>
+        <translation type="vanished">Tải/Lưu</translation>
     </message>
     <message>
         <source>Clock</source>
-        <translation type="vanished">Uhr</translation>
+        <translation type="vanished">Đồng hồ</translation>
     </message>
     <message>
         <source>Score graph</source>
-        <translatorcomment>Partieprofil</translatorcomment>
-        <translation type="vanished">Wertungsdiagramm</translation>
+        <translation type="vanished">Đồ thị điểm</translation>
     </message>
     <message>
         <source>Engine info</source>
-        <translation type="vanished">Engine Info</translation>
+        <translation type="vanished">Thông tin động cơ</translation>
     </message>
     <message>
         <source>Moves</source>
-        <translation type="obsolete">Notation</translation>
-    </message>
-    <message>
-        <source>?!</source>
-        <translation type="vanished">?!</translation>
-    </message>
-    <message>
-        <source>{}</source>
-        <translation type="vanished">{}</translation>
+        <translation type="vanished">Các nước đi</translation>
     </message>
     <message>
         <source>Engine log</source>
-        <translation type="vanished">Engine Log</translation>
+        <translation type="vanished">Log động cơ</translation>
     </message>
     <message>
         <source>Books/Egtb</source>
-        <translation type="vanished">Bücher/EGTB</translation>
+        <translation type="vanished">Khai/Tàn cuộc</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="271"/>
         <source>Control</source>
-        <translation>Steuerung</translation>
+        <translation>Điều khiển</translation>
     </message>
     <message>
         <source>Databases</source>
-        <translation type="vanished">Datenbanken</translation>
+        <translation type="vanished">Các CSDL</translation>
     </message>
     <message>
         <source>Connection</source>
-        <translation type="vanished">Verbindung</translation>
+        <translation type="vanished">Kết nối</translation>
     </message>
     <message>
         <source>Strings, stats</source>
-        <translation type="vanished">Ausgaben, Statistiken</translation>
+        <translation type="vanished">Xâu, thống kê</translation>
     </message>
     <message>
         <source>Tournament</source>
-        <translation type="vanished">Turnier</translation>
+        <translation type="vanished">Thi đấu</translation>
     </message>
     <message>
         <source>Tournament result</source>
-        <translation type="vanished">Turnier Ergebnis</translation>
+        <translation type="vanished">Kết quả thi đấu</translation>
     </message>
     <message>
         <source>Pv board</source>
-        <translation type="vanished">Vorschau Board</translation>
+        <translation type="vanished">Bàn cờ pv</translation>
     </message>
     <message>
         <source>Lichess bots</source>
-        <translation type="vanished">Lichess Bots</translation>
+        <translation type="vanished">Robot cho Lichess</translation>
     </message>
     <message>
         <source>Internet Chess Server</source>
-        <translation type="vanished">Internet Schach Server</translation>
+        <translation type="vanished">Máy chủ cờ ICS</translation>
     </message>
     <message>
         <source>Local Network</source>
-        <translation type="vanished">Lokales Netzwerk</translation>
+        <translation type="vanished">Mạng nội bộ</translation>
     </message>
     <message>
         <source>Broadcast</source>
-        <translation type="obsolete">Übertragung</translation>
+        <translation type="vanished">Phát sóng cờ</translation>
     </message>
     <message>
         <source>New Game</source>
-        <translation type="vanished">Neue Partie</translation>
+        <translation type="vanished">Ván mới</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="319"/>
         <source>Ctrl+N</source>
-        <translation>Ctrl+N</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Open Game</source>
-        <translation type="vanished">Öffne Partie</translation>
+        <translation type="vanished">Mở</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="331"/>
         <source>Ctrl+O</source>
-        <translation>Ctrl+O</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="336"/>
         <source>Exit</source>
-        <translation>Exit</translation>
+        <translation>Thoát</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="345"/>
         <source>Copy PGN</source>
-        <translation>Kopiere PGN</translation>
+        <translation>Chép PGN</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="348"/>
         <source>Ctrl+C</source>
-        <translation>Ctrl+C</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="353"/>
         <source>Copy FEN</source>
-        <translation>Kopiere FEN</translation>
+        <translation>Chép FEN</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="362"/>
         <source>Paste</source>
-        <translation>Einfügen</translation>
+        <translation>Dán</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="365"/>
         <source>Ctrl+V</source>
-        <translation>Ctrl+V</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="370"/>
         <source>Copy Image</source>
-        <translation>Kopiere Bild</translation>
+        <translation>Chép Ảnh</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="379"/>
         <source>Database</source>
-        <translation>Öffne Datenbank</translation>
+        <translation>CSDL</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="388"/>
         <source>Opening</source>
-        <translation>Öffne Eröffnungsbuch</translation>
+        <translation>Khai cuộc</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="391"/>
         <source>View Opening Book</source>
-        <translation>zeige Eröffnungsbuch</translation>
+        <translation>Xem Cẩm Nang Khai Cuộc</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="400"/>
         <source>Edit Board</source>
-        <translation>Stellung aufbauen</translation>
+        <translation>Soạn bàn cờ</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="403"/>
         <source>Edit board</source>
-        <translation>Stellung aufbauen</translation>
+        <translation>Soạn bàn cờ</translation>
+    </message>
+    <message>
+        <source>English</source>
+        <translation type="vanished">Tiếng Anh</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="412"/>
         <source>Save</source>
-        <translation>Speichern</translation>
+        <translation>Lưu</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="415"/>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="424"/>
         <source>Go first</source>
-        <translation>Gehe zum Anfang der Partie</translation>
+        <translation>Đến nước đầu </translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="427"/>
         <source>go first</source>
-        <translation>gehe zum Anfang der Partie</translation>
+        <translation>về đầu</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="445"/>
         <source>Ctrl+Left</source>
-        <translation>Ctrl + links</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="439"/>
         <source>Go previous</source>
-        <translation>Gehe zum vorherigen Zug</translation>
+        <translation>Về trước</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="442"/>
         <source>go previous</source>
-        <translation>gehe zum vorherigen Zug</translation>
+        <translation>về trước</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="vanished">links</translation>
+        <translation type="vanished">Trái</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="454"/>
         <source>Go next</source>
-        <translation>Gehe zum nächsten Zug</translation>
+        <translation>Tiếp</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="457"/>
         <source>go next</source>
-        <translation>gehe zum nächsten Zug</translation>
+        <translation>tiếp</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="vanished">rechts</translation>
+        <translation type="vanished">Phải</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="469"/>
         <source>Go last</source>
-        <translation>Gehe zum Ende der Partie</translation>
+        <translation>Về cuối</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="472"/>
         <source>go last</source>
-        <translation>gehe zum Ende der Partie</translation>
+        <translation>về cuối</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="460"/>
         <source>Ctrl+Right</source>
-        <translation>Ctrl + rechts</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="484"/>
         <source>Rotate</source>
-        <translation>drehen</translation>
+        <translation>Quay</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="487"/>
         <source>rotate board</source>
-        <translation>Board drehen</translation>
+        <translation>quay bàn cờ</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="503"/>
         <source>Auto Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Tự Động Chơi</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="506"/>
         <source>auto play</source>
-        <translation type="unfinished"></translation>
+        <translation>tự động chơi</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="518"/>
         <source>Settings</source>
-        <translation>Einstellungen...</translation>
+        <translation>Thiết lập</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="521"/>
         <source>settings</source>
-        <translation>Einstellungen</translation>
+        <translation>các thiết lập</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="533"/>
+        <source>New Tournament</source>
+        <translation>Thi Đấu Mới</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="536"/>
+        <source>Create tournament</source>
+        <translation>Tạo Thi Đấu</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="544"/>
+        <source>Save Theme &amp;&amp; Layout</source>
+        <translation>Lưu Chủ đề &amp;&amp; Bố trí</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="547"/>
+        <source>Save theme and layout</source>
+        <translation>Lưu chủ đề và bố trí</translation>
+    </message>
+    <message>
+        <source>Game Analysis</source>
+        <translation type="vanished">Phân tích Ván cờ</translation>
+    </message>
+    <message>
+        <source>Auto analyse game</source>
+        <translation type="vanished">Tự động Phân tích Ván cờ</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="568"/>
+        <location filename="../../main/mainwindow.ui" line="571"/>
+        <source>Stop Analysis</source>
+        <translation>Dừng Phân tích</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="576"/>
+        <location filename="../../main/mainwindow.ui" line="579"/>
+        <source>Open PGN from URL</source>
+        <translation>Mở PGN từ địa chỉ</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="591"/>
+        <location filename="../../main/mainwindow.ui" line="594"/>
+        <source>Always On Top</source>
+        <translation>Luôn trên đỉnh</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="599"/>
+        <location filename="../../main/mainwindow.ui" line="602"/>
+        <source>Save As</source>
+        <translation>Lưu thành</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="607"/>
+        <location filename="../../main/mainwindow.ui" line="610"/>
+        <source>About</source>
+        <translation>Về chương trình</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="619"/>
+        <location filename="../../main/mainwindow.ui" line="622"/>
+        <source>Exclusive Moves</source>
+        <translation>Không tính nước</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="631"/>
+        <location filename="../../main/mainwindow.ui" line="634"/>
+        <source>Move Now</source>
+        <translation>Đi ngay</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="643"/>
+        <location filename="../../main/mainwindow.ui" line="646"/>
+        <source>Play</source>
+        <translation>Chơi</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="655"/>
+        <location filename="../../main/mainwindow.ui" line="658"/>
+        <source>Takeback</source>
+        <translation>Đi lại</translation>
+    </message>
+    <message>
+        <source>Game Setup</source>
+        <translation type="vanished">Thiết lập Ván cờ</translation>
+    </message>
+    <message>
+        <source>Setup Game</source>
+        <translation type="vanished">Thiết lập Ván cờ</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="676"/>
+        <source>Ctrl+/</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="688"/>
+        <source>Create Database</source>
+        <translation>Tạo CSDL</translation>
+    </message>
+    <message>
+        <source>Create Opening</source>
+        <translation type="vanished">Tạo Khai Cuộc</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="709"/>
+        <source>View Book</source>
+        <translation>Xem Khai Cuộc</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="712"/>
+        <source>View opening book</source>
+        <translation>Xem Cẩm nang Khai cuộc</translation>
+    </message>
+    <message>
+        <source>Add current game to a book</source>
+        <translation type="vanished">Thêm ván cờ hiện tại vào cẩm nang</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="724"/>
+        <source>Add current game to an opening book</source>
+        <translation>Thêm ván cờ hiện tại vào cẩm nang</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="736"/>
+        <source>Add current game to a database</source>
+        <translation>Thêm ván cờ hiện tại vào một CSDL</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1001"/>
+        <source>Light Green</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1017"/>
+        <source>Talkchess Workbench</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1020"/>
+        <source>Theme Talkchess Workbench</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1025"/>
+        <source>Light Marble</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1041"/>
+        <source>Light Red</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1044"/>
+        <source>Theme Light Red</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1139"/>
+        <source>Copy UCI position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1142"/>
+        <source>Copy board as a UCI position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vietnamese</source>
+        <translation type="vanished">Tiếng Việt</translation>
+    </message>
+    <message>
+        <source>Chinese</source>
+        <translation type="vanished">Tiếng Trung</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="249"/>
+        <source>Load Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="316"/>
+        <source>Reset</source>
+        <translation type="unfinished">Khởi tạo lại</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="328"/>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="530"/>
@@ -7813,24 +8072,44 @@ correspondent board</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="533"/>
-        <source>New Tournament</source>
-        <translation>Neues Turnier</translation>
+        <location filename="../../main/mainwindow.ui" line="231"/>
+        <source>Analysis</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="536"/>
-        <source>Create tournament</source>
-        <translation>erstelle Turnier</translation>
+        <location filename="../../main/mainwindow.ui" line="430"/>
+        <source>Ctrl+Home</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="544"/>
-        <source>Save Theme &amp;&amp; Layout</source>
-        <translation>Speichere Design &amp;&amp; Layout</translation>
+        <location filename="../../main/mainwindow.ui" line="475"/>
+        <source>Ctrl+End</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="547"/>
-        <source>Save theme and layout</source>
-        <translation>Speichere Design und Layout</translation>
+        <location filename="../../main/mainwindow.ui" line="490"/>
+        <source>Ctrl+R</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="509"/>
+        <source>Ctrl+P</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="539"/>
+        <source>Ctrl+T</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="556"/>
+        <source>Analysis On The Fly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="559"/>
+        <source>Analyse on the fly</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="667"/>
@@ -7841,97 +8120,224 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="673"/>
         <source>Create a new game</source>
-        <translation type="unfinished">erstelle neue Partie</translation>
+        <translation type="unfinished">Tạo ván cờ </translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1191"/>
-        <source>New Human Game</source>
+        <location filename="../../main/mainwindow.ui" line="685"/>
+        <location filename="../../main/mainwindow.ui" line="697"/>
+        <source>Create</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="1194"/>
-        <source>New human-human game</source>
+        <location filename="../../main/mainwindow.ui" line="700"/>
+        <source>Create Opening book</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Game Analysis</source>
-        <translation type="vanished">Partie analysieren</translation>
+        <location filename="../../main/mainwindow.ui" line="721"/>
+        <location filename="../../main/mainwindow.ui" line="733"/>
+        <source>Add game</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Auto analyse game</source>
-        <translation type="vanished">Partie analysieren</translation>
+        <location filename="../../main/mainwindow.ui" line="748"/>
+        <location filename="../../main/mainwindow.ui" line="751"/>
+        <source>Xiangqi</source>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="568"/>
-        <location filename="../../main/mainwindow.ui" line="571"/>
-        <source>Stop Analysis</source>
-        <translation>Analyse anhalten</translation>
+        <location filename="../../main/mainwindow.ui" line="763"/>
+        <location filename="../../main/mainwindow.ui" line="766"/>
+        <source>Jeiqi</source>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="576"/>
-        <location filename="../../main/mainwindow.ui" line="579"/>
-        <source>Open PGN from URL</source>
-        <translation>Öffne PGN von URL</translation>
+        <location filename="../../main/mainwindow.ui" line="774"/>
+        <location filename="../../main/mainwindow.ui" line="777"/>
+        <source>Chess</source>
+        <translation>Cờ Vua</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="591"/>
-        <location filename="../../main/mainwindow.ui" line="594"/>
-        <source>Always On Top</source>
-        <translation>immer im Vordergrund</translation>
+        <location filename="../../main/mainwindow.ui" line="789"/>
+        <source>Chess960</source>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="599"/>
-        <location filename="../../main/mainwindow.ui" line="602"/>
-        <source>Save As</source>
-        <translation>Speichern unter</translation>
+        <location filename="../../main/mainwindow.ui" line="797"/>
+        <source>CXQ</source>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="607"/>
-        <location filename="../../main/mainwindow.ui" line="610"/>
-        <source>About</source>
-        <translation>Über</translation>
+        <location filename="../../main/mainwindow.ui" line="800"/>
+        <source>Club Xiangqi</source>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="619"/>
-        <location filename="../../main/mainwindow.ui" line="622"/>
-        <source>Exclusive Moves</source>
-        <translation>exklusive Züge</translation>
+        <location filename="../../main/mainwindow.ui" line="808"/>
+        <source>GameVH</source>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="631"/>
-        <location filename="../../main/mainwindow.ui" line="634"/>
-        <source>Move Now</source>
-        <translation>ziehe jetzt</translation>
+        <location filename="../../main/mainwindow.ui" line="811"/>
+        <source>Game VH</source>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="643"/>
-        <location filename="../../main/mainwindow.ui" line="646"/>
-        <source>Play</source>
-        <translation>Spielen</translation>
+        <location filename="../../main/mainwindow.ui" line="819"/>
+        <location filename="../../main/mainwindow.ui" line="822"/>
+        <source>MoveSky</source>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="655"/>
-        <location filename="../../main/mainwindow.ui" line="658"/>
-        <source>Takeback</source>
-        <translation>zurücknehmen</translation>
+        <location filename="../../main/mainwindow.ui" line="830"/>
+        <source>Thien thien tuong ky</source>
+        <translation></translation>
     </message>
     <message>
-        <source>Game Setup</source>
-        <translation type="vanished">Partie Setup</translation>
+        <location filename="../../main/mainwindow.ui" line="838"/>
+        <source>Kydao</source>
+        <translation></translation>
     </message>
     <message>
-        <source>Setup Game</source>
-        <translation type="vanished">Partie Setup</translation>
+        <location filename="../../main/mainwindow.ui" line="843"/>
+        <source>Reserve1</source>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="676"/>
-        <source>Ctrl+/</source>
-        <translation>Ctrl+/</translation>
+        <location filename="../../main/mainwindow.ui" line="848"/>
+        <source>ServerReserve2</source>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="688"/>
-        <source>Create Database</source>
-        <translation>Erstelle Datenbank</translation>
+        <location filename="../../main/mainwindow.ui" line="853"/>
+        <source>ServerReserve3</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="858"/>
+        <source>Clear Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="863"/>
+        <source>Benchmark/Cmd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="866"/>
+        <source>Benchmark or command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="882"/>
+        <source>ServerConnect</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="890"/>
+        <source>Idle</source>
+        <translation>Nghỉ</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="898"/>
+        <location filename="../../main/mainwindow.ui" line="901"/>
+        <location filename="../../main/mainwindow.ui" line="1223"/>
+        <location filename="../../main/mainwindow.ui" line="1226"/>
+        <source>Analyse</source>
+        <translation>Phân tích</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="909"/>
+        <location filename="../../main/mainwindow.ui" line="912"/>
+        <source>Play for one side</source>
+        <translation>Chơi một bên</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="921"/>
+        <location filename="../../main/mainwindow.ui" line="924"/>
+        <source>Swap players</source>
+        <translation>Tráo kỳ thủ</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="933"/>
+        <source>Download</source>
+        <translation>Tải</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="936"/>
+        <source>Download engines, data</source>
+        <translation>Tải động cơ, dữ liệu</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="945"/>
+        <source>New Tab</source>
+        <translation>Tab mới</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="948"/>
+        <source>New Game Tab</source>
+        <translation>Ván cờ và tab mới</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="953"/>
+        <source>Copy EPD</source>
+        <translation>Chép EPD</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="956"/>
+        <source>Copy the game as a list of EPD</source>
+        <translation>Chép ván cờ dạng nhiều EPD</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="961"/>
+        <source>Flip On/Off All Docks</source>
+        <translation>Đảo Ngược Tất Cả Neo Đậu</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="964"/>
+        <source>Show/hide all docks</source>
+        <translation>Bật/tắt tất cả các neo đậu</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="969"/>
+        <source>Close Tab</source>
+        <translation>Đóng tab</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="972"/>
+        <source>Close current tab</source>
+        <translation>Đóng tab hiện tại</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="977"/>
+        <source>Plain Color</source>
+        <translation>Màu Đơn</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="980"/>
+        <source>Theme Color</source>
+        <translation>Chủ đề Màu</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="985"/>
+        <source>Wood</source>
+        <translation>Gỗ</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="988"/>
+        <source>Theme Wood</source>
+        <translation>Chủ đề Gỗ</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="993"/>
+        <source>Marble</source>
+        <translation>Đá</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="996"/>
+        <location filename="../../main/mainwindow.ui" line="1028"/>
+        <source>Theme Marble</source>
+        <translation>Chủ đề Đá</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1094"/>
@@ -7951,7 +8357,7 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.ui" line="1155"/>
         <source>Stone</source>
-        <translation type="unfinished">Stein</translation>
+        <translation type="unfinished">Đá</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1158"/>
@@ -7989,175 +8395,13 @@ correspondent board</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Create Opening</source>
-        <translation type="vanished">Erstelle Eröffnungsbuch</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="709"/>
-        <source>View Book</source>
-        <translation>Zeige Buch</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="712"/>
-        <source>View opening book</source>
-        <translation>Öffne Eröffnungsbuch</translation>
-    </message>
-    <message>
-        <source>Add current game to a book</source>
-        <translation type="vanished">aktuelle Partie zum Eröffnungsbuch hinzufügen</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="724"/>
-        <source>Add current game to an opening book</source>
-        <translation>aktuelle Partie zum Eröffnungsbuch hinzufügen</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="736"/>
-        <source>Add current game to a database</source>
-        <translation>aktuelle Partie zur Datenbank hinzufügen</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="748"/>
-        <location filename="../../main/mainwindow.ui" line="751"/>
-        <source>Xiangqi</source>
-        <translation>Xiangqi</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="763"/>
-        <location filename="../../main/mainwindow.ui" line="766"/>
-        <source>Jeiqi</source>
-        <translation>Jeiqi</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="774"/>
-        <location filename="../../main/mainwindow.ui" line="777"/>
-        <source>Chess</source>
-        <translation>Standard Schach</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="789"/>
-        <source>Chess960</source>
-        <translation>Chess 960</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="797"/>
-        <source>CXQ</source>
-        <translation>CXQ</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="800"/>
-        <source>Club Xiangqi</source>
-        <translation>Club Xiangqi</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="808"/>
-        <source>GameVH</source>
+        <location filename="../../main/mainwindow.ui" line="1191"/>
+        <source>New Human Game</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="811"/>
-        <source>Game VH</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="819"/>
-        <location filename="../../main/mainwindow.ui" line="822"/>
-        <source>MoveSky</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="830"/>
-        <source>Thien thien tuong ky</source>
-        <translation>Thien thien tuong ky</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="838"/>
-        <source>Kydao</source>
-        <translation>Kydao</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="843"/>
-        <source>Reserve1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="848"/>
-        <source>ServerReserve2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="853"/>
-        <source>ServerReserve3</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="858"/>
-        <source>Clear Menu</source>
-        <translation type="unfinished">Einträge löschen</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="863"/>
-        <source>Benchmark/Cmd</source>
-        <translation>Benchmark/Kommando</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="866"/>
-        <source>Benchmark or command</source>
-        <translation>Benchmark oder Kommando</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="1001"/>
-        <source>Light Green</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="1017"/>
-        <source>Talkchess Workbench</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="1020"/>
-        <source>Theme Talkchess Workbench</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="1025"/>
-        <source>Light Marble</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="1041"/>
-        <source>Light Red</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="1044"/>
-        <source>Theme Light Red</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="1126"/>
-        <source>Dump</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="1131"/>
-        <source>Perft</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="1134"/>
-        <source>Computing perft</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="1139"/>
-        <source>Copy UCI position</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="1142"/>
-        <source>Copy board as a UCI position</source>
+        <location filename="../../main/mainwindow.ui" line="1194"/>
+        <source>New human-human game</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8206,326 +8450,156 @@ correspondent board</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.ui" line="882"/>
-        <source>ServerConnect</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="249"/>
-        <source>Load Save</source>
-        <translation>Laden/Speichern</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="316"/>
-        <source>Reset</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="328"/>
-        <source>Open</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="231"/>
-        <source>Analysis</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="430"/>
-        <source>Ctrl+Home</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="475"/>
-        <source>Ctrl+End</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="490"/>
-        <source>Ctrl+R</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="509"/>
-        <source>Ctrl+P</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="539"/>
-        <source>Ctrl+T</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="556"/>
-        <source>Analysis On The Fly</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="559"/>
-        <source>Analyse on the fly</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="685"/>
-        <location filename="../../main/mainwindow.ui" line="697"/>
-        <source>Create</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="700"/>
-        <source>Create Opening book</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="721"/>
-        <location filename="../../main/mainwindow.ui" line="733"/>
-        <source>Add game</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="890"/>
-        <source>Idle</source>
-        <translation>Leerlauf</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="898"/>
-        <location filename="../../main/mainwindow.ui" line="901"/>
-        <location filename="../../main/mainwindow.ui" line="1223"/>
-        <location filename="../../main/mainwindow.ui" line="1226"/>
-        <source>Analyse</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="909"/>
-        <location filename="../../main/mainwindow.ui" line="912"/>
-        <source>Play for one side</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="921"/>
-        <location filename="../../main/mainwindow.ui" line="924"/>
-        <source>Swap players</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="933"/>
-        <source>Download</source>
-        <translation>Download</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="936"/>
-        <source>Download engines, data</source>
-        <translation>Download</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="945"/>
-        <source>New Tab</source>
-        <translation>Neuer Tab</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="948"/>
-        <source>New Game Tab</source>
-        <translation>Neuer Tab</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="953"/>
-        <source>Copy EPD</source>
-        <translation>Kopiere EPD</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="956"/>
-        <source>Copy the game as a list of EPD</source>
-        <translation>kopiere Partie als Liste von EPD</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="961"/>
-        <source>Flip On/Off All Docks</source>
-        <translation>zeige/verberge alle Docks</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="964"/>
-        <source>Show/hide all docks</source>
-        <translation>zeige/verberge alle Docks</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="969"/>
-        <source>Close Tab</source>
-        <translation>Schließe Tab</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="972"/>
-        <source>Close current tab</source>
-        <translation>Schließe aktiven Tab</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="977"/>
-        <source>Plain Color</source>
-        <translation>Farbe</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="980"/>
-        <source>Theme Color</source>
-        <translation>Design Farbe</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="985"/>
-        <source>Wood</source>
-        <translation>Holz</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="988"/>
-        <source>Theme Wood</source>
-        <translation>Design Holz</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="993"/>
-        <source>Marble</source>
-        <translation>Marmor</translation>
-    </message>
-    <message>
-        <location filename="../../main/mainwindow.ui" line="996"/>
-        <location filename="../../main/mainwindow.ui" line="1028"/>
-        <source>Theme Marble</source>
-        <translation>Design Marmor</translation>
-    </message>
-    <message>
         <source>Green</source>
-        <translation type="vanished">Grün</translation>
+        <translation type="vanished">Xanh cây</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1004"/>
         <source>Theme Green</source>
-        <translation>Design Grün</translation>
+        <translation>Chủ đề Xanh</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1009"/>
         <source>Ocean</source>
-        <translation>Ozean</translation>
+        <translation>Đại dương</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1012"/>
         <source>Theme Ocean</source>
-        <translation>Design Ozean</translation>
+        <translation>Chủ đề Đại dương</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="vanished">Gelb</translation>
+        <translation type="vanished">Vàng</translation>
     </message>
     <message>
         <source>Theme Yellow</source>
-        <translation type="vanished">Design Gelb</translation>
+        <translation type="vanished">Chủ đề Vàng</translation>
     </message>
     <message>
         <source>Zen</source>
-        <translation type="vanished">Zen</translation>
+        <translation type="vanished">Thiền</translation>
     </message>
     <message>
         <source>Theme Zen</source>
-        <translation type="vanished">Design Zen</translation>
+        <translation type="vanished">Chủ đề Thiền</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1033"/>
         <source>Nature</source>
-        <translation>Natur</translation>
+        <translation>Tự nhiên</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1036"/>
         <source>Theme Nature</source>
-        <translation>Design Natur</translation>
+        <translation>Chủ đề Thiên nhiên</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="vanished">Rot</translation>
+        <translation type="vanished">Đỏ</translation>
     </message>
     <message>
         <source>Theme Red</source>
-        <translation type="vanished">Design Rot</translation>
+        <translation type="vanished">Chủ đề Đỏ</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1052"/>
         <source>Default</source>
-        <translation>Standard</translation>
+        <translation>Ngầm định</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1055"/>
         <source>Default menu color</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu mầu ngầm định</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1063"/>
         <source>Light</source>
-        <translation>Hell</translation>
+        <translation>Sáng</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1066"/>
         <source>Light menu color</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu mầu sáng</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1074"/>
         <location filename="../../main/mainwindow.ui" line="1199"/>
         <source>Dark</source>
-        <translation>Dunkel</translation>
+        <translation>Tối</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1077"/>
         <source>Dark menu color</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu mầu tối</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1086"/>
         <source>Playing games</source>
-        <translation>aktive Partien</translation>
+        <translation>Các ván đang chơi</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1089"/>
         <source>Show all playing games</source>
-        <translation>zeige alle aktiven Partien</translation>
+        <translation>Xem các ván cờ đang chơi</translation>
     </message>
     <message>
         <source>Tournaments Load/Save</source>
-        <translation type="vanished">Turniere laden/speichern</translation>
+        <translation type="vanished">Tải/Lưu các Thi đấu</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1097"/>
         <source>Load, save, delete tournaments</source>
-        <translation>Turniere laden, speichern, löschen</translation>
+        <translation>Tải, lưu, xoá thi đấu</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1106"/>
         <source>Draw</source>
-        <translation>Remis</translation>
+        <translation>Hoà</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1109"/>
         <source>Draw/offer draw</source>
-        <translation>Remis/ Remis anbieten</translation>
+        <translation>Hoà/Đề nghị hoà</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1118"/>
         <source>Resign</source>
-        <translation>aufgeben</translation>
+        <translation>Nhận thua</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.ui" line="1121"/>
         <source>Resign/Abort</source>
-        <translation>aufgeben/abbrechen</translation>
+        <translation>Nhận thua/Bỏ cuộc</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1126"/>
+        <source>Dump</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1131"/>
+        <source>Perft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.ui" line="1134"/>
+        <source>Computing perft</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.cpp" line="110"/>
         <source>You dropped a folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn đã thả một thư mục</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.cpp" line="111"/>
         <source>Do you want to detect all engines in that folder, including sub folder?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn có muốn tìm tất cả các động cơ trong thư mục này, kể cả trong các thư mục con?</translation>
     </message>
     <message>
-        <location filename="../../main/mainwindow.cpp" line="176"/>
-        <location filename="../../main/mainwindow.cpp" line="180"/>
-        <source>Error</source>
-        <translation>Fehler</translation>
+        <source>Dropped file is not recognized. BanksiaGUI accepts engines, images, svg, games (pgn, epd), .bin (Polyglot) or .bgdb</source>
+        <translation type="vanished">Không hiểu file được thả. BanksiaGUI hiểu được các động cơ, ảnh, svg, ván cờ (PGN, EDP), bin (Polyglot) hoặc .bgdb</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.cpp" line="177"/>
@@ -8540,17 +8614,23 @@ correspondent board</source>
     <message>
         <location filename="../../main/mainwindow.cpp" line="274"/>
         <source>Cannot download PGN from given URL. Please try later!</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể tải PGN từ địa chỉ đó. Hãy thử lại sau!</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.cpp" line="324"/>
         <source>PGN from given URL is downloaded but error!</source>
-        <translation type="unfinished"></translation>
+        <translation>PGN từ địa chỉ đó đã được tải xuống nhưng bị lỗi!</translation>
     </message>
     <message>
         <location filename="../../main/mainwindow.cpp" line="377"/>
         <source>Cannot show PGN from the given URL. Please try later!</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể xem PGN từ địa chỉ đó. Hãy thử lại sau!</translation>
+    </message>
+    <message>
+        <location filename="../../main/mainwindow.cpp" line="176"/>
+        <location filename="../../main/mainwindow.cpp" line="180"/>
+        <source>Error</source>
+        <translation>Lỗi</translation>
     </message>
 </context>
 <context>
@@ -8573,7 +8653,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/tour/manuallyadjudicatedlg.ui" line="78"/>
         <source>Draw</source>
-        <translation type="unfinished">Remis</translation>
+        <translation type="unfinished">Hoà</translation>
     </message>
     <message>
         <location filename="../../ui/tour/manuallyadjudicatedlg.ui" line="88"/>
@@ -8583,7 +8663,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/tour/manuallyadjudicatedlg.ui" line="138"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation type="unfinished">Đồng ý</translation>
     </message>
     <message>
         <location filename="../../ui/tour/manuallyadjudicatedlg.cpp" line="42"/>
@@ -8611,27 +8691,27 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="57"/>
         <source>Custom</source>
-        <translation>eigene</translation>
+        <translation>Tuỳ chọn</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="62"/>
         <source>Plain color</source>
-        <translation>Farbe</translation>
+        <translation>Mầu đơn</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="67"/>
         <source>Dark marble</source>
-        <translation>Marmor dunkel</translation>
+        <translation>Đá xẫm</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="72"/>
         <source>Peach marble</source>
-        <translation>Marmor hell</translation>
+        <translation>Đá hồng</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="77"/>
         <source>Bronze marble</source>
-        <translation>Marmor bronze</translation>
+        <translation>Đá đồng</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="82"/>
@@ -8641,22 +8721,22 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="87"/>
         <source>Stone</source>
-        <translation type="unfinished">Stein</translation>
+        <translation type="unfinished">Đá</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="92"/>
         <source>Wood 0</source>
-        <translation>Holz 0</translation>
+        <translation>Gỗ 0</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="97"/>
         <source>Wood 1</source>
-        <translation>Holz 1</translation>
+        <translation>Gỗ 1</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="102"/>
         <source>Wood 2</source>
-        <translation>Holz 2</translation>
+        <translation>Gỗ 2</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="107"/>
@@ -8666,32 +8746,32 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="112"/>
         <source>Ocean</source>
-        <translation>Ozean</translation>
+        <translation>Đại dương</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="117"/>
         <source>Blue</source>
-        <translation>Blau</translation>
+        <translation>Xanh biển</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="122"/>
         <source>Water</source>
-        <translation>Wasser</translation>
+        <translation>Nước</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="127"/>
         <source>Lake</source>
-        <translation>See</translation>
+        <translation>Hồ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="132"/>
         <source>Light</source>
-        <translation type="unfinished">Hell</translation>
+        <translation type="unfinished">Sáng</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="137"/>
         <source>Dark</source>
-        <translation type="unfinished">Dunkel</translation>
+        <translation type="unfinished">Tối</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="142"/>
@@ -8746,21 +8826,21 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="209"/>
         <source>Click to select</source>
-        <translation>klicken zur Auswahl</translation>
+        <translation>Bấm để chọn</translation>
     </message>
     <message>
         <location filename="../../ui/settings/matselector.ui" line="234"/>
         <location filename="../../ui/settings/matselector.ui" line="268"/>
         <source>Tile</source>
-        <translation>kacheln</translation>
+        <translation>Lợp ngói</translation>
     </message>
     <message>
         <source>Choose File</source>
-        <translation type="vanished">Datei auswählen</translation>
+        <translation type="vanished">Chọn File</translation>
     </message>
     <message>
         <source>Image Files (*.png *.jpg *.jpeg *.tif *.bmp);; JPEG (*.jpg *.jpeg);; PNG (*.png);; TIFF (*.tif);; All files (*.*)</source>
-        <translation type="vanished">Bilddateien (*.png *.jpg *.jpeg *.tif *.bmp);; JPEG (*.jpg *.jpeg);; PNG (*.png);; TIFF (*.tif);; alle Dateien (*.*)</translation>
+        <translation type="vanished">Các Files Ảnh (*.png *.jpg *.jpeg *.tif *.bmp);; JPEG (*.jpg *.jpeg);; PNG (*.png);; TIFF (*.tif);; All files (*.*)</translation>
     </message>
 </context>
 <context>
@@ -8768,17 +8848,17 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings.cpp" line="986"/>
         <source>Dark marble</source>
-        <translation>Marmor dunkel</translation>
+        <translation>Đá xẫm</translation>
     </message>
     <message>
         <location filename="../../ui/settings.cpp" line="987"/>
         <source>Peach marble</source>
-        <translation>Marmor hell</translation>
+        <translation>Đá hồng</translation>
     </message>
     <message>
         <location filename="../../ui/settings.cpp" line="988"/>
         <source>Bronze marble</source>
-        <translation>Marmor bronze</translation>
+        <translation>Đá đồng</translation>
     </message>
     <message>
         <location filename="../../ui/settings.cpp" line="989"/>
@@ -8793,17 +8873,17 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings.cpp" line="992"/>
         <source>Wood 0</source>
-        <translation>Holz 0</translation>
+        <translation>Gỗ 0</translation>
     </message>
     <message>
         <location filename="../../ui/settings.cpp" line="993"/>
         <source>Wood 1</source>
-        <translation>Holz 1</translation>
+        <translation>Gỗ 1</translation>
     </message>
     <message>
         <location filename="../../ui/settings.cpp" line="994"/>
         <source>Wood 2</source>
-        <translation>Holz 2</translation>
+        <translation>Gỗ 2</translation>
     </message>
     <message>
         <location filename="../../ui/settings.cpp" line="996"/>
@@ -8813,33 +8893,33 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings.cpp" line="998"/>
         <source>Ocean</source>
-        <translation>Ozean</translation>
+        <translation>Đại dương</translation>
     </message>
     <message>
         <location filename="../../ui/settings.cpp" line="1001"/>
         <source>Blue</source>
-        <translation>Blau</translation>
+        <translation>Xanh biển</translation>
     </message>
     <message>
         <location filename="../../ui/settings.cpp" line="1002"/>
         <source>Water</source>
-        <translation>Wasser</translation>
+        <translation>Nước</translation>
     </message>
     <message>
         <location filename="../../ui/settings.cpp" line="1005"/>
         <location filename="../../ui/settings.cpp" line="1007"/>
         <source>Lake</source>
-        <translation>See</translation>
+        <translation>Hồ</translation>
     </message>
     <message>
         <location filename="../../ui/settings.cpp" line="1010"/>
         <source>Light</source>
-        <translation type="unfinished">Hell</translation>
+        <translation type="unfinished">Sáng</translation>
     </message>
     <message>
         <location filename="../../ui/settings.cpp" line="1011"/>
         <source>Dark</source>
-        <translation type="unfinished">Dunkel</translation>
+        <translation type="unfinished">Tối</translation>
     </message>
     <message>
         <location filename="../../ui/settings.cpp" line="1013"/>
@@ -8897,7 +8977,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/mixenginedlg.ui" line="22"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation type="unfinished">Tên:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/mixenginedlg.ui" line="35"/>
@@ -8917,7 +8997,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/mixenginedlg.ui" line="216"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bỏ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/mixenginedlg.cpp" line="19"/>
@@ -8927,7 +9007,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/mixenginedlg.cpp" line="25"/>
         <source>Update</source>
-        <translation type="unfinished">aktualisieren</translation>
+        <translation type="unfinished">Cập nhật</translation>
     </message>
 </context>
 <context>
@@ -8935,7 +9015,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/mixenginetablemodel.cpp" line="198"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tên</translation>
     </message>
     <message>
         <location filename="../../ui/settings/mixenginetablemodel.cpp" line="203"/>
@@ -8973,7 +9053,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/mixenginewidget.ui" line="59"/>
         <source>Random</source>
-        <translation type="unfinished">zufällig</translation>
+        <translation type="unfinished">Ngẫu nhiên</translation>
     </message>
     <message>
         <location filename="../../ui/settings/mixenginewidget.ui" line="64"/>
@@ -9041,62 +9121,62 @@ correspondent board</source>
     <message>
         <location filename="../../ui/dlg/moveevaluationsymboldlg.ui" line="14"/>
         <source>Move Evaluation Symbols &amp; comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Các ký hiệu bình luận nước đi và chú thích</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/moveevaluationsymboldlg.ui" line="22"/>
         <source>Move: </source>
-        <translation>Zug: </translation>
+        <translation>Nước đi:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/moveevaluationsymboldlg.ui" line="51"/>
         <source>None</source>
-        <translation type="unfinished">nichts</translation>
+        <translation>Không</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/moveevaluationsymboldlg.ui" line="60"/>
         <source>?? (Blunder)</source>
-        <translation type="unfinished"></translation>
+        <translation>?? (Kém)</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/moveevaluationsymboldlg.ui" line="67"/>
         <source>? (Mistake)</source>
-        <translation type="unfinished"></translation>
+        <translation>? (Lỗi)</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/moveevaluationsymboldlg.ui" line="74"/>
         <source>?! (Dubious)</source>
-        <translation type="unfinished"></translation>
+        <translation>?! (Dở)</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/moveevaluationsymboldlg.ui" line="85"/>
         <source>!? (Interesting)</source>
-        <translation type="unfinished"></translation>
+        <translation>!? (Hay)</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/moveevaluationsymboldlg.ui" line="92"/>
         <source>! (Good)</source>
-        <translation type="unfinished"></translation>
+        <translation>! (Tốt)</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/moveevaluationsymboldlg.ui" line="99"/>
         <source>‼ (Brilliant)</source>
-        <translation type="unfinished"></translation>
+        <translation>!! (Xuất sắc)</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/moveevaluationsymboldlg.ui" line="116"/>
         <source>Comments:</source>
-        <translation>Kommentare:</translation>
+        <translation>Chú thích:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/moveevaluationsymboldlg.ui" line="123"/>
         <source>Reset</source>
-        <translation>Reset</translation>
+        <translation>Khởi tạo lại</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/moveevaluationsymboldlg.ui" line="130"/>
         <source>Clear</source>
-        <translation type="unfinished">leeren</translation>
+        <translation>Xoá</translation>
     </message>
 </context>
 <context>
@@ -9104,12 +9184,12 @@ correspondent board</source>
     <message>
         <location filename="../../ui/comm/movelist.cpp" line="422"/>
         <source>Show comments</source>
-        <translation>zeige Kommentare</translation>
+        <translation>Hiện chú thích</translation>
     </message>
     <message>
         <location filename="../../ui/comm/movelist.cpp" line="432"/>
         <source>Show Scores</source>
-        <translation>zeige Wertungen</translation>
+        <translation>Hiện điểm</translation>
     </message>
 </context>
 <context>
@@ -9122,27 +9202,27 @@ correspondent board</source>
     <message>
         <location filename="../../ui/comm/movelistwidget.ui" line="46"/>
         <source>Go first</source>
-        <translation type="unfinished">Gehe zum Anfang der Partie</translation>
+        <translation type="unfinished">Đến nước đầu </translation>
     </message>
     <message>
         <location filename="../../ui/comm/movelistwidget.ui" line="63"/>
         <source>Go previous</source>
-        <translation type="unfinished">Gehe zum vorherigen Zug</translation>
+        <translation type="unfinished">Về trước</translation>
     </message>
     <message>
         <location filename="../../ui/comm/movelistwidget.ui" line="80"/>
         <source>Go next</source>
-        <translation type="unfinished">Gehe zum nächsten Zug</translation>
+        <translation type="unfinished">Tiếp</translation>
     </message>
     <message>
         <location filename="../../ui/comm/movelistwidget.ui" line="97"/>
         <source>Go last</source>
-        <translation type="unfinished">Gehe zum Ende der Partie</translation>
+        <translation type="unfinished">Về cuối</translation>
     </message>
     <message>
         <location filename="../../ui/comm/movelistwidget.ui" line="114"/>
         <source>Auto play</source>
-        <translation type="unfinished">automatisch spielen</translation>
+        <translation type="unfinished">Tự chơi</translation>
     </message>
     <message>
         <location filename="../../ui/comm/movelistwidget.ui" line="144"/>
@@ -9157,12 +9237,12 @@ correspondent board</source>
     <message>
         <location filename="../../ui/comm/movelistwidget.ui" line="157"/>
         <source>Show comments</source>
-        <translation type="unfinished">zeige Kommentare</translation>
+        <translation type="unfinished">Hiện chú thích</translation>
     </message>
     <message>
         <location filename="../../ui/comm/movelistwidget.ui" line="163"/>
         <source>{}</source>
-        <translation type="unfinished">{}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/comm/movelistwidget.ui" line="170"/>
@@ -9193,27 +9273,27 @@ correspondent board</source>
     <message>
         <location filename="../../ui/net/netgametablemodel.cpp" line="55"/>
         <source>playing</source>
-        <translation type="unfinished"></translation>
+        <translation>đang chơi</translation>
     </message>
     <message>
         <location filename="../../ui/net/netgametablemodel.cpp" line="95"/>
         <source>white</source>
-        <translation>Weiß</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/net/netgametablemodel.cpp" line="97"/>
         <source>black</source>
-        <translation>Schwarz</translation>
+        <translation>đen</translation>
     </message>
     <message>
         <location filename="../../ui/net/netgametablemodel.cpp" line="99"/>
         <source>status</source>
-        <translation>Status</translation>
+        <translation>trạng thái</translation>
     </message>
     <message>
         <location filename="../../ui/net/netgametablemodel.cpp" line="101"/>
         <source>length</source>
-        <translation>Länge</translation>
+        <translation>dài</translation>
     </message>
 </context>
 <context>
@@ -9221,7 +9301,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/net/netusertablemodel.cpp" line="68"/>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation>Tên</translation>
     </message>
 </context>
 <context>
@@ -9229,123 +9309,123 @@ correspondent board</source>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="14"/>
         <source>Local net players</source>
-        <translation>Spieler im lokalen Netz</translation>
+        <translation>Người chơi mạng</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="43"/>
         <source>Name:</source>
-        <translation>Name:</translation>
+        <translation>Tên:</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="74"/>
         <source>Connect</source>
-        <translation>verbinden</translation>
+        <translation>Kết nối</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="81"/>
         <location filename="../../ui/net/netwidget.ui" line="91"/>
         <source>Move increase time for remote engines</source>
-        <translation>erhöhe Zugzeit für entfernte Engines</translation>
+        <translation>Tăng thời gian mỗi nước cho máy ở xa</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="84"/>
         <source>Add time:</source>
-        <translation>Zeit hinzufügen:</translation>
+        <translation>Thêm thời gian:</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="94"/>
         <source>s</source>
-        <translation>s</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="104"/>
         <source>Auto:</source>
-        <translation>auto:</translation>
+        <translation>Tự động:</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="111"/>
         <source>connect</source>
-        <translation>verbinden</translation>
+        <translation>kết nối</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="118"/>
         <source>Auto show new games</source>
-        <translation>automatisch neue Partien anzeigen</translation>
+        <translation>Tự động xem ván mới</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="121"/>
         <source>show games</source>
-        <translation>zeige Partien</translation>
+        <translation>xem</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="128"/>
         <source>Auto close completed games</source>
-        <translation>automatisch beendete Partien schließen</translation>
+        <translation>Tự động đóng khi ván cờ xong</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="131"/>
         <source>close</source>
-        <translation>schließen</translation>
+        <translation>đóng</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="158"/>
         <source>All engines</source>
-        <translation>alle Engines</translation>
+        <translation>Tất cả động cơ</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="165"/>
         <source>Select:</source>
-        <translation>auswählen:</translation>
+        <translation>Chọn:</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="178"/>
         <source>Player for passive games/created by other computers</source>
-        <translation>Spieler für passive Partien / erstellt von anderen Computern</translation>
+        <translation>Người chơi thụ động từ máy ở xa</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="185"/>
         <source>Create a game</source>
-        <translation>erstelle Partie</translation>
+        <translation>Tạo ván mới</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="207"/>
         <source>Player:</source>
-        <translation>Spieler:</translation>
+        <translation>Kỳ thủ:</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="256"/>
         <source>Net users</source>
-        <translation>Netz Nutzer</translation>
+        <translation>Người chơi mạng</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="283"/>
         <source>Net games</source>
-        <translation>Netz Partien</translation>
+        <translation>Ván mạng</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="303"/>
         <source>Events</source>
-        <translation>Ereignisse</translation>
+        <translation>Sự kiện</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="323"/>
         <source>Chat:</source>
-        <translation>Chat:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.ui" line="333"/>
         <source>Type a message then enter to send</source>
-        <translation>tippe eine Nachricht, drücke Enter zum Senden</translation>
+        <translation>Nhập vào một thông báo rồi bấm Enter để gửi đi</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.cpp" line="521"/>
         <source>* %1 has joined</source>
-        <translation>* %1 ist hinzugekommen</translation>
+        <translation>* %1 đã gia nhập</translation>
     </message>
     <message>
         <location filename="../../ui/net/netwidget.cpp" line="545"/>
         <source>* %1 has left</source>
-        <translation>* %1 ist gegangen</translation>
+        <translation>* %1 đã rời đi</translation>
     </message>
 </context>
 <context>
@@ -9353,58 +9433,62 @@ correspondent board</source>
     <message>
         <location filename="../../ui/dlg/newversiondlg.ui" line="14"/>
         <source>New version</source>
-        <translation>neue Version</translation>
+        <translation>Phiên bản mới</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/newversiondlg.ui" line="23"/>
         <source>A newer version has been released</source>
-        <translation>Eine neuere Version wurde veröffentlicht</translation>
+        <translation>Một phiên bản mới đã được phát hành</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/newversiondlg.ui" line="40"/>
         <source>1.0</source>
-        <translation type="unfinished">1.0</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/dlg/newversiondlg.ui" line="50"/>
         <source>Download at:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tải tại</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/newversiondlg.ui" line="60"/>
         <source>https://banksiagui.com/download/</source>
-        <translation>https://banksiagui.com/download/</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>OpenURLDlg</name>
     <message>
         <source>URL of a PGN game</source>
-        <translation type="vanished">URL einer PGN Partie</translation>
+        <translation type="vanished">Địa chỉ của một ván cờ PGN</translation>
     </message>
     <message>
         <source>URL:</source>
-        <translation type="vanished">URL:</translation>
+        <translation type="vanished">Địa chỉ:</translation>
     </message>
     <message>
         <source>live PGN, auto update period:</source>
-        <translation type="vanished">live PGN, Zeitraum automatische Aktualisierung:</translation>
+        <translation type="vanished">PGN sống, tự động cập nhật:</translation>
     </message>
     <message>
         <source> s</source>
-        <translation type="vanished"> s</translation>
+        <translation type="vanished"> giây</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="vanished">Stop</translation>
+        <translation type="vanished">Dừng</translation>
     </message>
     <message>
         <source>Updating a live game...</source>
-        <translation type="vanished">aktualisiere eine Live Partie...</translation>
+        <translation type="vanished">Cập nhật cờ sống...</translation>
     </message>
     <message>
         <source>Error: empty</source>
-        <translation type="vanished">Fehler: Zeichenfolge ist leer</translation>
+        <translation type="vanished">Lỗi: trống</translation>
+    </message>
+    <message>
+        <source>Error: string is not an URL</source>
+        <translation type="vanished">Lỗi: xâu này không phải địa chỉ</translation>
     </message>
 </context>
 <context>
@@ -9417,7 +9501,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/dlg/openurlgamedlg.ui" line="64"/>
         <source>URL:</source>
-        <translation type="unfinished">URL:</translation>
+        <translation type="unfinished">Địa chỉ:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/openurlgamedlg.ui" line="84"/>
@@ -9437,22 +9521,22 @@ correspondent board</source>
     <message>
         <location filename="../../ui/dlg/openurlgamedlg.ui" line="112"/>
         <source>live PGN, auto update period:</source>
-        <translation type="unfinished">live PGN, Zeitraum automatische Aktualisierung:</translation>
+        <translation type="unfinished">PGN sống, tự động cập nhật:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/openurlgamedlg.ui" line="125"/>
         <source> s</source>
-        <translation type="unfinished"> s</translation>
+        <translation type="unfinished"> giây</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/openurlgamedlg.ui" line="157"/>
         <source>Always on top</source>
-        <translation type="unfinished">immer im Vordergrund</translation>
+        <translation type="unfinished">Luôn trên đỉnh</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/openurlgamedlg.cpp" line="103"/>
         <source>Error: string is not an URL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lỗi: xâu này không phải địa chỉ</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/openurlgamedlg.cpp" line="114"/>
@@ -9500,7 +9584,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/dlg/openurlitem.ui" line="97"/>
         <source> s</source>
-        <translation type="unfinished"> s</translation>
+        <translation type="unfinished"> giây</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/openurlitem.ui" line="110"/>
@@ -9523,32 +9607,32 @@ correspondent board</source>
     <message>
         <location filename="../../ui/tools/openingviewerwidget.ui" line="53"/>
         <source>Opening file:</source>
-        <translation>Eröffnungsbuch Datei:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tools/openingviewerwidget.ui" line="74"/>
         <source>Sides:</source>
-        <translation>Seiten:</translation>
+        <translation>Các bên:</translation>
     </message>
     <message>
         <location filename="../../ui/tools/openingviewerwidget.ui" line="81"/>
         <source>White</source>
-        <translation>Weiß</translation>
+        <translation>Trắng</translation>
     </message>
     <message>
         <location filename="../../ui/tools/openingviewerwidget.ui" line="88"/>
         <source>Black</source>
-        <translation>Schwarz</translation>
+        <translation>Đen</translation>
     </message>
     <message>
         <location filename="../../ui/tools/openingviewerwidget.ui" line="95"/>
         <source>Always on top</source>
-        <translation>immer im Vordergrund</translation>
+        <translation>Luôn trên đỉnh</translation>
     </message>
     <message>
         <location filename="../../ui/tools/openingviewerwidget.ui" line="117"/>
         <source>Opening tree:</source>
-        <translation>Eröffnungsbaum:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tools/openingviewerwidget.ui" line="209"/>
@@ -9558,7 +9642,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/tools/openingviewerwidget.ui" line="220"/>
         <source>Collapse all</source>
-        <translation>alle einklappen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tools/openingviewerwidget.ui" line="229"/>
@@ -9573,12 +9657,12 @@ correspondent board</source>
     <message>
         <location filename="../../ui/tools/openingviewerwidget.cpp" line="172"/>
         <source>Book error or wrong format (Polyglot only)</source>
-        <translation>Buch Fehler oder falsches Format (nur Polyglot)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tools/openingviewerwidget.cpp" line="193"/>
         <source>%1, #positions: %2</source>
-        <translation>%1, #Positionen: %2</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9586,29 +9670,29 @@ correspondent board</source>
     <message>
         <location filename="../../ui/patheditwidget.ui" line="81"/>
         <source>View, edit the file</source>
-        <translation>Datei anzeigen, bearbeiten</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/patheditwidget.ui" line="95"/>
         <source>Delete file</source>
-        <translation>Datei löschen</translation>
+        <translation>Xoá file</translation>
     </message>
     <message>
         <location filename="../../ui/patheditwidget.cpp" line="90"/>
         <location filename="../../ui/patheditwidget.cpp" line="178"/>
         <source>Path is empty</source>
-        <translation>Pfad ist leer</translation>
+        <translation>Đường dẫn trống</translation>
     </message>
     <message>
         <location filename="../../ui/patheditwidget.cpp" line="180"/>
         <source>Path is not exist or not a file</source>
-        <translation>Pfad exitiert nicht oder ist keine Datei</translation>
+        <translation>Đường dẫn không tồn tại hoặc không phải là file</translation>
     </message>
     <message>
         <location filename="../../ui/patheditwidget.cpp" line="96"/>
         <location filename="../../ui/patheditwidget.cpp" line="184"/>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation>Lỗi</translation>
     </message>
     <message>
         <location filename="../../ui/patheditwidget.cpp" line="92"/>
@@ -9618,12 +9702,12 @@ correspondent board</source>
     <message>
         <location filename="../../ui/patheditwidget.cpp" line="101"/>
         <source>File will be deleted</source>
-        <translation>Datei wird gelöscht</translation>
+        <translation>File sẽ biij xoá</translation>
     </message>
     <message>
         <location filename="../../ui/patheditwidget.cpp" line="102"/>
         <source>Are you sure?</source>
-        <translation>Sind sie sicher?</translation>
+        <translation>Bạn chắc không?</translation>
     </message>
 </context>
 <context>
@@ -9636,33 +9720,33 @@ correspondent board</source>
     <message>
         <location filename="../../ui/dev/perftwidget.ui" line="25"/>
         <source>This function is to run frequently engines with parameters such as taking benchmarks or for any purposes. Double click on parameters column and edit to change permanently, edit command line (Cmd) to change temporarily.</source>
-        <translation type="unfinished">Diese Funktion dient dazu, häufig Engines mit Parametern wie Benchmarks oder für andere Zwecke auszuführen. Doppelklicken Sie auf die Parameterspalte und bearbeiten Sie sie, um sie dauerhaft zu ändern. Bearbeiten Sie die Befehlszeile (Kommando), um sie vorübergehend zu ändern.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dev/perftwidget.ui" line="40"/>
         <source>Variant:</source>
-        <translation>Variante:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dev/perftwidget.ui" line="47"/>
         <source>Standard</source>
-        <translation>Standard</translation>
+        <translation type="unfinished">Chuẩn</translation>
     </message>
     <message>
         <location filename="../../ui/dev/perftwidget.ui" line="54"/>
         <source>Chess960</source>
-        <translation>Chess 960</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dev/perftwidget.ui" line="74"/>
         <location filename="../../ui/dev/perftwidget.cpp" line="145"/>
         <source>Start</source>
-        <translation>Start</translation>
+        <translation type="unfinished">Bắt đầu</translation>
     </message>
     <message>
         <location filename="../../ui/dev/perftwidget.ui" line="85"/>
         <source>Task:</source>
-        <translation>Aufgabe:</translation>
+        <translation type="unfinished">Nhiệm vụ:</translation>
     </message>
     <message>
         <location filename="../../ui/dev/perftwidget.ui" line="99"/>
@@ -9682,7 +9766,7 @@ correspondent board</source>
     <message>
         <location filename="../../ui/dev/perftwidget.ui" line="117"/>
         <source>Threads:</source>
-        <translation>Threads:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dev/perftwidget.ui" line="134"/>
@@ -9692,12 +9776,12 @@ correspondent board</source>
     <message>
         <location filename="../../ui/dev/perftwidget.ui" line="154"/>
         <source>to:</source>
-        <translation type="unfinished">bis:</translation>
+        <translation type="unfinished">tới:</translation>
     </message>
     <message>
         <location filename="../../ui/dev/perftwidget.ui" line="194"/>
         <source>FEN:</source>
-        <translation>FEN:</translation>
+        <translation type="unfinished">FEN:</translation>
     </message>
     <message>
         <location filename="../../ui/dev/perftwidget.ui" line="201"/>
@@ -9717,62 +9801,86 @@ correspondent board</source>
     <message>
         <location filename="../../ui/dev/perftwidget.ui" line="262"/>
         <source>Output:</source>
-        <translation type="unfinished">Ausgabe:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dev/perftwidget.ui" line="269"/>
         <source>Copy output to clipboard</source>
-        <translation>kopiere Ausgabe in dieZwischenablage</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dev/perftwidget.ui" line="283"/>
         <source>Clear output</source>
-        <translation>Ausgabe leeren</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dev/perftwidget.ui" line="286"/>
         <source>clear</source>
-        <translation>leeren</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dev/perftwidget.ui" line="293"/>
         <source>Always On Top</source>
-        <translation>immer im Vordergrund</translation>
+        <translation type="unfinished">Luôn trên đỉnh</translation>
     </message>
     <message>
         <location filename="../../ui/dev/perftwidget.cpp" line="145"/>
         <source>Stop</source>
-        <translation>Stop</translation>
+        <translation type="unfinished">Dừng</translation>
     </message>
 </context>
 <context>
     <name>PieceMaterial</name>
     <message>
         <source>Plain</source>
-        <translation type="vanished">einfach</translation>
+        <translation type="vanished">Đơn giản</translation>
     </message>
     <message>
         <source>Wood 1</source>
-        <translation type="vanished">Holz 1</translation>
+        <translation type="vanished">Gỗ 1</translation>
     </message>
     <message>
         <source>Wood 2</source>
-        <translation type="vanished">Holz 2</translation>
+        <translation type="vanished">Gỗ 2</translation>
     </message>
     <message>
         <source>Stone</source>
-        <translation type="vanished">Stein</translation>
+        <translation type="vanished">Đá</translation>
     </message>
     <message>
         <source>Water</source>
-        <translation type="vanished">Wasser</translation>
+        <translation type="vanished">Nước</translation>
     </message>
 </context>
 <context>
     <name>PieceStyle</name>
     <message>
+        <source>Characters in English</source>
+        <translation type="vanished">Ký hiệu tiếng Anh</translation>
+    </message>
+    <message>
+        <source>Characters in Vietnamese</source>
+        <translation type="vanished">Ký hiệu tiếng Việt</translation>
+    </message>
+    <message>
         <source>Graphics</source>
-        <translation type="obsolete">Design</translation>
+        <translation type="vanished">Đồ hoạ</translation>
+    </message>
+    <message>
+        <source>Traditional</source>
+        <translation type="vanished">Truyền thống</translation>
+    </message>
+    <message>
+        <source>Alternate</source>
+        <translation type="vanished">Thay thế</translation>
+    </message>
+    <message>
+        <source>Common</source>
+        <translation type="vanished">Chung</translation>
+    </message>
+    <message>
+        <source>Historical</source>
+        <translation type="vanished">Lịch sử</translation>
     </message>
 </context>
 <context>
@@ -9780,47 +9888,48 @@ correspondent board</source>
     <message>
         <location filename="../../ui/comm/plaintextlog.cpp" line="114"/>
         <source>Clear</source>
-        <translation>leeren</translation>
+        <translation>Xoá</translation>
     </message>
     <message>
         <location filename="../../ui/comm/plaintextlog.cpp" line="117"/>
         <source>Save...</source>
-        <translation>Speichern...</translation>
+        <translation>Lưu...</translation>
     </message>
     <message>
         <location filename="../../ui/comm/plaintextlog.cpp" line="120"/>
         <source>Save Log</source>
-        <translation>Speichere Log</translation>
+        <translation>Lưu Log</translation>
     </message>
     <message>
         <location filename="../../ui/comm/plaintextlog.cpp" line="121"/>
         <source>Text Files (*.txt);;All Files (*.*)</source>
-        <translation>Text Dateien (*.txt);;alle Dateien (*.*)</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/comm/plaintextlog.cpp" line="150"/>
         <source>Error or insufficient privileges: The log could not be saved to file &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lỗi hoặc thếu quyền: Không thể lưu log xuống file &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="../../ui/comm/plaintextlog.cpp" line="153"/>
         <source>Fix permissions / redo or try to save to other file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sửa quyền rồi làm lại hoặc lưu ra file khác.</translation>
     </message>
     <message>
         <location filename="../../ui/comm/plaintextlog.cpp" line="158"/>
         <source>Time out: The log could not be saved to file &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Hết giờ: Không thể lưu log xuống file &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="../../ui/comm/plaintextlog.cpp" line="161"/>
         <source>Redo or try to save to other file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Làm lại hoặc lưu ra file khác.</translation>
     </message>
     <message>
         <location filename="../../ui/comm/plaintextlog.cpp" line="165"/>
         <source>The file &quot;%1&quot; could not be saved.</source>
-        <translation>Die Datei &quot;%1&quot; konnte nicht gespeichert werden.</translation>
+        <translatorcomment>Không lưu được file &quot;%1&quot;.</translatorcomment>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -9833,17 +9942,17 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/playerlogowidget.ui" line="52"/>
         <source>Logo:</source>
-        <translation type="unfinished">Logo:</translation>
+        <translation type="unfinished">Biểu tượng:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/playerlogowidget.ui" line="75"/>
         <source>Country:</source>
-        <translation type="unfinished">Land:</translation>
+        <translation type="unfinished">Nước:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/playerlogowidget.ui" line="92"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation type="unfinished">Tên:</translation>
     </message>
 </context>
 <context>
@@ -9857,42 +9966,42 @@ correspondent board</source>
         <location filename="../../ui/settings/playerselectionwidget.ui" line="55"/>
         <location filename="../../ui/settings/playerselectionwidget.cpp" line="178"/>
         <source>White:</source>
-        <translation>Weiß:</translation>
+        <translation>Trắng:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/playerselectionwidget.ui" line="83"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/settings/playerselectionwidget.ui" line="94"/>
         <source>Timer id:</source>
-        <translation>Timer id:</translation>
+        <translation>Id đồng hồ:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/playerselectionwidget.ui" line="107"/>
         <source>Time Id</source>
-        <translation></translation>
+        <translation>Id đồng hồ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/playerselectionwidget.ui" line="114"/>
         <source>1</source>
-        <translation>1</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/settings/playerselectionwidget.ui" line="119"/>
         <source>2</source>
-        <translation>2</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/settings/playerselectionwidget.ui" line="124"/>
         <source>3</source>
-        <translation>3</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/settings/playerselectionwidget.ui" line="129"/>
         <source>4</source>
-        <translation>4</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/settings/playerselectionwidget.ui" line="134"/>
@@ -9902,27 +10011,27 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/playerselectionwidget.ui" line="150"/>
         <source>Name:</source>
-        <translation>Name:</translation>
+        <translation>Tên:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/playerselectionwidget.ui" line="162"/>
         <source>Country:</source>
-        <translation>Land:</translation>
+        <translation>Nước:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/playerselectionwidget.ui" line="193"/>
         <source>Logo:</source>
-        <translation type="unfinished">Logo:</translation>
+        <translation type="unfinished">Biểu tượng:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/playerselectionwidget.cpp" line="144"/>
         <source>&lt;Human&gt;</source>
-        <translation>&lt;Spieler&gt;</translation>
+        <translation>&lt;Người&gt;</translation>
     </message>
     <message>
         <location filename="../../ui/settings/playerselectionwidget.cpp" line="178"/>
         <source>Black:</source>
-        <translation>Schwarz:</translation>
+        <translation>Đen:</translation>
     </message>
 </context>
 <context>
@@ -9935,12 +10044,12 @@ correspondent board</source>
     <message>
         <location filename="../../ui/dlg/pvwidget.ui" line="59"/>
         <source>white</source>
-        <translation type="unfinished">Weiß</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dlg/pvwidget.ui" line="95"/>
         <source>black</source>
-        <translation type="unfinished">Schwarz</translation>
+        <translation type="unfinished">đen</translation>
     </message>
 </context>
 <context>
@@ -9984,7 +10093,7 @@ correspondent board</source>
     <message>
         <location filename="../../3rdparty/quazip/quazipfile.cpp" line="249"/>
         <source>ZIP/UNZIP API error %1</source>
-        <translation>ZIP/UNZIP API Fehler %1</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9992,38 +10101,38 @@ correspondent board</source>
     <message>
         <location filename="../../ui/dlg/savaethemelayoutdlg.ui" line="14"/>
         <source>Save/Delete Theme and Layout</source>
-        <translation>Speichere/Lösche Design und Layout</translation>
+        <translation>Lưu/Xoá Chủ đề và Bố trí</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/savaethemelayoutdlg.ui" line="51"/>
         <source>Layout</source>
-        <translation>Layout</translation>
+        <translation>Bố trí</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/savaethemelayoutdlg.ui" line="58"/>
         <location filename="../../ui/dlg/savaethemelayoutdlg.ui" line="98"/>
         <source>Index:</source>
-        <translation>Index:</translation>
+        <translation>Chỉ số:</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/savaethemelayoutdlg.ui" line="91"/>
         <source>Theme</source>
-        <translation>Design</translation>
+        <translation>Chủ đề</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/savaethemelayoutdlg.ui" line="127"/>
         <source>Save</source>
-        <translation>Speichern</translation>
+        <translation>Lưu</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/savaethemelayoutdlg.cpp" line="35"/>
         <source>Remove Layout %1</source>
-        <translation>entferne Layout %1</translation>
+        <translation>Loại bỏ Bố trí %1</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/savaethemelayoutdlg.cpp" line="52"/>
         <source>Remove Theme %1</source>
-        <translation>entferne Design %1</translation>
+        <translation>Loại bỏ Chủ đề %1</translation>
     </message>
 </context>
 <context>
@@ -10031,17 +10140,17 @@ correspondent board</source>
     <message>
         <location filename="../../graphics/scene.cpp" line="164"/>
         <source>Congraturation</source>
-        <translation>Glückwunsch</translation>
+        <translation>Chúc mừng</translation>
     </message>
     <message>
         <location filename="../../graphics/scene.cpp" line="164"/>
         <source>The engine has resigned!</source>
-        <translation>Die Engine hat aufgegeben!</translation>
+        <translation>Động cơ đã đăng ký!</translation>
     </message>
     <message>
         <location filename="../../graphics/scene.cpp" line="246"/>
         <source>Analysing... %1 of %2</source>
-        <translation>Analysiere... %1 von %2</translation>
+        <translation>Đang phân tích... %1 của %2</translation>
     </message>
     <message>
         <location filename="../../graphics/scene.cpp" line="253"/>
@@ -10074,27 +10183,27 @@ correspondent board</source>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="14"/>
         <source>Configuration files</source>
-        <translation>Konfigurationsdateien</translation>
+        <translation>Các file cấu hình</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="26"/>
         <source>Main:</source>
-        <translation>Haupteinstellungen:</translation>
+        <translation>Chính:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="41"/>
         <source>Folder:</source>
-        <translation>Verzeichnis:</translation>
+        <translation>Thư mục:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="57"/>
         <source>Browser</source>
-        <translation>Browser...</translation>
+        <translation>Xem</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="72"/>
         <source>Init file:</source>
-        <translation>Init Datei:</translation>
+        <translation>Khởi động file:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="94"/>
@@ -10105,22 +10214,22 @@ correspondent board</source>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="384"/>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="440"/>
         <source>Copy path to clipboard</source>
-        <translation>kopiere Pfad in dieZwischenablage</translation>
+        <translation>Chép đường dẫn vào clipboard</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="123"/>
         <source>Layout file:</source>
-        <translation>Layout Datei:</translation>
+        <translation>File định hình:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="176"/>
         <source>JSON files:</source>
-        <translation>JSON Dateien:</translation>
+        <translation>File JSON:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="185"/>
         <source>Engine:</source>
-        <translation>Engine:</translation>
+        <translation>Động cơ:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="221"/>
@@ -10129,44 +10238,46 @@ correspondent board</source>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="398"/>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="454"/>
         <source>Edit JSON</source>
-        <translation>bearbeite JSON</translation>
+        <translation>Soạn JSON</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="244"/>
         <source>Tournament:</source>
-        <translation>Turnier:</translation>
+        <translation>Thi đấu:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="303"/>
         <source>Management:</source>
-        <translation>Management:</translation>
+        <translation>Quản lý:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="362"/>
         <source>Playing:</source>
-        <translation>Partien:</translation>
+        <translation>Đang chơi:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="421"/>
         <source>Download:</source>
-        <translation>Download:</translation>
+        <translation>Tải xuống:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.ui" line="494"/>
         <source>Delete ticked files</source>
-        <translation>markierte Dateien löschen</translation>
+        <translation>Xoá file đã đánh dấu</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.cpp" line="174"/>
         <source>Files Deleting</source>
-        <translation type="unfinished"></translation>
+        <translation>File đang bị xoá</translation>
     </message>
     <message>
         <location filename="../../ui/settings/settingfileeditdlg.cpp" line="175"/>
         <source>%1 file%2 will be deleted
 After deleting, the app will be closed
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 file sẽ bị xoá
+Xoá xong chương trình sẽ đóng lại
+Bạn chắc không?</translation>
     </message>
 </context>
 <context>
@@ -10179,17 +10290,17 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="47"/>
         <source>General:</source>
-        <translation type="unfinished">Allgemein:</translation>
+        <translation type="unfinished">Chung:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="243"/>
         <source>score in white&apos;s perspective</source>
-        <translation type="unfinished">Bewertung aus der Perspektive von Weiß</translation>
+        <translation type="unfinished">Điểm theo cái nhìn của bên Trắng</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="246"/>
         <source>Score in white view</source>
-        <translation type="unfinished">Bewertung aus der Sicht von Weiß</translation>
+        <translation type="unfinished">Điểm theo trắng</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="1034"/>
@@ -10204,52 +10315,52 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="107"/>
         <source>Pawn unit</source>
-        <translation type="unfinished">Bauerneinheit</translation>
+        <translation type="unfinished">Đơn vị Chốt</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="114"/>
         <source>Centipawn</source>
-        <translation type="unfinished">Centipawn</translation>
+        <translation type="unfinished">phần trăm Chốt</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="389"/>
         <source>Thinking arrows</source>
-        <translation type="unfinished">Pfeile für Denkvorgang</translation>
+        <translation type="unfinished">Mũi tên nghĩ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="92"/>
         <source>Legal moves</source>
-        <translation type="unfinished">erlaubte Züge</translation>
+        <translation type="unfinished">Nước đúng luật</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="330"/>
         <source>Move animation</source>
-        <translation type="unfinished">Züge animieren</translation>
+        <translation type="unfinished">Hoạt hình nước đi</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="259"/>
         <source>Move highlight</source>
-        <translation type="unfinished">Züge hervorheben</translation>
+        <translation type="unfinished">Nhấn mạnh nước</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="271"/>
         <source>Gradient</source>
-        <translation type="unfinished">Gradient</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="290"/>
         <source>Main color</source>
-        <translation type="unfinished">Hauptfarbe</translation>
+        <translation type="unfinished">Mầu chính</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="315"/>
         <location filename="../../ui/settings/setupclockmove.ui" line="358"/>
         <source>Border color</source>
-        <translation type="unfinished">Randfarbe</translation>
+        <translation type="unfinished">Màu biên</translation>
     </message>
     <message>
         <source>Move list:</source>
-        <translation type="obsolete">Zugliste:</translation>
+        <translation type="obsolete">Các nước:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="540"/>
@@ -10259,42 +10370,42 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="585"/>
         <source>Notation:</source>
-        <translation type="unfinished">Notation:</translation>
+        <translation type="unfinished">Chuẩn:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="616"/>
         <source>Standard Algebraic</source>
-        <translation type="unfinished">Standard algebraisch</translation>
+        <translation type="unfinished">Chuẩn Đại số</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="626"/>
         <source>Coordinate</source>
-        <translation type="unfinished">Koordinate</translation>
+        <translation type="unfinished">Toạ độ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="631"/>
         <source>Traditional</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Truyền thống</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="636"/>
         <source>Traditional in Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chữ Trung truyền thống</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="641"/>
         <source>Traditional in Vietnamese</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Việt truyền thống</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="646"/>
         <source>Traditional in Vietnamese words</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Từ Việt truyền thống</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="654"/>
         <source>Font size:</source>
-        <translation type="unfinished">Fontgröße:</translation>
+        <translation type="unfinished">Cỡ font:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="673"/>
@@ -10304,37 +10415,37 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="711"/>
         <source>Show:</source>
-        <translation type="unfinished">zeige:</translation>
+        <translation type="unfinished">Xem:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="720"/>
         <source>comments</source>
-        <translation type="unfinished">Kommentare</translation>
+        <translation type="unfinished">chú thích</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="727"/>
         <source>score/depth time, wdl...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">điểm/sâu thờigian, thắnghoàthua</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="730"/>
         <source>stats</source>
-        <translation type="unfinished">Statistiken</translation>
+        <translation type="unfinished">thống kê</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="743"/>
         <source>Each move per line</source>
-        <translation type="unfinished">eine Zeile pro Zug</translation>
+        <translation type="unfinished">Mỗi nước một dòng</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="845"/>
         <source>Auto play move period:</source>
-        <translation type="unfinished">Dauer automatische Zugwiedergabe:</translation>
+        <translation type="unfinished">Chu kỳ tự động chạy nước:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="858"/>
         <source> s</source>
-        <translation type="unfinished"> s</translation>
+        <translation type="unfinished"> giây</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="913"/>
@@ -10354,7 +10465,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="1004"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tuỳ chọn</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="1009"/>
@@ -10449,7 +10560,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="1205"/>
         <source>Score graph</source>
-        <translation type="unfinished">Wertungsdiagramm</translation>
+        <translation type="unfinished">Đồ thị điểm</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="373"/>
@@ -10489,7 +10600,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="1127"/>
         <source>Background:</source>
-        <translation type="unfinished">Hintergrund:</translation>
+        <translation type="unfinished">Nền:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="1181"/>
@@ -10514,37 +10625,37 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="1341"/>
         <source>Move stats bubbles</source>
-        <translation type="unfinished">Zugstatistik Bubbles</translation>
+        <translation type="unfinished">Bong bóng thống kê nước</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="1360"/>
         <source>Click to pickup color</source>
-        <translation type="unfinished">klicken zur Farbauswahl</translation>
+        <translation type="unfinished">Bấm để chọn mầu</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="1373"/>
         <source>Bubble size</source>
-        <translation type="unfinished">Bubble Größe</translation>
+        <translation type="unfinished">Cỡ bong bóng</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="1377"/>
         <source>Small</source>
-        <translation type="unfinished">klein</translation>
+        <translation type="unfinished">Nhỏ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="1382"/>
         <source>Medium</source>
-        <translation type="unfinished">mittel</translation>
+        <translation type="unfinished">Trung</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="1387"/>
         <source>Large</source>
-        <translation type="unfinished">groß</translation>
+        <translation type="unfinished">Lớn</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="1395"/>
         <source>main:</source>
-        <translation type="unfinished">Hauptparameter:</translation>
+        <translation type="unfinished">chính:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="1415"/>
@@ -10554,27 +10665,27 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="1467"/>
         <source>WDL chart:</source>
-        <translation type="unfinished">WDL Diagramm:</translation>
+        <translation type="unfinished">Đồ thị WDL:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="1487"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Không</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="1492"/>
         <source>Stacked area</source>
-        <translation type="unfinished">gestapelter Bereich</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="1497"/>
         <source>Stacked bar</source>
-        <translation type="unfinished">gestapelter Balken</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="1577"/>
         <source>Custom arrows</source>
-        <translation type="unfinished">eigene Pfeile</translation>
+        <translation type="unfinished">Mũi tên tuỳ chọn</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupclockmove.ui" line="1626"/>
@@ -10622,12 +10733,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupdialog.ui" line="20"/>
         <source>Settings</source>
-        <translation>Einstellungen</translation>
+        <translation>Thiết lập</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupdialog.ui" line="55"/>
         <source>General</source>
-        <translation>Allgemein</translation>
+        <translation>Chung</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupdialog.ui" line="60"/>
@@ -10637,17 +10748,17 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupdialog.ui" line="71"/>
         <source>Graphics</source>
-        <translation>Design</translation>
+        <translation>Đồ hoạ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupdialog.ui" line="76"/>
         <source>Engines</source>
-        <translation>Engines</translation>
+        <translation>Các động cơ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupdialog.ui" line="81"/>
         <source>Book/Egtb</source>
-        <translation>Bücher/EGTB</translation>
+        <translation>Cẩm nang/Tàn cuộc</translation>
     </message>
 </context>
 <context>
@@ -10660,87 +10771,87 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="37"/>
         <source>Folder:</source>
-        <translation>Verzeichnis:</translation>
+        <translation>Thư mục:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="58"/>
         <source>Show endgame moves</source>
-        <translation>zeige Endspielzüge</translation>
+        <translation>Xem nước đi tàn cuộc</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="68"/>
         <source>Auto play</source>
-        <translation>automatisch spielen</translation>
+        <translation>Tự chơi</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="87"/>
         <source>engines</source>
-        <translation>Engines</translation>
+        <translation>động cơ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="92"/>
         <source>human</source>
-        <translation>Spieler</translation>
+        <translation>người</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="97"/>
         <source>selected sides</source>
-        <translation>ausgewählte Seiten</translation>
+        <translation>các bên lựa chọn</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="105"/>
         <source>white</source>
-        <translation>Weiß</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="115"/>
         <source>black</source>
-        <translation>Schwarz</translation>
+        <translation>đen</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="142"/>
         <source>Small</source>
-        <translation>klein</translation>
+        <translation>Nhỏ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="147"/>
         <source>Medium</source>
-        <translation>mittel</translation>
+        <translation>Trung</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="152"/>
         <source>Large</source>
-        <translation>groß</translation>
+        <translation>Lớn</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="178"/>
         <source>wining color</source>
-        <translation>Sieg Farbe</translation>
+        <translation>màu thắng</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="209"/>
         <source>draw color</source>
-        <translation>Remis Farbe</translation>
+        <translation>màu hoà</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="240"/>
         <source>Losing color</source>
-        <translation>Niederlage Farbe</translation>
+        <translation>Màu thua</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="268"/>
         <source>Bubble:</source>
-        <translation>Bubble:</translation>
+        <translation>Bong bóng:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="285"/>
         <source>Endgame list:</source>
-        <translation>Endspiel Liste:</translation>
+        <translation>Các tàn cuộc:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupegtbwidget.ui" line="292"/>
         <source>Refresh</source>
-        <translation>aktualisieren</translation>
+        <translation>Làm tươi</translation>
     </message>
 </context>
 <context>
@@ -10753,61 +10864,57 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="47"/>
         <source>General:</source>
-        <translation>Allgemein:</translation>
+        <translation>Chung:</translation>
     </message>
     <message>
         <source>Legal moves</source>
-        <translation type="vanished">erlaubte Züge</translation>
+        <translation type="vanished">Nước đúng luật</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="263"/>
         <source>Sound</source>
-        <translation>Sound</translation>
+        <translation>Âm thanh</translation>
     </message>
     <message>
         <source>Move animation</source>
-        <translation type="vanished">Züge animieren</translation>
+        <translation type="vanished">Hoạt hình nước đi</translation>
     </message>
     <message>
         <source>Thinking arrows</source>
-        <translation type="vanished">Pfeile für Denkvorgang</translation>
-    </message>
-    <message>
-        <source>Gradient</source>
-        <translation type="vanished">Gradient</translation>
+        <translation type="vanished">Mũi tên nghĩ</translation>
     </message>
     <message>
         <source>Main color</source>
-        <translation type="vanished">Hauptfarbe</translation>
+        <translation type="vanished">Mầu chính</translation>
     </message>
     <message>
         <source>Border color</source>
-        <translation type="vanished">Randfarbe</translation>
+        <translation type="vanished">Màu biên</translation>
     </message>
     <message>
         <source>Move highlight</source>
-        <translation type="vanished">Züge hervorheben</translation>
+        <translation type="vanished">Nhấn mạnh nước</translation>
     </message>
     <message>
         <source>Score indicator</source>
-        <translation type="vanished">Wertungsindikator</translation>
+        <translation type="vanished">Chỉ thị điểm</translation>
     </message>
     <message>
         <source>Pawn unit</source>
-        <translation type="vanished">Bauerneinheit</translation>
+        <translation type="vanished">Đơn vị Chốt</translation>
     </message>
     <message>
         <source>Centipawn</source>
-        <translation type="vanished">Centipawn</translation>
+        <translation type="vanished">phần trăm Chốt</translation>
     </message>
     <message>
         <source>Graph logarithmic scaling</source>
-        <translation type="vanished">Diagramm logarithmische Skalierung</translation>
+        <translation type="vanished">Đồ thị dạng Logarithm</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="107"/>
         <source>Toolbar:</source>
-        <translation>Symbolleiste:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="114"/>
@@ -10817,27 +10924,27 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="128"/>
         <source>Default</source>
-        <translation>Standard</translation>
+        <translation type="unfinished">Ngầm định</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="133"/>
         <source>Transparent</source>
-        <translation>transparent</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="138"/>
         <source>White</source>
-        <translation>weiß</translation>
+        <translation type="unfinished">Trắng</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="143"/>
         <source>Black</source>
-        <translation>schwarz</translation>
+        <translation type="unfinished">Đen</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="148"/>
         <source>LightGray</source>
-        <translation>hellgrau</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="156"/>
@@ -10852,50 +10959,45 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="208"/>
         <source>Left</source>
-        <translation type="unfinished">links</translation>
+        <translation type="unfinished">Trái</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="213"/>
         <source>Right</source>
-        <translation type="unfinished">rechts</translation>
+        <translation type="unfinished">Phải</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="221"/>
         <source>Score indicator range [-r, r], pawn unit</source>
-        <translation>Wertungsindikator Bereich [-r, r], Bauerneinheit</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>score in white&apos;s perspective</source>
-        <translation type="vanished">Bewertung aus der Perspektive von Weiß</translation>
+        <translation type="vanished">Điểm theo cái nhìn của bên Trắng</translation>
     </message>
     <message>
         <source>Score in white view</source>
-        <translation type="vanished">Bewertung aus der Sicht von Weiß</translation>
-    </message>
-    <message>
-        <location filename="../../ui/settings/setupgeneral.ui" line="374"/>
-        <source>Two PV boards</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Điểm theo trắng</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="405"/>
         <source>Clock:</source>
-        <translation>Uhr:</translation>
+        <translation>Đồng hồ:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="450"/>
         <source>Clock at:</source>
-        <translation>Uhr anzeigen:</translation>
+        <translation>Đồng hồ tại:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="475"/>
         <source>Above board</source>
-        <translation>über dem Board</translation>
+        <translation>Tên bàn cờ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="480"/>
         <source>Under board</source>
-        <translation>unter dem Board</translation>
+        <translation>Dưới bàn cờ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="485"/>
@@ -10905,71 +11007,71 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="490"/>
         <source>A dock panel</source>
-        <translation>im Dock Panel</translation>
+        <translation>Một bảng</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="498"/>
         <source>One line</source>
-        <translation>eine Zeile</translation>
+        <translation>Một dòng</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="505"/>
         <source>Border</source>
-        <translation>Rahmen</translation>
+        <translation>Biên</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="527"/>
         <source>Font size:</source>
-        <translation>Fontgröße:</translation>
+        <translation>Cỡ font:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="551"/>
         <source>Normal font size</source>
-        <translation>normale Fontgröße</translation>
+        <translation>Cỡ phong chuẩn</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="573"/>
         <source>Font size for digit in 2 lines mode</source>
-        <translation>Schriftgröße für Ziffer im 2-Zeilen-Modus</translation>
+        <translation>Cỡ font cho số khi hai dòng</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="595"/>
         <source>Elo</source>
-        <translation>Elo</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="617"/>
         <source>Text colors:</source>
-        <translation>Textfarben:</translation>
+        <translation>Màu chữ:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="641"/>
         <location filename="../../ui/settings/setupgeneral.ui" line="723"/>
         <source>Name color</source>
-        <translation>Farbe für Namen</translation>
+        <translation>Tên mầu</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="666"/>
         <location filename="../../ui/settings/setupgeneral.ui" line="748"/>
         <source>Digit color</source>
-        <translation>Farbe für Ziffern</translation>
+        <translation>Mầu số</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="691"/>
         <location filename="../../ui/settings/setupgeneral.ui" line="773"/>
         <source>Background color</source>
-        <translation>Hintergrundfarbe</translation>
+        <translation>Màu nền</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="704"/>
         <source>Highlight:</source>
-        <translation>hervorheben:</translation>
+        <translation>Nhấn mạnh:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="85"/>
         <location filename="../../ui/settings/setupgeneral.ui" line="801"/>
         <source>Logo:</source>
-        <translation>Logo:</translation>
+        <translation>Biểu tượng:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="307"/>
@@ -10980,18 +11082,18 @@ Are you sure?</source>
         <location filename="../../ui/settings/setupgeneral.ui" line="838"/>
         <location filename="../../ui/settings/setupgeneral.ui" line="902"/>
         <source>width</source>
-        <translation>breit</translation>
+        <translation>rộng</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="857"/>
         <location filename="../../ui/settings/setupgeneral.ui" line="921"/>
         <source>height</source>
-        <translation>hoch</translation>
+        <translation>cao</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="870"/>
         <source>Flag:</source>
-        <translation>Flagge:</translation>
+        <translation>Cờ:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1120"/>
@@ -11020,39 +11122,59 @@ Are you sure?</source>
     </message>
     <message>
         <source>Move list:</source>
-        <translation type="vanished">Zugliste:</translation>
+        <translation type="vanished">Các nước:</translation>
     </message>
     <message>
         <source>Notation:</source>
-        <translation type="vanished">Notation:</translation>
+        <translation type="vanished">Chuẩn:</translation>
     </message>
     <message>
         <source>Standard Algebraic</source>
-        <translation type="vanished">Standard algebraisch</translation>
+        <translation type="vanished">Chuẩn Đại số</translation>
     </message>
     <message>
         <source>Coordinate</source>
-        <translation type="vanished">Koordinate</translation>
+        <translation type="vanished">Toạ độ</translation>
+    </message>
+    <message>
+        <source>Traditional</source>
+        <translation type="vanished">Truyền thống</translation>
+    </message>
+    <message>
+        <source>Traditional in Chinese</source>
+        <translation type="vanished">Chữ Trung truyền thống</translation>
+    </message>
+    <message>
+        <source>Traditional in Vietnamese</source>
+        <translation type="vanished">Việt truyền thống</translation>
+    </message>
+    <message>
+        <source>Traditional in Vietnamese words</source>
+        <translation type="vanished">Từ Việt truyền thống</translation>
     </message>
     <message>
         <source>comments</source>
-        <translation type="vanished">Kommentare</translation>
+        <translation type="vanished">chú thích</translation>
+    </message>
+    <message>
+        <source>score/depth time, wdl...</source>
+        <translation type="vanished">điểm/sâu thờigian, thắnghoàthua</translation>
     </message>
     <message>
         <source>stats</source>
-        <translation type="vanished">Statistiken</translation>
+        <translation type="vanished">thống kê</translation>
     </message>
     <message>
         <source>Each move per line</source>
-        <translation type="vanished">eine Zeile pro Zug</translation>
+        <translation type="vanished">Mỗi nước một dòng</translation>
     </message>
     <message>
         <source>Auto play move period:</source>
-        <translation type="vanished">Dauer automatische Zugwiedergabe:</translation>
+        <translation type="vanished">Chu kỳ tự động chạy nước:</translation>
     </message>
     <message>
         <source> s</source>
-        <translation type="vanished"> s</translation>
+        <translation type="vanished"> giây</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="973"/>
@@ -11066,97 +11188,94 @@ Are you sure?</source>
     </message>
     <message>
         <source>Stats:</source>
-        <translation type="vanished">Statistiken:</translation>
+        <translation type="vanished">Thống kê:</translation>
     </message>
     <message>
         <source>Move stats bubbles</source>
-        <translation type="vanished">Zugstatistik Bubbles</translation>
+        <translation type="vanished">Bong bóng thống kê nước</translation>
     </message>
     <message>
         <source>Click to pickup color</source>
-        <translation type="vanished">klicken zur Farbauswahl</translation>
+        <translation type="vanished">Bấm để chọn mầu</translation>
     </message>
     <message>
         <source>Bubble size</source>
-        <translation type="vanished">Bubble Größe</translation>
+        <translation type="vanished">Cỡ bong bóng</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="160"/>
         <source>Small</source>
-        <translation>klein</translation>
+        <translation>Nhỏ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="165"/>
         <source>Medium</source>
-        <translation>mittel</translation>
+        <translation>Trung</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="170"/>
         <source>Large</source>
-        <translation>groß</translation>
+        <translation>Lớn</translation>
     </message>
     <message>
         <source>main:</source>
-        <translation type="vanished">Hauptparameter:</translation>
+        <translation type="vanished">chính:</translation>
     </message>
     <message>
         <source>second:</source>
-        <translation type="vanished">zweiter Parameter:</translation>
+        <translation type="vanished">thứ hai:</translation>
     </message>
     <message>
         <source>Custom arrows</source>
-        <translation type="vanished">eigene Pfeile</translation>
+        <translation type="vanished">Mũi tên tuỳ chọn</translation>
     </message>
     <message>
         <source>WDL chart:</source>
-        <translation type="vanished">WDL Diagramm:</translation>
+        <translation type="vanished">Đồ thị WDL:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="203"/>
         <location filename="../../ui/settings/setupgeneral.ui" line="1001"/>
         <source>None</source>
-        <translation type="unfinished">nichts</translation>
-    </message>
-    <message>
-        <source>Stacked area</source>
-        <translation type="vanished">gestapelter Bereich</translation>
-    </message>
-    <message>
-        <source>Stacked bar</source>
-        <translation type="vanished">gestapelter Balken</translation>
+        <translation>Không</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1049"/>
         <source>Online game log:</source>
-        <translation>Online Partie Log:</translation>
+        <translation>Log cho ván cờ online:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/settings/setupgeneral.ui" line="374"/>
+        <source>Two PV boards</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1062"/>
         <source>To save games from ICS, Lichess...</source>
-        <translation type="unfinished">Speichern von Partien von ICS, Lichess...</translation>
+        <translation>Để lưu ván cờ của ICS, Lichess...</translation>
     </message>
     <message>
         <source>Confiuration files:</source>
-        <translation type="vanished">Konfigurationsdateien:</translation>
+        <translation type="vanished">Các file cấu hình:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneral.ui" line="1090"/>
         <source>View/Edit/Delete</source>
-        <translation>zeigen/ändern/löschen</translation>
+        <translation>Xem/Sửa/Xoá</translation>
     </message>
     <message>
         <source>Store computing info as comments</source>
-        <translation type="vanished">speichere berechnete Informationen als Kommentare</translation>
+        <translation type="vanished">Lưu thông tin tính toán như chú thích</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneralwidget.cpp" line="252"/>
         <source>Select a PGN file or enter a new name</source>
-        <translation>wähle eine PGN Datei oder gib einen neuen Namen ein</translation>
+        <translation>Chọn file PGN hoặc nhập vào tên mới</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgeneralwidget.cpp" line="253"/>
         <source>PGN (*.pgn);;All Files (*.*)</source>
-        <translation>PGN (*.pgn);;alle Dateien (*.*)</translation>
+        <translation>PGN (*.pgn);;Mọi File (*.*)</translation>
     </message>
 </context>
 <context>
@@ -11209,47 +11328,47 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="459"/>
         <source>white</source>
-        <translation>Weiß</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="472"/>
         <source>black</source>
-        <translation>Schwarz</translation>
+        <translation type="unfinished">đen</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="485"/>
         <source>default</source>
-        <translation>Standard</translation>
+        <translation type="unfinished">ngầm định</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="494"/>
         <source>Shadow</source>
-        <translation>Schatten</translation>
+        <translation type="unfinished">Bóng đổ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="544"/>
         <source>White cell</source>
-        <translation>weißes Feld</translation>
+        <translation type="unfinished">Ô trắng</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="574"/>
         <source>Black cell</source>
-        <translation>schwarzes Feld</translation>
+        <translation type="unfinished">Ô đen</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="607"/>
         <source>Base</source>
-        <translation>Rahmen</translation>
+        <translation type="unfinished">Nền bàn cờ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="663"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Không</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="743"/>
         <source>Show board base</source>
-        <translation>zeige Rahmen</translation>
+        <translation type="unfinished">Xem nền bàn cờ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="750"/>
@@ -11264,32 +11383,32 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="829"/>
         <source>Centre</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Trung tâm</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="856"/>
         <source>Opacity:</source>
-        <translation>Transparenz:</translation>
+        <translation type="unfinished">Trong suốt:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="926"/>
         <source>App bk</source>
-        <translation>Hauptfenster</translation>
+        <translation type="unfinished">Nền ứng dụng</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="947"/>
         <source>Panel bk</source>
-        <translation>Panel</translation>
+        <translation type="unfinished">Tấm nền</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="44"/>
         <source>Piece:</source>
-        <translation>Figuren:</translation>
+        <translation type="unfinished">Quân:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="524"/>
         <source>Board:</source>
-        <translation>Board:</translation>
+        <translation type="unfinished">Bàn cờ:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="649"/>
@@ -11329,67 +11448,67 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="912"/>
         <source>Background:</source>
-        <translation>Hintergrund:</translation>
+        <translation type="unfinished">Nền:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="140"/>
         <source>Smart</source>
-        <translation>Smart</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="145"/>
         <source>Condal</source>
-        <translation>Condal</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="150"/>
         <source>Cases</source>
-        <translation>Cases</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="155"/>
         <source>Motif</source>
-        <translation>Motif</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="160"/>
         <source>Kingdom</source>
-        <translation>Kingdom</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="165"/>
         <source>Dw</source>
-        <translation>Dw</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="170"/>
         <source>Maya</source>
-        <translation>Maya</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="175"/>
         <source>Leipzig</source>
-        <translation>Leipzig</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="180"/>
         <source>Cheq</source>
-        <translation>Cheq</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="185"/>
         <source>Mark</source>
-        <translation>Mark</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="190"/>
         <source>Adventurer</source>
-        <translation>Adventurer</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="195"/>
         <source>Alpha</source>
-        <translation>Alpha</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="200"/>
@@ -11445,249 +11564,257 @@ Are you sure?</source>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="63"/>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="250"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tuỳ chọn</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="259"/>
         <source>Characters in English</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ký hiệu tiếng Anh</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="264"/>
         <source>Characters in Vietnamese</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ký hiệu tiếng Việt</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="269"/>
         <source>Graphics</source>
-        <translation>Design</translation>
+        <translation type="unfinished">Đồ hoạ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="274"/>
         <source>Traditional</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Truyền thống</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="279"/>
         <source>Alternate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Thay thế</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="284"/>
         <source>Common</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chung</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="289"/>
         <source>Historical</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lịch sử</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="336"/>
         <source>Plain</source>
-        <translation type="unfinished">einfach</translation>
+        <translation type="unfinished">Đơn giản</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="341"/>
         <source>Wood 1</source>
-        <translation>Holz 1</translation>
+        <translation type="unfinished">Gỗ 1</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="346"/>
         <source>Wood 2</source>
-        <translation>Holz 2</translation>
+        <translation type="unfinished">Gỗ 2</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="351"/>
         <source>Stone</source>
-        <translation>Stein</translation>
+        <translation type="unfinished">Đá</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="356"/>
         <source>Water</source>
-        <translation>Wasser</translation>
+        <translation type="unfinished">Nước</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="70"/>
         <source>Scale:</source>
-        <translation>Skalierung:</translation>
+        <translation type="unfinished">Thu phóng:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="83"/>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pieces</source>
-        <translation type="vanished">Figuren</translation>
+        <translation type="vanished">Quân cờ</translation>
     </message>
     <message>
         <source>Piece style:</source>
-        <translation type="vanished">Figuren Stil:</translation>
+        <translation type="vanished">Kiểu quân:</translation>
     </message>
     <message>
         <source>Piece material:</source>
-        <translation type="vanished">Figuren Material:</translation>
+        <translation type="vanished">Chất liệu quân:</translation>
+    </message>
+    <message>
+        <source>white color</source>
+        <translation type="vanished">màu bên trắng</translation>
+    </message>
+    <message>
+        <source>black color</source>
+        <translation type="vanished">mầu bên đen</translation>
+    </message>
+    <message>
+        <source>set defaults</source>
+        <translation type="vanished">đặt ngầm định</translation>
     </message>
     <message>
         <source>Board</source>
-        <translation type="vanished">Brett</translation>
+        <translation type="vanished">Bàn cờ</translation>
+    </message>
+    <message>
+        <source>Board material:</source>
+        <translation type="vanished">Vật liệu bàn:</translation>
+    </message>
+    <message>
+        <source>Show board grid</source>
+        <translation type="vanished">Xem đường kẻ bàn cờ</translation>
+    </message>
+    <message>
+        <source>Color pickup</source>
+        <translation type="vanished">Chọn màu</translation>
     </message>
     <message>
         <source>Tile</source>
-        <translation type="vanished">kacheln</translation>
+        <translation type="vanished">Lợp ngói</translation>
+    </message>
+    <message>
+        <source>Custom board image</source>
+        <translation type="vanished">Ảnh bàn cờ tự chọn:</translation>
+    </message>
+    <message>
+        <source>Browse</source>
+        <translation type="vanished">Xem</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.ui" line="822"/>
         <source>Auto resize board</source>
-        <translation>automatische Größenänderung</translation>
+        <translation>Tự động chỉnh kích cỡ bàn cờ</translation>
+    </message>
+    <message>
+        <source>In center</source>
+        <translation type="vanished">Ở trung tâm</translation>
+    </message>
+    <message>
+        <source>Board opacity:</source>
+        <translation type="vanished">Độ trong suốt bàn cờ:</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="vanished">Hintergrund</translation>
+        <translation type="vanished">Nền</translation>
+    </message>
+    <message>
+        <source>Background material:</source>
+        <translation type="vanished">Vật liệu nền:</translation>
+    </message>
+    <message>
+        <source>Custom background image:</source>
+        <translation type="vanished">Ảnh nền tự chọn:</translation>
     </message>
     <message>
         <source>Show board coordinate</source>
-        <translation type="obsolete">zeige Koordinaten</translation>
+        <translation type="vanished">Xem toạ độ bàn cờ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupgraphicswidget.cpp" line="241"/>
         <source>Show</source>
-        <translation type="unfinished">zeige</translation>
+        <translation type="unfinished">Xem</translation>
     </message>
 </context>
 <context>
     <name>SetupGraphicsWidget_Chess</name>
     <message>
-        <source>Smart</source>
-        <translation type="vanished">Smart</translation>
-    </message>
-    <message>
-        <source>Condal</source>
-        <translation type="vanished">Condal</translation>
-    </message>
-    <message>
-        <source>Cases</source>
-        <translation type="vanished">Cases</translation>
-    </message>
-    <message>
-        <source>Motif</source>
-        <translation type="vanished">Motif</translation>
-    </message>
-    <message>
-        <source>Kingdom</source>
-        <translation type="vanished">Kingdom</translation>
-    </message>
-    <message>
-        <source>Dw</source>
-        <translation type="vanished">Dw</translation>
-    </message>
-    <message>
-        <source>Maya</source>
-        <translation type="vanished">Maya</translation>
-    </message>
-    <message>
-        <source>Leipzig</source>
-        <translation type="vanished">Leipzig</translation>
-    </message>
-    <message>
-        <source>Cheq</source>
-        <translation type="vanished">Cheq</translation>
-    </message>
-    <message>
-        <source>Mark</source>
-        <translation type="vanished">Mark</translation>
-    </message>
-    <message>
-        <source>Adventurer</source>
-        <translation type="vanished">Adventurer</translation>
-    </message>
-    <message>
-        <source>Alpha</source>
-        <translation type="vanished">Alpha</translation>
+        <source>Custom</source>
+        <translation type="vanished">Tuỳ chọn</translation>
     </message>
     <message>
         <source>Scale:</source>
-        <translation type="vanished">Skalierung:</translation>
-    </message>
-    <message>
-        <source> %</source>
-        <translation type="vanished"> %</translation>
-    </message>
-    <message>
-        <source>white</source>
-        <translation type="vanished">Weiß</translation>
+        <translation type="vanished">Thu phóng:</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="vanished">Schwarz</translation>
+        <translation type="vanished">đen</translation>
     </message>
     <message>
         <source>default</source>
-        <translation type="vanished">Standard</translation>
+        <translation type="vanished">ngầm định</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="vanished">Schatten</translation>
+        <translation type="vanished">Bóng đổ</translation>
     </message>
     <message>
         <source>White cell</source>
-        <translation type="vanished">weißes Feld</translation>
+        <translation type="vanished">Ô trắng</translation>
     </message>
     <message>
         <source>Black cell</source>
-        <translation type="vanished">schwarzes Feld</translation>
+        <translation type="vanished">Ô đen</translation>
     </message>
     <message>
         <source>Base</source>
-        <translation type="vanished">Rahmen</translation>
+        <translation type="vanished">Nền bàn cờ</translation>
     </message>
     <message>
         <source>Show board base</source>
-        <translation type="vanished">zeige Rahmen</translation>
+        <translation type="vanished">Xem nền bàn cờ</translation>
     </message>
     <message>
         <source>Show board coordinate</source>
-        <translation type="vanished">zeige Koordinaten</translation>
+        <translation type="vanished">Xem toạ độ bàn cờ</translation>
     </message>
     <message>
         <source>Auto resize board</source>
-        <translation type="vanished">automatische Größenänderung</translation>
+        <translation type="vanished">Tự động chỉnh kích cỡ bàn cờ</translation>
+    </message>
+    <message>
+        <source>Centre</source>
+        <translation type="vanished">Trung tâm</translation>
     </message>
     <message>
         <source>Opacity:</source>
-        <translation type="vanished">Transparenz:</translation>
+        <translation type="vanished">Trong suốt:</translation>
     </message>
     <message>
         <source>App bk</source>
-        <translation type="vanished">Hauptfenster</translation>
+        <translation type="vanished">Nền ứng dụng</translation>
     </message>
     <message>
         <source>Panel bk</source>
-        <translation type="vanished">Panel</translation>
+        <translation type="vanished">Tấm nền</translation>
     </message>
     <message>
         <source>Piece:</source>
-        <translation type="vanished">Figuren:</translation>
+        <translation type="vanished">Quân:</translation>
     </message>
     <message>
         <source>Board:</source>
-        <translation type="vanished">Brett:</translation>
+        <translation type="vanished">Bàn cờ:</translation>
     </message>
     <message>
         <source>Background:</source>
-        <translation type="vanished">Hintergrund:</translation>
+        <translation type="vanished">Nền:</translation>
     </message>
 </context>
 <context>
     <name>SetupGraphicsWidget_Xq</name>
     <message>
         <source>Plain color</source>
-        <translation type="vanished">Farbe</translation>
+        <translation type="vanished">Mầu đơn</translation>
+    </message>
+    <message>
+        <source>Custom image</source>
+        <translation type="vanished">Ảnh tự chọn</translation>
+    </message>
+    <message>
+        <source>Choose File</source>
+        <translation type="vanished">Chọn File</translation>
     </message>
     <message>
         <source>Image Files (*.png *.jpg *.jpeg *.tif *.bmp);; JPEG (*.jpg *.jpeg);; PNG (*.png);; TIFF (*.tif);; All files (*.*)</source>
-        <translation type="vanished">Bilddateien (*.png *.jpg *.jpeg *.tif *.bmp);; JPEG (*.jpg *.jpeg);; PNG (*.png);; TIFF (*.tif);; alle Dateien (*.*)</translation>
+        <translation type="vanished">Các Files Ảnh (*.png *.jpg *.jpeg *.tif *.bmp);; JPEG (*.jpg *.jpeg);; PNG (*.png);; TIFF (*.tif);; All files (*.*)</translation>
     </message>
 </context>
 <context>
@@ -11718,51 +11845,51 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="20"/>
         <source>Books/Egtbs</source>
-        <translation>Bücher/EGTB</translation>
+        <translation>Cẩm nagn/Tàn cuộc</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="65"/>
         <source>Auto play opening book moves</source>
-        <translation>automatisch Eröffnungsbuchzüge spielen</translation>
+        <translation>Tự đông chơi khai cuộc</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="78"/>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="315"/>
         <source>Bubble size:</source>
-        <translation>Bubble Größe:</translation>
+        <translation>Kích cỡ bóng:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="97"/>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="334"/>
         <source>Small</source>
-        <translation>klein</translation>
+        <translation>Nhỏ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="102"/>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="339"/>
         <source>Medium</source>
-        <translation>mittel</translation>
+        <translation>Trung</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="107"/>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="344"/>
         <source>Large</source>
-        <translation>groß</translation>
+        <translation>Lớn</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="140"/>
         <source>Show 2nd param</source>
-        <translation>zeige zweiten Parameter</translation>
+        <translation>Hiện tham số thứ 2</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="168"/>
         <source>Openings:</source>
-        <translation>Eröffnungen:</translation>
+        <translation>Khai cuộc:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="175"/>
         <source>Seed:</source>
-        <translation type="unfinished">Seed:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="200"/>
@@ -11782,17 +11909,17 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="364"/>
         <source>Winning color</source>
-        <translation>Sieg Farbe</translation>
+        <translation>Màu thắng</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="389"/>
         <source>Draw color</source>
-        <translation>Remis Farbe</translation>
+        <translation>Mầu hoà</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="414"/>
         <source>Losing color</source>
-        <translation>Niederlage Farbe</translation>
+        <translation>Màu thua</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="460"/>
@@ -11802,7 +11929,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="473"/>
         <source>Syzygy folders:</source>
-        <translation type="unfinished">Syzygy Verzeichnisse:</translation>
+        <translation type="unfinished">Các thư mục Syzygy:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="489"/>
@@ -11811,43 +11938,43 @@ Are you sure?</source>
     </message>
     <message>
         <source>Syzygy path:</source>
-        <translation type="vanished">Syzygy Pfad:</translation>
+        <translation type="vanished">Thư mục Syzygy:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="528"/>
         <source>Add opening:</source>
-        <translation>Buch/EGTB hinzufügen:</translation>
+        <translation>Thêm khai cuộc:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="560"/>
         <source>Online book/egtb</source>
-        <translation>Online Buch/EGTB</translation>
+        <translation>Cẩm nang/tàn cuộc online</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.ui" line="591"/>
         <source>Double click to edit, drag / drop to re-order</source>
-        <translation>Doppelklick zum ändern, drag &amp; drop zum neu ordnen</translation>
+        <translation>Bấm kép để soạn, kéo/thả để đổi thứ tự</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.cpp" line="95"/>
         <location filename="../../ui/settings/setupopeningwidget.cpp" line="109"/>
         <source>Cannot add book</source>
-        <translation>kann Buch nicht hinzufügen</translation>
+        <translation>Không thể thêm cẩm nang</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.cpp" line="96"/>
         <source>Book may be existant already or broken!</source>
-        <translation>Buch kann bereits vorhanden oder defekt sein!</translation>
+        <translation>Cẩm nang có thể đã tồn tại hoặc bị hỏng!</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.cpp" line="109"/>
         <source>Book may be existant already!</source>
-        <translation>Buch kann bereits vorhanden sein!</translation>
+        <translation>Cẩm nang có thể đã tồn tại!</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.cpp" line="184"/>
         <source>Multi folders, separated by %1</source>
-        <translation>mehrere Verzeichnisse getrennt durch %1</translation>
+        <translation>Đa thư mục, cách bởi dấu %1</translation>
     </message>
     <message>
         <location filename="../../ui/settings/setupopeningwidget.cpp" line="270"/>
@@ -11865,17 +11992,17 @@ Are you sure?</source>
     <message>
         <location filename="../../main/basewindow.cpp" line="3339"/>
         <source>Shutting down computer...</source>
-        <translation>Computer herunterfahren...</translation>
+        <translation>Đang tắt máy tính...</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="3340"/>
         <source>%1 seconds to go...</source>
-        <translation>%1 noch Sekunden ...</translation>
+        <translation>Còn %1 giây...</translation>
     </message>
     <message>
         <location filename="../../main/basewindow.cpp" line="3350"/>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation>Lỗi</translation>
     </message>
 </context>
 <context>
@@ -11883,104 +12010,102 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="14"/>
         <source>Sound Configuration</source>
-        <translation type="unfinished">Sound Konfiguration</translation>
+        <translation>Cấu hình âm thanh</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="39"/>
         <source>Engine moves</source>
-        <translation>Engine Züge</translation>
+        <translation>Nước đi của máy tính</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="46"/>
         <source>Human moves</source>
-        <translation>Spielerzüge</translation>
+        <translation>Nước đi của người</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="53"/>
         <source>Normal games</source>
-        <translation>normale Partien</translation>
+        <translation>Ván thường</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="60"/>
         <source>Tournament games</source>
-        <translation>Turnier Partien</translation>
+        <translation>Ván thi đấu</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="67"/>
         <source>Simple sound</source>
-        <translatorcomment>einfacher Ton/Klang</translatorcomment>
-        <translation type="unfinished">einfacher Sound</translation>
+        <translation>Âm đơn giản</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="74"/>
         <source>Speech</source>
-        <translation>Sprache</translation>
+        <translation>Nói</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="119"/>
         <source>Speech engine:</source>
-        <translation>Sprach Engine:</translation>
+        <translation>Động cơ nói:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="153"/>
         <source>Language:</source>
-        <translation>Sprache:</translation>
+        <translation>Ngôn ngữ:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="187"/>
         <source>Voice:</source>
-        <translation>Stimme:</translation>
+        <translation>Dọng:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="221"/>
         <source>Pitch:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="276"/>
         <source>Rate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tỷ số:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="340"/>
         <source>Short</source>
-        <translation>kurz</translation>
+        <translation>Ngắn</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="345"/>
         <source>Long</source>
-        <translation>lang</translation>
+        <translation>Dài</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="350"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuỳ chọn</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="358"/>
         <source>%1: engine or human; %2 moving piece; %3 from cell; %4 to cell; %5 promote</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: động cơ hoặc người; %2 đang đi quân; %3 từ ôl; %4 đến ô; phong cấp %5</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="370"/>
         <source>Test:</source>
-        <translation>Test:</translation>
+        <translation>Kiểm tra:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="385"/>
         <source>e2 a5 b8 g7</source>
-        <translation>e2 a5 b8 g7</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="392"/>
         <source>Test sound</source>
-        <translatorcomment>Ton/Klang testen</translatorcomment>
-        <translation type="unfinished">Sound testen</translation>
+        <translation>Thử âm thanh</translation>
     </message>
     <message>
         <location filename="../../ui/settings/soundconfigdlg.ui" line="414"/>
         <source>Sentence:</source>
-        <translation>Satz:</translation>
+        <translation>Câu:</translation>
     </message>
 </context>
 <context>
@@ -11996,36 +12121,36 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/syzygyinfodlg.ui" line="14"/>
         <source>Syzygy Info</source>
-        <translation>Syzygy Info</translation>
+        <translation>Thông tin về Syzygy</translation>
     </message>
     <message>
         <location filename="../../ui/settings/syzygyinfodlg.ui" line="41"/>
         <source>Checksum threads:</source>
-        <translation>Checksummen Threads:</translation>
+        <translation>Số luồng checksum:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/syzygyinfodlg.ui" line="61"/>
         <source>Checksum</source>
-        <translation>Checksumme</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/settings/syzygyinfodlg.ui" line="81"/>
         <source>Reset</source>
-        <translation>Reset</translation>
+        <translation>Khởi tạo lại</translation>
     </message>
     <message>
         <source>Total endgames: %1 (%2 file%3), mem: %4&lt;br/&gt;Missing: %5 file%6</source>
-        <translation type="obsolete">gesamt Endspiele: %1 (%2 Datei%3), men: %4&lt;br/&gt;fehlend: %5 Datei%6</translation>
+        <translation type="vanished">Tổng tàn cuộc: %1 (%2 file%3), quân: %4&lt;br/&gt;Thiếu: %5 file%6</translation>
     </message>
     <message>
         <location filename="../../ui/settings/syzygyinfodlg.cpp" line="267"/>
         <source>Total endgames: %1 (%2 file%3), men: %4&lt;br/&gt;Missing: %5 file%6</source>
-        <translation>gesamt Endspiele: %1 (%2 Datei%3), men: %4&lt;br/&gt;fehlend: %5 Datei%6</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/settings/syzygyinfodlg.cpp" line="276"/>
         <source>&lt;br/&gt;Checksum: failed %1/%2</source>
-        <translation>&lt;br/&gt;Checksummme: fehlgeschlagen %1/%2</translation>
+        <translation>&lt;br/&gt;Checksum: sai %1/%2</translation>
     </message>
     <message>
         <location filename="../../ui/settings/syzygyinfodlg.cpp" line="283"/>
@@ -12035,12 +12160,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/syzygyinfodlg.cpp" line="295"/>
         <source>Stop</source>
-        <translation>Stop</translation>
+        <translation>Dừng</translation>
     </message>
     <message>
         <location filename="../../ui/settings/syzygyinfodlg.cpp" line="295"/>
         <source>Start</source>
-        <translation>Start</translation>
+        <translation>Bắt đầu</translation>
     </message>
 </context>
 <context>
@@ -12048,12 +12173,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/dlg/textdlg.ui" line="14"/>
         <source>Dialog</source>
-        <translation>Dialog</translation>
+        <translation>Hộp thoại</translation>
     </message>
     <message>
         <location filename="../../ui/dlg/textdlg.ui" line="52"/>
         <source>copy</source>
-        <translation>kopieren</translation>
+        <translation>sao chép</translation>
     </message>
 </context>
 <context>
@@ -12061,7 +12186,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/dlg/thewidgetdialog.cpp" line="132"/>
         <source>Polyglot Bin Files (*.bin);;All files (*.*)</source>
-        <translation>Polyglot Bin Dateien (*.bin);;alle Dateien (*.*)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/dlg/thewidgetdialog.cpp" line="134"/>
@@ -12074,17 +12199,9 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>MoonRiver Opening Book Files (*.mrob);;Obk Opening Book Files (*.obk);;All known Opening Book files (*.mrob *.obk);;All files (*.*)</source>
-        <translation type="vanished">MoonRiver Eröffnungsbuchdateien (*.mrob);;Obk Eröffnungsbuchdateien (*.obk);;alle bekannten Eröffnungsbuchdateien (*.mrob *.obk);;alle Dateien (*.*)</translation>
-    </message>
-    <message>
         <location filename="../../ui/dlg/thewidgetdialog.cpp" line="140"/>
         <source>All known Game Database files (*.bgdb *.pgn);;Banksia Game Database Files (*.bgdb);; PGN Files (*.pgn);;All files (*.*)</source>
-        <translation>alle bekannten Partie Datenbankdateien (*.bgdb *.pgn);;Banksia Partie Datenbankdateien (*.bgdb);; PGN Dateien (*.pgn);;alle Dateien (*.*)</translation>
-    </message>
-    <message>
-        <source>Xiangqi Game Database Files (*.xqdb);; All files (*.*)</source>
-        <translation type="vanished">Xiangqi Partie Datenbankdateien (*.xqdb);; alle Dateien (*.*)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12092,21 +12209,21 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="46"/>
         <source>Time control:</source>
-        <translation>Zeitkontrolle:</translation>
+        <translation>Đồng hồ chơi:</translation>
     </message>
     <message>
         <source>Multi timers</source>
-        <translation type="vanished">Multi Timer</translation>
+        <translation type="vanished">Đa đồng hồ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="226"/>
         <source>Infinite</source>
-        <translation>unendlich</translation>
+        <translation>Vô hạn</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="201"/>
         <source>Depth</source>
-        <translation>Tiefe</translation>
+        <translation>Sâu</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="56"/>
@@ -12126,7 +12243,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="170"/>
         <source>Result:</source>
-        <translation type="unfinished">Ergebnis:</translation>
+        <translation type="unfinished">Kết quả:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="178"/>
@@ -12146,83 +12263,83 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="206"/>
         <source>Nodes</source>
-        <translation>Knoten</translation>
+        <translation>Các nút</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="211"/>
         <source>Move time</source>
-        <translation>Zugzeit</translation>
+        <translation>Thời gian mỗi nước đi</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="216"/>
         <source>Standard</source>
-        <translation>Standard</translation>
+        <translation>Chuẩn</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="221"/>
         <source>All moves</source>
-        <translation>alle Züge</translation>
+        <translation>Mọi nước</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="239"/>
         <source>Depth:</source>
-        <translation>Tiefe:</translation>
+        <translation>Sâu:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="246"/>
         <source>Nodes:</source>
-        <translation>Knoten:</translation>
+        <translation>Các nút:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="276"/>
         <source>Time:</source>
-        <translation>Zeit:</translation>
+        <translation>Thời gian:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="318"/>
         <source>Millisecond</source>
-        <translation>Millisekunde(n)</translation>
+        <translation>Milli giây</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="323"/>
         <source>Second</source>
-        <translation>Sekunde(n)</translation>
+        <translation>Giây</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="328"/>
         <source>Minute</source>
-        <translation>Minute(n)</translation>
+        <translation>Phút</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="333"/>
         <source>Hour</source>
-        <translation>Stunde(n)</translation>
+        <translation>Giờ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="348"/>
         <source>For moves:</source>
-        <translation>für Züge:</translation>
+        <translation>Cho số nước:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="375"/>
         <source>Increment:</source>
-        <translation>Inkrement:</translation>
+        <translation>Tăng:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="388"/>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="418"/>
         <source> sec</source>
-        <translation> s</translation>
+        <translation> giây</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="405"/>
         <source>Margin per move:</source>
-        <translation>Zugabe pro Zug:</translation>
+        <translation>Dư cho mỗi nước</translation>
     </message>
     <message>
         <location filename="../../ui/settings/timecontrolwidget.ui" line="468"/>
         <source>Warning: Winboard engines don&apos;t support Nodes mode</source>
-        <translation>Warnung: Winboard Engines unterstützen den Nodes Modus nicht</translation>
+        <translation>Lưu ý: các động cơ Winboard không dùng được chế độ Nodes</translation>
     </message>
 </context>
 <context>
@@ -12300,22 +12417,22 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourbkmngtablemodel.cpp" line="113"/>
         <source>Type</source>
-        <translation type="unfinished">Typ</translation>
+        <translation type="unfinished">Kiểu</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbkmngtablemodel.cpp" line="115"/>
         <source>#engines</source>
-        <translation type="unfinished">#Engines</translation>
+        <translation type="unfinished">#động cơ</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbkmngtablemodel.cpp" line="117"/>
         <source>#games</source>
-        <translation type="unfinished">#Partien</translation>
+        <translation type="unfinished">#ván cờ</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbkmngtablemodel.cpp" line="119"/>
         <source>#played</source>
-        <translation type="unfinished">#gespielt</translation>
+        <translation type="unfinished">#đã chơi</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbkmngtablemodel.cpp" line="121"/>
@@ -12330,12 +12447,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourbkmngtablemodel.cpp" line="125"/>
         <source>Timer</source>
-        <translation type="unfinished">Timer</translation>
+        <translation type="unfinished">Đồng hồ</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbkmngtablemodel.cpp" line="127"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tên</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbkmngtablemodel.cpp" line="129"/>
@@ -12345,7 +12462,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourbkmngtablemodel.cpp" line="131"/>
         <source>Path</source>
-        <translation type="unfinished">Pfad</translation>
+        <translation type="unfinished">Đường dẫn</translation>
     </message>
 </context>
 <context>
@@ -12353,12 +12470,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="14"/>
         <source>Tournament Opening Books</source>
-        <translation>Turnier Eröffnungsbücher</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="56"/>
         <source>Select type:</source>
-        <translation>Typ auswählen:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="80"/>
@@ -12383,12 +12500,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="156"/>
         <source>For a pair:</source>
-        <translation type="unfinished"></translation>
+        <translation>Với một cặp ván:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="166"/>
         <source>No special</source>
-        <translation type="unfinished"></translation>
+        <translation>Không đặc biệt</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="171"/>
@@ -12403,7 +12520,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="210"/>
         <source>Use FEN for all matches</source>
-        <translation>nutze FEN für alle Partien</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="213"/>
@@ -12419,36 +12536,36 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="225"/>
         <source>FEN used as opening for all games</source>
-        <translation>FEN als Eröffnung für alle Partien nutzen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="237"/>
         <source>Use SAN moves for all matches</source>
-        <translation>nutze SAN Züge für alle Partien</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="240"/>
         <source>SAN moves:</source>
-        <translation>SAN Züge:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="252"/>
         <source>SAN moves used as opening for all games</source>
-        <translation>SAN Züge als Eröffnung für alle Partien nutzen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="300"/>
         <source>Polyglot:</source>
-        <translation>Polyglot:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Depth:</source>
-        <translation type="vanished">Tiefe:</translation>
+        <translation type="vanished">Sâu:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="362"/>
         <source>Top:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Đầu:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="375"/>
@@ -12458,17 +12575,17 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="378"/>
         <source> %</source>
-        <translation> %</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="418"/>
         <source>PGN:</source>
-        <translation>PGN:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="461"/>
         <source>EPD:</source>
-        <translation>EPD:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="110"/>
@@ -12479,7 +12596,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="113"/>
         <source>Seed:</source>
-        <translation>Seed:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="336"/>
@@ -12490,16 +12607,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourbookdlg.ui" line="547"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Đồng ý</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.cpp" line="81"/>
         <source>Select polyglot book</source>
-        <translation>Polyglot Buch auswählen</translation>
-    </message>
-    <message>
-        <source>Bin (*.bin);;All Files (*.*)</source>
-        <translation type="vanished">Bin (*.bin);;alle Dateien (*.*)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.cpp" line="83"/>
@@ -12514,22 +12627,22 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourbookdlg.cpp" line="89"/>
         <source>Select PGN book</source>
-        <translation>PGN Buch auswählen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.cpp" line="90"/>
         <source>PGN (*.pgn);;All Files (*.*)</source>
-        <translation>PGN (*.pgn);;alle Dateien (*.*)</translation>
+        <translation>PGN (*.pgn);;Mọi File (*.*)</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.cpp" line="93"/>
         <source>Select EPD book</source>
-        <translation>EPD Buch auswählen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourbookdlg.cpp" line="94"/>
         <source>EPD (*.epd);;All Files (*.*)</source>
-        <translation>EPD (*.epd);;alle Dateien (*.*)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12537,12 +12650,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="143"/>
         <source>name</source>
-        <translation>Name</translation>
+        <translation>tên</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="145"/>
         <source>elo</source>
-        <translation>Elo</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="147"/>
@@ -12556,18 +12669,18 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="151"/>
-        <source>score%</source>
-        <translation>Wertung%</translation>
+        <source>score</source>
+        <translation>điểm</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="151"/>
-        <source>score</source>
-        <translation>Wertung</translation>
+        <source>score%</source>
+        <translation>điểm%</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourcrosstablemodel.cpp" line="153"/>
         <source>games</source>
-        <translation>Partien</translation>
+        <translation>ván cờ</translation>
     </message>
 </context>
 <context>
@@ -12618,7 +12731,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/toureditdlg.ui" line="97"/>
         <source>Player</source>
-        <translation type="unfinished">Spieler</translation>
+        <translation type="unfinished">Người chơi</translation>
     </message>
     <message>
         <location filename="../../ui/tour/toureditdlg.ui" line="106"/>
@@ -12644,7 +12757,7 @@ Are you sure?</source>
         <location filename="../../ui/tour/toureditdlg.ui" line="177"/>
         <location filename="../../ui/tour/toureditdlg.ui" line="277"/>
         <source>Swap sides</source>
-        <translation type="unfinished">tausche Seiten</translation>
+        <translation type="unfinished">Hoán bên</translation>
     </message>
     <message>
         <location filename="../../ui/tour/toureditdlg.ui" line="187"/>
@@ -12654,7 +12767,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/toureditdlg.ui" line="232"/>
         <source>Games</source>
-        <translation type="unfinished">Partien</translation>
+        <translation type="unfinished">Ván cờ</translation>
     </message>
     <message>
         <location filename="../../ui/tour/toureditdlg.ui" line="257"/>
@@ -12781,27 +12894,27 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourenginemodel.cpp" line="202"/>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation>Tên</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourenginemodel.cpp" line="204"/>
         <source>Elo</source>
-        <translation>Elo</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourenginemodel.cpp" line="206"/>
         <source>G</source>
-        <translation>G</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourenginemodel.cpp" line="208"/>
         <source>Time Id</source>
-        <translation>Time Id</translation>
+        <translation>Id đồng hồ</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourenginemodel.cpp" line="210"/>
         <source>Locked</source>
-        <translation>gesperrt</translation>
+        <translation>Khoá</translation>
     </message>
 </context>
 <context>
@@ -12809,11 +12922,11 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourlogdlg.ui" line="14"/>
         <source>Tournament Logs</source>
-        <translation>Turnier Logs</translation>
+        <translation>Logs Thi đấu</translation>
     </message>
     <message>
         <source>Delete all</source>
-        <translation type="vanished">alle löschen</translation>
+        <translation type="obsolete">Xoá tất</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourlogdlg.ui" line="35"/>
@@ -12823,17 +12936,17 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourlogdlg.ui" line="65"/>
         <source>Engines:</source>
-        <translation>Engines:</translation>
+        <translation>Các động cơ:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourlogdlg.ui" line="75"/>
         <source>Games:</source>
-        <translation>Partien:</translation>
+        <translation>Ván cờ:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourlogdlg.ui" line="85"/>
         <source>Results:</source>
-        <translation>Ergebnisse:</translation>
+        <translation>Kết quả:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourlogdlg.ui" line="95"/>
@@ -12843,15 +12956,11 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourlogdlg.ui" line="122"/>
         <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>%1 log files will be deleted</source>
-        <translation type="vanished">%1 Log Dateien werden gelöscht</translation>
+        <translation>Đồng ý</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="vanished">Sind Sie sicher?</translation>
+        <translation type="obsolete">Bạn chắc không?</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourlogdlg.cpp" line="78"/>
@@ -12862,12 +12971,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourlogdlg.cpp" line="88"/>
         <source>No Existent</source>
-        <translation>nicht vorhanden</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourlogdlg.cpp" line="88"/>
         <source>All log files are not existent</source>
-        <translation>alle Log Dateien sind nicht vorhanden</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12875,12 +12984,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourresultdlg.ui" line="14"/>
         <source>Results and Stats</source>
-        <translation>Ergebnisse und Statistiken</translation>
+        <translation>Kết quả và thống kê</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresultdlg.ui" line="38"/>
         <source>Collecting data...</source>
-        <translation>sammle Daten...</translation>
+        <translation>Đang thu thập dữ liệu...</translation>
     </message>
 </context>
 <context>
@@ -12888,52 +12997,52 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourresulttablemodel.cpp" line="114"/>
         <source>name</source>
-        <translation>Name</translation>
+        <translation>tên</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresulttablemodel.cpp" line="116"/>
         <source>games</source>
-        <translation>Partien</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="118"/>
-        <source>wins%</source>
-        <translation>Siege%</translation>
+        <translation>ván cờ</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresulttablemodel.cpp" line="118"/>
         <source>wins</source>
-        <translation>Siege</translation>
+        <translation>thắng</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="120"/>
-        <source>draws%</source>
-        <translation>Remis%</translation>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="118"/>
+        <source>wins%</source>
+        <translation>thắng%</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresulttablemodel.cpp" line="120"/>
         <source>draws</source>
-        <translation>Remis</translation>
+        <translation>hoà</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="122"/>
-        <source>losses%</source>
-        <translation>Niederlagen%</translation>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="120"/>
+        <source>draws%</source>
+        <translation>hoà%</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresulttablemodel.cpp" line="122"/>
         <source>losses</source>
-        <translation>Niederlagen</translation>
+        <translation>thua</translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="125"/>
-        <source>score%</source>
-        <translation>Wertung%</translation>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="122"/>
+        <source>losses%</source>
+        <translation>thua%</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresulttablemodel.cpp" line="125"/>
         <source>score</source>
-        <translation>Wertung</translation>
+        <translation>điểm</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourresulttablemodel.cpp" line="125"/>
+        <source>score%</source>
+        <translation>điểm%</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresulttablemodel.cpp" line="133"/>
@@ -12946,13 +13055,9 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>elo+/-</source>
-        <translation type="vanished">Elo+/-</translation>
-    </message>
-    <message>
         <location filename="../../ui/tour/tourresulttablemodel.cpp" line="131"/>
         <source>elo</source>
-        <translation>Elo</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -12960,19 +13065,23 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="14"/>
         <source>Tournament result</source>
-        <translation>Turnier Ergebnis</translation>
+        <translation>Kết quả thi đấu</translation>
+    </message>
+    <message>
+        <source>Use percent</source>
+        <translation type="vanished">Hiện phần trăm</translation>
     </message>
     <message>
         <source>Use percentage for:</source>
-        <translation type="vanished">nutze Prozentsatz für:</translation>
+        <translation type="vanished">Dùng phần trăm cho:</translation>
     </message>
     <message>
         <source>WDL</source>
-        <translation type="vanished">WDL</translation>
+        <translation type="vanished">ThắngHoàThua</translation>
     </message>
     <message>
         <source>scores</source>
-        <translation type="vanished">Wertungen</translation>
+        <translation type="vanished">điểm</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="67"/>
@@ -13029,7 +13138,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="210"/>
         <source>copy text</source>
-        <translation>Text kopieren</translation>
+        <translation>chép văn bản</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="262"/>
@@ -13044,47 +13153,47 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="275"/>
         <source>Rated</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tính điểm</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="324"/>
         <source>Result</source>
-        <translation>Ergebnis</translation>
+        <translation>Kết </translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="356"/>
         <source>Cross</source>
-        <translation type="unfinished"></translation>
+        <translation>Bảng chéo</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="388"/>
         <source>Tech</source>
-        <translation type="unfinished"></translation>
+        <translation>Kỹ thuật</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresultwidget.ui" line="420"/>
         <source>Plain text</source>
-        <translation>Text</translation>
+        <translation>Văn bản đơn</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresultwidget.cpp" line="113"/>
         <source>Stats based on computing moves only, ignored moves with zero node</source>
-        <translation type="unfinished"></translation>
+        <translation>Số liệu chỉ dựa trên nước do động cơ tính; không tính nước không có nút nào</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresultwidget.cpp" line="446"/>
         <source>No tournament</source>
-        <translation>kein Turnier</translation>
+        <translation>Không thi đấu</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresultwidget.cpp" line="455"/>
         <source>#games: %1/%2</source>
-        <translation>#Partien: %1/%2</translation>
+        <translation>#ván: %1/%2</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresultwidget.cpp" line="457"/>
         <source>, #fails: %1</source>
-        <translation>, #Fehlschläge: %1</translation>
+        <translation>, #hỏng: %1</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourresultwidget.cpp" line="412"/>
@@ -13097,12 +13206,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourtablemodel.cpp" line="35"/>
         <source>playing</source>
-        <translation type="unfinished"></translation>
+        <translation>đang chơi</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourtablemodel.cpp" line="39"/>
         <source>error</source>
-        <translation>Fehler</translation>
+        <translation>lỗi</translation>
     </message>
 </context>
 <context>
@@ -13110,12 +13219,12 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourtablemodel.cpp" line="166"/>
         <source>players</source>
-        <translation>Spieler</translation>
+        <translation>người chơi</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourtablemodel.cpp" line="168"/>
         <source>status</source>
-        <translation>Status</translation>
+        <translation>trạng thái</translation>
     </message>
 </context>
 <context>
@@ -13123,42 +13232,42 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="101"/>
         <source>name</source>
-        <translation>Name</translation>
+        <translation>tên</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="103"/>
         <source>KN/move</source>
-        <translation>KN/Zug</translation>
+        <translation>Kilo nốt/nước</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="105"/>
         <source>NPS</source>
-        <translation>NPS</translation>
+        <translation>nốt/giây</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="107"/>
         <source>depths/move</source>
-        <translation>Tiefe/Zug</translation>
+        <translation>sâu/nước</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="109"/>
         <source>time/move</source>
-        <translation>Zeit/Zug</translation>
+        <translation>thời gian/nước</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="111"/>
         <source>moves/game</source>
-        <translation>Züge/Partie</translation>
+        <translation>nước/ván</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="113"/>
         <source>time/game</source>
-        <translation>Zeit/Partie</translation>
+        <translation>thời gian/ván</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourtechresulttablemodel.cpp" line="115"/>
         <source>fails</source>
-        <translation>Fehlschläge</translation>
+        <translation>hỏng</translation>
     </message>
 </context>
 <context>
@@ -13171,122 +13280,87 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="17"/>
         <source>Right click for popup menu</source>
-        <translation>Rechtsklick für Popup Menü</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="116"/>
         <source>Resume</source>
-        <translation>fortsetzen</translation>
+        <translation>Tiếp tục</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="154"/>
         <source>None</source>
-        <translation>nichts</translation>
+        <translation>Không</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="159"/>
         <source>Open games</source>
-        <translation>öffne Partien</translation>
+        <translation>Mở ván cờ</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="164"/>
         <source>Open &amp; view</source>
-        <translation>öffnen &amp; anzeigen</translation>
+        <translation>Mở và xem</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="201"/>
         <source>Concurrency:</source>
-        <translation>Parallelität:</translation>
+        <translation>Chạy cùng lúc:</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="214"/>
         <source>number of concurrent games, 0 is to pause</source>
-        <translation>Anzahl paralleler Partien, 0 zum Pausieren</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="vanished">...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.ui" line="286"/>
         <source>Drag &amp; drop to change item orders; Right click for popup menu</source>
-        <translation>drag &amp; drop zum Ändern der Reihenfolge, Rechtsklick für Popup Menü</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="209"/>
-        <source>Error:</source>
-        <translation>Fehler:</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="209"/>
-        <source>Cannot parse JSON string, ignored!</source>
-        <translation>JSON Zeichenfolge kann nicht analysiert werden - wird ignoriert!</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="288"/>
-        <source>games: %1/%3; timer: %4</source>
-        <translation>Partien: %1/%3; Timer: %4</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="306"/>
-        <source> Tournament completed!</source>
-        <translation> Turnier abgeschlossen!</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="317"/>
-        <source>No tournament</source>
-        <translation>kein Turnier</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="405"/>
-        <source>Tournament in progress</source>
-        <translation>Turnier läuft</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="405"/>
-        <source>Error: You can&apos;t do this action when a tournament playing</source>
-        <translation>Fehler: Sie können diese Aktion nicht ausführen während ein Turnier läuft</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="414"/>
-        <source>New tournament</source>
-        <translation>neues Turnier</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="423"/>
-        <source>Delete all</source>
-        <translation>alle löschen</translation>
-    </message>
-    <message>
-        <source>All tournament records will be deleted</source>
-        <translation type="vanished">alle Turnierdatensätze werden gelöscht</translation>
-    </message>
-    <message>
-        <source>Are you sure?</source>
-        <translation type="vanished">Sind Sie sicher?</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="440"/>
-        <source>Reset all to reuse</source>
-        <translation>alle zurücksetzen, wieder verwenden</translation>
-    </message>
-    <message>
-        <source>All tournament records will be reset</source>
-        <translation type="vanished">alle Turnierdatensätze werden zurückgesetzt</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="461"/>
-        <source>Reset selections</source>
-        <translation>Auswahl zurücksetzen</translation>
-    </message>
-    <message>
-        <source>%1 records will be reset</source>
-        <translation type="vanished">%1 Datensatz wird zurückgesetzt</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="152"/>
         <source>#Corrupted games: %1</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="209"/>
+        <source>Error:</source>
+        <translation>Lỗi:</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="209"/>
+        <source>Cannot parse JSON string, ignored!</source>
+        <translation>Không thể phân tích chuỗi JSON, bỏ qua!</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="288"/>
+        <source>games: %1/%3; timer: %4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="306"/>
+        <source> Tournament completed!</source>
+        <translation> Thi đấu đã xong</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="317"/>
+        <source>No tournament</source>
+        <translation>Không thi đấu</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="405"/>
+        <source>Tournament in progress</source>
+        <translation>Đang thi đấu</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="405"/>
+        <source>Error: You can&apos;t do this action when a tournament playing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="414"/>
+        <source>New tournament</source>
+        <translation>Thi đấu mới</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="428"/>
@@ -13307,55 +13381,13 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="484"/>
-        <source>Shuffle games</source>
+        <source>Are you sure?</source>
+        <translation type="vanished">Bạn chắc không?</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="440"/>
+        <source>Reset all to reuse</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="489"/>
-        <source>All games will be shuffled randomly!
-Are you sure?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="500"/>
-        <source>Edit JSON</source>
-        <translation>bearbeite JSON</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="506"/>
-        <source>Hide preview board</source>
-        <translation>verberge Vorschau Board</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="506"/>
-        <source>Show preview board</source>
-        <translation>zeige Vorschau Board</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="531"/>
-        <source>Play %1 selected game%2</source>
-        <translation>spiele %1 ausgewählte Partie%2</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="535"/>
-        <source>Play game %1</source>
-        <translation>spiele Partie %1</translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="563"/>
-        <source>Open a copy of game %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="575"/>
-        <source>Manually adjudicate game %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../ui/tour/tourviewwidget.cpp" line="589"/>
-        <source>View engine-log of game %1</source>
-        <translation>zeige Engine Log von Partie %1</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="608"/>
@@ -13370,7 +13402,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="618"/>
         <source>Portable Game Notation (*.pgn);;All Files (*.*)</source>
-        <translation type="unfinished">Portable Game Notation (*.pgn);;alle Dateien (*.*)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourviewwidget.cpp" line="628"/>
@@ -13382,13 +13414,82 @@ Are you sure?</source>
         <source>Copy PGN of game %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Result</source>
+        <translation type="vanished">Kết </translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="423"/>
+        <source>Delete all</source>
+        <translation>Xoá tất</translation>
+    </message>
+    <message>
+        <source>Reset to reuse</source>
+        <translation type="vanished">Khởi động để dùng lại</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="461"/>
+        <source>Reset selections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="484"/>
+        <source>Shuffle games</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="489"/>
+        <source>All games will be shuffled randomly!
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="500"/>
+        <source>Edit JSON</source>
+        <translation>Soạn JSON</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="506"/>
+        <source>Hide preview board</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="506"/>
+        <source>Show preview board</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="531"/>
+        <source>Play %1 selected game%2</source>
+        <translation>Chơi %1 ván được chọn</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="535"/>
+        <source>Play game %1</source>
+        <translation>Chơi ván %1</translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="563"/>
+        <source>Open a copy of game %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="575"/>
+        <source>Manually adjudicate game %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/tour/tourviewwidget.cpp" line="589"/>
+        <source>View engine-log of game %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TourWindow</name>
     <message>
         <location filename="../../main/tourwindow.cpp" line="729"/>
         <source>Tournament finished</source>
-        <translation>Turnier beendet</translation>
+        <translation>Đã đấu xong</translation>
     </message>
     <message>
         <location filename="../../main/tourwindow.cpp" line="746"/>
@@ -13397,19 +13498,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Human</source>
-        <translation type="vanished">Mensch</translation>
+        <translation type="vanished">Người</translation>
     </message>
 </context>
 <context>
     <name>TourneyMngDlg</name>
-    <message>
-        <source>Ongoing tournaments</source>
-        <translation type="vanished">laufende Turniere</translation>
-    </message>
-    <message>
-        <source>Save current tournament</source>
-        <translation type="vanished">aktuelles Turnier speichern</translation>
-    </message>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.ui" line="14"/>
         <source>Recent tournaments</source>
@@ -13423,7 +13516,7 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.ui" line="61"/>
         <source>Remove selected row</source>
-        <translation type="unfinished">entferne ausgewählte Reihe</translation>
+        <translation>Xoá dòng chọn</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.ui" line="75"/>
@@ -13438,17 +13531,17 @@ Are you sure?</source>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.ui" line="85"/>
         <source>Duplicate</source>
-        <translation type="unfinished">duplizieren</translation>
+        <translation type="unfinished">Nhân đôi</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.ui" line="99"/>
         <source>Load selected tournament</source>
-        <translation>lade ausgewählte Turniere</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.ui" line="102"/>
         <source>Load</source>
-        <translation>laden</translation>
+        <translation>Tải</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.ui" line="111"/>
@@ -13460,26 +13553,6 @@ Double click on Name/comment to edit, other columns to load</source>
         <location filename="../../ui/tour/tourneymngdlg.ui" line="140"/>
         <source>Warning: the current tournament is playing. You can&apos;t load any old one!</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete backup</source>
-        <translation type="vanished">Backup löschen</translation>
-    </message>
-    <message>
-        <source>Do you want to delete the selected backup?</source>
-        <translation type="vanished">Möchten Sie das ausgewählte Backup löschen?</translation>
-    </message>
-    <message>
-        <source>. Warning: completed tournament</source>
-        <translation type="vanished">. Warnung: abgeschlossenes Turnier</translation>
-    </message>
-    <message>
-        <source>Current tournament: %1, %2 engines, games: %3/%4%5</source>
-        <translation type="vanished">Aktuelles Turnier: %1, %2 Engines, Partien: %3/%4%5</translation>
-    </message>
-    <message>
-        <source>Current tournament is empty. Warning: cannott save empty tournament</source>
-        <translation type="vanished">Aktuelles Turnier ist leer. Warnung: kann leeres Turniernicht speichern!</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.cpp" line="288"/>
@@ -13512,7 +13585,7 @@ Double click on Name/comment to edit, other columns to load</source>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.cpp" line="178"/>
         <source>Type</source>
-        <translation>Typ</translation>
+        <translation>Kiểu</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.cpp" line="180"/>
@@ -13522,17 +13595,17 @@ Double click on Name/comment to edit, other columns to load</source>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.cpp" line="182"/>
         <source>#engines</source>
-        <translation>#Engines</translation>
+        <translation>#động cơ</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.cpp" line="184"/>
         <source>#games</source>
-        <translation>#Partien</translation>
+        <translation>#ván cờ</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.cpp" line="186"/>
         <source>#played</source>
-        <translation>#gespielt</translation>
+        <translation>#đã chơi</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.cpp" line="188"/>
@@ -13542,7 +13615,7 @@ Double click on Name/comment to edit, other columns to load</source>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.cpp" line="190"/>
         <source>Timer</source>
-        <translation type="unfinished">Timer</translation>
+        <translation type="unfinished">Đồng hồ</translation>
     </message>
     <message>
         <location filename="../../ui/tour/tourneymngdlg.cpp" line="192"/>
@@ -13551,7 +13624,7 @@ Double click on Name/comment to edit, other columns to load</source>
     </message>
     <message>
         <source>Save date</source>
-        <translation type="vanished">gespeichert am</translation>
+        <translation type="vanished">Ngày lưu</translation>
     </message>
 </context>
 <context>
@@ -13567,27 +13640,27 @@ Double click on Name/comment to edit, other columns to load</source>
     <message>
         <location filename="../../ui/settings/updateallenginedlg.ui" line="14"/>
         <source>Update All Engines Options</source>
-        <translation>alle Engine Optionen aktualisieren</translation>
+        <translation>Cập nhật Lựa chọn Của Tất cả Động cơ</translation>
     </message>
     <message>
         <location filename="../../ui/settings/updateallenginedlg.ui" line="20"/>
         <source>All engines will be run to update their option lists</source>
-        <translation>alle Engines werden ausgeführt, um ihre Optionslisten zu aktualisieren</translation>
+        <translation>Tất cả các động cơ sẽ được chạy để cập nhật danh sách lựa chọn</translation>
     </message>
     <message>
         <location filename="../../ui/settings/updateallenginedlg.ui" line="45"/>
         <source>Concurrency:</source>
-        <translation>Parallelität:</translation>
+        <translation>Chạy cùng lúc:</translation>
     </message>
     <message>
         <location filename="../../ui/settings/updateallenginedlg.cpp" line="89"/>
         <source>Stop</source>
-        <translation>Stop</translation>
+        <translation>Dừng</translation>
     </message>
     <message>
         <location filename="../../ui/settings/updateallenginedlg.cpp" line="89"/>
         <source>Update</source>
-        <translation>aktualisieren</translation>
+        <translation>Cập nhật</translation>
     </message>
 </context>
 </TS>
